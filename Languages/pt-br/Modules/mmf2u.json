@@ -4029,34 +4029,34 @@
   "dialog_2011": {
     "&Help": "&Ajuda",
     "Cancel": "Cancelar",
-    "Error": "Error",
-    "Error: the following files are stored in directories that are not relative to the directory of the application you are saving.": "Error: the following files are stored in directories that are not relative to the directory of the application you are saving.",
+    "Error": "Erro",
+    "Error: the following files are stored in directories that are not relative to the directory of the application you are saving.": "Erro: os seguintes arquivos estão armazenados em diretórios que não são relativos ao diretório do aplicativo que você está salvando.",
     "OK": "OK",
-    "You cannot save this application as Internet application. Please move these files, then retry.": "You cannot save this application as Internet application. Please move these files, then retry."
-  },
+    "You cannot save this application as Internet application. Please move these files, then retry.": "Você não pode salvar este aplicativo como aplicativo da Internet. Por favor, mova esses arquivos e tente novamente."
+},
   "dialog_2012": {
     "&No": "&Não",
     "&Yes": "&Sim",
-    "Build": "Build",
-    "The following files are out of date or do not exist. Do you want to build them?": "The following files are out of date or do not exist. Do you want to build them?"
-  },
+    "Build": "Construir",
+    "The following files are out of date or do not exist. Do you want to build them?": "Os seguintes arquivos estão desatualizados ou não existem. Deseja construí-los?"
+},
   "dialog_2048": {
     "&Help": "&Ajuda",
     "Cancel": "Cancelar",
-    "Change name": "Change name",
+    "Change name": "Alterar nome",
     "Delete": "Deletar",
-    "Down": "Down",
-    "Movements": "Movements",
+    "Down": "Abaixo",
+    "Movements": "Movimentos",
     "New": "Novo",
     "OK": "OK",
-    "Up": "Up"
-  },
+    "Up": "Acima"
+},
   "dialog_2051": {
     "Cancel": "Cancelar",
-    "Change Movement Name": "Change Movement Name",
-    "Enter a new name for the movement": "Enter a new name for the movement",
+    "Change Movement Name": "Alterar nome do Movimento",
+    "Enter a new name for the movement": "Digite um novo nome para o movimento",
     "OK": "OK"
-  },
+},
   "dialog_2059": {
     "&Apply": "&Apply",
     "&Close": "&Close",
