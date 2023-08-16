@@ -1,2 +1,4 @@
 # Language-PT-BR-for-Clickteam-Fusion-2.5
- Language PT-BR for Clickteam Fusion 2.5
+Apresentamos o emocionante projeto "Language PT-BR for Clickteam Fusion 2.5"! Nosso objetivo é proporcionar uma experiência completa em português do Brasil para os usuários do Clickteam Fusion 2.5. Estamos em pleno desenvolvimento e convidamos entusiastas, programadores e criativos a se juntarem a nós através do repositório no GitHub: https://github.com/gui8515/Language-PT-BR-for-Clickteam-Fusion-2.5/.
+
+Imagine criar jogos e aplicativos com todas as ferramentas e recursos do Clickteam Fusion 2.5 em sua língua nativa. Com "Language PT-BR for Clickteam Fusion 2.5", estamos trabalhando para tornar essa visão uma realidade robusta e completa. Sua colaboração é fundamental para o sucesso desse projeto ambicioso. Junte-se a nós para moldar o futuro do desenvolvimento de software em língua portuguesa, e deixe sua marca na comunidade de criadores de jogos e aplicativos do Brasil!
