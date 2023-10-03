@@ -3731,19 +3731,19 @@
   },
   "dialog_100": {
     "&Buy Now !": "&Compre Agora !",
-    "About ...": "Sobre ...",
+    "About ...": "Sobre...",
     "OK": "OK"
-},
+  },
   "dialog_101": {
     "Static": "Estático"
-},
+  },
   "dialog_102": {
     "&Browse": "&Navegar",
     "Cancel": "Cancelar",
     "Internal Animation Frames": "Quadros de Animação Internos",
     "OK": "OK",
     "This version only supports external animation frames. The internal animation frame(s) must be exported externally. Choose the directory where you want the file(s) saved to.": "Esta versão suporta apenas quadros de animação externos. O(s) quadro(s) de animação interno(s) deve(m) ser exportado(s) externamente. Escolha o diretório onde deseja salvar o(s) arquivo(s)."
-},
+  },
   "dialog_116": {
     "&Clockwise": "&Sentido horário",
     "&Help": "&Ajuda",
@@ -3753,7 +3753,7 @@
     "Direction of rotation": "Direção de rotação",
     "Make One-Turn Rotation": "Fazer Rotação de Uma Volta",
     "OK": "OK"
-},
+  },
   "dialog_117": {
     "&Help": "&Ajuda",
     "&Insert after": "&Inserir após",
@@ -3767,14 +3767,14 @@
     "OK": "OK",
     "Original size": "Tamanho original",
     "Width : %d": "Largura : %d"
-},
+  },
   "dialog_196": {
     "Description :": "Descrição :",
     "Name :": "Nome :"
-},
+  },
   "dialog_198": {
     "Data Elements": "Elementos de Dados"
-},
+  },
   "dialog_199": {
     "&Load on call": "&Carregar ao chamar",
     "&Play": "&Reproduzir",
@@ -3784,92 +3784,92 @@
     "Convert to...": "Converter para...",
     "E&xtract": "E&xtrair",
     "Info": "Informações",
-    "List1": "Lista1",
+    "List1": "List1",
     "Options": "Opções",
     "Sounds": "Sons"
-},
+  },
   "dialog_200": {
     "&Add": "&Adicionar",
     "&Delete": "&Deletar",
     "Binary Data": "Dados Binários",
-    "List1": "Lista1"
-},
+    "List1": "List1"
+  },
   "dialog_201": {
     "&Play": "&Reproduzir",
     "&Replace": "&Substituir",
     "E&xtract": "E&xtrair",
-    "List1": "Lista1",
+    "List1": "List1",
     "Music": "Música"
-},
+  },
   "dialog_202": {
     "External Files": "Arquivos Externos",
-    "List1": "Lista1"
-},
+    "List1": "List1"
+  },
   "dialog_220": {
     "Cancel": "Cancelar",
     "Check for Update": "Verificar Atualizações",
-    "Progress1": "Progresso1"
-},
+    "Progress1": "Progress1"
+  },
   "dialog_221": {
     "Extensions": "Extensões",
-    "List1": "Lista1"
-},
+    "List1": "List1"
+  },
   "dialog_223": {
     "&Buy Now": "&Comprar Agora",
     "Exit": "Sair",
     "Expiration": "Vencimento",
     "You can purchase the full version online from our web shop at http://www.clickteam.com. Payments are secure and shipping is fast.": "Você pode adquirir a versão completa online em nossa loja virtual em http://www.clickteam.com. Os pagamentos são seguros e o envio é rápido.",
     "Your license key has expired. We hope you've enjoyed creating games or applications with this product!": "Sua chave de licença expirou. Esperamos que você tenha aproveitado a criação de jogos ou aplicativos com este produto!"
-},
+  },
   "dialog_224": {
     "Effect files": "Arquivos de efeito",
-    "List1": "Lista1"
-},
+    "List1": "List1"
+  },
   "dialog_247": {
     "Cancel": "Cancelar",
-    "Filename :": "Nome do arquivo :",
-    "List1": "Lista1",
+    "Filename :": "Nome do arquivo:",
+    "List1": "List1",
     "New folder": "Nova pasta",
     "OK": "OK",
     "Refresh": "Atualizar",
     "Static": "Estático",
     "Up": "Subir"
-},
+  },
   "dialog_248": {
     "Cancel": "Cancelar",
-    "List1": "Lista1",
+    "List1": "List1",
     "New folder": "Nova pasta",
     "OK": "OK",
     "Refresh": "Atualizar",
     "Select a folder": "Selecionar uma pasta",
     "Static": "Estático",
     "Up": "Subir"
-},
+  },
   "dialog_258": {
     "Program features restored": "Recursos do programa restaurados"
-},
+  },
   "dialog_260": {
     "&Buy Now": "&Comprar Agora",
     "Close": "Fechar",
     "Limited exporter": "Exportador limitado",
     "You can purchase the full version of this exporter on %s. The full version hasn't these limits, has no forced preloader, and supports more extension objects and movements.": "Você pode adquirir a versão completa deste exportador em %s. A versão completa não possui esses limites, não possui um preloader forçado e suporta mais objetos de extensão e movimentos.",
     "You have reached the limits of this free exporter (3 frames, 30 active objects, 100 backdrop objects, 150 events, no global events or behaviors).": "Você atingiu os limites deste exportador gratuito (3 quadros, 30 objetos ativos, 100 objetos de plano de fundo, 150 eventos, sem eventos globais ou comportamentos)."
-},
+  },
   "dialog_262": {
     "&Replace": "&Substituir",
     "Fonts": "Fontes",
-    "List1": "Lista1"
-},
+    "List1": "List1"
+  },
   "dialog_1005": {
     "Cancel": "Cancelar",
     "Edit name": "Editar nome",
     "OK": "OK"
-},
+  },
   "dialog_1006": {
     "Cancel": "Cancelar",
     "Edit text": "Editar texto",
     "OK": "OK"
-},
+  },
   "dialog_1007": {
     "v": "v",
     "x": "x"
@@ -3889,19 +3889,19 @@
     "OK": "OK",
     "Press a key...": "Pressione uma tecla...",
     "or ESC to cancel.": "ou ESC para cancelar."
-},
+  },
   "dialog_1504": {
     "&Help": "&Ajuda",
     "Cancel": "Cancelar",
     "Control of each player :": "Controle de cada jogador:",
-    "Joystick 1": "Joystick 1",
-    "Joystick 2": "Joystick 2",
-    "Joystick 3": "Joystick 3",
-    "Joystick 4": "Joystick 4",
+    "Joystick 1": "Controle 1",
+    "Joystick 2": "Controle 2",
+    "Joystick 3": "Controle 3",
+    "Joystick 4": "Controle 4",
     "Keyboard": "Teclado",
     "OK": "OK",
     "Player Controls": "Controles do Jogador"
-    },
+  },
   "dialog_1826": {
     "&Help": "&Ajuda",
     "&Try Movement": "&Experimentar Movimento",
@@ -3916,7 +3916,7 @@
     "Set a Pause": "Definir uma Pausa",
     "Speed :": "Velocidade:",
     "Tape Mouse": "Gravar Mouse"
-},
+  },
   "dialog_1827": {
     "&Help": "&Ajuda",
     "&Try movement": "&Experimentar movimento",
@@ -3924,15 +3924,15 @@
     "Mouse movement setup": "Configuração de movimento do mouse",
     "OK": "OK",
     "Player": "Jogador",
-    "Spin1": "Girar1"
-},
+    "Spin1": "Spin1"
+  },
   "dialog_1828": {
     "&Background": "&Plano de Fundo",
     "&Color:": "&Cor:",
     "&Help": "&Ajuda",
     "Cancel": "Cancelar",
     "Color": "Cor",
-    "Duration :": "Duração :",
+    "Duration :": "Duração:",
     "From / to": "De / para",
     "Module": "Módulo",
     "OK": "OK",
@@ -3941,36 +3941,36 @@
     "Slider1": "Slider1",
     "Transition": "Transição",
     "Transition set-up": "Configuração de transição"
-},
+  },
   "dialog_1833": {
     "&Help": "&Ajuda",
     "Cancel": "Cancelar",
     "Node name": "Nome do nó",
     "Node name :": "Nome do nó :",
     "OK": "OK"
-},
+  },
   "dialog_1844": {
     "&Add": "&Adicionar",
     "&Delete": "&Deletar",
     "&Help": "&Ajuda",
     "Cancel": "Cancelar",
-    "List1": "Lista1",
+    "List1": "List1",
     "OK": "OK",
     "Objects qualifiers": "Qualificadores de objetos"
-},
+  },
   "dialog_1845": {
     "&Help": "&Ajuda",
     "Add a qualifier to an object": "Adicionar um qualificador a um objeto",
     "Cancel": "Cancelar",
-    "List2": "Lista2",
+    "List2": "List2",
     "OK": "OK",
     "Please choose a qualifier": "Por favor, escolha um qualificador"
-},
+  },
   "dialog_1848": {
     "<ESC> to end": "<ESC> para finalizar",
     "STOP": "PARAR",
     "Try movement": "Experimentar movimento"
-},
+  },
   "dialog_1866": {
     "&Help": "&Ajuda",
     "&Import": "&Importar",
@@ -3978,7 +3978,7 @@
     "Frame palette": "Paleta de quadros",
     "OK": "OK",
     "Palette": "Paleta"
-},
+  },
   "dialog_2005": {
     "&Color": "&Cor",
     "&Font...": "&Fonte...",
@@ -3991,12 +3991,12 @@
     "Double-click to add / edit answer": "Clique duas vezes para adicionar/editar resposta",
     "Down": "Baixo",
     "F&ont...": "F&onte...",
-    "List1": "Lista1",
+    "List1": "List1",
     "OK": "OK",
     "Question": "Pergunta",
     "Question Setup": "Configuração da pergunta",
     "Up": "Cima"
-},
+  },
   "dialog_2006": {
     "...": "...",
     "Cancel": "Cancelar"
@@ -4008,7 +4008,7 @@
     "Please contact Clickteam if you can reproduce this issue, thanks !": "Por favor, entre em contato com a Clickteam se você conseguir reproduzir esse problema, obrigado!",
     "Saving the application and reloading it could fix the problem and only generate bad objects in the events, but if possible, you should save it with another filename and restart from a previous version.": "Salvar a aplicação e recarregá-la pode resolver o problema e apenas gerar objetos ruins nos eventos, mas se possível, você deve salvá-la com outro nome de arquivo e reiniciar a partir de uma versão anterior.",
     "Warning": "Aviso"
-},
+  },
   "dialog_2009": {
     "&Browse": "&Navegar",
     "&Help": "&Ajuda",
@@ -4017,7 +4017,7 @@
     "Ignore &all similar messages": "Ignorar &todas as mensagens semelhantes",
     "OK": "OK",
     "Warning": "Aviso"
-},
+  },
   "dialog_2010": {
     "&Help": "&Ajuda",
     "Cancel": "Cancelar",
@@ -4025,7 +4025,7 @@
     "This may cause problems if you want to install this application on another machine.": "Isso pode causar problemas se você quiser instalar este aplicativo em outra máquina.",
     "Warning": "Aviso",
     "Warning, the following files are stored in directories that are not relative to the directory of the application you are saving.": "Aviso, os seguintes arquivos estão armazenados em diretórios que não são relativos ao diretório do aplicativo que você está salvando."
-},
+  },
   "dialog_2011": {
     "&Help": "&Ajuda",
     "Cancel": "Cancelar",
@@ -4033,13 +4033,13 @@
     "Error: the following files are stored in directories that are not relative to the directory of the application you are saving.": "Erro: os seguintes arquivos estão armazenados em diretórios que não são relativos ao diretório do aplicativo que você está salvando.",
     "OK": "OK",
     "You cannot save this application as Internet application. Please move these files, then retry.": "Você não pode salvar este aplicativo como aplicativo da Internet. Por favor, mova esses arquivos e tente novamente."
-},
+  },
   "dialog_2012": {
     "&No": "&Não",
     "&Yes": "&Sim",
     "Build": "Construir",
     "The following files are out of date or do not exist. Do you want to build them?": "Os seguintes arquivos estão desatualizados ou não existem. Deseja construí-los?"
-},
+  },
   "dialog_2048": {
     "&Help": "&Ajuda",
     "Cancel": "Cancelar",
@@ -4050,91 +4050,91 @@
     "New": "Novo",
     "OK": "OK",
     "Up": "Acima"
-},
+  },
   "dialog_2051": {
     "Cancel": "Cancelar",
     "Change Movement Name": "Alterar nome do Movimento",
     "Enter a new name for the movement": "Digite um novo nome para o movimento",
     "OK": "OK"
-},
+  },
   "dialog_2059": {
-    "&Apply": "&Apply",
-    "&Close": "&Close",
-    "&Output": "&Output",
-    "&Save As": "&Save As",
-    "Effect editor": "Effect editor",
-    "FX file": "FX file",
-    "Line : ": "Line : ",
-    "XML file": "XML file"
+    "&Apply": "&Aplicar",
+    "&Close": "&Fechar",
+    "&Output": "&Saida",
+    "&Save As": "&Salvar como",
+    "Effect editor": "Editor de Efeitos",
+    "FX file": "Arquivo FX",
+    "Line : ": "Linha : ",
+    "XML file": "Arquivo XML"
   },
   "dialog_2062": {
-    "Add new resolution": "Add new resolution",
+    "Add new resolution": "Adicionar nova resolução",
     "Cancel": "Cancelar",
-    "Height": "Height",
+    "Height": "Altura",
     "OK": "OK",
-    "Width": "Width"
+    "Width": "Largura"
   },
   "dialog_2063": {
-    "&Close": "&Close",
-    "&Run": "&Run",
-    "Emulator": "Emulator",
-    "Re&fresh": "Re&fresh",
+    "&Close": "&Fechar",
+    "&Run": "&Executar",
+    "Emulator": "Emulador",
+    "Re&fresh": "Atuali&zar",
     "SDK &Manager": "SDK &Manager",
-    "To open the Android emulator, select a virtual device and click the Run button. You can create new virtual devices in the Android SDK manager.": "To open the Android emulator, select a virtual device and click the Run button. You can create new virtual devices in the Android SDK manager."
+    "To open the Android emulator, select a virtual device and click the Run button. You can create new virtual devices in the Android SDK manager.": "Para abrir o emulador Android, selecione um dispositivo virtual e clique no botão Executar. Você pode criar novos dispositivos virtuais no gerenciador Android SDK."
   },
   "dialog_2064": {
-    "Browse": "Browse",
+    "Browse": "Procurar",
     "Cancel": "Cancelar",
     "OK": "OK",
-    "Project name :": "Project name :",
-    "Project path :": "Project path :",
-    "Save %s Project": "Save %s Project"
+    "Project name :": "Nome do projeto:",
+    "Project path :": "Caminho do projeto:",
+    "Save %s Project": "Salvar %s Projeto"
   },
   "dialog_2102": {
-    "Add": "Add",
-    "Android menu": "Android menu",
+    "Add": "Adicionar",
+    "Android menu": "Menu Android",
     "Cancel": "Cancelar",
-    "Edit image": "Edit image",
+    "Edit image": "Editar imagem",
     "List1": "List1",
     "OK": "OK",
-    "Option ID": "Option ID",
-    "Option text": "Option text",
-    "Remove": "Remove"
+    "Option ID": "ID da opção",
+    "Option text": "Texto da opção",
+    "Remove": "Remover"
   },
   "dialog_2103": {
-    "1. Open a web browser on your tablet or phone": "1. Open a web browser on your tablet or phone",
-    "2. Type \"www.clickteam.com/html5launcher/index.html\" in the address bar": "2. Type \"www.clickteam.com/html5launcher/index.html\" in the address bar",
-    "3. Enter the following number :": "3. Enter the following number :",
+    "1. Open a web browser on your tablet or phone": "1. Abra um navegador da web em seu tablet ou telefone",
+    "2. Type \"www.clickteam.com/html5launcher/index.html\" in the address bar": "2. Digite \"www.clickteam.com/html5launcher/index.html\" na barra de endereço",
+    "3. Enter the following number :": "3. Digite o seguinte número:",
     "Cancel": "Cancelar",
-    "Please follow this procedure :": "Please follow this procedure :",
-    "Remote HTML5 Launcher": "Remote HTML5 Launcher",
-    "Static": "Static"
+    "Please follow this procedure :": "Por favor, siga este procedimento:",
+    "Remote HTML5 Launcher": "Lançador HTML5 Remoto",
+    "Static": "Estático"
   },
   "dialog_2126": {
-    "&Correct answer": "&Correct answer",
+    "&Correct answer": "&Resposta correta",
     "&Help": "&Ajuda",
     "Cancel": "Cancelar",
-    "Edit answer": "Edit answer",
+    "Edit answer": "Editar resposta",
     "OK": "OK"
   },
   "dialog_2500": {
-    "&Assign this type to further imported items (skip this dialog)": "&Assign this type to further imported items (skip this dialog)",
-    "&From File(s)": "&From File(s)",
+    "&Assign this type to further imported items (skip this dialog)": "&Atribuir este tipo a outros itens importados (pule esta caixa de diálogo)",
+    "&From File(s)": "&De Arquivo(s)",
     "&Help": "&Ajuda",
     "&List": "&List",
-    "&Manager": "&Manager",
-    "&Refresh": "&Refresh",
-    "&Update": "&Update",
+    "&Manager": "&Gerenciador",
+    "&Refresh": "&Atualizar",
+    "&Update": "&Atualizar",
     "Android": "Android",
-    "Any": "Any",
+    "Any": "Qualquer",
     "Cancel": "Cancelar",
-    "Create new object": "Create new object",
-    "Current": "Current",
+    "Create new object": "Criar novo objeto",
+    "Current": "Atual",
     "Html5": "Html5",
     "List1": "List1",
     "Mac": "Mac",
     "OK": "OK",
-    "Platforms": "Platforms",
+    "Platforms": "Plataformas",
     "SWF": "SWF",
     "UWP": "UWP",
     "Windows": "Windows",
@@ -4144,64 +4144,64 @@
   "dialog_2501": {
     "...": "...",
     "Cancel": "Cancelar",
-    "Column Spacing": "Column Spacing",
-    "Columns": "Columns",
-    "Help": "Help",
+    "Column Spacing": "Espaçamento de coluna",
+    "Columns": "Colunas",
+    "Help": "Ajuda",
     "OK": "OK",
-    "Row Spacing": "Row Spacing",
-    "Rows": "Rows",
+    "Row Spacing": "Espaçamento de linha",
+    "Rows": "Linhas",
     "Spin1": "Spin1"
   },
   "dialog_2502": {
     "List1": "List1"
   },
   "dialog_2504": {
-    "&Color": "&Color",
-    "&Snap to": "&Snap to",
+    "&Color": "&Cor",
+    "&Snap to": "&Encaixar em",
     "Cancel": "Cancelar",
-    "Color": "Color",
-    "Draw lines": "Draw lines",
-    "Grid Setup": "Grid Setup",
-    "Help": "Help",
+    "Color": "Cor",
+    "Draw lines": "Desenhar linhas",
+    "Grid Setup": "Configuração da grade",
+    "Help": "Ajuda",
     "OK": "OK",
-    "Origin": "Origin",
-    "Selected object coor&dinates": "Selected object coor&dinates",
-    "Selected object di&mensions": "Selected object di&mensions",
-    "Show &grid": "Show &grid",
-    "Size": "Size",
-    "height": "height",
-    "width": "width",
+    "Origin": "Origem",
+    "Selected object coor&dinates": "Coor&denadas do objeto selecionado",
+    "Selected object di&mensions": "Di&mensões do objeto selecionado",
+    "Show &grid": "Mostrar &grade",
+    "Size": "Tamanho",
+    "height": "altura",
+    "width": "largura",
     "x": "x",
     "y": "y"
   },
   "dialog_2505": {
-    "Delete Object(s)": "Delete Object(s)",
-    "Do not display this message again": "Do not display this message again",
-    "Events associated with the object(s) you want to delete are going to be deleted too. Undoing this command won't restore these events.\n\nAre you sure you want to delete the selected object(s)?": "Events associated with the object(s) you want to delete are going to be deleted too. Undoing this command won't restore these events.\n\nAre you sure you want to delete the selected object(s)?",
-    "No": "No",
-    "Yes": "Yes"
+    "Delete Object(s)": "Deletar Objeto(s)",
+    "Do not display this message again": "Não exibir esta mensagem novamente",
+    "Events associated with the object(s) you want to delete are going to be deleted too. Undoing this command won't restore these events.\n\nAre you sure you want to delete the selected object(s)?": "Os eventos associados aos objetos que você deseja excluir também serão excluídos. Desfazer este comando não restaurará esses eventos.\n\nTem certeza de que deseja excluir o(s) objeto(s) selecionado(s)?",
+    "No": "Não",
+    "Yes": "Sim"
   },
   "dialog_2506": {
     "&Editor >>": "&Editor >>",
     "&Help": "&Ajuda",
-    "&Refresh": "&Refresh",
+    "&Refresh": "&Atualizar",
     "&Store": "&Loja",
     "Cancel": "Cancelar",
-    "Effects": "Effects",
+    "Effects": "Efeitos",
     "OK": "OK"
   },
   "dialog_2508": {
-    "&Refresh": "&Refresh",
-    "Close": "Close",
-    "Extension manager": "Extension manager",
-    "Find more resources in the Clickteam Store": "Find more resources in the Clickteam Store",
-    "Install": "Install",
+    "&Refresh": "&Atualizar",
+    "Close": "Fechar",
+    "Extension manager": "Gerenciador de extensões",
+    "Find more resources in the Clickteam Store": "Procure mais recursos na Loja Clickteam",
+    "Install": "Instalar",
     "List1": "List1",
-    "Uninstall": "Uninstall"
+    "Uninstall": "Desinstalar"
   },
   "dialog_2812": {
-    "&Refresh": "&Refresh",
-    "&View": "&View",
+    "&Refresh": "&Atualizar",
+    "&View": "&Visualizar",
     "List1": "List1",
     "Tree1": "Tree1"
   },
@@ -4209,80 +4209,80 @@
     "0 x 0": "0 x 0",
     "Cancel": "Cancelar",
     "OK": "OK",
-    "Palette": "Palette",
-    "Picture Editor": "Picture Editor"
+    "Palette": "Paleta",
+    "Picture Editor": "Editor de Imagens"
   },
   "dialog_4135": {
-    "Opacity": "Opacity",
-    "Size": "Size",
+    "Opacity": "Opacidade",
+    "Size": "Tamanho",
     "Slider1": "Slider1",
     "Spin1": "Spin1"
   },
   "dialog_4137": {
-    "Opacity": "Opacity",
-    "Size": "Size",
+    "Opacity": "Opacidade",
+    "Size": "Tamanho",
     "Slider1": "Slider1",
     "Spin1": "Spin1"
   },
   "dialog_4138": {
-    "Opacity": "Opacity",
-    "Size": "Size",
+    "Opacity": "Opacidade",
+    "Size": "Tamanho",
     "Slider1": "Slider1",
     "Spin1": "Spin1"
   },
   "dialog_4139": {
     "Slider1": "Slider1",
-    "Tolerance": "Tolerance"
+    "Tolerance": "Tolerância"
   },
   "dialog_4140": {
     "C": "C",
-    "Quick Move": "Quick Move",
+    "Quick Move": "Movimento Rápido",
     "Spin1": "Spin1",
     "x": "x",
     "y": "y"
   },
   "dialog_4141": {
-    "Pressure": "Pressure",
-    "Size": "Size",
+    "Pressure": "Pressão",
+    "Size": "Tamanho",
     "Slider1": "Slider1",
     "Spin1": "Spin1"
   },
   "dialog_4142": {
-    "Size": "Size",
+    "Size": "Tamanho",
     "Spin1": "Spin1"
   },
   "dialog_4143": {
-    "&Font": "&Font",
-    "&Import Font": "&Import Font"
+    "&Font": "&Fonte",
+    "&Import Font": "&Importar Fonte"
   },
   "dialog_4144": {
-    "&Apply": "&Apply",
-    "&Proportional": "&Proportional",
-    "&Resample": "&Resample",
-    "&Stretch": "&Stretch",
+    "&Apply": "&Aplicar",
+    "&Proportional": "&Proporcional",
+    "&Resample": "&Redimensionar",
+    "&Stretch": "&Esticar",
     "Spin1": "Spin1",
     "h": "h",
     "w": "w"
   },
   "dialog_4145": {
     "0 x 0": "0 x 0",
-    "Animation Editor": "Animation Editor",
+    "Animation Editor": "Editor de Animação",
     "Cancel": "Cancelar",
-    "Directions": "Directions",
+    "Directions": "Direções",
     "List1": "List1",
     "OK": "OK",
-    "Palette": "Palette",
-    "Play": "Play",
-    "Show all": "Show all",
+    "Palette": "Paleta",
+    "Play": "Reproduzir",
+    "Show all": "Mostrar tudos",
     "Slider1": "Slider1"
   },
   "dialog_4146": {
-    "Back to": "Back to",
-    "Direction Options": "Direction Options",
-    "Higher speed": "Higher speed",
+    "Back to": "Voltar para",
+    "Direction Options": "Opções de Direção",
+    "Higher speed": "Velocidade mais alta",
     "Loop": "Loop",
-    "Lower speed": "Lower speed",
-    "Repeat": "Repeat",
+    "Lower speed": "Velocidade mais baixa",
+    "Repeat": "Repetir",
     "Spin1": "Spin1"
   },
   "dialog_4147": {
@@ -4291,25 +4291,25 @@
   },
   "dialog_4151": {
     "0 x 0": "0 x 0",
-    "Animation Editor": "Animation Editor",
+    "Animation Editor": "Editor de Animação",
     "Cancel": "Cancelar",
     "List1": "List1",
     "OK": "OK",
-    "Palette": "Palette",
+    "Palette": "Paleta",
     "Slider1": "Slider1"
   },
   "dialog_4165": {
-    "&Draw with background color": "&Draw with background color",
-    "&Pick color": "&Pick color",
-    "&Resample when resizing selection or inserting resized frames": "&Resample when resizing selection or inserting resized frames",
+    "&Draw with background color": "&Desenhar com a cor de fundo",
+    "&Pick color": "&Escolher cor",
+    "&Resample when resizing selection or inserting resized frames": "&Redimensionar ao redimensionar a seleção ou inserir quadros redimensionados",
     "Cancel": "Cancelar",
-    "Checkerboard colors": "Checkerboard colors",
-    "Color 1": "Color 1",
-    "Color 2": "Color 2",
+    "Checkerboard colors": "Cores do tabuleiro",
+    "Color 1": "Cor 1",
+    "Color 2": "Cor 2",
     "OK": "OK",
-    "Options": "Options",
-    "Picture Editor Preferences": "Picture Editor Preferences",
-    "Right Click": "Right Click"
+    "Options": "Opções",
+    "Picture Editor Preferences": "Preferências do Editor de Imagens",
+    "Right Click": "Clique com o botão direito do mouse"
   },
   "dialog_4166": {
     "&Box mode": "&Box mode",
@@ -6243,7 +6243,7 @@
     "New Frame": "Novo Frame",
     "Preferences": "Preferências",
     "Save &As": "Salvar &Como"
-},
+  },
   "menu_161": {
     "&Cut": "&Recortar",
     "&Delete": "&Excluir",
@@ -6259,7 +6259,7 @@
     "New Folder": "Nova Pasta",
     "New Object": "Novo Objeto",
     "Preferences": "Preferências"
-},
+  },
   "menu_163": {
     "&Delete": "&Deletar",
     "&Properties": "&Propriedades",
@@ -6267,28 +6267,28 @@
     "Frame Folder": "Pasta de Quadros",
     "New Object": "Novo Objeto",
     "Preferences": "Preferências"
-},
+  },
   "menu_165": {
     "&Edit": "&Editar",
     "&Properties": "&Propriedades",
     "&Rename": "&Renomear",
     "Frame Item": "Item do Quadro",
     "Preferences": "Preferências"
-},
+  },
   "menu_168": {
     "&New": "&Novo",
     "&New application": "&Nova aplicação",
     "New application &from...": "Nova aplicação &a partir de..."
-},
+  },
   "menu_169": {
     "&Copy": "&Copiar",
     "Copy Context Menu": "Copiar Menu de Contexto"
-},
+  },
   "menu_170": {
     "DUMMY": "DUMMY",
     "New &Horizontal Tab Group": "Novo Grupo de Abas &Horizontal",
     "New &Vertical Tab Group": "Novo Grupo de Abas &Vertical"
-},
+  },
   "menu_177": {
     "&Copy": "&Copiar",
     "&Delete": "&Deletar",
@@ -6296,7 +6296,7 @@
     "&Rename": "&Renomear",
     "Cu&t": "Re&cortar",
     "Property Context Menu": "Menu de contexto de propriedades"
-},
+  },
   "menu_1549": {
     "&Active Object": "&Objeto Ativo",
     "&Align": "&Alinhar",
@@ -6354,12 +6354,12 @@
     "Te&xt": "Te&xto",
     "To &Back": "Para Tra&s",
     "To &Front": "Para &Frente"
-},
+  },
   "menu_1599": {
     "&Clear": "&Limpar",
     "&Import file": "&Importar arquivo",
     "Profiler Context Menu": "Menu de contexto do Profiler"
-},
+  },
   "menu_1999": {
     "&Large Icons": "&Ícones grandes",
     "&Small Icons": "&Ícones pequenos",
@@ -6367,25 +6367,25 @@
     "N&o": "N&ão",
     "by &Name": "por &Nome",
     "by &Type": "por &Tipo"
-},
+  },
   "menu_2813": {
     "&Delete": "&Deletar",
     "&Edit": "&Editar",
     "&New": "&Novo",
     "&Rename": "&Renomear"
-},
+  },
   "menu_2814": {
     "&Refresh": "&Atualizar",
     "&View": "&Visualizar"
-},
-"menu_4148": {
-  "&Cut": "&Recortar",
-  "&Delete": "&Deletar",
-  "&New": "&Novo",
-  "&Paste": "&Colar",
-  "&Rename": "&Renomear",
-  "Cop&y": "Cop&iar"
-},
+  },
+  "menu_4148": {
+    "&Cut": "&Recortar",
+    "&Delete": "&Deletar",
+    "&New": "&Novo",
+    "&Paste": "&Colar",
+    "&Rename": "&Renomear",
+    "Cop&y": "Cop&iar"
+  },
   "menu_4149": {
     "&Cut": "&Recortar",
     "&Delete": "&Deletar",
@@ -6396,7 +6396,7 @@
     "Create &rotated directions": "Criar direções &rotacionadas",
     "Flip &Horizontally": "Virar &Horizontalmente",
     "Flip &Vertically": "Virar &Verticalmente"
-},
+  },
   "menu_4166": {
     "&Clone Frame": "&Clonar Quadro",
     "&Cut": "&Recortar",
@@ -6412,13 +6412,13 @@
     "Flip &vertically": "Virar &verticalmente",
     "New Frame": "Novo Quadro",
     "Rename": "Renomear"
-},
+  },
   "menu_5002": {
     "Cancel": "Cancelar",
     "Copy here": "Copiar aqui",
     "Drop": "Soltar",
     "Move here": "Mover aqui"
-},
+  },
   "menu_7911": {
     "Add": "Adicionar",
     "Copy": "Copiar",
@@ -6429,7 +6429,7 @@
     "Negate": "Negar",
     "Paste": "Colar",
     "Replace": "Substituir"
-},
+  },
   "menu_7916": {
     "Activate all lines": "Ativar todas as linhas",
     "Close all groups": "Fechar todos os grupos",
@@ -6439,7 +6439,7 @@
     "Inactivate all lines": "Inativar todas as linhas",
     "Open all groups": "Abrir todos os grupos",
     "Paste": "Colar"
-},
+  },
   "menu_7918": {
     "Copy": "Copiar",
     "Cut": "Recortar",
@@ -6451,7 +6451,7 @@
     "OR operator (logical)": "Operador OU (lógico)",
     "Paste": "Colar",
     "Replace": "Substituir"
-},
+  },
   "menu_7920": {
     "A comment": "Um comentário",
     "A group of events": "Um grupo de eventos",
@@ -6462,7 +6462,7 @@
     "Edit": "Editar",
     "Insert": "Inserir",
     "Paste": "Colar"
-},
+  },
   "menu_7921": {
     "A comment": "Um comentário",
     "A group of events": "Um grupo de eventos",
@@ -6476,7 +6476,7 @@
     "Insert": "Inserir",
     "Open": "Abrir",
     "Paste": "Colar"
-},
+  },
   "menu_7922": {
     "A comment": "Um comentário",
     "A group of events": "Um grupo de eventos",
@@ -6505,7 +6505,7 @@
     "Pla&yers\tCtrl+Y": "Joga&dores\tCtrl+Y",
     "Play &musics\tCtrl+M": "Tocar &músicas\tCtrl+M",
     "Play &samples\tCtrl+S": "Tocar &amostras\tCtrl+S"
-},
+  },
   "menu_7950": {
     "Delete": "Deletar",
     "Draw line": "Desenhar linha",
@@ -6514,7 +6514,7 @@
     "Set name": "Definir nome",
     "Set pause": "Definir pausa",
     "Set speed": "Definir velocidade"
-},
+  },
   "menu_7951": {
     "&About...": "&Sobre...",
     "&Cascade": "&Cascata",
@@ -6539,7 +6539,7 @@
     "Play &samples\tCtrl+S": "Tocar &amostras\tCtrl+S",
     "Tile &Horizontally": "Organizar em &Linha",
     "Tile &Vertically": "Organizar em &Coluna"
-},
+  },
   "menu_9050": {
     "Actions": "Ações",
     "Go to next frame": "Ir para o próximo quadro",
@@ -6547,11 +6547,11 @@
     "No action": "Sem ação",
     "Quit Application": "Sair do Aplicativo",
     "Restart Application from frame 1": "Reiniciar Aplicativo a partir do quadro 1"
-},
+  },
   "menu_9100": {
     "Delete transition": "Excluir transição",
     "Transition setup": "Configuração de transição"
-},
+  },
   "menu_9101": {
     "Clone": "Clonar",
     "Copy": "Copiar",
@@ -6562,7 +6562,7 @@
     "Rename": "Renomear",
     "Run this frame": "Executar este quadro",
     "Select a new application": "Selecionar um novo aplicativo"
-},
+  },
   "menu_9102": {
     "1024 x 768": "1024 x 768",
     "1280 x 1024": "1280 x 1024",
@@ -6591,7 +6591,7 @@
     "Rename": "Renomear",
     "Run this frame": "Executar este quadro",
     "Select a new picture": "Selecionar uma nova imagem"
-},
+  },
   "menu_9105": {
     "Clone": "Clonar",
     "Copy": "Copiar",
@@ -6602,7 +6602,7 @@
     "Rename": "Renomear",
     "Run this frame": "Executar este quadro",
     "Select a new animation": "Selecionar uma nova animação"
-},
+  },
   "menu_9107": {
     "Clone": "Clonar",
     "Copy": "Copiar",
@@ -6613,7 +6613,7 @@
     "Rename": "Renomear",
     "Run this frame": "Executar este quadro",
     "Select a new Video": "Selecionar um novo vídeo"
-},
+  },
   "menu_10000": {
     "Activate all lines": "Ativar todas as linhas",
     "Close all groups": "Fechar todos os grupos",
@@ -6622,7 +6622,7 @@
     "De-activate all lines": "Desativar todas as linhas",
     "Delete": "Deletar",
     "Open all groups": "Abrir todos os grupos"
-},
+  },
   "menu_10001": {
     "Delete any action in column": "Deletar qualquer ação na coluna",
     "Display properties": "Mostrar propriedades",
@@ -6636,7 +6636,7 @@
     "Open Behavior 5": "Abrir Comportamento 5",
     "Open behavior": "Abrir comportamento",
     "Replace by another object": "Substituir por outro objeto"
-},
+  },
   "menu_10002": {
     "Copy": "Copiar",
     "Cut": "Recortar",
@@ -6648,7 +6648,7 @@
     "OR operator (logical)": "Operador OU (lógico)",
     "Paste": "Colar",
     "Replace": "Substituir"
-},
+  },
   "menu_10004": {
     "A comment": "Um comentário",
     "A group of events": "Um grupo de eventos",
@@ -6658,7 +6658,7 @@
     "Delete": "Deletar",
     "Edit": "Editar",
     "Insert": "Inserir"
-},
+  },
   "menu_10005": {
     "A comment": "Um comentário",
     "A group of events": "Um grupo de eventos",
@@ -6671,7 +6671,7 @@
     "Edit": "Editar",
     "Insert": "Inserir",
     "Open": "Abrir"
-},
+  },
   "menu_10006": {
     "A comment": "Um comentário",
     "A group of events": "Um grupo de eventos",
@@ -6685,12 +6685,12 @@
     "Hide objects without reference in actions": "Esconder objetos sem referência nas ações",
     "Insert": "Inserir",
     "Paste": "Colar"
-},
+  },
   "menu_10008": {
     "Delete unused objects": "Excluir objetos não utilizados",
     "Import a new object": "Importar um novo objeto",
     "Import all the objects": "Importar todos os objetos"
-},
+  },
   "menu_10009": {
     "Delete": "Deletar",
     "Delete any action in column": "Deletar qualquer ação na coluna",
@@ -6699,7 +6699,7 @@
     "Insert hidden object": "Inserir objeto oculto",
     "Insert object folder": "Inserir pasta de objetos",
     "Replace by another object": "Substituir por outro objeto"
-},
+  },
   "menu_10070": {
     "Close folder": "Fechar pasta",
     "Remove folder": "Remover pasta",
