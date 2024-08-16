@@ -1,0 +1,75 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+
+<head>
+<title>Drag and Drop Movement - Clickteam</title>
+
+
+<link rel="stylesheet" href="../style_default.css" type="text/css">
+
+</head>
+<body>
+
+<h1>Drag and Drop Movement</h1>
+<p>
+
+<hr>
+
+<h2>Overview</h2>
+<p class="main_content">This movement provides a familiar, mouse-controlled drag and drop behaviour.
+  A draggable object can be restricted to an area (much like the Mouse Controlled movement) as well
+  as limited to placement on a grid. The behaviour of the object can be fine-tuned. Power users can
+  disable mouse control altogether and start/stop dragging via the Event Editor.</p>
+
+<h2>Using the movement</h2>
+<p class="main_content">For a simple drag and drop movement with no restrictions, where the object is dragged by
+  holding the left mouse button down, no further configuration is necessary.</p>
+<p class="main_content">If you wish to change the button and method used to initiate dragging, or restrict the
+  dragging in any way, select the appropriate properties as described below. Dragging is always initiated by
+  the user clicking on the object; if the object has fine collision detection enabled (default) then the user must also click on a non-transparent part of the object.</p>
+<p class="main_content"><b>If the user has chosen to swap the mouse buttons (e.g. for left-handed use) then the
+  button used to initiate dragging is also swapped.</b> This is for consistency and usability reasons; the 'left'
+  button is actually the primary/selection button and 'right' the secondary/context menu button, rather than the
+  buttons physically on the left/right side of the mouse.</p>
+<p class="main_content">While the object is being dragged the Walking animation will play. When it is stationary the Stopped animation plays.</p>
+<h2>Frame editor properties</h2>
+
+<p class="main_content_smaller"> <img src="../images/settings-drag-and-drop.png" width="281" height="360"></p>
+<p class="main_content_smaller">Figure 1: Movement properties for the Drag and Drop Movement. <br />
+  <br />
+</p>
+
+<p class="main_header">General Properties</p>
+<p class="main_content"><b>Drag method:</b> indicates how the user drags this object.
+  The following methods are possible:</p>
+  <ul class="main_content">
+    <li><b>Left mouse button down:</b> The object is dragged while the left (selection) mouse button is held down, and released when the button is released.</li>
+    <li><b>Right mouse button down:</b> As above, but for the right (context menu) mouse button.</li>
+    <li><b>Left mouse button click:</b> The object starts to be dragged when the left (selection) mouse button is clicked. Dragging stops when the button is clicked again.</li>
+	 <li><b>Right mouse button click:</b> As above, but for the right (context menu) mouse button.</li>
+	 <li><b>None (user controlled):</b> Dragging is controlled by actions only. Use <i>Movement &gt; Start</i> to start dragging and <i>Movement &gt; Stop</i> to drop the object.</li>
+  </ul>
+  <p class="main_content"><b>Limit drag area:</b> limit the area in which you can drag the object. Ticking this displays the <i>Limit Drag Area Properties</i> section.<br />
+  <b>Snap to invisible grid:</b> the object snaps to points on a grid as it is dragged. Ticking this displays the <i>Snap to Grid Properties</i> section.
+</p>
+<p class="main_header">Limit Drag Area Properties</p>
+<p class="main_content">The object can not be dragged outside of the area you set in this section.<br />
+  <b>X:</b> X position of the left side of the area.<br />
+  <b>Y:</b> Y position of the top side of the area.<br />
+  <b>W:</b> width of the area.<br />
+  <b>H:</b> height of the area.<br />
+  <b>Drop object when dragged outside area:</b> if ticked, when the user attempts to drag the object outside of the defined area it will automatically be dropped. When unticked, the object is only dropped when the user drops it (or the movement is Stopped).<br />
+  <b>Force object within allowed area:</b> by default the limited area takes effect only while the object is being dragged. Ticking this property forces the object to stay within the area at all times; for example, it cannot be moved outside the area with a Set Position action.<br />
+</p>
+<p class="main_header">Snap to Grid Properties</p>
+<p class="main_content">
+<b>Origin x-coordinate:</b> X position of the grid's origin. Note: the grid extends infinitely to the left of this point. If you wish to prevent the object being dragged past this point, use the <i>Limit drag area</i> property.<br />
+  <b>Origin y-coordinate:</b> Y position of the grid's origin. Note: the grid extends infinitely above this point. If you wish to prevent the object being dragged past this point, use the <i>Limit drag area</i> property.<br />
+  <b>Width:</b> width of the grid.<br />
+  <b>Height:</b> height of the grid.<br />
+</p>
+
+<br /><br /><br />
+
+</body>
+</html>

@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "0: no rotation, 1: 90 clockwise, 2: 90 anti-clockwise": "0: sem rotação, 1: 90 graus no sentido horário, 2: 90 graus no sentido anti-horário",
+    "Application running on mobile": "Aplicativo em execução no celular",
+    "For debugging purposes only! Indicates screen orientation at start": "Somente para fins de depuração! Indica a orientação da tela no início",
+    "Landscape": "Paisagem",
+    "Left key down (F10)": "Tecla Esquerda pressionada (F10)",
+    "Left key pressed (F10)": "Tecla Esquerda pressionada (F10)",
+    "Mobile Utilities": "Utilitários Móveis",
+    "Portrait": "Retrato",
+    "Refresh display": "Atualizar a tela",
+    "Right key down (F11)": "Tecla Direita pressionada (F11)",
+    "Right key pressed (F11)": "Tecla Direita pressionada (F11)",
+    "Screen orientation": "Orientação da tela",
+    "Screen orientation has changed": "A orientação da tela foi alterada",
+    "Set of utilities for Java Mobile applications": "Conjunto de utilitários para aplicações Java Mobile",
+    "Set window rotation to %0": "Definir rotação da janela para %0"
+  },
+  "menu_20000": {
+    "Actions": "Ações",
+    "Refresh display": "Atualizar a tela",
+    "Set window rotation": "Definir rotação da janela"
+  },
+  "menu_20001": {
+    "Conditions": "Condições",
+    "Is application running on Mobile": "A aplicação está sendo executada em um dispositivo móvel?",
+    "Left key": "Tecla Esquerda",
+    "Left key down": "Tecla Esquerda pressionada",
+    "Left key pressed": "Tecla Esquerda pressionada",
+    "Right key": "Tecla Direita",
+    "Right key down": "Tecla seta direita pressionada",
+    "Right key pressed": "Tecla Direita pressionada",
+    "Screen orientation has changed": "A orientação da tela foi alterada"
+  },
+  "menu_20002": {
+    "Expressions": "Expressões",
+    "Get screen height": "Obter altura da tela",
+    "Get screen orientation": "Obter orientação da tela",
+    "Get screen width": "Obter largura da tela",
+    "Get window rotation": "Obter rotação da janela"
+  }
+}

@@ -1,0 +1,59 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+
+<head>
+<title>Invaders Movement - Clickteam</title>
+
+
+<link rel="stylesheet" href="../style_default.css" type="text/css">
+
+</head>
+<body>
+
+<h1>Invaders Movement</h1>
+<p>
+
+<hr>
+
+<h2>Overview</h2>
+<p class="main_content">
+A movement to aid with the creation of games based on the classic Space Invaders. The movement controls the invaders,
+making them change direction when reaching the edge of the screen, and even speeding them up as their numbers decrease.
+</p>
+<h2>Using the movement</h2>
+<p class="main_content">
+Apply the movement to the objects in the frame editor and configure the initial direction of the invaders, step size
+and speed (how often they step) Note these properties are shared by all objects in the frame with the movement, it is only
+required to set them once.
+That's it! If you need to change the location of the point when the invaders change direction then insert the
+movement's control extension into the frame and apply the appropriate settings. Note the automatic speed increase
+setting is provided for newer users, in most cases you should use the control extension to set the movement speed
+from the events as needed for your game.
+</p>
+
+<h2>Frame editor properties</h2>
+<img src="../images/settings-invaders.png" alt="Image showing the properties for this movement">
+<p class="main_content_smaller">
+Figure 1: Movement properties for the Invaders Movement.
+<br /><br />
+</p>
+
+<p class="main_header">Global Invaders Properties</p>
+<p class="main_content">
+These properties are shared by all objects with Invaders movement in the current frame. Therefore changing the values in one
+object will also change the values in all other objects with this movement.<br /><br />
+	<b>Move at start:</b> Defines if the movement starts when the frame does or if the movement is initially paused.<br />
+	<b>Automatically handle speed increase:</b> Select this option and the invaders will increase in speed as their number reduce.<br />
+	<b>Initial Direction:</b> Will the invader move left or right first?<br />
+	<b>Step Size X:</b> The amount in pixels the invaders hop each move in the x-axis.<br />
+	<b>Step Size Y:</b> The amount in pixels the invaders hop each move in the y-axis.<br />
+	<b>Speed:</b> How often will the invaders hop.<br />
+	<b>Note</b>: due to a bug, the Invaders / Get Speed function of the Movement Controller object actually returns 101 - speed, 
+	and you have to pass 101 - speed to Invaders / Set Speed.
+</p>
+<br />
+
+<br /><br /><br />
+
+</body>
+</html>

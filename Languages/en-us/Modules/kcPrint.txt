@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "00Change printing method to best fit": "00Change printing method to best fit",
+    "00Change printing method to scale": "00Change printing method to scale",
+    "00Change printing method to stretch to page": "00Change printing method to stretch to page",
+    "00Print blank page": "00Print blank page",
+    "00Print client zone": "00Print client zone",
+    "00Print screen": "00Print screen",
+    "00Print window": "00Print window",
+    "00Setup printer": "00Setup printer",
+    "01Print Text %s": "01Print Text %s",
+    "01Print Text file %s": "01Print Text file %s",
+    "01Print zone %s": "01Print zone %s",
+    "01Set x scale to %s": "01Set x scale to %s",
+    "01Set y scale to %s": "01Set y scale to %s",
+    "Allows you to print the screen or an area of your application window.": "Allows you to print the screen or an area of your application window.",
+    "Print": "Print",
+    "Print object": "Print object",
+    "Printing '%s'": "Printing '%s'",
+    "Printing band #%d": "Printing band #%d",
+    "Printing datas": "Printing datas",
+    "Printing page #%d": "Printing page #%d",
+    "Sending datas to printer...": "Sending datas to printer...",
+    "on %s on %s": "on %s on %s"
+  },
+  "dialog_PRINTING": {
+    "Cancel": "Cancel",
+    "PRINTER": "PRINTER",
+    "Print Bitmap": "Print Bitmap",
+    "Printing": "Printing",
+    "Spooling...": "Spooling...",
+    "on Printer": "on Printer"
+  },
+  "menu_20000": {
+    "Best fit": "Best fit",
+    "Print Client zone": "Print Client zone",
+    "Print Screen": "Print Screen",
+    "Print Text": "Print Text",
+    "Print Text file": "Print Text file",
+    "Print Window": "Print Window",
+    "Print blank page": "Print blank page",
+    "Print zone...": "Print zone...",
+    "Printer Setup": "Printer Setup",
+    "Printing method": "Printing method",
+    "Scale": "Scale",
+    "Set x scale": "Set x scale",
+    "Set y scale": "Set y scale",
+    "Stretch to page": "Stretch to page"
+  }
+}

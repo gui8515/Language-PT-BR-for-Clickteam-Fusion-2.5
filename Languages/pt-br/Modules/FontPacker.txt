@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "%o: Is Internal font %0 available?": "%o: A fonte interna %0 está disponível?",
+    "%o: Is Packed font %0 available?": "%o: A fonte empacotada %0 está disponível?",
+    "%o: On Error Ocurred": "%o: Ocorreu um erro",
+    "%o: On Internal Fonts Read": "%o: Ao ler fontes internas",
+    "%o: On Packed Fonts Read": "%o: Ao ler fontes empacotadas",
+    "%o: Read Internal Fonts": "%o: Ler Fontes Internas",
+    "%o: Read Packed Fonts": "%o: Ler Fontes Empacotadas",
+    "Android Font Packer": "Empacotador de Fonte Android",
+    "Android Font Packer Control": "Controle de Empacotador de Fonte Android",
+    "Clear Checked": "Limpar Marcados",
+    "File must be named according their typeface": "O arquivo deve ser nomeado de acordo com sua fonte.",
+    "Font #10: ": "Fonte #10:",
+    "Font #1: ": "Fonte #1:",
+    "Font #2: ": "Fonte #2:",
+    "Font #3: ": "Fonte #3:",
+    "Font #4: ": "Fonte #4:",
+    "Font #5: ": "Fonte #5:",
+    "Font #6: ": "Fonte #6:",
+    "Font #7: ": "Fonte #7:",
+    "Font #8: ": "Fonte #8:",
+    "Font #9: ": "Fonte #9:",
+    "Font Name": "Nome da Fonte",
+    "Font filename #1 as defined in system": "Nome do arquivo da fonte #1 conforme definido no sistema",
+    "Font filename #10 as defined in system": "Nome do arquivo da fonte #10 conforme definido no sistema",
+    "Font filename #2 as defined in system": "Nome do arquivo da fonte #2 conforme definido no sistema",
+    "Font filename #3 as defined in system": "Nome do arquivo da fonte #3 conforme definido no sistema",
+    "Font filename #4 as defined in system": "Nome do arquivo da fonte #4 conforme definido no sistema",
+    "Font filename #5 as defined in system": "Nome do arquivo da fonte #5 conforme definido no sistema",
+    "Font filename #6 as defined in system": "Nome do arquivo da fonte #6 conforme definido no sistema",
+    "Font filename #7 as defined in system": "Nome do arquivo da fonte #7 conforme definido no sistema",
+    "Font filename #8 as defined in system": "Nome do arquivo da fonte #8 conforme definido no sistema",
+    "Font filename #9 as defined in system": "Nome do arquivo da fonte #9 conforme definido no sistema",
+    "Fonts functionality for Android.": "Funcionalidade de fontes para Android.",
+    "Fonts to Pack ...": "Fontes para empacotar ...",
+    "Repack the font list": "Reempacotar a lista de fontes"
+  },
+  "menu_20000": {
+    "Read Internal fonts": "Ler fontes internas",
+    "Read Packed Fonts": "Ler Fontes Empacotadas"
+  },
+  "menu_20001": {
+    "Is Internal Font Available": "A fonte interna está disponível?",
+    "Is Packed Font Available": "A fonte empacotada está disponível?",
+    "On Error": "Em Caso de Erro",
+    "On Internal Fonts Read": "Ao Ler Fontes Internas",
+    "On Packed Fonts Read": "Em Fontes Empacotadas Lidas"
+  },
+  "menu_20002": {
+    "Internal Font Name": "Nome da Fonte Interna",
+    "Internal Fonts Quantity": "Quantidade de Fontes Internas",
+    "Last error Ocurred": "Último erro ocorrido",
+    "Packed Font Name": "Nome da Fonte Empacotada",
+    "Packed Fonts Quantity": "Quantidade de Fontes Empacotadas",
+    "Read Default Font Size": "Ler Tamanho de Fonte Padrão",
+    "Read Default Font Style": "Ler Estilo de Fonte Padrão"
+  }
+}

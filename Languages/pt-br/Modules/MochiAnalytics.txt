@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "End play": "Terminar jogo",
+    "Event tag": "Tag de Evento",
+    "Mochi Analytics": "Análise Mochi",
+    "Obsolete. This object is provided for compatibility reasons only.": "Obsoleto. Este objeto é fornecido apenas para fins de compatibilidade.",
+    "Start play (tag %0)": "Iniciar jogo (%0)",
+    "Tag (default: gameplay)": "Tag (padrão: jogabilidade)",
+    "Track event %0 with value %1": "Registrar evento %0 com valor %1",
+    "Value (default: 1)": "Valor (padrão: 1)"
+  },
+  "menu_20000": {
+    "End play": "Terminar jogo",
+    "Start play": "Iniciar jogo",
+    "Track event": "Registrar evento"
+  }
+}

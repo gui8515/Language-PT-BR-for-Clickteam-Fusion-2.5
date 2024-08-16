@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "00Set high task priority": "00Set high task priority",
+    "00Set low task priority": "00Set low task priority",
+    "00Set medium task priority": "00Set medium task priority",
+    "00Task priority is high": "00Task priority is high",
+    "00Task priority is low": "00Task priority is low",
+    "00Task priority is medium": "00Task priority is medium",
+    "01Wake up application every %s": "01Wake up application every %s",
+    "Obsolete, this object does nothing, the CPU usage is now automatic.": "Obsolete, this object does nothing, the CPU usage is now automatic.",
+    "Task Priority": "Task Priority",
+    "Task Priority object": "Task Priority object"
+  },
+  "menu_20000": {
+    "&High": "&High",
+    "&Low": "&Low",
+    "&Medium": "&Medium",
+    "Set Task Priority": "Set Task Priority",
+    "Wake up application every...": "Wake up application every..."
+  },
+  "menu_20001": {
+    "Is task priority high?": "Is task priority high?",
+    "Is task priority low?": "Is task priority low?",
+    "Is task priority medium?": "Is task priority medium?"
+  },
+  "menu_20002": {
+    "Task priority": "Task priority"
+  }
+}

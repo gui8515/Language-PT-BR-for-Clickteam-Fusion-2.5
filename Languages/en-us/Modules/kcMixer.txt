@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "01Change FM synthesizer left and right volume to %s": "01Change FM synthesizer left and right volume to %s",
+    "01Change FM synthesizer left volume to %s": "01Change FM synthesizer left volume to %s",
+    "01Change FM synthesizer right volume to %s": "01Change FM synthesizer right volume to %s",
+    "01Change square wave synthesizer left and right volume to %s": "01Change square wave synthesizer left and right volume to %s",
+    "01Change square wave synthesizer left volume to %s": "01Change square wave synthesizer left volume to %s",
+    "01Change square wave synthesizer right volume to %s": "01Change square wave synthesizer right volume to %s",
+    "01Change wave left and right volume to %s": "01Change wave left and right volume to %s",
+    "01Change wave left volume to %s": "01Change wave left volume to %s",
+    "01Change wave right volume to %s": "01Change wave right volume to %s",
+    "Gives you direct control over the volume of your sound samples and MIDI music files.": "Gives you direct control over the volume of your sound samples and MIDI music files.",
+    "Mixer": "Mixer",
+    "Mixer object": "Mixer object"
+  },
+  "menu_20000": {
+    "Change FM synthesizer left and right volume": "Change FM synthesizer left and right volume",
+    "Change FM synthesizer left volume": "Change FM synthesizer left volume",
+    "Change FM synthesizer right volume": "Change FM synthesizer right volume",
+    "Change square wave synthesizer left and right volume": "Change square wave synthesizer left and right volume",
+    "Change square wave synthesizer left volume": "Change square wave synthesizer left volume",
+    "Change square wave synthesizer right volume": "Change square wave synthesizer right volume",
+    "Change wave left and right volume": "Change wave left and right volume",
+    "Change wave left volume": "Change wave left volume",
+    "Change wave right volume": "Change wave right volume"
+  },
+  "menu_20002": {
+    "Midi FM synthesizer left volume": "Midi FM synthesizer left volume",
+    "Midi FM synthesizer right volume": "Midi FM synthesizer right volume",
+    "Midi square wave synthesizer left volume": "Midi square wave synthesizer left volume",
+    "Midi square wave synthesizer right volume": "Midi square wave synthesizer right volume",
+    "Wave left volume": "Wave left volume",
+    "Wave right volume": "Wave right volume"
+  }
+}

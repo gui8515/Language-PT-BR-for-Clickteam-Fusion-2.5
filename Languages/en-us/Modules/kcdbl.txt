@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "Allows you to perform simple calculations on double-precision floating point numbers (16 significant digits). For Pro version only.": "Allows you to perform simple calculations on double-precision floating point numbers (16 significant digits). For Pro version only.",
+    "Double-Precision Calculator": "Double-Precision Calculator",
+    "Double-Precision Calculator object": "Double-Precision Calculator object",
+    "Enter the number of digits": "Enter the number of digits",
+    "Enter the number of digits after the decimal point": "Enter the number of digits after the decimal point",
+    "First number string": "First number string",
+    "Number of decimals": "Number of decimals",
+    "Number of digits": "Number of digits",
+    "Number string": "Number string",
+    "Second number string": "Second number string",
+    "Set Format to %0 digits": "Set Format to %0 digits",
+    "Set Format to %0 digits after decimal point": "Set Format to %0 digits after decimal point",
+    "Set Standard Format": "Set Standard Format"
+  },
+  "menu_20000": {
+    "&Standard": "&Standard",
+    "N digits": "N digits",
+    "N digits after decimal point": "N digits after decimal point",
+    "Set Format": "Set Format"
+  },
+  "menu_20002": {
+    "&Add": "&Add",
+    "&Divide": "&Divide",
+    "&Multiply": "&Multiply",
+    "&Subtract": "&Subtract",
+    "Format ...": "Format ...",
+    "N digits": "N digits",
+    "N digits after decimal point": "N digits after decimal point"
+  }
+}

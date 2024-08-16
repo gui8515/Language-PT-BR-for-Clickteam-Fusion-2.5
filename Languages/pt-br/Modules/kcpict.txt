@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "00Hide": "Esconder 00",
+    "00Image resize off": "00Redimensionar imagem desativado",
+    "00Image resize on": "Redimensionar imagem 00",
+    "00New picture from selector": "Nova imagem do seletor",
+    "00Show": "Mostrar 00",
+    "00WARNING !!! Change this action to New picture": "00AVISO !!! Altere esta ação para Nova imagem",
+    "01%s: a picture is loaded": "01%s: uma imagem foi carregada",
+    "01New picture : %s": "Nova imagem: %s",
+    "10%s: visible": "10%s: visível",
+    "Choose the picture to display": "Escolha a imagem para exibir",
+    "Custom": "Personalizado",
+    "Displays an image file as background object.": "Exibe um arquivo de imagem como objeto de fundo.",
+    "First Pixel": "Primeiro Pixel",
+    "Hide at start of frame": "Esconder no início do frame",
+    "Hides the picture when the frame starts": "Esconde a imagem quando o frame inicia",
+    "Picture": "Imagem",
+    "Picture filename": "Nome do arquivo da imagem",
+    "Picture name: %s": "Nome da imagem: %s",
+    "Picture object": "Objeto de imagem",
+    "Please select a picture": "Por favor, selecione uma imagem",
+    "Resize picture to the size of the object": "Redimensionar imagem para o tamanho do objeto",
+    "The picture will be stretched to match the size of the object itself": "A imagem será esticada para corresponder ao tamanho do próprio objeto",
+    "Transparent Color": "Cor Transparente"
+  },
+  "menu_20000": {
+    "Image resize off": "Redimensionar imagem desativado",
+    "Image resize on": "Redimensionar imagem em",
+    "Make Object Invisible": "Tornar Objeto Invisível",
+    "Make Object Reappear": "Fazer Objeto Reaparecer",
+    "New picture": "Nova imagem",
+    "New picture from selector": "Nova imagem do seletor",
+    "Visibility": "Visibilidade"
+  },
+  "menu_20001": {
+    "A picture is loaded ?": "Uma imagem foi carregada?",
+    "Is visible ?": "Está visível?"
+  },
+  "menu_20002": {
+    "Get X position": "Obter posição X",
+    "Get Y position": "Obter posição Y",
+    "Get picture name": "Obter nome da imagem",
+    "Get picture original x size": "Obter tamanho original em x da imagem",
+    "Get picture original y size": "Obter tamanho original da imagem y",
+    "Get picture screen x size": "Obter tamanho x da tela da imagem",
+    "Get picture screen y size": "Obter tamanho em Y da tela da imagem"
+  }
+}

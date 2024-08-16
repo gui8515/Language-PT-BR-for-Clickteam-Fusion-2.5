@@ -1,0 +1,39 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+
+<head>
+<title>InAndOut Movement - Clickteam</title>
+
+
+<link rel="stylesheet" href="../style_default.css" type="text/css">
+
+</head>
+<body>
+<h1>InAndOut Movement</h1>
+<p class="main_content_smaller">
+<hr>
+
+<h2>Overview</h2>
+<p class="main_content">
+The InAndOut movement allows objects to enter and leave the frame in a nicely manner. At start of frame, the object is positionned out of the frame, then brought in the frame with a smooth movement. It stops at the position the object was when creating the frame. With events (in the InAndOut controller) you can have the object move away to its original out position.<br>
+The InAndOut movement, in its simplicity is ideal for presentations, or just simply to create a title page with scrolling text.</p>
+<h2>Using the movement</h2>
+<p class="main_content">
+You should use the InAndOut controller to pilot the movement at your heart's will.</p>
+
+<h2>Frame editor properties<br />
+</h2>
+<p class="main_header">General Properties</p>
+<p class="main_content">
+<b>Movement type:</b> selects between a linear movement (no smooth acceleration) or a smooth movement when the object will accelerate and decelerate at the beginning and at the end of the movement. This property does not have any effect on the positionning of the object or the length of the movement.<br />
+  <b>Duration:</b> enter in this property the length in milliseconds of the movement.<br>
+  <b>Direction:</b> enter in this property the direction of the movement. The direction is indicated as a angle, in degree. For example, a value of 90 will make the object come in the frame from up to down, and leave the area down to up. 180 will make it come from left to right and leave from right to left.<br />
+  <b>Out at start:</b> if you check this property, the object will be positionned automatically out of the frame at beginning of frame. It won't appear. If the &quot;Move at Start&quot; property is not checked, the object will stay invisible and wait for the InAndOut controller to trigger it.<br>
+  <b>Destination X:</b> if you enter 0 in this field (default), the position of the object when put out of the frame at start of frame is calculated automatically. If you enter a value, the object will be positionned at that position.<br />
+  <b>Destination Y:</b> same as destination X property, for the Y coordinate.<br />
+</p>
+
+<br /><br /><br />
+
+</body>
+</html>

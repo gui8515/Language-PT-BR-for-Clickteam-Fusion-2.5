@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "01Return string%s": "01Retornar texto %s",
+    "01Return value%s": "Valor de retorno %s",
+    "01Send %s": "Enviar %s",
+    "Any sound will be terminated prior to sending a command": "Qualquer som será interrompido antes do envio de um comando",
+    "Check this box to close the device when the frame ends": "Marque esta caixa para fechar o dispositivo quando o frame terminar",
+    "Check this box to open the device at start of frame": "Marque esta caixa para abrir o dispositivo no início do frame",
+    "Close MCI device at end of frame": "Fechar dispositivo MCI no final do frame",
+    "Close sound device before sending commands": "Fechar o dispositivo de som antes de enviar comandos",
+    "Device": "Dispositivo",
+    "Device name": "Nome do dispositivo",
+    "Display all error messages": "Exibir todas as mensagens de erro",
+    "Display in a dialog box any error message": "Exibir em uma caixa de diálogo qualquer mensagem de erro",
+    "Enter the name of the device": "Digite o nome do dispositivo",
+    "Last error: %i": "Último erro: %i",
+    "MCI": "MCI",
+    "MCI object": "Objeto MCI",
+    "Microsoft standard for controlling any multimedia device connected to your computer.": "Padrão Microsoft para controlar qualquer dispositivo multimídia conectado ao seu computador.",
+    "Open MCI device at start of frame": "Abrir dispositivo MCI no início do frame",
+    "Options": "Opções",
+    "Pause command": "Comando Pausar",
+    "Please, enter a valid device name.": "Por favor, insira um nome de dispositivo válido.",
+    "Resume command": "Reiniciar comando",
+    "Return string: %s": "Retornar texto: %s",
+    "String to send to the device when a Pause happens": "Texto para enviar ao dispositivo quando uma pausa acontecer",
+    "String to send to the device when resuming from a pause": "Texto para enviar ao dispositivo ao retomar de uma pausa"
+  },
+  "menu_20000": {
+    "Send a command": "Enviar um comando"
+  },
+  "menu_20001": {
+    "Compare to returned number": "Comparar com número retornado",
+    "Compare to returned string": "Comparar com a string retornada"
+  },
+  "menu_20002": {
+    "Last error number": "Número do último erro",
+    "Return string": "Retornar texto",
+    "Return value": "Valor de retorno"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "%o: Is gamer signed in?": "%o: Você está logado?",
+    "%o: Is running on Xbox?": "%o: Está sendo executado no Xbox?",
+    "%o: On error occurred": "%o: Ocorreu um erro",
+    "%o: On login OK": "%o: Ao fazer login, OK",
+    "%o: On login failed": "%o: Ao falhar no login",
+    "%o: On profile info": "%o: Em informações do perfil",
+    "%o: On silent login OK": "%o: OK em login silencioso",
+    "%o: On silent login failed": "%o: Falha no login silencioso",
+    "Add Xbox Live connect features": "Adicionar recursos de conexão com o Xbox Live",
+    "Login": "Entrar",
+    "Read profile info": "Ler informações do perfil",
+    "Silent Login": "Login Silencioso",
+    "Xbox Connect": "Conectar Xbox",
+    "Xbox Connect Object": "Objeto Conectar Xbox"
+  },
+  "menu_20000": {
+    "Login": "Entrar",
+    "Read Profile Info": "Ler Informações do Perfil",
+    "Silent Login": "Login Silencioso"
+  },
+  "menu_20001": {
+    "Is Gamer Signed In?": "O jogador está conectado?",
+    "Is running on Xbox?": "Está sendo executado no Xbox?",
+    "Normal Login ...": "Login Normal ...",
+    "On Login OK": "Ao efetuar login",
+    "On Login failed": "Em caso de falha no login",
+    "On Profile Info": "Em Informações do Perfil",
+    "On Silent Login OK": "Em Login Silencioso OK",
+    "On Silent Login failed": "Falha no login silencioso",
+    "On error occurred": "Ocorreu um erro",
+    "Silent Login ...": "Login Silencioso ..."
+  },
+  "menu_20002": {
+    "Error Code": "Código de Erro",
+    "Error String": "Erro de Texto",
+    "Player ID": "ID do Jogador",
+    "Player Image URI": "URI da Imagem do Jogador",
+    "Player Name": "Nome do Jogador",
+    "Player Profile": "Perfil do Jogador",
+    "Player Score": "Pontuação do Jogador"
+  }
+}

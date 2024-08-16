@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "Check if the object should move at start of frame": "Verificar se o objeto deve mover no início do frame",
+    "Choose the strengh of the gravity": "Escolha a força da gravidade",
+    "Deceleration": "Desaceleração",
+    "Enter the deceleration factor": "Digite o fator de desaceleração",
+    "Enter the initial speed of the object": "Defina a velocidade inicial do objeto",
+    "Gravity": "Gravidade",
+    "Initial direction": "Direção inicial",
+    "Initial speed": "Velocidade inicial",
+    "Move at start": "Mover no início",
+    "Pinball movement": "Movimento do pinball",
+    "Please choose the intial direction of the object": "Por favor, escolha a direção inicial do objeto"
+  }
+}

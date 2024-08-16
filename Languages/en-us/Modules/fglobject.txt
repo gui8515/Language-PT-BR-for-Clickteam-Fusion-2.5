@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "%o: Is branding enabled?": "%o: Is branding enabled?",
+    "%o: Is cross-promotion enabled?": "%o: Is cross-promotion enabled?",
+    "%o: Is game running in premium mode?": "%o: Is game running in premium mode?",
+    "%o: Is unlock enabled?": "%o: Is unlock enabled?",
+    "A dialog box will ask for your name if you have a high score.": "A dialog box will ask for your name if you have a high score.",
+    "Check and and the Is cross promotion enabled? condition will return true.": "Check and and the Is cross promotion enabled? condition will return true.",
+    "Check and the Is Premium condition will return true": "Check and the Is Premium condition will return true",
+    "Check and the Is branding enabled? condition will return true, and the sponsor logo can be displayed.": "Check and the Is branding enabled? condition will return true, and the sponsor logo can be displayed.",
+    "Check and the Is unlock enabled? condition will return true.": "Check and the Is unlock enabled? condition will return true.",
+    "Check and the object will automatically display the logo of the sponsor, if authorised.": "Check and the object will automatically display the logo of the sponsor, if authorised.",
+    "Display leaderboard": "Display leaderboard",
+    "Display sponsor logo": "Display sponsor logo",
+    "Display sponsor logo %0": "Display sponsor logo %0",
+    "Do you want to simulate the unlocking of your game?": "Do you want to simulate the unlocking of your game?",
+    "Enable cross promotion": "Enable cross promotion",
+    "Enable in app upgrade": "Enable in app upgrade",
+    "Enable sponsor branding": "Enable sponsor branding",
+    "Enter 1 to display the logo, 0 to hide it": "Enter 1 to display the logo, 0 to hide it",
+    "FGL Object": "FGL Object",
+    "Game is in premium mode": "Game is in premium mode",
+    "HTML5 - fgl": "HTML5 - fgl",
+    "Handle click on branding": "Handle click on branding",
+    "Interface with the fgl HTML5 Advertisement and game API": "Interface with the fgl HTML5 Advertisement and game API",
+    "Please enter the score": "Please enter the score",
+    "Show advertisement": "Show advertisement",
+    "Show more games": "Show more games",
+    "Simulation": "Simulation",
+    "Submit score": "Submit score",
+    "Unlock game": "Unlock game",
+    "fgl": "fgl",
+    "http://www.clickteam.com/francois/fglbrandinglogo.png": "http://www.clickteam.com/francois/fglbrandinglogo.png"
+  },
+  "menu_20000": {
+    "Actions": "Actions",
+    "Advertisements": "Advertisements",
+    "Display leaderboard": "Display leaderboard",
+    "Leaderboards": "Leaderboards",
+    "Show / hide sponsor logo": "Show / hide sponsor logo",
+    "Show advertisement": "Show advertisement",
+    "Show more games": "Show more games",
+    "Sponsor": "Sponsor",
+    "Submit score": "Submit score",
+    "Unlock game": "Unlock game"
+  },
+  "menu_20001": {
+    "Conditions": "Conditions",
+    "Is cross-promotion enabled?": "Is cross-promotion enabled?",
+    "Is the game running in premium mode?": "Is the game running in premium mode?",
+    "Is unlock enabled?": "Is unlock enabled?"
+  },
+  "menu_20002": {
+    "Expressions": "Expressions",
+    "Get branding image URL": "Get branding image URL"
+  }
+}

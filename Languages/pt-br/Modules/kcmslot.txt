@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "00Reset error": "00Redefinir erro",
+    "01Close channel %s": "Fechar canal %s",
+    "01Open channel %s as %s": "Abrir canal %s como %s",
+    "02Send number %s to slot %s": "Enviar número %s para o slot %s",
+    "02Send string %s to slot %s": "Enviar texto %s para o slot %s",
+    "10%s : Error": "10%s : Erro",
+    "11%s : Message available on channel %s": "11%s : Mensagem disponível no canal %s",
+    "Allows applications to communicate through a local network by opening a channel for communication between two computers.": "Permite que aplicativos se comuniquem por meio de uma rede local, abrindo um canal de comunicação entre dois computadores.",
+    "Channel number": "Número do canal",
+    "Last error: %s": "Último erro: %s",
+    "Network": "Rede",
+    "Network object": "Objeto de rede",
+    "Number to Send": "Número para Enviar",
+    "Slot name": "Nome do Slot",
+    "String to send": "Texto para enviar"
+  },
+  "menu_20000": {
+    "Close channel": "Fechar canal",
+    "Open channel": "Abrir canal",
+    "Reset error": "Redefinir erro",
+    "Send number": "Enviar número",
+    "Send string": "Enviar texto"
+  },
+  "menu_20001": {
+    "Error": "Erro",
+    "Message available": "Mensagem disponível"
+  },
+  "menu_20002": {
+    "Get current status": "Obter status atual",
+    "Get last error": "Obter último erro",
+    "Get last error string": "Obter a última string de erro",
+    "Get number": "Obter número",
+    "Get string": "Obter texto"
+  }
+}

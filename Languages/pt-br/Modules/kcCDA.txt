@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "00Close door": "Fechar porta",
+    "00Next track": "Próxima faixa",
+    "00Open door": "Abrir porta",
+    "00Pause": "Pausar",
+    "00Previous track": "Faixa anterior",
+    "00Resume": "Retomar",
+    "00Stop": "Parar",
+    "01Play at %s": "01Jogar em %s",
+    "01Play from track %s": "Reproduzir faixa %s",
+    "01Play track %s": "01Tocar faixa %s",
+    "11%s:time position %s": "11%s: posição no tempo %s",
+    "11%s:time position within track %s": "11%s: posição no tempo na faixa %s",
+    "CD Audio object": "Objeto de áudio CD",
+    "CD-Audio": "Áudio CD",
+    "Continues playing even when the application is minimized": "Continua tocando mesmo quando o aplicativo está minimizado",
+    "Current track number: %i": "Faixa atual: %i",
+    "Enter the number of the track to play": "Digite o número da faixa para reproduzir",
+    "Last known error: %i": "Último erro conhecido: %i",
+    "Length of current track: %02i:%02i": "Duração da faixa atual: %02i:%02i",
+    "Lets you play compact disc audio tracks.": "Permite que você reproduza faixas de áudio de CD.",
+    "Number of tracks on disk: %i": "Número de faixas no disco: %i",
+    "Open driver at start": "Abrir o driver na inicialização",
+    "Opening the driver at start of frame makes the object faster during runtime": "Abrir o driver no início do frame torna o objeto mais rápido durante a execução",
+    "Play track at start": "Reproduzir faixa no início",
+    "Play when minimized": "Reproduzir quando minimizado",
+    "Position in current track: %02i:%02i": "Posição na faixa atual: %02i:%02i",
+    "Stop playing at end of frame": "Parar de reproduzir no final do frame",
+    "Stops the music at end of frame": "Para de tocar a música no final do quadro",
+    "Total length of disk: %02i:%02i:%02i": "Duração total do disco: %02i:%02i:%02i"
+  },
+  "menu_20000": {
+    "Close door": "Fechar porta",
+    "Next track": "Próxima faixa",
+    "Open door": "Abrir porta",
+    "Pause": "Pausar",
+    "Play a track": "Reproduzir uma faixa",
+    "Play a track and continue": "Reproduzir uma faixa e continuar",
+    "Play at position": "Reproduzir na posição",
+    "Previous track": "Faixa anterior",
+    "Resume": "Retomar",
+    "Stop": "Parar"
+  },
+  "menu_20001": {
+    "Compare to time position": "Comparar com posição no tempo",
+    "Compare to track's elapsed time": "Comparar com o tempo decorrido da faixa"
+  },
+  "menu_20002": {
+    "Last error number": "Número do último erro",
+    "Length of current track (1/1000s)": "Duração da faixa atual (1/1000s)",
+    "Length of disk (1/1000s)": "Duração do disco (1/1000s)",
+    "Number of current track": "Número da faixa atual",
+    "Number of tracks": "Número de faixas",
+    "Position in current track (1/1000s)": "Posição na faixa atual (1/1000s)",
+    "Position in disk (1/1000s)": "Posição no disco (1/1000s)"
+  }
+}

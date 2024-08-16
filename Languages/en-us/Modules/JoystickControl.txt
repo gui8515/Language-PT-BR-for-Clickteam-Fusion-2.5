@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "Allows you to control the virtual joystick input.": "Allows you to control the virtual joystick input.",
+    "Enter 1 for left handed": "Enter 1 for left handed",
+    "Enter 1 to display button 1, 0 to hide it": "Enter 1 to display button 1, 0 to hide it",
+    "Enter 1 to display button 2, 0 to hide it": "Enter 1 to display button 2, 0 to hide it",
+    "Enter 1 to display joystick, 0 to hide it": "Enter 1 to display joystick, 0 to hide it",
+    "Enter the binary mask. 0001:top 0010:bottom 0100:left 1000:right 10000:fire1 100000:fire2": "Enter the binary mask. 0001:top 0010:bottom 0100:left 1000:right 10000:fire1 100000:fire2",
+    "Joystick Control object": "Joystick Control object",
+    "Set X button 1 to %0": "Set X button 1 to %0",
+    "Set X button 2 to %0": "Set X button 2 to %0",
+    "Set X joystick to %0": "Set X joystick to %0",
+    "Set Y button 1 to %0": "Set Y button 1 to %0",
+    "Set Y button 2 to %0": "Set Y button 2 to %0",
+    "Set Y joystick to %0": "Set Y joystick to %0",
+    "Set button 1 position to %0": "Set button 1 position to %0",
+    "Set button 2 position to %0": "Set button 2 position to %0",
+    "Set joystick mask to %0": "Set joystick mask to %0",
+    "Set joystick position to %0": "Set joystick position to %0",
+    "Start accelerometer joystick": "Start accelerometer joystick",
+    "Start/stop touch joystick %0 (joystick), %1 (button 1), %2 (button 2), %3 (left handed)": "Start/stop touch joystick %0 (joystick), %1 (button 1), %2 (button 2), %3 (left handed)",
+    "Stop accelerometer joystick": "Stop accelerometer joystick"
+  },
+  "menu_20000": {
+    "Accelerometer": "Accelerometer",
+    "Actions": "Actions",
+    "Set button 1 X coordinate": "Set button 1 X coordinate",
+    "Set button 1 Y coordinate": "Set button 1 Y coordinate",
+    "Set button 1 position": "Set button 1 position",
+    "Set button 2 X coordinate": "Set button 2 X coordinate",
+    "Set button 2 Y coordinate": "Set button 2 Y coordinate",
+    "Set button 2 position": "Set button 2 position",
+    "Set joystick X coordinate": "Set joystick X coordinate",
+    "Set joystick Y coordinate": "Set joystick Y coordinate",
+    "Set joystick mask": "Set joystick mask",
+    "Set joystick position": "Set joystick position",
+    "Start accelerometer joystick": "Start accelerometer joystick",
+    "Start/stop touch joystick": "Start/stop touch joystick",
+    "Stop accelerometer joystick": "Stop accelerometer joystick",
+    "Touch joystick": "Touch joystick"
+  },
+  "menu_20001": {
+    "Conditions": "Conditions"
+  },
+  "menu_20002": {
+    "Button 1": "Button 1",
+    "Button 2": "Button 2",
+    "Expressions": "Expressions",
+    "Touch joystick": "Touch joystick",
+    "X Coordinate": "X Coordinate",
+    "Y Coordinate": "Y Coordinate"
+  }
+}

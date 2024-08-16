@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "00Set high task priority": "Definir alta prioridade da tarefa",
+    "00Set low task priority": "Definir baixa prioridade da tarefa 00",
+    "00Set medium task priority": "Definir prioridade da tarefa como média",
+    "00Task priority is high": "A prioridade da tarefa 00 é alta",
+    "00Task priority is low": "A prioridade da tarefa 00 é baixa",
+    "00Task priority is medium": "A prioridade da tarefa 00 é média",
+    "01Wake up application every %s": "Acordar o aplicativo a cada %s",
+    "Obsolete, this object does nothing, the CPU usage is now automatic.": "Obsoleto, este objeto não faz nada, o uso da CPU agora é automático.",
+    "Task Priority": "Prioridade da Tarefa",
+    "Task Priority object": "Prioridade da Tarefa do objeto"
+  },
+  "menu_20000": {
+    "&High": "&Alto",
+    "&Low": "&Baixo",
+    "&Medium": "&Médio",
+    "Set Task Priority": "Definir Prioridade da Tarefa",
+    "Wake up application every...": "Acordar o aplicativo a cada..."
+  },
+  "menu_20001": {
+    "Is task priority high?": "A prioridade da tarefa é alta?",
+    "Is task priority low?": "A prioridade da tarefa é baixa?",
+    "Is task priority medium?": "A prioridade da tarefa é média?"
+  },
+  "menu_20002": {
+    "Task priority": "Prioridade da Tarefa"
+  }
+}

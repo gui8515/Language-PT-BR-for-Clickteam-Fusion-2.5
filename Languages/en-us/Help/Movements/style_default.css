@@ -1,0 +1,81 @@
+body
+{
+background-color: white;
+margin: 0px
+}
+
+div.center
+{
+text-align: center;
+}
+
+
+h1
+{
+margin: 20px 10px 0px 10px;
+color: black;
+font-family: verdana, sans-serif;
+font-size: 22px;
+}
+
+h2
+{
+margin: 20px 10px 20px 10px;
+color: black;
+font-family: verdana, sans-serif;
+font-size: 16px;
+}
+
+img
+{
+margin: 10px 20px 5px 20px;
+}
+
+
+/***************************************/
+/* Text title on main page boxes       */
+/***************************************/
+p.main_content
+{
+margin: 10px 10px 10px 10px;
+text-align: justify;
+color: black;
+font-family: verdana, sans-serif;
+font-size: 12px;
+}
+
+p.main_header
+{
+margin: 5px 10px 5px 10px;
+text-align: justify;
+font-weight: bold;
+color: #316BC6;
+font-family: verdana, sans-serif;
+font-size: 12px;
+}
+
+p.main_content_smaller
+{
+margin: 5px 10px 5px 10px;
+text-align: left;
+color: black;
+font-family: verdana, sans-serif;
+font-size: 10px;
+}
+
+ul.main_content
+{
+margin: 10px 10px 5px 10px;
+text-align: justify;
+color: black;
+font-family: verdana, sans-serif;
+font-size: 12px;
+}
+
+
+hr
+{
+height: 1px;
+margin-top: 0px;
+margin-bottom: 2px;
+}

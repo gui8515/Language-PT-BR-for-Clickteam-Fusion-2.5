@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "%o: is visible": "%o: is visible",
+    "Active Backdrop": "Active Backdrop",
+    "Changeable backdrop object": "Changeable backdrop object",
+    "Check this box to make the object visible at start of frame": "Check this box to make the object visible at start of frame",
+    "Click on the edit button to add/change the images": "Click on the edit button to add/change the images",
+    "Enter the X coordinate": "Enter the X coordinate",
+    "Enter the Y coordinate": "Enter the Y coordinate",
+    "Enter the image number (starting at 0)": "Enter the image number (starting at 0)",
+    "Hide": "Hide",
+    "Image list": "Image list",
+    "List of predefined images": "List of predefined images",
+    "Set X coordinate to %0": "Set X coordinate to %0",
+    "Set Y coordinate to %0": "Set Y coordinate to %0",
+    "Set image to %0": "Set image to %0",
+    "Show": "Show",
+    "Visible": "Visible"
+  },
+  "menu_20000": {
+    "Actions": "Actions",
+    "Hide": "Hide",
+    "Set X coordinate": "Set X coordinate",
+    "Set Y coordinate": "Set Y coordinate",
+    "Set image": "Set image",
+    "Show": "Show"
+  },
+  "menu_20001": {
+    "Conditions": "Conditions",
+    "Is object visible": "Is object visible"
+  },
+  "menu_20002": {
+    "Expressions": "Expressions",
+    "Get X coordinate": "Get X coordinate",
+    "Get Y coordinate": "Get Y coordinate",
+    "Get image number": "Get image number"
+  }
+}

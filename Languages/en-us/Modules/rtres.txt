@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "%d (Num. keypad)": "%d (Num. keypad)",
+    "An error has occured while reading the file.": "An error has occured while reading the file.",
+    "An error has occured while writing the file.": "An error has occured while writing the file.",
+    "Backspace": "Backspace",
+    "Clear": "Clear",
+    "Control": "Control",
+    "Del": "Del",
+    "Down Arrow": "Down Arrow",
+    "End": "End",
+    "Enter": "Enter",
+    "Escape": "Escape",
+    "Execute": "Execute",
+    "Home": "Home",
+    "Ins": "Ins",
+    "Joystick not connected or driver not installed.": "Joystick not connected or driver not installed.",
+    "Left Arrow": "Left Arrow",
+    "Page Down": "Page Down",
+    "Page Up": "Page Up",
+    "Right Arrow": "Right Arrow",
+    "Select": "Select",
+    "Shift": "Shift",
+    "Space bar": "Space bar",
+    "Tab": "Tab",
+    "The current frame is not the same as the saved one.": "The current frame is not the same as the saved one.",
+    "This file is not a position file.": "This file is not a position file.",
+    "This file was not saved by this application.": "This file was not saved by this application.",
+    "This file was saved by a incompatible version of the application.": "This file was saved by a incompatible version of the application.",
+    "This file was saved with an incompatible version of MMF runtime.": "This file was saved with an incompatible version of MMF runtime.",
+    "Up Arrow": "Up Arrow"
+  },
+  "dialog_110": {
+    "About": "About",
+    "OK": "OK"
+  },
+  "dialog_111": {
+    "Application paused": "Application paused",
+    "Continue": "Continue"
+  },
+  "dialog_112": {
+    "Cancel": "Cancel",
+    "Default Controls": "Default Controls",
+    "Joystick 1": "Joystick 1",
+    "Joystick 2": "Joystick 2",
+    "Joystick 3": "Joystick 3",
+    "Joystick 4": "Joystick 4",
+    "Keyboard": "Keyboard",
+    "OK": "OK",
+    "Player controls": "Player controls"
+  },
+  "dialog_113": {
+    "Button 1": "Button 1",
+    "Button 2": "Button 2",
+    "Button 3": "Button 3",
+    "Button 4": "Button 4",
+    "Cancel": "Cancel",
+    "Down": "Down",
+    "Keyboard setup": "Keyboard setup",
+    "Left": "Left",
+    "OK": "OK",
+    "Press a key ... (or ESC to cancel)": "Press a key ... (or ESC to cancel)",
+    "Right": "Right",
+    "Up": "Up"
+  },
+  "dialog_114": {
+    "Cancel": "Cancel",
+    "Enter password": "Enter password",
+    "OK": "OK"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "0: no rotation, 1: 90 clockwise, 2: 90 anti-clockwise": "0: no rotation, 1: 90 clockwise, 2: 90 anti-clockwise",
+    "Application running on mobile": "Application running on mobile",
+    "For debugging purposes only! Indicates screen orientation at start": "For debugging purposes only! Indicates screen orientation at start",
+    "Landscape": "Landscape",
+    "Left key down (F10)": "Left key down (F10)",
+    "Left key pressed (F10)": "Left key pressed (F10)",
+    "Mobile Utilities": "Mobile Utilities",
+    "Portrait": "Portrait",
+    "Refresh display": "Refresh display",
+    "Right key down (F11)": "Right key down (F11)",
+    "Right key pressed (F11)": "Right key pressed (F11)",
+    "Screen orientation": "Screen orientation",
+    "Screen orientation has changed": "Screen orientation has changed",
+    "Set of utilities for Java Mobile applications": "Set of utilities for Java Mobile applications",
+    "Set window rotation to %0": "Set window rotation to %0"
+  },
+  "menu_20000": {
+    "Actions": "Actions",
+    "Refresh display": "Refresh display",
+    "Set window rotation": "Set window rotation"
+  },
+  "menu_20001": {
+    "Conditions": "Conditions",
+    "Is application running on Mobile": "Is application running on Mobile",
+    "Left key": "Left key",
+    "Left key down": "Left key down",
+    "Left key pressed": "Left key pressed",
+    "Right key": "Right key",
+    "Right key down": "Right key down",
+    "Right key pressed": "Right key pressed",
+    "Screen orientation has changed": "Screen orientation has changed"
+  },
+  "menu_20002": {
+    "Expressions": "Expressions",
+    "Get screen height": "Get screen height",
+    "Get screen orientation": "Get screen orientation",
+    "Get screen width": "Get screen width",
+    "Get window rotation": "Get window rotation"
+  }
+}

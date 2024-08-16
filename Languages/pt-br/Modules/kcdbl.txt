@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "Allows you to perform simple calculations on double-precision floating point numbers (16 significant digits). For Pro version only.": "Permite realizar cálculos simples em números de ponto flutuante de dupla precisão (16 dígitos significativos). Apenas para a versão Pro.",
+    "Double-Precision Calculator": "Calculadora de Precisão Dupla",
+    "Double-Precision Calculator object": "Objeto Calculadora de Precisão Dupla",
+    "Enter the number of digits": "Digite o número de dígitos",
+    "Enter the number of digits after the decimal point": "Digite o número de dígitos após a vírgula decimal",
+    "First number string": "Primeiro número texto",
+    "Number of decimals": "Número de casas decimais",
+    "Number of digits": "Número de dígitos",
+    "Number string": "Número de texto",
+    "Second number string": "Segundo número de texto",
+    "Set Format to %0 digits": "Definir Formato para %0 dígitos",
+    "Set Format to %0 digits after decimal point": "Definir Formato para %0 dígitos após a vírgula",
+    "Set Standard Format": "Definir Formato Padrão"
+  },
+  "menu_20000": {
+    "&Standard": "&Padrão",
+    "N digits": "N dígitos",
+    "N digits after decimal point": "N dígitos após a vírgula decimal",
+    "Set Format": "Definir Formato"
+  },
+  "menu_20002": {
+    "&Add": "&Adicionar",
+    "&Divide": "&Dividir",
+    "&Multiply": "&Multiplicar",
+    "&Subtract": "&Subtrair",
+    "Format ...": "Formatar ...",
+    "N digits": "N dígitos",
+    "N digits after decimal point": "N dígitos após a vírgula decimal"
+  }
+}

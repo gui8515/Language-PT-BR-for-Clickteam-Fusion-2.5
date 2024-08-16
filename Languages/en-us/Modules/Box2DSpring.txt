@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "Activated : %i": "Activated : %i",
+    "Active at start": "Active at start",
+    "Advanced": "Advanced",
+    "Angle : %i degrees": "Angle : %i degrees",
+    "Auto rotation": "Auto rotation",
+    "Box": "Box",
+    "Check this box to make your spring active when the frame starts": "Check this box to make your spring active when the frame starts",
+    "Check to enable automatic rotations of the image": "Check to enable automatic rotations of the image",
+    "Check to resample the image of the object when rotating it (slower for large number of objects).": "Check to resample the image of the object when rotating it (slower for large number of objects).",
+    "Circle": "Circle",
+    "Collision shape": "Collision shape",
+    "Engine ID": "Engine ID",
+    "Enter the direction of the spring": "Enter the direction of the spring",
+    "Enter the identifier of the movement, that must match the identifier of the engine object.": "Enter the identifier of the movement, that must match the identifier of the engine object.",
+    "Enter the strength of the spring, (0 = inactive)": "Enter the strength of the spring, (0 = inactive)",
+    "Physics - Spring": "Physics - Spring",
+    "Please choose the shape of the collision box": "Please choose the shape of the collision box",
+    "Please drop a 'Physics Engine' object in your frame.": "Please drop a 'Physics Engine' object in your frame.",
+    "Shape of first image": "Shape of first image",
+    "Smooth rotations": "Smooth rotations",
+    "Spring directions": "Spring directions",
+    "Strength": "Strength",
+    "Strength : %i": "Strength : %i",
+    "Type : Spring": "Type : Spring"
+  }
+}

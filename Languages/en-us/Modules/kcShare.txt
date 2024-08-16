@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    " %s : Shared Data object": " %s : Shared Data object",
+    "00Reset": "00Reset",
+    "01Shared string %s=%s": "01Shared string %s=%s",
+    "01Shared string %s=str$(%s)": "01Shared string %s=str$(%s)",
+    "01Shared value %s=%s": "01Shared value %s=%s",
+    "01Shared value %s=val(%s)": "01Shared value %s=val(%s)",
+    "11%s: Condition example %s=%s": "11%s: Condition example %s=%s",
+    "Allows different applications to share data (numbers and/or text).": "Allows different applications to share data (numbers and/or text).",
+    "Create a new Shared Data object": "Create a new Shared Data object",
+    "Double click to inspect/modify a shared string": "Double click to inspect/modify a shared string",
+    "Double click to inspect/modify a shared value": "Double click to inspect/modify a shared value",
+    "Enter number value": "Enter number value",
+    "Enter number value to be stored as string value": "Enter number value to be stored as string value",
+    "Enter string to be stored as number value": "Enter string to be stored as number value",
+    "Enter string value": "Enter string value",
+    "Index": "Index",
+    "Index of the value (zero based)": "Index of the value (zero based)",
+    "ShareMem object": "ShareMem object",
+    "Shared Data": "Shared Data"
+  },
+  "dialog_102": {
+    "Index :": "Index :",
+    "Inspect a long value": "Inspect a long value",
+    "OK": "OK",
+    "Value : ": "Value : "
+  },
+  "dialog_103": {
+    "Index :": "Index :",
+    "Inspect a string": "Inspect a string",
+    "OK": "OK",
+    "String": "String"
+  },
+  "menu_20000": {
+    "Reset": "Reset",
+    "Set shared string": "Set shared string",
+    "Set shared string from value": "Set shared string from value",
+    "Set shared value": "Set shared value",
+    "Set shared value from string": "Set shared value from string"
+  },
+  "menu_20001": {
+    "is Equal": "is Equal"
+  },
+  "menu_20002": {
+    "Get shared String": "Get shared String",
+    "Get shared value": "Get shared value",
+    "Get string from shared value": "Get string from shared value",
+    "Get value from shared string": "Get value from shared string"
+  }
+}

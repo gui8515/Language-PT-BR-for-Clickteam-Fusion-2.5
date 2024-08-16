@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "%o: Is fan active?": "%o: O ventilador está ativo?",
+    "Advanced": "Avançado",
+    "Angle": "Ângulo",
+    "Angle : %g degrees": "Ângulo: %g graus",
+    "Blowing at start": "Sopro no início",
+    "Check this box and the fan will blow at the start of the frame": "Marque esta caixa e o ventilador soprará no início do frame",
+    "Direction of the air": "Direção do ar",
+    "Engine ID": "ID do Motor",
+    "Enter 1 to turn on, 0 to turn off": "Digite 1 para ligar e 0 para desligar",
+    "Enter the angle of the wind in degrees (0-360)": "Digite o ângulo do vento em graus (0-360)",
+    "Enter the height of the object": "Digite a altura do objeto",
+    "Enter the identifier of the engine if multiple engines are used on the same frame.": "Digite o identificador do motor se vários motores forem usados no mesmo frame.",
+    "Enter the strength of the fan, from 0 to 500": "Digite a força do ventilador, de 0 a 500",
+    "Enter the strength of the wind (0-500)": "Digite a força do vento (0-500)",
+    "Enter the width of the object": "Digite a largura do objeto",
+    "Generate wind that shifts the objects": "Gerar vento que desloca os objetos",
+    "Physics - Fan": "Física - Ventilador",
+    "Please drop a 'Physics Engine' object in your frame.": "Por favor, adicione um objeto 'Motor de Física' ao seu frame.",
+    "Running : %i": "Executando : %i",
+    "Set angle to %0 degrees": "Definir ângulo para %0 graus",
+    "Set fan to %0": "Definir ventilador para %0",
+    "Set height to %0": "Definir altura para %0",
+    "Set strength to %0": "Definir força para %0",
+    "Set width to %0": "Definir largura para %0",
+    "Strength": "Força",
+    "Strength : %i": "Força : %i"
+  },
+  "menu_20000": {
+    "Actions": "Ações",
+    "Set angle": "Definir ângulo",
+    "Set fan ON/OFF": "Definir ventilador LIGADO/DESLIGADO",
+    "Set height": "Definir altura",
+    "Set strength": "Definir força",
+    "Set width": "Definir largura"
+  },
+  "menu_20001": {
+    "Conditions": "Condições",
+    "Is fan active?": "O ventilador está ativo?"
+  },
+  "menu_20002": {
+    "Action zone height": "Altura da zona de ação",
+    "Action zone width": "Largura da zona de ação",
+    "Expressions": "Expressões",
+    "Fan angle": "Ângulo do ventilador",
+    "Fan strength": "Intensidade do ventilador"
+  }
+}

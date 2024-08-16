@@ -1,0 +1,165 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "Advanced Scrolling": "Rolagem Avançada",
+    "Back": "Voltar",
+    "Bands": "Faixas",
+    "Cell": "Célula",
+    "Cross rain": "Chuva cruzada",
+    "Diagonal": "Diagonal",
+    "Door": "Porta",
+    "Fade": "Desvanecer",
+    "Line": "Linha",
+    "Mosaic": "Mosaico",
+    "Open": "Abrir",
+    "Push": "Pressionar",
+    "Rain": "Chuva",
+    "Scrolling": "Rolagem",
+    "Spot width: %d%%": "Largura da mancha: %d%%",
+    "Square": "Quadrado",
+    "Standard transitions": "Transições padrão",
+    "Stretch": "Esticar",
+    "Stretch 2": "Esticar 2",
+    "Turn": "Virar",
+    "Turn 2": "Vez 2",
+    "Weft": "Trama",
+    "ZigZag 2": "ZigZag 2",
+    "Zigzag": "Ziguezague",
+    "Zoom": "Ampliar",
+    "Zoom 2": "Zoom 2"
+  },
+  "dialog_102": {
+    "Direction": "Direção",
+    "From &bottom to top": "De cima para baixo",
+    "From &left to right": "De &esquerda para a direita",
+    "From &right to left": "De &esquerda para a direita",
+    "From &top to bottom": "De cima para baixo",
+    "Number of bands:": "Número de faixas:",
+    "Spin1": "Girar1"
+  },
+  "dialog_103": {
+    "&Bottom-left corner": "&Canto inferior esquerdo",
+    "&Center": "&Centralizar",
+    "&Horizontal": "&Horizontal",
+    "&Top-right corner": "&Canto superior direito",
+    "&Vertical": "&Vertical",
+    "Bottom-&right corner": "Canto inferior direito",
+    "Direction": "Direção",
+    "Slider1": "Controle deslizante 1",
+    "Start from": "Iniciar a partir de",
+    "Top-&left corner": "Canto superior esquerdo"
+  },
+  "dialog_104": {
+    "Slider1": "Controle deslizante 1"
+  },
+  "dialog_105": {
+    "Direction": "Direção",
+    "Horizontal, from center to &left && right": "Horizontal, do centro para a &esquerda e &direita",
+    "Horizontal, from left && &right to center": "Horizontal, da esquerda && &direita para o centro",
+    "Vertical, from center to &top && bottom": "Vertical, do centro para o topo e a base",
+    "Vertical, from top && &bottom to center": "Vertical, de cima && &para baixo para o centro"
+  },
+  "dialog_106": {
+    "Direction": "Direção",
+    "From &bottom to top": "De cima para baixo",
+    "From &left to right": "De &esquerda para a direita",
+    "From &right to left": "De &esquerda para a direita",
+    "From &top to bottom": "De cima para baixo"
+  },
+  "dialog_107": {
+    "Slider1": "Controle deslizante 1",
+    "Square Size": "Tamanho do Quadrado",
+    "with Stretch for the inside square": "com Alongamento para o quadrado interno"
+  },
+  "dialog_108": {
+    "&Randomly": "&Aleatoriamente",
+    "&Style 1": "&Estilo 1",
+    "&Style 2": "&Estilo 2",
+    "&Style 3": "&Estilo 3",
+    "&Style 4": "&Estilo 4",
+    "&Style 5": "&Estilo 5",
+    "&Style 6": "&Estilo 6",
+    "&Style 7": "&Estilo 7",
+    "&Style 8": "&Estilo 8"
+  },
+  "dialog_109": {
+    "Horizontal": "Horizontal",
+    "Nb Lines": "Número de Linhas",
+    "Scrolling": "Rolagem",
+    "Slider1": "Controle deslizante 1",
+    "Vertical": "Vertical"
+  },
+  "dialog_110": {
+    "Horizontal": "Horizontal",
+    "Number of lines :": "Número de linhas :",
+    "Slider1": "Controle deslizante 1",
+    "Vertical": "Vertical"
+  },
+  "dialog_112": {
+    "Bottom Left": "Canto Inferior Esquerdo",
+    "Bottom Right": "Canto Inferior Direito",
+    "Top Left": "Canto Superior Esquerdo",
+    "Top Right": "Canto Superior Direito"
+  },
+  "dialog_113": {
+    "4 corners": "4 cantos",
+    "Bottom Left": "Canto Inferior Esquerdo",
+    "Bottom Middle": "Centro Inferior",
+    "Bottom Right": "Canto Inferior Direito",
+    "Center": "Centralizar",
+    "Middle Left": "Centro Esquerdo",
+    "Middle Right": "Meio Direito",
+    "Top Left": "Canto Superior Esquerdo",
+    "Top Middle": "Topo Meio",
+    "Top Right": "Canto Superior Direito"
+  },
+  "dialog_114": {
+    "Inverse Rotation": "Rotação Inversa",
+    "Number of rotations": "Número de rotações",
+    "See Full Image": "Ver Imagem Completa",
+    "Slider1": "Controle deslizante 1"
+  },
+  "dialog_115": {
+    "Bottom Left": "Canto Inferior Esquerdo",
+    "Bottom Middle": "Centro Inferior",
+    "Bottom Right": "Canto Inferior Direito",
+    "Center H": "Centralizar H",
+    "Center H+V": "Centralizar H+V",
+    "Center V": "Centralizar V",
+    "Middle Left": "Centro Esquerdo",
+    "Middle Right": "Meio Direito",
+    "Top Left": "Canto Superior Esquerdo",
+    "Top Middle": "Topo Meio",
+    "Top Right": "Canto Superior Direito"
+  },
+  "dialog_116": {
+    "Open (Scrolling)": "Abrir (Rolagem)",
+    "Open (Stretch)": "Abrir (Esticar)",
+    "Slide (H)": "Deslizar (H)",
+    "Slide (V)": "Deslizar (V)",
+    "Slide (to Bottom Left)": "Deslizar (para a Esquerda Inferior)",
+    "Slide (to Bottom Right)": "Deslizar (para a parte inferior direita)",
+    "Slide (to Top Left)": "Deslizar (para o canto superior esquerdo)",
+    "Slide (to Top Right)": "Deslizar (para o canto superior direito)"
+  },
+  "dialog_117": {
+    "Zoom In": "Ampliar Zoom",
+    "Zoom Out": "Ampliar"
+  },
+  "dialog_118": {
+    "Cols": "Colunas",
+    "Rows": "Linhas",
+    "Slider1": "Controle deslizante 1"
+  },
+  "dialog_119": {
+    "2 Directions (Horizontal)": "2 Direções (Horizontal)",
+    "2 Directions (Vertical)": "2 Direções (Vertical)",
+    "4 Directions": "4 Direções"
+  },
+  "dialog_120": {
+    "Inverse Rotation": "Rotação Inversa",
+    "Nb Rotations": "Número de Rotações",
+    "Slider1": "Controle deslizante 1"
+  }
+}

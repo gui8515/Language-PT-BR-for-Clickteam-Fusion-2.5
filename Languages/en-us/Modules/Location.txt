@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "A new location is available": "A new location is available",
+    "Accuracy": "Accuracy",
+    "Are location services enabled?": "Are location services enabled?",
+    "Best accuracy": "Best accuracy",
+    "Choose the device accuracy": "Choose the device accuracy",
+    "Distance": "Distance",
+    "Enter the accuracy (0 to 4)": "Enter the accuracy (0 to 4)",
+    "Enter the distance filter in meters": "Enter the distance filter in meters",
+    "Enter the minimal distance in meters between two location updates": "Enter the minimal distance in meters between two location updates",
+    "Force location retrieval": "Force location retrieval",
+    "Hundred meters": "Hundred meters",
+    "Kilometer": "Kilometer",
+    "Location object": "Location object",
+    "Nearest ten meters": "Nearest ten meters",
+    "Retrieves the current location from the GPS on devices that support it (such as the iPhone or Android).": "Retrieves the current location from the GPS on devices that support it (such as the iPhone or Android).",
+    "Set distance filter to %0": "Set distance filter to %0",
+    "Set location accuracy to %0": "Set location accuracy to %0",
+    "Three kilometers": "Three kilometers"
+  },
+  "menu_20000": {
+    "Actions": "Actions",
+    "Get location": "Get location",
+    "Set accuracy": "Set accuracy",
+    "Set distance filter": "Set distance filter"
+  },
+  "menu_20001": {
+    "A new location is available": "A new location is available",
+    "Conditions": "Conditions",
+    "Location services enabled?": "Location services enabled?"
+  },
+  "menu_20002": {
+    "Accuracy": "Accuracy",
+    "Altitude": "Altitude",
+    "Coordinates": "Coordinates",
+    "Course": "Course",
+    "Distance filter": "Distance filter",
+    "Expressions": "Expressions",
+    "Latitude": "Latitude",
+    "Longitude": "Longitude",
+    "Other values": "Other values",
+    "Speed": "Speed",
+    "Time since last update": "Time since last update"
+  }
+}

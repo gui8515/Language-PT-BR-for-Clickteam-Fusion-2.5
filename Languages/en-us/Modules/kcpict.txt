@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "00Hide": "00Hide",
+    "00Image resize off": "00Image resize off",
+    "00Image resize on": "00Image resize on",
+    "00New picture from selector": "00New picture from selector",
+    "00Show": "00Show",
+    "00WARNING !!! Change this action to New picture": "00WARNING !!! Change this action to New picture",
+    "01%s: a picture is loaded": "01%s: a picture is loaded",
+    "01New picture : %s": "01New picture : %s",
+    "10%s: visible": "10%s: visible",
+    "Choose the picture to display": "Choose the picture to display",
+    "Custom": "Custom",
+    "Displays an image file as background object.": "Displays an image file as background object.",
+    "First Pixel": "First Pixel",
+    "Hide at start of frame": "Hide at start of frame",
+    "Hides the picture when the frame starts": "Hides the picture when the frame starts",
+    "Picture": "Picture",
+    "Picture filename": "Picture filename",
+    "Picture name: %s": "Picture name: %s",
+    "Picture object": "Picture object",
+    "Please select a picture": "Please select a picture",
+    "Resize picture to the size of the object": "Resize picture to the size of the object",
+    "The picture will be stretched to match the size of the object itself": "The picture will be stretched to match the size of the object itself",
+    "Transparent Color": "Transparent Color"
+  },
+  "menu_20000": {
+    "Image resize off": "Image resize off",
+    "Image resize on": "Image resize on",
+    "Make Object Invisible": "Make Object Invisible",
+    "Make Object Reappear": "Make Object Reappear",
+    "New picture": "New picture",
+    "New picture from selector": "New picture from selector",
+    "Visibility": "Visibility"
+  },
+  "menu_20001": {
+    "A picture is loaded ?": "A picture is loaded ?",
+    "Is visible ?": "Is visible ?"
+  },
+  "menu_20002": {
+    "Get X position": "Get X position",
+    "Get Y position": "Get Y position",
+    "Get picture name": "Get picture name",
+    "Get picture original x size": "Get picture original x size",
+    "Get picture original y size": "Get picture original y size",
+    "Get picture screen x size": "Get picture screen x size",
+    "Get picture screen y size": "Get picture screen y size"
+  }
+}

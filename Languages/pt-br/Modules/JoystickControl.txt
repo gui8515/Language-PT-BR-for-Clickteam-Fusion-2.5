@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "Allows you to control the virtual joystick input.": "Permite controlar a entrada do joystick virtual.",
+    "Enter 1 for left handed": "Digite 1 para canhotos",
+    "Enter 1 to display button 1, 0 to hide it": "Digite 1 para exibir o botão 1 e 0 para ocultá-lo",
+    "Enter 1 to display button 2, 0 to hide it": "Digite 1 para exibir o botão 2 e 0 para ocultá-lo",
+    "Enter 1 to display joystick, 0 to hide it": "Digite 1 para exibir o joystick, 0 para ocultá-lo",
+    "Enter the binary mask. 0001:top 0010:bottom 0100:left 1000:right 10000:fire1 100000:fire2": "Digite a máscara binária. 0001:topo 0010:inferior 0100:esquerda 1000:direita 10000:fogo1 100000:fogo2",
+    "Joystick Control object": "Objeto de Controle Joystick",
+    "Set X button 1 to %0": "Definir botão X 1 para %0",
+    "Set X button 2 to %0": "Definir botão X 2 para %0",
+    "Set X joystick to %0": "Definir X do joystick para %0",
+    "Set Y button 1 to %0": "Definir botão Y 1 para %0",
+    "Set Y button 2 to %0": "Definir botão Y 2 para %0",
+    "Set Y joystick to %0": "Definir Y do joystick para %0",
+    "Set button 1 position to %0": "Definir posição do botão 1 para %0",
+    "Set button 2 position to %0": "Definir posição do botão 2 para %0",
+    "Set joystick mask to %0": "Definir máscara do joystick para %0",
+    "Set joystick position to %0": "Definir posição do joystick para %0",
+    "Start accelerometer joystick": "Iniciar joystick de acelerômetro",
+    "Start/stop touch joystick %0 (joystick), %1 (button 1), %2 (button 2), %3 (left handed)": "Iniciar/parar joystick de toque %0 (joystick), %1 (botão 1), %2 (botão 2), %3 (canhoto)",
+    "Stop accelerometer joystick": "Parar joystick de acelerômetro"
+  },
+  "menu_20000": {
+    "Accelerometer": "Acelerômetro",
+    "Actions": "Ações",
+    "Set button 1 X coordinate": "Definir coordenada X do botão 1",
+    "Set button 1 Y coordinate": "Definir coordenada Y do botão 1",
+    "Set button 1 position": "Definir posição do botão 1",
+    "Set button 2 X coordinate": "Definir coordenada X do botão 2",
+    "Set button 2 Y coordinate": "Definir coordenada Y do botão 2",
+    "Set button 2 position": "Definir posição do botão 2",
+    "Set joystick X coordinate": "Definir coordenada X do joystick",
+    "Set joystick Y coordinate": "Definir coordenada Y do joystick",
+    "Set joystick mask": "Definir máscara do joystick",
+    "Set joystick position": "Definir posição do joystick",
+    "Start accelerometer joystick": "Iniciar joystick de acelerômetro",
+    "Start/stop touch joystick": "Iniciar/parar joystick de toque",
+    "Stop accelerometer joystick": "Parar joystick de acelerômetro",
+    "Touch joystick": "Controlar Joystick"
+  },
+  "menu_20001": {
+    "Conditions": "Condições"
+  },
+  "menu_20002": {
+    "Button 1": "Botão 1",
+    "Button 2": "Botão 2",
+    "Expressions": "Expressões",
+    "Touch joystick": "Controlar Joystick",
+    "X Coordinate": "Coordenada X",
+    "Y Coordinate": "Coordenada Y"
+  }
+}

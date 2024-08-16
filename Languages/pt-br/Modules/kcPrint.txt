@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "00Change printing method to best fit": "00Mudar o método de impressão para melhor ajuste",
+    "00Change printing method to scale": "00Mudar método de impressão para escala",
+    "00Change printing method to stretch to page": "00Alterar o método de impressão para se ajustar à página",
+    "00Print blank page": "Imprimir página em branco",
+    "00Print client zone": "Imprimir zona do cliente 00",
+    "00Print screen": "Imprimir tela 00",
+    "00Print window": "Imprimir janela 00",
+    "00Setup printer": "Configurar impressora 00",
+    "01Print Text %s": "01Imprimir Texto %s",
+    "01Print Text file %s": "01Imprimir arquivo de texto %s",
+    "01Print zone %s": "01Imprimir zona %s",
+    "01Set x scale to %s": "Definir escala x para %s",
+    "01Set y scale to %s": "Definir escala y para %s",
+    "Allows you to print the screen or an area of your application window.": "Permite imprimir a tela ou uma área da janela do seu aplicativo.",
+    "Print": "Imprimir",
+    "Print object": "Imprimir objeto",
+    "Printing '%s'": "Imprimindo '%s'",
+    "Printing band #%d": "Imprimindo faixa #%d",
+    "Printing datas": "Imprimindo dados",
+    "Printing page #%d": "Imprimindo página #%d",
+    "Sending datas to printer...": "Enviando dados para a impressora...",
+    "on %s on %s": "em %s em %s"
+  },
+  "dialog_PRINTING": {
+    "Cancel": "Cancelar",
+    "PRINTER": "IMPRESSORA",
+    "Print Bitmap": "Imprimir Bitmap",
+    "Printing": "Imprimindo",
+    "Spooling...": "Carregando...",
+    "on Printer": "na impressora"
+  },
+  "menu_20000": {
+    "Best fit": "Melhor ajuste",
+    "Print Client zone": "Imprimir Zona do Cliente",
+    "Print Screen": "Imprimir Tela",
+    "Print Text": "Imprimir Texto",
+    "Print Text file": "Imprimir Arquivo de Texto",
+    "Print Window": "Imprimir Janela",
+    "Print blank page": "Imprimir página em branco",
+    "Print zone...": "Imprimir zona...",
+    "Printer Setup": "Configuração da Impressora",
+    "Printing method": "Método de impressão",
+    "Scale": "Escalar",
+    "Set x scale": "Definir escala em X",
+    "Set y scale": "Definir escala y",
+    "Stretch to page": "Ajustar para página"
+  }
+}

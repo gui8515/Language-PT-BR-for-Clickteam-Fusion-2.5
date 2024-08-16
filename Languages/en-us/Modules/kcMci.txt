@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "01Return string%s": "01Return string%s",
+    "01Return value%s": "01Return value%s",
+    "01Send %s": "01Send %s",
+    "Any sound will be terminated prior to sending a command": "Any sound will be terminated prior to sending a command",
+    "Check this box to close the device when the frame ends": "Check this box to close the device when the frame ends",
+    "Check this box to open the device at start of frame": "Check this box to open the device at start of frame",
+    "Close MCI device at end of frame": "Close MCI device at end of frame",
+    "Close sound device before sending commands": "Close sound device before sending commands",
+    "Device": "Device",
+    "Device name": "Device name",
+    "Display all error messages": "Display all error messages",
+    "Display in a dialog box any error message": "Display in a dialog box any error message",
+    "Enter the name of the device": "Enter the name of the device",
+    "Last error: %i": "Last error: %i",
+    "MCI": "MCI",
+    "MCI object": "MCI object",
+    "Microsoft standard for controlling any multimedia device connected to your computer.": "Microsoft standard for controlling any multimedia device connected to your computer.",
+    "Open MCI device at start of frame": "Open MCI device at start of frame",
+    "Options": "Options",
+    "Pause command": "Pause command",
+    "Please, enter a valid device name.": "Please, enter a valid device name.",
+    "Resume command": "Resume command",
+    "Return string: %s": "Return string: %s",
+    "String to send to the device when a Pause happens": "String to send to the device when a Pause happens",
+    "String to send to the device when resuming from a pause": "String to send to the device when resuming from a pause"
+  },
+  "menu_20000": {
+    "Send a command": "Send a command"
+  },
+  "menu_20001": {
+    "Compare to returned number": "Compare to returned number",
+    "Compare to returned string": "Compare to returned string"
+  },
+  "menu_20002": {
+    "Last error number": "Last error number",
+    "Return string": "Return string",
+    "Return value": "Return value"
+  }
+}

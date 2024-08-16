@@ -1,0 +1,65 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+
+<head>
+<title>Vector Movement - Clickteam</title>
+
+
+<link rel="stylesheet" href="../style_default.css" type="text/css">
+
+</head>
+<body>
+
+<h1>Vector Movement</h1>
+<p>
+
+<hr>
+
+<h2>Overview</h2>
+<p class="main_content">
+Create a huge array of movement types with the single movement and the control extension. The movement simply controls
+an object by storing acceleration and velocity vectors which are updated each loop. The real power of the movement comes when
+combined with the Clickteam Movement Control extension providing a multitude of manipulation options. Please see the included example
+file for a more complete idea of the movements potential uses. Note: MMF1.5 users will find this movement provides a complete
+replacement for the "Movement Extension" which is not available for CF 2.5.
+</p>
+<h2>Using the movement</h2>
+<p class="main_content">
+The vector movement can be used for so many different ways that it almost always requires the control extension to be inserted in the
+frame with it. Configure the initial properties as needed but it some cases these values may not be important as you may intend to
+set them from within the event editor with the control extension. It is highly recommended you view the included examples file
+for this movement. Remember to set the gravity strength to zero if gravity / acceleration is not required in your movement.
+</p>
+
+<h2>Frame editor properties</h2>
+<img src="../images/settings-vector.png" alt="Image showing the properties for this movement">
+<p class="main_content_smaller">
+Figure 1: Movement properties for the Vector Movement.
+<br /><br />
+</p>
+
+<p class="main_header">General Properties</p>
+<p class="main_content">
+	<b>Move at start:</b> Defines if the movement starts when the frame does or if the movement is initially paused.<br />
+	<b>Automatically set animation direction:</b> With this options set the movement will change the animation direction based on
+	the direction of the movement, in some cases you may prefer to handle the direction setting manually.
+</p>
+<p class="main_header">Initial Direction and Speed</p>
+<p class="main_content">
+	<b>Speed:</b> Initial speed of the object. The object will move 0.1x this value every frame (if not accelerated)<br />
+	<b>Direction:</b> The direction (or angle) the object will initially move in, value is in degrees.<br />
+</p>
+<p class="main_header">Gravity / Acceleration</p>
+<p class="main_content">
+	<b>Strength:</b> Strength of the gravity / acceleration. The objects velocity in change by a factor of 0.1x this value every frame.<br />
+	<b>Direction:</b> The direction (or angle) in which gravity / acceleration acts on the object, value is in degrees.<br />
+
+</p>
+
+<br />
+
+
+<br /><br /><br />
+
+</body>
+</html>

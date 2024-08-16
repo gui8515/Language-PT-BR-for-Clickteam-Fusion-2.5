@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "%d (Num. keypad)": "%d (Teclado numérico)",
+    "An error has occured while reading the file.": "Ocorreu um erro ao ler o arquivo.",
+    "An error has occured while writing the file.": "Ocorreu um erro ao gravar o arquivo.",
+    "Backspace": "Backspace",
+    "Clear": "Limpar",
+    "Control": "Controle",
+    "Del": "Apagar",
+    "Down Arrow": "Seta para baixo",
+    "End": "Fim",
+    "Enter": "Entrar",
+    "Escape": "Esc",
+    "Execute": "Executar",
+    "Home": "Início",
+    "Ins": "\"Ins\"",
+    "Joystick not connected or driver not installed.": "Controle joystick não conectado ou driver não instalado.",
+    "Left Arrow": "Seta Esquerda",
+    "Page Down": "Página Abaixo",
+    "Page Up": "Página para cima",
+    "Right Arrow": "Seta para a Direita",
+    "Select": "Selecionar",
+    "Shift": "Shiftar",
+    "Space bar": "Barra de Espaço",
+    "Tab": "Guia",
+    "The current frame is not the same as the saved one.": "O frame atual não é o mesmo que o salvo.",
+    "This file is not a position file.": "Este arquivo não é um arquivo de posição.",
+    "This file was not saved by this application.": "Este arquivo não foi salvo por este aplicativo.",
+    "This file was saved by a incompatible version of the application.": "Este arquivo foi salvo por uma versão incompatível do aplicativo.",
+    "This file was saved with an incompatible version of MMF runtime.": "Este arquivo foi salvo com uma versão incompatível do tempo de execução do MMF.",
+    "Up Arrow": "Seta para cima"
+  },
+  "dialog_110": {
+    "About": "Sobre",
+    "OK": "OK"
+  },
+  "dialog_111": {
+    "Application paused": "Aplicativo pausado",
+    "Continue": "Continuar"
+  },
+  "dialog_112": {
+    "Cancel": "Cancelar",
+    "Default Controls": "Controles Padrão",
+    "Joystick 1": "Controle 1",
+    "Joystick 2": "Controle 2",
+    "Joystick 3": "Controle 3",
+    "Joystick 4": "Controle 4",
+    "Keyboard": "Teclado",
+    "OK": "OK",
+    "Player controls": "Controles do Jogador"
+  },
+  "dialog_113": {
+    "Button 1": "Botão 1",
+    "Button 2": "Botão 2",
+    "Button 3": "Botão 3",
+    "Button 4": "Botão 4",
+    "Cancel": "Cancelar",
+    "Down": "Baixo",
+    "Keyboard setup": "Configuração do teclado",
+    "Left": "Esquerda",
+    "OK": "OK",
+    "Press a key ... (or ESC to cancel)": "Pressione uma tecla ... (ou ESC para cancelar)",
+    "Right": "Direita",
+    "Up": "Cima"
+  },
+  "dialog_114": {
+    "Cancel": "Cancelar",
+    "Enter password": "Digite a senha",
+    "OK": "OK"
+  }
+}

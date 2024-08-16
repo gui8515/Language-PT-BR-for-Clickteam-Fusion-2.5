@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "%o : Item has tag %0": "\"%o : O item possui a marca %0\"",
+    "%o : On error": "%o : Em caso de erro",
+    "%o : On item owned": "%o : Você possui este item",
+    "%o : On new item": "%o : Ao novo item",
+    "Add item %0 to show in store": "Adicionar item %0 para exibir na loja",
+    "Consumable name": "Nome do Consumível",
+    "Decrement consumable %0": "Decrementar consumível %0",
+    "Increment consumable %0": "Incrementar consumível %0",
+    "Item ID": "ID do Item",
+    "Item tag or unique ID": "Tag de item ou ID único",
+    "Mochi Coins": "Moedas Mochi",
+    "Obsolete. This object is provided for compatibility reasons only.": "Obsoleto. Este objeto é fornecido apenas para fins de compatibilidade.",
+    "Property name": "Nome da Propriedade",
+    "Remove consumable %0": "Remover item consumível %0",
+    "Set consumable %0 to %1": "Definir consumível %0 para %1",
+    "Show single item with ID %0": "Mostrar item único com ID %0",
+    "Show store": "Mostrar loja",
+    "Show video for item with ID %0": "Mostrar vídeo para o item com ID %0",
+    "Tag": "Etiqueta",
+    "Value": "Valor"
+  },
+  "menu_20000": {
+    "Add item to show": "Adicionar item para exibir",
+    "Consumable": "Consumivel",
+    "Decrement": "Decrementar",
+    "Increment": "Incrementar",
+    "Remove": "Remover",
+    "Set/create": "Definir/criar",
+    "Show item video": "Mostrar vídeo do item",
+    "Show single item": "Mostrar item único",
+    "Show store": "Mostrar loja",
+    "Store": "Armazenar"
+  },
+  "menu_20001": {
+    "Item has tag": "O item tem a etiqueta",
+    "On error": "Em caso de erro",
+    "On item owned": "Ao possuir o item",
+    "On new item": "Ao criar um novo item"
+  },
+  "menu_20002": {
+    "Get consumable amount": "Obter quantidade de item consumível",
+    "Get item ID": "Obter ID do item",
+    "Get item count": "Obter a contagem de itens",
+    "Get item property": "Obter propriedade do item"
+  }
+}

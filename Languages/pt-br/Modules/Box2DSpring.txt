@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "Activated : %i": "Ativado: %i",
+    "Active at start": "Ativo na inicialização",
+    "Advanced": "Avançado",
+    "Angle : %i degrees": "Ângulo: %i graus",
+    "Auto rotation": "Rotação automática",
+    "Box": "Caixa",
+    "Check this box to make your spring active when the frame starts": "Marque esta caixa para ativar sua mola quando o frame iniciar",
+    "Check to enable automatic rotations of the image": "Marque para ativar rotações automáticas da imagem",
+    "Check to resample the image of the object when rotating it (slower for large number of objects).": "Marque para reamostrar a imagem do objeto quando ele estiver girando (mais lento para um grande número de objetos).",
+    "Circle": "Círculo",
+    "Collision shape": "Forma de colisão",
+    "Engine ID": "ID do Motor",
+    "Enter the direction of the spring": "Digite a direção da mola",
+    "Enter the identifier of the movement, that must match the identifier of the engine object.": "Digite o identificador do movimento, que deve corresponder ao identificador do objeto do motor.",
+    "Enter the strength of the spring, (0 = inactive)": "Digite a força da mola (0 = inativo)",
+    "Physics - Spring": "Física - mola",
+    "Please choose the shape of the collision box": "Por favor, escolha a forma da caixa de colisão",
+    "Please drop a 'Physics Engine' object in your frame.": "Por favor, adicione um objeto 'Motor de Física' ao seu frame.",
+    "Shape of first image": "Forma da primeira imagem",
+    "Smooth rotations": "Rotações suaves",
+    "Spring directions": "Direções da mola",
+    "Strength": "Força",
+    "Strength : %i": "Força : %i",
+    "Type : Spring": "Tipo: mola"
+  }
+}

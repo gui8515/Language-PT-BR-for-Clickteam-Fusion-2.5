@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "00Hide": "00Hide",
+    "00New file from selector": "00New file from selector",
+    "00Show": "00Show",
+    "01New file %s": "01New file %s",
+    "01Set X coordinate at %s": "01Set X coordinate at %s",
+    "01Set horizontal size to %s": "01Set horizontal size to %s",
+    "01Set position at %s": "01Set position at %s",
+    "01Set vertical size to %s": "01Set vertical size to %s",
+    "10%s: a file is opened": "10%s: a file is opened",
+    "10%s: visible": "10%s: visible",
+    "21User %s within %s": "21User %s within %s",
+    "Plays QuickTimeVR 2 files. Obsolete, please use the QuickTime object instead.": "Plays QuickTimeVR 2 files. Obsolete, please use the QuickTime object instead.",
+    "Please select a QuickTime VR file": "Please select a QuickTime VR file",
+    "Please, enter a valid QuickTime VR filename.": "Please, enter a valid QuickTime VR filename.",
+    "QuickTime VR 2": "QuickTime VR 2",
+    "QuickTime VR 2 object": "QuickTime VR 2 object",
+    "QuickTime VR files (*.mov)|*.mov|": "QuickTime VR files (*.mov)|*.mov|",
+    "Warning: the 32 bit version of QuickTimeVR cannot be found on your machine.": "Warning: the 32 bit version of QuickTimeVR cannot be found on your machine."
+  },
+  "dialog_20003": {
+    "&Browse": "&Browse",
+    "&Help": "&Help",
+    "&Use default size": "&Use default size",
+    "Cancel": "Cancel",
+    "File to play": "File to play",
+    "Hide on &start": "Hide on &start",
+    "IMPORTANT : this object only works with QuickTime 2, it is provided for compatibility reasons only. Please use the new QuickTime 3 object which works with the latest versions of QuickTime and can play QuickTimeVR files.": "IMPORTANT : this object only works with QuickTime 2, it is provided for compatibility reasons only. Please use the new QuickTime 3 object which works with the latest versions of QuickTime and can play QuickTimeVR files.",
+    "OK": "OK",
+    "Options": "Options",
+    "Setup QuickTime VR object": "Setup QuickTime VR object",
+    "Use &Current Frame Palette": "Use &Current Frame Palette",
+    "Zoom X2": "Zoom X2"
+  },
+  "menu_20000": {
+    "A new file": "A new file",
+    "A new file via a file selector": "A new file via a file selector",
+    "Make Object Invisible": "Make Object Invisible",
+    "Make Object Reappear": "Make Object Reappear",
+    "Play": "Play",
+    "Position": "Position",
+    "Set Horizontal size": "Set Horizontal size",
+    "Set Position": "Set Position",
+    "Set Vertical size": "Set Vertical size",
+    "Set X Position": "Set X Position",
+    "Set Y Position": "Set Y Position",
+    "Size": "Size",
+    "Visibility": "Visibility"
+  },
+  "menu_20001": {
+    "Check whether a file is open ?": "Check whether a file is open ?",
+    "Is visible ?": "Is visible ?",
+    "Mouse clicks within the QuickTime VR Window ?": "Mouse clicks within the QuickTime VR Window ?"
+  },
+  "menu_20002": {
+    "Horizontal size": "Horizontal size",
+    "Last error number": "Last error number",
+    "Vertical size": "Vertical size",
+    "X position": "X position",
+    "Y position": "Y position"
+  }
+}

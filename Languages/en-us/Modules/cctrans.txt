@@ -1,0 +1,165 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "Advanced Scrolling": "Advanced Scrolling",
+    "Back": "Back",
+    "Bands": "Bands",
+    "Cell": "Cell",
+    "Cross rain": "Cross rain",
+    "Diagonal": "Diagonal",
+    "Door": "Door",
+    "Fade": "Fade",
+    "Line": "Line",
+    "Mosaic": "Mosaic",
+    "Open": "Open",
+    "Push": "Push",
+    "Rain": "Rain",
+    "Scrolling": "Scrolling",
+    "Spot width: %d%%": "Spot width: %d%%",
+    "Square": "Square",
+    "Standard transitions": "Standard transitions",
+    "Stretch": "Stretch",
+    "Stretch 2": "Stretch 2",
+    "Turn": "Turn",
+    "Turn 2": "Turn 2",
+    "Weft": "Weft",
+    "ZigZag 2": "ZigZag 2",
+    "Zigzag": "Zigzag",
+    "Zoom": "Zoom",
+    "Zoom 2": "Zoom 2"
+  },
+  "dialog_102": {
+    "Direction": "Direction",
+    "From &bottom to top": "From &bottom to top",
+    "From &left to right": "From &left to right",
+    "From &right to left": "From &right to left",
+    "From &top to bottom": "From &top to bottom",
+    "Number of bands:": "Number of bands:",
+    "Spin1": "Spin1"
+  },
+  "dialog_103": {
+    "&Bottom-left corner": "&Bottom-left corner",
+    "&Center": "&Center",
+    "&Horizontal": "&Horizontal",
+    "&Top-right corner": "&Top-right corner",
+    "&Vertical": "&Vertical",
+    "Bottom-&right corner": "Bottom-&right corner",
+    "Direction": "Direction",
+    "Slider1": "Slider1",
+    "Start from": "Start from",
+    "Top-&left corner": "Top-&left corner"
+  },
+  "dialog_104": {
+    "Slider1": "Slider1"
+  },
+  "dialog_105": {
+    "Direction": "Direction",
+    "Horizontal, from center to &left && right": "Horizontal, from center to &left && right",
+    "Horizontal, from left && &right to center": "Horizontal, from left && &right to center",
+    "Vertical, from center to &top && bottom": "Vertical, from center to &top && bottom",
+    "Vertical, from top && &bottom to center": "Vertical, from top && &bottom to center"
+  },
+  "dialog_106": {
+    "Direction": "Direction",
+    "From &bottom to top": "From &bottom to top",
+    "From &left to right": "From &left to right",
+    "From &right to left": "From &right to left",
+    "From &top to bottom": "From &top to bottom"
+  },
+  "dialog_107": {
+    "Slider1": "Slider1",
+    "Square Size": "Square Size",
+    "with Stretch for the inside square": "with Stretch for the inside square"
+  },
+  "dialog_108": {
+    "&Randomly": "&Randomly",
+    "&Style 1": "&Style 1",
+    "&Style 2": "&Style 2",
+    "&Style 3": "&Style 3",
+    "&Style 4": "&Style 4",
+    "&Style 5": "&Style 5",
+    "&Style 6": "&Style 6",
+    "&Style 7": "&Style 7",
+    "&Style 8": "&Style 8"
+  },
+  "dialog_109": {
+    "Horizontal": "Horizontal",
+    "Nb Lines": "Nb Lines",
+    "Scrolling": "Scrolling",
+    "Slider1": "Slider1",
+    "Vertical": "Vertical"
+  },
+  "dialog_110": {
+    "Horizontal": "Horizontal",
+    "Number of lines :": "Number of lines :",
+    "Slider1": "Slider1",
+    "Vertical": "Vertical"
+  },
+  "dialog_112": {
+    "Bottom Left": "Bottom Left",
+    "Bottom Right": "Bottom Right",
+    "Top Left": "Top Left",
+    "Top Right": "Top Right"
+  },
+  "dialog_113": {
+    "4 corners": "4 corners",
+    "Bottom Left": "Bottom Left",
+    "Bottom Middle": "Bottom Middle",
+    "Bottom Right": "Bottom Right",
+    "Center": "Center",
+    "Middle Left": "Middle Left",
+    "Middle Right": "Middle Right",
+    "Top Left": "Top Left",
+    "Top Middle": "Top Middle",
+    "Top Right": "Top Right"
+  },
+  "dialog_114": {
+    "Inverse Rotation": "Inverse Rotation",
+    "Number of rotations": "Number of rotations",
+    "See Full Image": "See Full Image",
+    "Slider1": "Slider1"
+  },
+  "dialog_115": {
+    "Bottom Left": "Bottom Left",
+    "Bottom Middle": "Bottom Middle",
+    "Bottom Right": "Bottom Right",
+    "Center H": "Center H",
+    "Center H+V": "Center H+V",
+    "Center V": "Center V",
+    "Middle Left": "Middle Left",
+    "Middle Right": "Middle Right",
+    "Top Left": "Top Left",
+    "Top Middle": "Top Middle",
+    "Top Right": "Top Right"
+  },
+  "dialog_116": {
+    "Open (Scrolling)": "Open (Scrolling)",
+    "Open (Stretch)": "Open (Stretch)",
+    "Slide (H)": "Slide (H)",
+    "Slide (V)": "Slide (V)",
+    "Slide (to Bottom Left)": "Slide (to Bottom Left)",
+    "Slide (to Bottom Right)": "Slide (to Bottom Right)",
+    "Slide (to Top Left)": "Slide (to Top Left)",
+    "Slide (to Top Right)": "Slide (to Top Right)"
+  },
+  "dialog_117": {
+    "Zoom In": "Zoom In",
+    "Zoom Out": "Zoom Out"
+  },
+  "dialog_118": {
+    "Cols": "Cols",
+    "Rows": "Rows",
+    "Slider1": "Slider1"
+  },
+  "dialog_119": {
+    "2 Directions (Horizontal)": "2 Directions (Horizontal)",
+    "2 Directions (Vertical)": "2 Directions (Vertical)",
+    "4 Directions": "4 Directions"
+  },
+  "dialog_120": {
+    "Inverse Rotation": "Inverse Rotation",
+    "Nb Rotations": "Nb Rotations",
+    "Slider1": "Slider1"
+  }
+}

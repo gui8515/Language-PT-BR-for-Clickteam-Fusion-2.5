@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "00Read Info": "00Read Info",
+    "00Reset info": "00Reset info",
+    "10%s: Application never used?": "10%s: Application never used?",
+    "10%s: Data Integrity Problem?": "10%s: Data Integrity Problem?",
+    "10%s: Is trial period expired?": "10%s: Is trial period expired?",
+    "11%s: number of days since first use %s": "11%s: number of days since first use %s",
+    "11%s: number of days since highest last use %s": "11%s: number of days since highest last use %s",
+    "Allows you to make demo versions that expire after a given time.": "Allows you to make demo versions that expire after a given time.",
+    "Display Message %0 (title=%1)": "Display Message %0 (title=%1)",
+    "Message Text": "Message Text",
+    "Set Private Data to %0": "Set Private Data to %0",
+    "Trial Period Object": "Trial Period Object",
+    "Window Title": "Window Title"
+  },
+  "dialog_101": {
+    "&Help": "&Help",
+    "&Reset": "&Reset",
+    "&Shared by all users (requires administrator rights)": "&Shared by all users (requires administrator rights)",
+    "Cancel": "Cancel",
+    "Compatible with V1": "Compatible with V1",
+    "Expiration": "Expiration",
+    "OK": "OK",
+    "Product ID (8 characters)": "Product ID (8 characters)",
+    "Tests": "Tests",
+    "Trial Period Duration (number of days)": "Trial Period Duration (number of days)",
+    "Trial Period Object Setup": "Trial Period Object Setup"
+  },
+  "menu_20000": {
+    "Display Message": "Display Message",
+    "Read Info": "Read Info",
+    "Reset Info": "Reset Info",
+    "Set Private Data": "Set Private Data"
+  },
+  "menu_20001": {
+    "Compare number of days since first use": "Compare number of days since first use",
+    "Compare number of days since highest use": "Compare number of days since highest use",
+    "Data Integrity Problem?": "Data Integrity Problem?",
+    "Is Trial Period Expired?": "Is Trial Period Expired?",
+    "Never used?": "Never used?"
+  },
+  "menu_20002": {
+    "Number of days since first use": "Number of days since first use",
+    "Number of days since highest use": "Number of days since highest use",
+    "Private Data": "Private Data"
+  }
+}

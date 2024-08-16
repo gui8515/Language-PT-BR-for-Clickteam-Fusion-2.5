@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "Advanced": "Avançado",
+    "All the objects under the pin": "Todos os objetos sob o pino",
+    "Check and all the objects will be linked to the position of the pin.": "Verifique e todos os objetos serão vinculados à posição do pino.",
+    "Choose how many objects should be linked together.": "Escolha quantos objetos devem ser vinculados juntos.",
+    "Creates revolute joints between objects.": "Cria articulações de revolução entre objetos.",
+    "Destroy joint": "Destruir junta",
+    "Engine ID": "ID do Motor",
+    "Enter the higher limit angle, in degrees (0 - 360)": "Digite o ângulo limite superior, em graus (0 - 360)",
+    "Enter the identifier of the engine to use for the ground.": "Digite o identificador do motor a ser usado para o solo.",
+    "Enter the lower angle limit. If greater than the higher limit, no limit will be applied.": "Digite o limite inferior do ângulo. Se for maior que o limite superior, nenhum limite será aplicado.",
+    "Enter the lower limit angle, in degrees (0 - 360)": "Digite o ângulo limite inferior, em graus (0 - 360)",
+    "Enter the speed of the motor (-250 - 250)": "Digite a velocidade do motor (-250 - 250)",
+    "Enter the speed of the motor. Negative values turn counter clockwise.": "Digite a velocidade do motor. Valores negativos giram no sentido anti-horário.",
+    "Enter the torque of the motor": "Digite o torque do motor",
+    "Enter the torque of the motor.": "Digite o torque do motor.",
+    "Enter the upper angle limit. If lower than the lower limit, no limit will be applied.": "Digite o limite superior do ângulo. Se for menor que o limite inferior, nenhum limite será aplicado.",
+    "Joint": "Juntar",
+    "Link to the ground": "Vincular ao solo",
+    "Lower angle": "Ângulo inferior",
+    "Motor": "Motor",
+    "Only the two topmost objects": "Apenas os dois objetos mais superiores",
+    "Physics - Joint": "Física - Articulação",
+    "Please drop a 'Physics Engine' object in your frame.": "Por favor, adicione um objeto 'Motor de Física' ao seu frame.",
+    "Set angle limits to %0 (lower angle) and %1 (upper angle)": "Definir limites de ângulo para %0 (ângulo inferior) e %1 (ângulo superior)",
+    "Set motor to %0 (torque) and %1 (strength)": "Definir motor para %0 (torque) e %1 (força)",
+    "Speed": "Velocidade",
+    "Torque": "Torque",
+    "Type": "Tipo",
+    "Upper angle": "Ângulo superior"
+  },
+  "menu_20000": {
+    "Actions": "Ações",
+    "Destroy joint": "Destruir junta",
+    "Set angle limits": "Definir limites de ângulo",
+    "Set joint motor": "Definir motor da junta"
+  },
+  "menu_20002": {
+    "Expressions": "Expressões",
+    "Lower angle limit": "Limite inferior do ângulo",
+    "Motor speed": "Velocidade do motor",
+    "Motor torque": "Torque do motor",
+    "Upper angle limit": "Limite superior do ângulo"
+  }
+}

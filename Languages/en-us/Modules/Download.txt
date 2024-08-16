@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "#Title#Enter the name of the destination file...": "#Title#Enter the name of the destination file...",
+    "%o: Connection error in slot %0": "%o: Connection error in slot %0",
+    "%o: Download aborted in slot %0": "%o: Download aborted in slot %0",
+    "%o: Download in progress slot %0": "%o: Download in progress slot %0",
+    "%o: Download successfully completed slot %0": "%o: Download successfully completed slot %0",
+    "Abort download slot %0": "Abort download slot %0",
+    "Allows you to download file from the Internet.": "Allows you to download file from the Internet.",
+    "Average speed : %i bytes per second": "Average speed : %i bytes per second",
+    "Current URL : %s": "Current URL : %s",
+    "Download Object": "Download Object",
+    "Download file, Url=%0, destination=%1, slot %2": "Download file, Url=%0, destination=%1, slot %2",
+    "Download object": "Download object",
+    "Enter file URL": "Enter file URL",
+    "Enter the URL of the file. It must begin with HTTP:// or HTTPS://": "Enter the URL of the file. It must begin with HTTP:// or HTTPS://",
+    "Enter the slot number (1-4)": "Enter the slot number (1-4)",
+    "Number of bytes read : %i": "Number of bytes read : %i",
+    "Pause download slot %0": "Pause download slot %0",
+    "Resume download slot %0": "Resume download slot %0",
+    "Size of the file to download : %i": "Size of the file to download : %i",
+    "Slot 1": "Slot 1",
+    "Slot 2": "Slot 2",
+    "Slot 3": "Slot 3",
+    "Slot 4": "Slot 4"
+  },
+  "menu_20000": {
+    "Abort download": "Abort download",
+    "Download file": "Download file",
+    "Pause download": "Pause download",
+    "Resume download": "Resume download"
+  },
+  "menu_20001": {
+    "Connection error?": "Connection error?",
+    "Download aborted?": "Download aborted?",
+    "Download in progress?": "Download in progress?",
+    "Download successfully completed?": "Download successfully completed?"
+  },
+  "menu_20002": {
+    "Current URL": "Current URL",
+    "Current download percentage": "Current download percentage",
+    "Current download position": "Current download position",
+    "Current speed (bytes per second)": "Current speed (bytes per second)",
+    "Estimated download time": "Estimated download time",
+    "Get file size (without download)": "Get file size (without download)",
+    "Total file size": "Total file size"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "Achieved": "Conquistado",
+    "Achievement title": "Título da conquista",
+    "Click Edit to draw the images of the achievement": "Clique em Editar para desenhar as imagens da conquista",
+    "Description of the achievement, after completion": "Descrição da conquista após a conclusão",
+    "Description of the achievement, before completion": "Descrição da conquista antes de ser concluída",
+    "Displays one Game Center achievement in your iOS application.": "Exibe um conquista do Game Center em seu aplicativo iOS.",
+    "Enter the achievement identifier as defined in iTunes Connect": "Digite o identificador de conquista conforme definido no iTunes Connect",
+    "Game Center Achievement": "Conquista do Game Center",
+    "Identifier": "Identificador",
+    "Images": "Imagens",
+    "Unachieved": "Não Conquistado"
+  },
+  "menu_20002": {
+    "Expressions": "Expressões",
+    "Get achievement achieved description": "Obter descrição de conquista alcançada",
+    "Get achievement maximum points": "Obter pontos máximos de conquista",
+    "Get achievement percentage": "Obter porcentagem de conquista",
+    "Get achievement title": "Obter título de conquista",
+    "Get achievement unachieved description": "Obter descrição de conquista não conquistada"
+  }
+}

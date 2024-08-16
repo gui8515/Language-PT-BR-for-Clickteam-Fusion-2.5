@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "%o: On Ad Clicked": "%o: On Ad Clicked",
+    "%o: On Ad Closed": "%o: On Ad Closed",
+    "%o: On Ad Error": "%o: On Ad Error",
+    "%o: On Ad Loaded": "%o: On Ad Loaded",
+    "%o: On Ad Shown": "%o: On Ad Shown",
+    "%o: On Api Ready": "%o: On Api Ready",
+    "6V4": "6V4",
+    "Disable Ads": "Disable Ads",
+    "Enable Ads": "Enable Ads",
+    "Enter Ad Size (0:320x250, 1:90x90)": "Enter Ad Size (0:320x250, 1:90x90)",
+    "Enter Delay Value (in msecs, default is 3000)": "Enter Delay Value (in msecs, default is 3000)",
+    "Enter Timeout Value (in msecs, default is 0)": "Enter Timeout Value (in msecs, default is 0)",
+    "FGL - flash": "FGL - flash",
+    "FGL Flash": "FGL Flash",
+    "FGL Object for Flash. Provides special functionalities for FGL Ads in flash applications.": "FGL Object for Flash. Provides special functionalities for FGL Ads in flash applications.",
+    "Game Id (from FGL dashboard)": "Game Id (from FGL dashboard)",
+    "Request Ad": "Request Ad",
+    "Set Ad Delay to %0": "Set Ad Delay to %0",
+    "Set Ad Size to %0": "Set Ad Size to %0",
+    "Set Ad Timeout to %0": "Set Ad Timeout to %0",
+    "Set Game ID to %0": "Set Game ID to %0",
+    "Show Ad": "Show Ad",
+    "just a review.": "just a review."
+  },
+  "menu_20000": {
+    "Disable Ads": "Disable Ads",
+    "Enable Ads": "Enable Ads",
+    "Request Ad": "Request Ad",
+    "Set Ad Delay": "Set Ad Delay",
+    "Set Ad Size": "Set Ad Size",
+    "Set Ad Timeout": "Set Ad Timeout",
+    "Set Game ID": "Set Game ID",
+    "Show Ad": "Show Ad"
+  },
+  "menu_20001": {
+    "On Ad Clicked": "On Ad Clicked",
+    "On Ad Closed": "On Ad Closed",
+    "On Ad Error": "On Ad Error",
+    "On Ad Loaded": "On Ad Loaded",
+    "On Ad Shown": "On Ad Shown",
+    "On Api Ready": "On Api Ready"
+  },
+  "menu_20002": {
+    "Error String": "Error String",
+    "Error Value": "Error Value",
+    "Get Status": "Get Status"
+  }
+}

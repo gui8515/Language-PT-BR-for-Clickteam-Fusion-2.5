@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "%o : On error : Network error": "%o : Em caso de erro : Erro de rede",
+    "%o : On error : User not logged in": "%o : Em caso de erro : Usuário não conectado",
+    "%o : On player login": "%o : Ao iniciar sessão do jogador",
+    "%o : On player logout": "%o : Ao sair do jogador",
+    "%o : On user data %0 read": "%o : Ao ler dados do usuário %0",
+    "%o : On user data %0 written": "\"%o : Quando dados do usuário %0 forem escritos\"",
+    "%o : Player has coins": "%o : O jogador tem moedas",
+    "%o : Player is logged in": "%o : O jogador está conectado",
+    "Hide login widget": "Esconder widget de login",
+    "Key": "Chave",
+    "Mochi Social": "Social Mochi",
+    "Obsolete. This object is provided for compatibility reasons only.": "Obsoleto. Este objeto é fornecido apenas para fins de compatibilidade.",
+    "Read user data at key %0": "Ler dados do usuário na chave %0",
+    "Show login widget": "Mostrar widget de login",
+    "Value": "Valor",
+    "Write user data %1 to key %0": "Escrever dados do usuário %1 para a chave %0"
+  },
+  "menu_20000": {
+    "Hide login widget": "Esconder widget de login",
+    "Read user data": "Ler dados do usuário",
+    "Show login widget": "Mostrar widget de login",
+    "Write user data": "Escrever dados do usuário"
+  },
+  "menu_20001": {
+    "Network error": "Erro de rede",
+    "On error": "Em caso de erro",
+    "On player login": "Ao iniciar sessão do jogador",
+    "On player logout": "Ao sair do jogador",
+    "On user data read": "Ao ler dados do usuário",
+    "On user data written": "Ao escrever dados do usuário",
+    "Player has coins?": "O jogador tem moedas?",
+    "Player is logged in": "O jogador está conectado",
+    "User not logged in": "Usuário não está conectado"
+  },
+  "menu_20002": {
+    "Get player name": "Obter nome do jogador",
+    "Get player profile image URL": "Obter URL da imagem do perfil do jogador",
+    "Get player unique identifier": "Obter identificador único do jogador",
+    "Get user data read value": "Obter valor de dado do usuário"
+  }
+}

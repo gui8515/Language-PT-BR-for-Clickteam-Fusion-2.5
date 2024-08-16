@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "Achieved": "Achieved",
+    "Achievement title": "Achievement title",
+    "Click Edit to draw the images of the achievement": "Click Edit to draw the images of the achievement",
+    "Description of the achievement, after completion": "Description of the achievement, after completion",
+    "Description of the achievement, before completion": "Description of the achievement, before completion",
+    "Displays one Game Center achievement in your iOS application.": "Displays one Game Center achievement in your iOS application.",
+    "Enter the achievement identifier as defined in iTunes Connect": "Enter the achievement identifier as defined in iTunes Connect",
+    "Game Center Achievement": "Game Center Achievement",
+    "Identifier": "Identifier",
+    "Images": "Images",
+    "Unachieved": "Unachieved"
+  },
+  "menu_20002": {
+    "Expressions": "Expressions",
+    "Get achievement achieved description": "Get achievement achieved description",
+    "Get achievement maximum points": "Get achievement maximum points",
+    "Get achievement percentage": "Get achievement percentage",
+    "Get achievement title": "Get achievement title",
+    "Get achievement unachieved description": "Get achievement unachieved description"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "#Title#Enter the name of the destination file...": "#Título#Digite o nome do arquivo de destino...",
+    "%o: Connection error in slot %0": "%o: Erro de conexão na posição %0",
+    "%o: Download aborted in slot %0": "%o: Download abortado na posição %0",
+    "%o: Download in progress slot %0": "%o: Download em progresso na vaga %0",
+    "%o: Download successfully completed slot %0": "%o: Download concluído com sucesso na vaga %0",
+    "Abort download slot %0": "Abortar slot de download %0",
+    "Allows you to download file from the Internet.": "Permite baixar arquivos da internet.",
+    "Average speed : %i bytes per second": "Velocidade média: %i bytes por segundo",
+    "Current URL : %s": "URL atual: %s",
+    "Download Object": "Baixar Objeto",
+    "Download file, Url=%0, destination=%1, slot %2": "Baixar arquivo, URL=%0, destino=%1, slot %2",
+    "Download object": "Baixar objeto",
+    "Enter file URL": "Digite o URL do arquivo",
+    "Enter the URL of the file. It must begin with HTTP:// or HTTPS://": "Digite a URL do arquivo. Ela deve começar com HTTP:// ou HTTPS://",
+    "Enter the slot number (1-4)": "Digite o número do slot (1-4)",
+    "Number of bytes read : %i": "Número de bytes lidos: %i",
+    "Pause download slot %0": "Pausar slot de download %0",
+    "Resume download slot %0": "Retomar o slot de download %0",
+    "Size of the file to download : %i": "Tamanho do arquivo para download: %i",
+    "Slot 1": "Slot 1",
+    "Slot 2": "Slot 2",
+    "Slot 3": "Slot 3",
+    "Slot 4": "Slot 4"
+  },
+  "menu_20000": {
+    "Abort download": "Abortar download",
+    "Download file": "Baixar arquivo",
+    "Pause download": "Pausar download",
+    "Resume download": "Retomar download"
+  },
+  "menu_20001": {
+    "Connection error?": "Erro de conexão?",
+    "Download aborted?": "Download cancelado?",
+    "Download in progress?": "Download em progresso?",
+    "Download successfully completed?": "Download concluído com sucesso?"
+  },
+  "menu_20002": {
+    "Current URL": "URL atual",
+    "Current download percentage": "Porcentagem de download atual",
+    "Current download position": "Posição atual do download",
+    "Current speed (bytes per second)": "Velocidade atual (bytes por segundo)",
+    "Estimated download time": "Tempo estimado de download",
+    "Get file size (without download)": "Obter tamanho do arquivo (sem download)",
+    "Total file size": "Tamanho total do arquivo"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "%o : On error : Network error": "%o : On error : Network error",
+    "%o : On error : User not logged in": "%o : On error : User not logged in",
+    "%o : On player login": "%o : On player login",
+    "%o : On player logout": "%o : On player logout",
+    "%o : On user data %0 read": "%o : On user data %0 read",
+    "%o : On user data %0 written": "%o : On user data %0 written",
+    "%o : Player has coins": "%o : Player has coins",
+    "%o : Player is logged in": "%o : Player is logged in",
+    "Hide login widget": "Hide login widget",
+    "Key": "Key",
+    "Mochi Social": "Mochi Social",
+    "Obsolete. This object is provided for compatibility reasons only.": "Obsolete. This object is provided for compatibility reasons only.",
+    "Read user data at key %0": "Read user data at key %0",
+    "Show login widget": "Show login widget",
+    "Value": "Value",
+    "Write user data %1 to key %0": "Write user data %1 to key %0"
+  },
+  "menu_20000": {
+    "Hide login widget": "Hide login widget",
+    "Read user data": "Read user data",
+    "Show login widget": "Show login widget",
+    "Write user data": "Write user data"
+  },
+  "menu_20001": {
+    "Network error": "Network error",
+    "On error": "On error",
+    "On player login": "On player login",
+    "On player logout": "On player logout",
+    "On user data read": "On user data read",
+    "On user data written": "On user data written",
+    "Player has coins?": "Player has coins?",
+    "Player is logged in": "Player is logged in",
+    "User not logged in": "User not logged in"
+  },
+  "menu_20002": {
+    "Get player name": "Get player name",
+    "Get player profile image URL": "Get player profile image URL",
+    "Get player unique identifier": "Get player unique identifier",
+    "Get user data read value": "Get user data read value"
+  }
+}

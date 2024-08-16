@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "00Block left click": "00Block left click",
+    "00Block middle click": "00Block middle click",
+    "00Block right click": "00Block right click",
+    "00Unblock left click": "00Unblock left click",
+    "00Unblock middle click": "00Unblock middle click",
+    "00Unblock right click": "00Unblock right click",
+    "Block left mouse button": "Block left mouse button",
+    "Block middle mouse button": "Block middle mouse button",
+    "Block right mouse button": "Block right mouse button",
+    "Blocks the left, middle and/or right clicks of the mouse.": "Blocks the left, middle and/or right clicks of the mouse.",
+    "Click Blocker": "Click Blocker",
+    "Click Blocker object": "Click Blocker object",
+    "Left mouse button %s": "Left mouse button %s",
+    "Left mouse clicks will have no effects": "Left mouse clicks will have no effects",
+    "Middle mouse button %s": "Middle mouse button %s",
+    "Middle mouse clicks will have no effects": "Middle mouse clicks will have no effects",
+    "Right mouse button %s": "Right mouse button %s",
+    "Right mouse clicks will have no effects": "Right mouse clicks will have no effects",
+    "blocked": "blocked",
+    "unblocked": "unblocked"
+  },
+  "menu_20000": {
+    "&Left click": "&Left click",
+    "&Middle click": "&Middle click",
+    "&Right click": "&Right click",
+    "Block": "Block",
+    "Unblock": "Unblock"
+  }
+}

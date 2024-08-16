@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "About": "About",
+    "Author": "Author",
+    "Central x co-ordinate of movement.": "Central x co-ordinate of movement.",
+    "Central y co-ordinate of movement.": "Central y co-ordinate of movement.",
+    "Centre X": "Centre X",
+    "Centre Y": "Centre Y",
+    "Clickteam Movement Controller": "Clickteam Movement Controller",
+    "Control Ext.": "Control Ext.",
+    "General Properties": "General Properties",
+    "Initially moving at start of frame.": "Initially moving at start of frame.",
+    "Move at Start": "Move at Start",
+    "Name of the extension used to interact with this movement.": "Name of the extension used to interact with this movement.",
+    "Number of Sides": "Number of Sides",
+    "Number of polygon sides, three for a triangle, four for a square etc.": "Number of polygon sides, three for a triangle, four for a square etc.",
+    "Outer radius of the polygon in pixels.": "Outer radius of the polygon in pixels.",
+    "Polygon Properties": "Polygon Properties",
+    "Properties relating to the movement.": "Properties relating to the movement.",
+    "Properties relating to the regular polygon movement.": "Properties relating to the regular polygon movement.",
+    "Radius": "Radius",
+    "Regular Polygon": "Regular Polygon",
+    "Released October 2006": "Released October 2006",
+    "Rotation Angle": "Rotation Angle",
+    "Rotational angle of the polygon.": "Rotational angle of the polygon.",
+    "Velocity": "Velocity",
+    "Velocity of the object, negative values reverse the movement direction.": "Velocity of the object, negative values reverse the movement direction.",
+    "Version": "Version"
+  }
+}

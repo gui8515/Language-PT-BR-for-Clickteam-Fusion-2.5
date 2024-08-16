@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "00Hide": "Esconder 00",
+    "00New file from selector": "Novo arquivo do seletor",
+    "00Show": "Mostrar",
+    "01New file %s": "Novo arquivo %s",
+    "01Set X coordinate at %s": "Definir coordenada X em %s",
+    "01Set horizontal size to %s": "Definir tamanho horizontal para %s",
+    "01Set position at %s": "Definir posição em %s",
+    "01Set vertical size to %s": "Definir tamanho vertical para %s",
+    "10%s: a file is opened": "10%s: um arquivo foi aberto",
+    "10%s: visible": "10%s: visível",
+    "21User %s within %s": "Usuário %s dentro de %s",
+    "Plays QuickTimeVR 2 files. Obsolete, please use the QuickTime object instead.": "Reproduz arquivos QuickTimeVR 2. Obsoléto, utilize o objeto QuickTime em vez disso.",
+    "Please select a QuickTime VR file": "Por favor, selecione um arquivo VR do QuickTime",
+    "Please, enter a valid QuickTime VR filename.": "Por favor, insira um nome de arquivo válido do QuickTime VR.",
+    "QuickTime VR 2": "QuickTime VR 2",
+    "QuickTime VR 2 object": "Objeto QuickTime VR 2",
+    "QuickTime VR files (*.mov)|*.mov|": "Arquivos QuickTime VR (*.mov)|*.mov|",
+    "Warning: the 32 bit version of QuickTimeVR cannot be found on your machine.": "Aviso: a versão de 32 bits do QuickTimeVR não foi encontrada em seu computador."
+  },
+  "dialog_20003": {
+    "&Browse": "&Navegar",
+    "&Help": "&Ajuda",
+    "&Use default size": "&Usar tamanho padrão",
+    "Cancel": "Cancelar",
+    "File to play": "Arquivo para reproduzir",
+    "Hide on &start": "Esconder no &início",
+    "IMPORTANT : this object only works with QuickTime 2, it is provided for compatibility reasons only. Please use the new QuickTime 3 object which works with the latest versions of QuickTime and can play QuickTimeVR files.": "IMPORTANTE: este objeto funciona apenas com o QuickTime 2 e é fornecido apenas por motivos de compatibilidade. Utilize o novo objeto QuickTime 3, que funciona com as versões mais recentes do QuickTime e pode reproduzir arquivos QuickTimeVR.",
+    "OK": "OK",
+    "Options": "Opções",
+    "Setup QuickTime VR object": "Configurar objeto QuickTime VR",
+    "Use &Current Frame Palette": "Usar Paleta do &Frame Atual",
+    "Zoom X2": "Zoom 2x"
+  },
+  "menu_20000": {
+    "A new file": "Um novo arquivo",
+    "A new file via a file selector": "Selecionar um novo arquivo",
+    "Make Object Invisible": "Tornar Objeto Invisível",
+    "Make Object Reappear": "Fazer Objeto Reaparecer",
+    "Play": "Jogar",
+    "Position": "Posição",
+    "Set Horizontal size": "Definir Largura Horizontal",
+    "Set Position": "Definir Posição",
+    "Set Vertical size": "Definir Tamanho Vertical",
+    "Set X Position": "Definir Posição X",
+    "Set Y Position": "Definir Posição Y",
+    "Size": "Tamanho",
+    "Visibility": "Visibilidade"
+  },
+  "menu_20001": {
+    "Check whether a file is open ?": "Verificar se um arquivo está aberto?",
+    "Is visible ?": "Está visível?",
+    "Mouse clicks within the QuickTime VR Window ?": "Cliques do mouse dentro da janela QuickTime VR?"
+  },
+  "menu_20002": {
+    "Horizontal size": "Tamanho horizontal",
+    "Last error number": "Número do último erro",
+    "Vertical size": "Tamanho vertical",
+    "X position": "Posição X",
+    "Y position": "Posição Y"
+  }
+}

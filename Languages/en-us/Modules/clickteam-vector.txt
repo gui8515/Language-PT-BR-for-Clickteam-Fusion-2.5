@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "About": "About",
+    "Author": "Author",
+    "Automatically set animation direction": "Automatically set animation direction",
+    "Clickteam Movement Controller": "Clickteam Movement Controller",
+    "Control Ext.": "Control Ext.",
+    "Direction": "Direction",
+    "Direction of the gravity / acceleration applied to the object in degrees.": "Direction of the gravity / acceleration applied to the object in degrees.",
+    "General Properties": "General Properties",
+    "Gravity / Acceleration": "Gravity / Acceleration",
+    "Gravity or acceleration strength (depending on usage)": "Gravity or acceleration strength (depending on usage)",
+    "Initial Direction and Speed": "Initial Direction and Speed",
+    "Initial direction of the object in degrees.": "Initial direction of the object in degrees.",
+    "Initial speed of the object.": "Initial speed of the object.",
+    "Initially moving at start of frame.": "Initially moving at start of frame.",
+    "Move at Start": "Move at Start",
+    "Movement will automatically set the animation direction from current angle.": "Movement will automatically set the animation direction from current angle.",
+    "Name of the extension used to interact with this movement.": "Name of the extension used to interact with this movement.",
+    "Properties relating to the movements initial direction.": "Properties relating to the movements initial direction.",
+    "Released October 2006": "Released October 2006",
+    "Speed": "Speed",
+    "Strength": "Strength",
+    "Strength of the gravity / acceleration applied to the object": "Strength of the gravity / acceleration applied to the object",
+    "Vector": "Vector",
+    "Version": "Version"
+  }
+}

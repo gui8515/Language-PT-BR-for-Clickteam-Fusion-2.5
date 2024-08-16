@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "Advanced": "Advanced",
+    "Bottom to top": "Bottom to top",
+    "Choose how the objects will collide with the ground": "Choose how the objects will collide with the ground",
+    "Choose the direction of the ground to be created.": "Choose the direction of the ground to be created.",
+    "Collision": "Collision",
+    "Defines the ground of the playfield": "Defines the ground of the playfield",
+    "Direction": "Direction",
+    "Elasticity": "Elasticity",
+    "Engine ID": "Engine ID",
+    "Enter the elasticity parameter of the ground.": "Enter the elasticity parameter of the ground.",
+    "Enter the friction parameter of the ground.": "Enter the friction parameter of the ground.",
+    "Enter the identifier of the engine to use for the ground.": "Enter the identifier of the engine to use for the ground.",
+    "Friction": "Friction",
+    "Left to right": "Left to right",
+    "Object": "Object",
+    "Obstacle": "Obstacle",
+    "Physics - Ground": "Physics - Ground",
+    "Platform": "Platform",
+    "Right to left": "Right to left",
+    "Top to bottom": "Top to bottom"
+  }
+}

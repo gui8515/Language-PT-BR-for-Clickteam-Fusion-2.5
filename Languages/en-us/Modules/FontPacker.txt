@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "%o: Is Internal font %0 available?": "%o: Is Internal font %0 available?",
+    "%o: Is Packed font %0 available?": "%o: Is Packed font %0 available?",
+    "%o: On Error Ocurred": "%o: On Error Ocurred",
+    "%o: On Internal Fonts Read": "%o: On Internal Fonts Read",
+    "%o: On Packed Fonts Read": "%o: On Packed Fonts Read",
+    "%o: Read Internal Fonts": "%o: Read Internal Fonts",
+    "%o: Read Packed Fonts": "%o: Read Packed Fonts",
+    "Android Font Packer": "Android Font Packer",
+    "Android Font Packer Control": "Android Font Packer Control",
+    "Clear Checked": "Clear Checked",
+    "File must be named according their typeface": "File must be named according their typeface",
+    "Font #10: ": "Font #10: ",
+    "Font #1: ": "Font #1: ",
+    "Font #2: ": "Font #2: ",
+    "Font #3: ": "Font #3: ",
+    "Font #4: ": "Font #4: ",
+    "Font #5: ": "Font #5: ",
+    "Font #6: ": "Font #6: ",
+    "Font #7: ": "Font #7: ",
+    "Font #8: ": "Font #8: ",
+    "Font #9: ": "Font #9: ",
+    "Font Name": "Font Name",
+    "Font filename #1 as defined in system": "Font filename #1 as defined in system",
+    "Font filename #10 as defined in system": "Font filename #10 as defined in system",
+    "Font filename #2 as defined in system": "Font filename #2 as defined in system",
+    "Font filename #3 as defined in system": "Font filename #3 as defined in system",
+    "Font filename #4 as defined in system": "Font filename #4 as defined in system",
+    "Font filename #5 as defined in system": "Font filename #5 as defined in system",
+    "Font filename #6 as defined in system": "Font filename #6 as defined in system",
+    "Font filename #7 as defined in system": "Font filename #7 as defined in system",
+    "Font filename #8 as defined in system": "Font filename #8 as defined in system",
+    "Font filename #9 as defined in system": "Font filename #9 as defined in system",
+    "Fonts functionality for Android.": "Fonts functionality for Android.",
+    "Fonts to Pack ...": "Fonts to Pack ...",
+    "Repack the font list": "Repack the font list"
+  },
+  "menu_20000": {
+    "Read Internal fonts": "Read Internal fonts",
+    "Read Packed Fonts": "Read Packed Fonts"
+  },
+  "menu_20001": {
+    "Is Internal Font Available": "Is Internal Font Available",
+    "Is Packed Font Available": "Is Packed Font Available",
+    "On Error": "On Error",
+    "On Internal Fonts Read": "On Internal Fonts Read",
+    "On Packed Fonts Read": "On Packed Fonts Read"
+  },
+  "menu_20002": {
+    "Internal Font Name": "Internal Font Name",
+    "Internal Fonts Quantity": "Internal Fonts Quantity",
+    "Last error Ocurred": "Last error Ocurred",
+    "Packed Font Name": "Packed Font Name",
+    "Packed Fonts Quantity": "Packed Fonts Quantity",
+    "Read Default Font Size": "Read Default Font Size",
+    "Read Default Font Style": "Read Default Font Style"
+  }
+}

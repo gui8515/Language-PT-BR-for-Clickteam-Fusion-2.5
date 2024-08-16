@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "%o: current key exists": "%o: current key exists",
+    "%o: key %0\\%1 exists": "%o: key %0\\%1 exists",
+    "%o: last action successful": "%o: last action successful",
+    "%o: value %0 of current key exists": "%o: value %0 of current key exists",
+    "%o: value %2 of key %0\\%1 exists": "%o: value %2 of key %0\\%1 exists",
+    "0=32-bit, 1=64-bit": "0=32-bit, 1=64-bit",
+    "Create current key": "Create current key",
+    "Create key %0\\%1": "Create key %0\\%1",
+    "Current Key = %s": "Current Key = %s",
+    "Current Root Key = %s": "Current Root Key = %s",
+    "Delete current key": "Delete current key",
+    "Delete key %0\\%1": "Delete key %0\\%1",
+    "Delete value %0 of current key": "Delete value %0 of current key",
+    "Delete value %2 of key %0\\%1": "Delete value %2 of key %0\\%1",
+    "Invalid parameters.": "Invalid parameters.",
+    "Key name": "Key name",
+    "Registry2": "Registry2",
+    "Root key": "Root key",
+    "Set 64-bit mode to %0": "Set 64-bit mode to %0",
+    "Set current key to %0": "Set current key to %0",
+    "Set root key to %0": "Set root key to %0",
+    "Set value %0 of current key to %1": "Set value %0 of current key to %1",
+    "Set value %2 of key %0\\%1 to %3": "Set value %2 of key %0\\%1 to %3",
+    "The Registry2 object allows you to retrieve or write values from or to the registry.": "The Registry2 object allows you to retrieve or write values from or to the registry.",
+    "The value you try to read from is not a DWORD value.": "The value you try to read from is not a DWORD value.",
+    "The value you try to read from is not a string value.": "The value you try to read from is not a string value.",
+    "Value name": "Value name"
+  },
+  "dialog_101": {
+    "Cancel": "Cancel",
+    "OK": "OK",
+    "Select a root key": "Select a root key"
+  },
+  "menu_20000": {
+    "Any Key": "Any Key",
+    "Create Current Key": "Create Current Key",
+    "Create Key": "Create Key",
+    "Current Key": "Current Key",
+    "Delete Current Key": "Delete Current Key",
+    "Delete Key": "Delete Key",
+    "Delete Value": "Delete Value",
+    "Set 64-bit mode": "Set 64-bit mode",
+    "Set Current Key": "Set Current Key",
+    "Set Current Root Key": "Set Current Root Key",
+    "Set DWORD Value": "Set DWORD Value",
+    "Set String Value": "Set String Value"
+  },
+  "menu_20001": {
+    "Current key exists": "Current key exists",
+    "Key exists": "Key exists",
+    "Last action successful": "Last action successful",
+    "Value exists": "Value exists",
+    "Value exists in current key": "Value exists in current key"
+  },
+  "menu_20002": {
+    "Any Key": "Any Key",
+    "Current Key": "Current Key",
+    "Get Current Key": "Get Current Key",
+    "Get Current Root Key": "Get Current Root Key",
+    "Get DWORD Value": "Get DWORD Value",
+    "Get String Value": "Get String Value",
+    "Last error code": "Last error code",
+    "Last error message": "Last error message"
+  }
+}

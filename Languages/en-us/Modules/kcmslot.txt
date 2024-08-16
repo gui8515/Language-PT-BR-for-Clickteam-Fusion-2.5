@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "00Reset error": "00Reset error",
+    "01Close channel %s": "01Close channel %s",
+    "01Open channel %s as %s": "01Open channel %s as %s",
+    "02Send number %s to slot %s": "02Send number %s to slot %s",
+    "02Send string %s to slot %s": "02Send string %s to slot %s",
+    "10%s : Error": "10%s : Error",
+    "11%s : Message available on channel %s": "11%s : Message available on channel %s",
+    "Allows applications to communicate through a local network by opening a channel for communication between two computers.": "Allows applications to communicate through a local network by opening a channel for communication between two computers.",
+    "Channel number": "Channel number",
+    "Last error: %s": "Last error: %s",
+    "Network": "Network",
+    "Network object": "Network object",
+    "Number to Send": "Number to Send",
+    "Slot name": "Slot name",
+    "String to send": "String to send"
+  },
+  "menu_20000": {
+    "Close channel": "Close channel",
+    "Open channel": "Open channel",
+    "Reset error": "Reset error",
+    "Send number": "Send number",
+    "Send string": "Send string"
+  },
+  "menu_20001": {
+    "Error": "Error",
+    "Message available": "Message available"
+  },
+  "menu_20002": {
+    "Get current status": "Get current status",
+    "Get last error": "Get last error",
+    "Get last error string": "Get last error string",
+    "Get number": "Get number",
+    "Get string": "Get string"
+  }
+}

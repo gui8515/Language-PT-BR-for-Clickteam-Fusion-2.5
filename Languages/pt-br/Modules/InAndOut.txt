@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "Check this box to have the object move when the frame starts": "Marque esta caixa para que o objeto se mova quando o frame iniciar",
+    "Check this box to have the object positionned out of the frame at start of frame": "Marque esta caixa para posicionar o objeto fora do frame no início do frame",
+    "Choose the type of the movement": "Escolha o tipo de movimento",
+    "Destination X": "Destino X",
+    "Destination Y": "Destino Y",
+    "Direction": "Direção",
+    "Duration": "Duração",
+    "Enter the X coordinate out of the frame. Leave to 0 to use automatica calculation": "Digite a coordenada X fora do frame. Deixe como 0 para usar cálculo automático.",
+    "Enter the Y coordinate out of the frame. Leave to 0 to use automatica calculation": "Digite a coordenada Y fora do frame. Deixe como 0 para usar cálculo automático",
+    "Enter the direction of the movement, 0 for right, 90 top, 180 left and 270 bottom": "Digite a direção do movimento, 0 para direita, 90 para cima, 180 para esquerda e 270 para baixo",
+    "Enter the length of the movement, in milliseconds": "Digite o comprimento do movimento em milissegundos",
+    "InAndOut movement": "Movimento de Entrada e Saída",
+    "Linear": "Linear",
+    "Move at start": "Mover no início",
+    "Movement type": "Tipo de movimento",
+    "Out at start": "Sair no início",
+    "Smooth": "Suave"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "%o: %0 selected": "%o: %0 selected",
+    "%o: Add Item (%0, %1, %2)": "%o: Add Item (%0, %1, %2)",
+    "%o: Add Menu (%0, %1, %2)": "%o: Add Menu (%0, %1, %2)",
+    "%o: Add Separator (%0)": "%o: Add Separator (%0)",
+    "%o: Create Menu": "%o: Create Menu",
+    "%o: Delete Item (%0)": "%o: Delete Item (%0)",
+    "%o: Item %0 Selected": "%o: Item %0 Selected",
+    "%o: Set Check (%0, %1)": "%o: Set Check (%0, %1)",
+    "%o: Set Enable (%0, %1)": "%o: Set Enable (%0, %1)",
+    "%o: Set Item Text (%0, %1)": "%o: Set Item Text (%0, %1)",
+    "%o: Show Menu": "%o: Show Menu",
+    "%o: Show Menu at %0": "%o: Show Menu at %0",
+    "1 to check, 0 to uncheck": "1 to check, 0 to uncheck",
+    "1 to enable, 0 to disable": "1 to enable, 0 to disable",
+    "Content of the menu": "Content of the menu",
+    "Edit content": "Edit content",
+    "Filename": "Filename",
+    "Height": "Height",
+    "Item ID": "Item ID",
+    "Item String": "Item String",
+    "Item identifier": "Item identifier",
+    "Last selection: %i": "Last selection: %i",
+    "Lets you create customizable popup menus in your applications.": "Lets you create customizable popup menus in your applications.",
+    "Menu Index": "Menu Index",
+    "New item": "New item",
+    "Opens a dialog box to edit the content of the popup menu": "Opens a dialog box to edit the content of the popup menu",
+    "Popup Menu": "Popup Menu",
+    "Position": "Position",
+    "SubMenu Index": "SubMenu Index",
+    "Value": "Value"
+  },
+  "dialog_109": {
+    "Cancel": "Cancel",
+    "Item Text": "Item Text",
+    "OK": "OK"
+  },
+  "dialog_20003": {
+    "&Add": "&Add",
+    "&Del": "&Del",
+    "&Help": "&Help",
+    "Add &Separator": "Add &Separator",
+    "Cancel": "Cancel",
+    "Default Menu": "Default Menu",
+    "Down": "Down",
+    "Item Identifier": "Item Identifier",
+    "Left": "Left",
+    "OK": "OK",
+    "Right": "Right",
+    "Setup PopupMenu": "Setup PopupMenu",
+    "Tree1": "Tree1",
+    "Up": "Up"
+  },
+  "menu_20000": {
+    "Actions": "Actions",
+    "Add Item": "Add Item",
+    "Add Menu": "Add Menu",
+    "Add Separator": "Add Separator",
+    "Check / Uncheck": "Check / Uncheck",
+    "Create Menu": "Create Menu",
+    "Delete Item": "Delete Item",
+    "Enable / Disable": "Enable / Disable",
+    "Set Item Text": "Set Item Text",
+    "Show At": "Show At",
+    "Show At Mouse": "Show At Mouse"
+  },
+  "menu_20001": {
+    "Conditions": "Conditions",
+    "Item Selected (ID)": "Item Selected (ID)",
+    "Item Selected (Text)": "Item Selected (Text)"
+  },
+  "menu_20002": {
+    "Expressions": "Expressions",
+    "Get Item Text": "Get Item Text",
+    "Get Last Selected Item": "Get Last Selected Item",
+    "Get Menu Count": "Get Menu Count"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "%o : On leaderboard closed": "%o : On leaderboard closed",
+    "%o : On leaderboard displayed": "%o : On leaderboard displayed",
+    "Leaderboard ID": "Leaderboard ID",
+    "Mochi Scores": "Mochi Scores",
+    "Name": "Name",
+    "Obsolete. This object is provided for compatibility reasons only.": "Obsolete. This object is provided for compatibility reasons only.",
+    "Score": "Score",
+    "Set Leaderboard ID to %0": "Set Leaderboard ID to %0",
+    "Show leaderboard": "Show leaderboard",
+    "Submit score %0 and ask for a name": "Submit score %0 and ask for a name",
+    "Submit score %0 with name %1": "Submit score %0 with name %1"
+  },
+  "menu_20000": {
+    "Set leaderboard ID": "Set leaderboard ID",
+    "Show leaderboard": "Show leaderboard",
+    "Submit score (ask for a name)": "Submit score (ask for a name)",
+    "Submit score (specify a name)": "Submit score (specify a name)"
+  },
+  "menu_20001": {
+    "On leaderboard closed": "On leaderboard closed",
+    "On leaderboard displayed": "On leaderboard displayed"
+  }
+}

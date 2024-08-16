@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "About": "About",
+    "Author": "Author",
+    "Automatically handle speed increase": "Automatically handle speed increase",
+    "By how many pixels the invaders move in the x-direction.": "By how many pixels the invaders move in the x-direction.",
+    "By how many pixels the invaders move in the y-direction.": "By how many pixels the invaders move in the y-direction.",
+    "Clickteam Movement Controller": "Clickteam Movement Controller",
+    "Control Ext.": "Control Ext.",
+    "Global Invader Properties": "Global Invader Properties",
+    "Handle speed increase when fewer invaders automatically.": "Handle speed increase when fewer invaders automatically.",
+    "How often the invaders move.": "How often the invaders move.",
+    "Initial direction": "Initial direction",
+    "Invaders": "Invaders",
+    "Left": "Left",
+    "Move at Start": "Move at Start",
+    "Name of the extension used to interact with this movement.": "Name of the extension used to interact with this movement.",
+    "Properties relating to the invader movement.": "Properties relating to the invader movement.",
+    "Released October 2006": "Released October 2006",
+    "Right": "Right",
+    "Speed": "Speed",
+    "Step Size in X": "Step Size in X",
+    "Step Size in Y": "Step Size in Y",
+    "The direction in which all invaders will move at initially.": "The direction in which all invaders will move at initially.",
+    "Version": "Version",
+    "Will the invaders be moving at start of frame.": "Will the invaders be moving at start of frame."
+  }
+}

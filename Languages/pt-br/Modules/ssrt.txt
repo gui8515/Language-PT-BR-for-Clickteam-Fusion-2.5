@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "Cannot find %s!": "Não foi possível encontrar %s!",
+    "Cannot initialize application.": "Não foi possível inicializar o aplicativo.",
+    "Cannot load %s. This object might need an external program or library not yet installed.": "Não foi possível carregar %s. Este objeto pode precisar de um programa ou biblioteca externo que ainda não esteja instalado.",
+    "Error while opening file.": "Erro ao abrir arquivo.",
+    "File error!": "Erro de arquivo!",
+    "Not enough memory to start Help.\n\nQuit one or more applications to increase available memory, and then try again.": "Não há memória suficiente para iniciar a Ajuda. Feche um ou mais aplicativos para aumentar a memória disponível e tente novamente.",
+    "Not enough memory!": "Memória insuficiente!",
+    "Screen Saver": "Protetor de Tela",
+    "Screen Saver.Click                   ": "Protetor de Tela.Clique",
+    "Screen saver description": "Descrição do protetor de tela",
+    "ScreenSaver": "Screensaver",
+    "There is not enough available space in the temporary drive. Free some disk space and try again.": "Não há espaço disponível suficiente na unidade temporária. Libere algum espaço em disco e tente novamente.",
+    "This application has been built with an incompatible version of Clickteam Fusion.": "Esta aplicação foi criada com uma versão incompatível do Clickteam Fusion.",
+    "Unknown format!": "Formato desconhecido!",
+    "control.hlp": "## control.hlp (pt-br)\n\n# Controles de Objeto\n\nEste arquivo ajuda descreve os controles de objeto disponíveis no Clickteam Fusion 2.5.\n\n**Controles de Movimento:**\n\n* **Mover para frente:** Move o objeto na direção que ele está apontando.\n* **Mover em direção a:** Move o objeto em direção a um ponto específico.\n* **Girar:** Gira o objeto em graus específicos.\n\n**Controles de Animação:**\n\n* **Definir animação:** Define a animação atual do objeto.\n* **Reproduzir animação:** Inicia a reprodução da animação definida.\n* **Parar animação:** Interrompe a reprodução da animação.\n\n**Controles de Colisão:**\n\n* **Verificar colisão:** Verifica se o objeto está colidindo com outro objeto.\n* **Obter posição de colisão:** Retorna as coordenadas da posição onde ocorreu a colisão.\n\n**Controles de Texto:**\n\n* **Definir texto:** Define o texto exibido pelo objeto.\n* **Obter texto:** Retorna o texto atualmente exibido pelo objeto.\n\n**Controles de Variáveis:**\n\n* **Criar variável:** Cria uma nova variável para armazenar dados.\n* **Definir valor da variável:** Atribui um valor a uma variável existente.\n* **Obter valor da variável:** Retorna o valor atual de uma variável.",
+    "control.ini": "```\n[CONTROLS]\n\n; General controls\nUP=%o\nDOWN=%o\nLEFT=%o\nRIGHT=%o\nJUMP=%o\nATTACK=%o\nSPECIAL=%o\n\n; Menu controls\nSELECT=%o\nBACK=%o\n\n; Pause menu controls\nRESUME=%o\nOPTIONS=%o\nQUIT=%o\n\n[KEYBOARD]\n\n; Keyboard mapping for general controls\nUP=W\nDOWN=S\nLEFT=A\nRIGHT=D\nJUMP=SPACE\nATTACK=ENTER\nSPECIAL=SHIFT\n\n; Keyboard mapping for menu controls\nSELECT=ENTER\nBACK=ESC\n\n; Keyboard mapping for pause menu controls\nRESUME=ENTER\nOPTIONS=TAB\nQUIT=ESC\n\n[GAMEPAD]\n\n; Gamepad mapping for general controls\nUP=Left Stick Up\nDOWN=Left Stick Down\nLEFT=Left Stick Left\nRIGHT=Left Stick Right\nJUMP=A\nATTACK=X\nSPECIAL=Y\n\n; Gamepad mapping for menu controls\nSELECT=A\nBACK=B\n\n; Gamepad mapping for pause menu controls\nRESUME=A\nOPTIONS=X\nQUIT=B\n\n```"
+  },
+  "dialog_2003": {
+    "Cancel": "Cancelar",
+    "OK": "OK",
+    "Play musics": "Reproduzir músicas",
+    "Play samples": "Reproduzir amostras",
+    "Set-up": "Configuração"
+  }
+}

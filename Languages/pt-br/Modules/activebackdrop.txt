@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "%o: is visible": "%o: está visível",
+    "Active Backdrop": "Active Backdrop",
+    "Changeable backdrop object": "Active Backdrop mutável",
+    "Check this box to make the object visible at start of frame": "Marque esta caixa para tornar o objeto visível no início do frame",
+    "Click on the edit button to add/change the images": "Clique no botão de edição para adicionar/alterar as imagens",
+    "Enter the X coordinate": "Digite a coordenada X",
+    "Enter the Y coordinate": "Digite a coordenada Y",
+    "Enter the image number (starting at 0)": "Digite o número da imagem (a partir de 0)",
+    "Hide": "Esconder",
+    "Image list": "Lista de imagens",
+    "List of predefined images": "Lista de imagens predefinidas",
+    "Set X coordinate to %0": "Definir coordenada X para %0",
+    "Set Y coordinate to %0": "Definir coordenada Y para %0",
+    "Set image to %0": "Definir imagem para %0",
+    "Show": "Mostrar",
+    "Visible": "Visível"
+  },
+  "menu_20000": {
+    "Actions": "Ações",
+    "Hide": "Esconder",
+    "Set X coordinate": "Definir coordenada X",
+    "Set Y coordinate": "Definir coordenada Y",
+    "Set image": "Definir imagem",
+    "Show": "Mostrar"
+  },
+  "menu_20001": {
+    "Conditions": "Condições",
+    "Is object visible": "O objeto é visível?"
+  },
+  "menu_20002": {
+    "Expressions": "Expressões",
+    "Get X coordinate": "Obter coordenada X",
+    "Get Y coordinate": "Obter coordenada Y",
+    "Get image number": "Obter número da imagem"
+  }
+}
