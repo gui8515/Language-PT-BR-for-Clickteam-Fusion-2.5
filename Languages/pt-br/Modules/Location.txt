@@ -17,15 +17,15 @@
     "Location object": "Location object",
     "Nearest ten meters": "Nearest ten meters",
     "Retrieves the current location from the GPS on devices that support it (such as the iPhone or Android).": "Retrieves the current location from the GPS on devices that support it (such as the iPhone or Android).",
-    "Set distance filter to %0": "Set distance filter to %0",
-    "Set location accuracy to %0": "Set location accuracy to %0",
+    "Set distance filter to %0": "Definir distance filter para %0",
+    "Set location accuracy to %0": "Definir location accuracy para %0",
     "Three kilometers": "Three kilometers"
   },
   "menu_20000": {
     "Actions": "Actions",
-    "Get location": "Get location",
-    "Set accuracy": "Set accuracy",
-    "Set distance filter": "Set distance filter"
+    "Get location": "Obter location",
+    "Set accuracy": "Definir accuracy",
+    "Set distance filter": "Definir distance filter"
   },
   "menu_20001": {
     "A new location is available": "A new location is available",
@@ -42,7 +42,7 @@
     "Latitude": "Latitude",
     "Longitude": "Longitude",
     "Other values": "Other values",
-    "Speed": "Speed",
-    "Time since last update": "Time since last update"
+    "Speed": "Velocidade",
+    "Time since last update": "Tempo since last update"
   }
 }

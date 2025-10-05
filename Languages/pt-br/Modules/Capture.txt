@@ -2,9 +2,9 @@
   "version": 1,
   "lang": 1046,
   "general": {
-    "00Capture Active Window": "00Capture Active Window",
+    "00Capture Active Window": "00Capture Ativo Janela",
     "00Capture Frame Area": "00Capture Frame Area",
-    "00Capture Screen": "00Capture Screen",
+    "00Capture Screen": "00Capture Tela",
     "00Increment filename": "00Increment filename",
     "00Set filename from selector": "00Set filename from selector",
     "00Set output to clipboard": "00Set output to clipboard",
@@ -13,7 +13,7 @@
     "01Set Area Dimensions to (%s, %s)": "01Set Area Dimensions to (%s, %s)",
     "01Set Area Origin to (%s, %s)": "01Set Area Origin to (%s, %s)",
     "01Set filename to %s": "01Set filename to %s",
-    "Any files|*.*||": "Any files|*.*||",
+    "Any files|*.*||": "Qualquer files|*.*||",
     "At start of frame": "At start of frame",
     "BMP files (*.bmp)|*.bmp||": "BMP files (*.bmp)|*.bmp||",
     "Cannot change directory to \"%s\"": "Cannot change directory to \"%s\"",
@@ -36,9 +36,9 @@
     "Not enough free space on drive %s \nPlease free more than 50 Mbytes and try again...": "Not enough free space on drive %s \nPlease free more than 50 Mbytes and try again...",
     "Please choose a capture object tool file...": "Please choose a capture object tool file...",
     "Please enter a filename": "Please enter a filename",
-    "Screen Capture object": "Screen Capture object",
-    "Set current dir to capture folder": "Set current dir to capture folder",
-    "Set current directory to final folder": "Set current directory to final folder",
+    "Screen Capture object": "Tela Capture object",
+    "Set current dir to capture folder": "Definir current dir para capture folder",
+    "Set current directory to final folder": "Definir current directory para final folder",
     "The current tool configuration is not saved. Do you want to add it to the list of tools?": "The current tool configuration is not saved. Do you want to add it to the list of tools?",
     "This definition is already defined. Overwrite?": "This definition is already defined. Overwrite?",
     "This definition is not present in the list...": "This definition is not present in the list...",
@@ -52,7 +52,7 @@
     "&Show capture window": "&Show capture window",
     "Automatic capture of frame": "Automatic capture of frame",
     "Automatic launch of picture convertor when object is destroyed": "Automatic launch of picture convertor when object is destroyed",
-    "Cancel": "Cancel",
+    "Cancel": "Cancelar",
     "Capture": "Capture",
     "Capture &high color modes in 24 bits": "Capture &high color modes in 24 bits",
     "Capture object setup": "Capture object setup",
@@ -62,18 +62,18 @@
     "frame(s)": "frame(s)"
   },
   "dialog_104": {
-    "The Capture Object": "The Capture Object",
+    "The Capture Object": "The Capture Objeto",
     "Waiting for tool to complete...": "Waiting for tool to complete..."
   },
   "dialog_105": {
-    "Add": "Add",
-    "Cancel": "Cancel",
+    "Add": "Adicionar",
+    "Cancel": "Cancelar",
     "Change directory?": "Change directory?",
     "Command line": "Command line",
     "Del": "Del",
-    "Export": "Export",
+    "Export": "Exportar",
     "Frame captures : enforce 32000 colors if 65000 color mode...": "Frame captures : enforce 32000 colors if 65000 color mode...",
-    "Import": "Import",
+    "Import": "Importar",
     "Macros": "Macros",
     "OK": "OK",
     "Program to run": "Program to run",
@@ -92,7 +92,7 @@
     "Final filename": "Final filename",
     "Final pathname": "Final pathname",
     "Menu": "Menu",
-    "Number of frames": "Number of frames",
+    "Number of frames": "Número of frames",
     "Program directory": "Program directory",
     "System directory": "System directory",
     "Temp directory": "Temp directory",
@@ -106,15 +106,15 @@
     "&Output": "&Output",
     "&Screen": "&Screen",
     "&Start": "&Start",
-    "Active &Window": "Active &Window",
+    "Active &Window": "Ativo &Window",
     "S&top": "S&top",
-    "Set &Filename": "Set &Filename",
-    "Set Area &Dimensions": "Set Area &Dimensions",
-    "Set Area &Origin": "Set Area &Origin",
-    "Set Filename from &Selector": "Set Filename from &Selector",
-    "Set output to &clipboard": "Set output to &clipboard"
+    "Set &Filename": "Definir &Filename",
+    "Set Area &Dimensions": "Definir Area &Dimensions",
+    "Set Area &Origin": "Definir Area &Origin",
+    "Set Filename from &Selector": "Definir Filename from &Selector",
+    "Set output to &clipboard": "Definir output para &clipboard"
   },
   "menu_20002": {
-    "Get &Filename": "Get &Filename"
+    "Get &Filename": "Obter &Filename"
   }
 }

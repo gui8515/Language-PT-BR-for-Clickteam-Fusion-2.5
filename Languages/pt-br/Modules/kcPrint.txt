@@ -10,8 +10,8 @@
     "00Print screen": "00Print screen",
     "00Print window": "00Print window",
     "00Setup printer": "00Setup printer",
-    "01Print Text %s": "01Print Text %s",
-    "01Print Text file %s": "01Print Text file %s",
+    "01Print Text %s": "01Print Texto %s",
+    "01Print Text file %s": "01Print Texto file %s",
     "01Print zone %s": "01Print zone %s",
     "01Set x scale to %s": "01Set x scale to %s",
     "01Set y scale to %s": "01Set y scale to %s",
@@ -26,7 +26,7 @@
     "on %s on %s": "on %s on %s"
   },
   "dialog_PRINTING": {
-    "Cancel": "Cancel",
+    "Cancel": "Cancelar",
     "PRINTER": "PRINTER",
     "Print Bitmap": "Print Bitmap",
     "Printing": "Printing",
@@ -35,18 +35,18 @@
   },
   "menu_20000": {
     "Best fit": "Best fit",
-    "Print Client zone": "Print Client zone",
-    "Print Screen": "Print Screen",
-    "Print Text": "Print Text",
-    "Print Text file": "Print Text file",
-    "Print Window": "Print Window",
+    "Print Client zone": "Print Cliente zone",
+    "Print Screen": "Print Tela",
+    "Print Text": "Print Texto",
+    "Print Text file": "Print Texto file",
+    "Print Window": "Print Janela",
     "Print blank page": "Print blank page",
     "Print zone...": "Print zone...",
-    "Printer Setup": "Printer Setup",
+    "Printer Setup": "Printer Configuração",
     "Printing method": "Printing method",
-    "Scale": "Scale",
-    "Set x scale": "Set x scale",
-    "Set y scale": "Set y scale",
+    "Scale": "Escala",
+    "Set x scale": "Definir x scale",
+    "Set y scale": "Definir y scale",
     "Stretch to page": "Stretch to page"
   }
 }

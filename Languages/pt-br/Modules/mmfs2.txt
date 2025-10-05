@@ -3,18 +3,18 @@
   "lang": 1046,
   "general": {
     "%s files (%s)": "%s files (%s)",
-    "All files (*.*)|*.*||": "All files (*.*)|*.*||",
-    "Animation files": "Animation files",
-    "Graphic files": "Graphic files",
-    "Image files": "Image files",
-    "Unknown format": "Unknown format"
+    "All files (*.*)|*.*||": "Todos files (*.*)|*.*||",
+    "Animation files": "Animação files",
+    "Graphic files": "Gráfico files",
+    "Image files": "Imagem files",
+    "Unknown format": "Desconhecido format"
   },
   "dialog_100": {
     "# frames :": "# frames :",
     "Depth :": "Depth :",
-    "Height :": "Height :",
-    "Information": "Information",
-    "Type :": "Type :",
-    "Width :": "Width :"
+    "Height :": "Altura :",
+    "Information": "Informação",
+    "Type :": "Tipo :",
+    "Width :": "Largura :"
   }
 }

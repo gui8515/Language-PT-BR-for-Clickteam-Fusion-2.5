@@ -3,22 +3,22 @@
   "lang": 1046,
   "general": {
     "Advanced Scrolling": "Advanced Scrolling",
-    "Back": "Back",
+    "Back": "Voltar",
     "Bands": "Bands",
-    "Cell": "Cell",
+    "Cell": "Célula",
     "Cross rain": "Cross rain",
     "Diagonal": "Diagonal",
     "Door": "Door",
     "Fade": "Fade",
     "Line": "Line",
     "Mosaic": "Mosaic",
-    "Open": "Open",
+    "Open": "Abrir",
     "Push": "Push",
     "Rain": "Rain",
     "Scrolling": "Scrolling",
     "Spot width: %d%%": "Spot width: %d%%",
     "Square": "Square",
-    "Standard transitions": "Standard transitions",
+    "Standard transitions": "Padrão transitions",
     "Stretch": "Stretch",
     "Stretch 2": "Stretch 2",
     "Turn": "Turn",
@@ -30,12 +30,12 @@
     "Zoom 2": "Zoom 2"
   },
   "dialog_102": {
-    "Direction": "Direction",
+    "Direction": "Direção",
     "From &bottom to top": "From &bottom to top",
     "From &left to right": "From &left to right",
     "From &right to left": "From &right to left",
     "From &top to bottom": "From &top to bottom",
-    "Number of bands:": "Number of bands:",
+    "Number of bands:": "Número of bands:",
     "Spin1": "Spin1"
   },
   "dialog_103": {
@@ -45,23 +45,23 @@
     "&Top-right corner": "&Top-right corner",
     "&Vertical": "&Vertical",
     "Bottom-&right corner": "Bottom-&right corner",
-    "Direction": "Direction",
+    "Direction": "Direção",
     "Slider1": "Slider1",
-    "Start from": "Start from",
+    "Start from": "Iniciar from",
     "Top-&left corner": "Top-&left corner"
   },
   "dialog_104": {
     "Slider1": "Slider1"
   },
   "dialog_105": {
-    "Direction": "Direction",
+    "Direction": "Direção",
     "Horizontal, from center to &left && right": "Horizontal, from center to &left && right",
     "Horizontal, from left && &right to center": "Horizontal, from left && &right to center",
     "Vertical, from center to &top && bottom": "Vertical, from center to &top && bottom",
     "Vertical, from top && &bottom to center": "Vertical, from top && &bottom to center"
   },
   "dialog_106": {
-    "Direction": "Direction",
+    "Direction": "Direção",
     "From &bottom to top": "From &bottom to top",
     "From &left to right": "From &left to right",
     "From &right to left": "From &right to left",
@@ -69,7 +69,7 @@
   },
   "dialog_107": {
     "Slider1": "Slider1",
-    "Square Size": "Square Size",
+    "Square Size": "Square Tamanho",
     "with Stretch for the inside square": "with Stretch for the inside square"
   },
   "dialog_108": {
@@ -92,56 +92,56 @@
   },
   "dialog_110": {
     "Horizontal": "Horizontal",
-    "Number of lines :": "Number of lines :",
+    "Number of lines :": "Número of lines :",
     "Slider1": "Slider1",
     "Vertical": "Vertical"
   },
   "dialog_112": {
-    "Bottom Left": "Bottom Left",
-    "Bottom Right": "Bottom Right",
-    "Top Left": "Top Left",
-    "Top Right": "Top Right"
+    "Bottom Left": "Inferior Esquerda",
+    "Bottom Right": "Inferior Direita",
+    "Top Left": "Superior Esquerda",
+    "Top Right": "Superior Direita"
   },
   "dialog_113": {
     "4 corners": "4 corners",
-    "Bottom Left": "Bottom Left",
-    "Bottom Middle": "Bottom Middle",
-    "Bottom Right": "Bottom Right",
-    "Center": "Center",
-    "Middle Left": "Middle Left",
-    "Middle Right": "Middle Right",
-    "Top Left": "Top Left",
-    "Top Middle": "Top Middle",
-    "Top Right": "Top Right"
+    "Bottom Left": "Inferior Esquerda",
+    "Bottom Middle": "Inferior Meio",
+    "Bottom Right": "Inferior Direita",
+    "Center": "Centro",
+    "Middle Left": "Meio Esquerda",
+    "Middle Right": "Meio Direita",
+    "Top Left": "Superior Esquerda",
+    "Top Middle": "Superior Meio",
+    "Top Right": "Superior Direita"
   },
   "dialog_114": {
-    "Inverse Rotation": "Inverse Rotation",
-    "Number of rotations": "Number of rotations",
-    "See Full Image": "See Full Image",
+    "Inverse Rotation": "Inverse Rotação",
+    "Number of rotations": "Número of rotations",
+    "See Full Image": "See Cheio Imagem",
     "Slider1": "Slider1"
   },
   "dialog_115": {
-    "Bottom Left": "Bottom Left",
-    "Bottom Middle": "Bottom Middle",
-    "Bottom Right": "Bottom Right",
-    "Center H": "Center H",
-    "Center H+V": "Center H+V",
-    "Center V": "Center V",
-    "Middle Left": "Middle Left",
-    "Middle Right": "Middle Right",
-    "Top Left": "Top Left",
-    "Top Middle": "Top Middle",
-    "Top Right": "Top Right"
+    "Bottom Left": "Inferior Esquerda",
+    "Bottom Middle": "Inferior Meio",
+    "Bottom Right": "Inferior Direita",
+    "Center H": "Centro H",
+    "Center H+V": "Centro H+V",
+    "Center V": "Centro V",
+    "Middle Left": "Meio Esquerda",
+    "Middle Right": "Meio Direita",
+    "Top Left": "Superior Esquerda",
+    "Top Middle": "Superior Meio",
+    "Top Right": "Superior Direita"
   },
   "dialog_116": {
-    "Open (Scrolling)": "Open (Scrolling)",
-    "Open (Stretch)": "Open (Stretch)",
+    "Open (Scrolling)": "Abrir (Scrolling)",
+    "Open (Stretch)": "Abrir (Stretch)",
     "Slide (H)": "Slide (H)",
     "Slide (V)": "Slide (V)",
-    "Slide (to Bottom Left)": "Slide (to Bottom Left)",
-    "Slide (to Bottom Right)": "Slide (to Bottom Right)",
-    "Slide (to Top Left)": "Slide (to Top Left)",
-    "Slide (to Top Right)": "Slide (to Top Right)"
+    "Slide (to Bottom Left)": "Slide (to Inferior Esquerda)",
+    "Slide (to Bottom Right)": "Slide (to Inferior Direita)",
+    "Slide (to Top Left)": "Slide (to Superior Esquerda)",
+    "Slide (to Top Right)": "Slide (to Superior Direita)"
   },
   "dialog_117": {
     "Zoom In": "Zoom In",
@@ -158,7 +158,7 @@
     "4 Directions": "4 Directions"
   },
   "dialog_120": {
-    "Inverse Rotation": "Inverse Rotation",
+    "Inverse Rotation": "Inverse Rotação",
     "Nb Rotations": "Nb Rotations",
     "Slider1": "Slider1"
   }

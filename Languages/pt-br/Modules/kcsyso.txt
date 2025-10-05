@@ -26,14 +26,14 @@
     "Windows version: %s": "Windows version: %s"
   },
   "menu_20002": {
-    "&Environment Variable": "&Environment Variable",
-    "&Windows Version (index)": "&Windows Version (index)",
+    "&Environment Variable": "&Environment Variável",
+    "&Windows Version (index)": "&Windows Versão (index)",
     "Computer &Name": "Computer &Name",
-    "System Default &Language ID": "System Default &Language ID",
-    "System Default &Language Name": "System Default &Language Name",
-    "User Default L&anguage ID": "User Default L&anguage ID",
-    "User Default L&anguage Name": "User Default L&anguage Name",
+    "System Default &Language ID": "System Padrão &Language ID",
+    "System Default &Language Name": "System Padrão &Language Nome",
+    "User Default L&anguage ID": "User Padrão L&anguage ID",
+    "User Default L&anguage Name": "User Padrão L&anguage Nome",
     "User Na&me": "User Na&me",
-    "Windows Version (text)": "Windows Version (text)"
+    "Windows Version (text)": "Windows Versão (text)"
   }
 }

@@ -3,9 +3,9 @@
   "lang": 1046,
   "general": {
     "%o : Item has tag %0": "%o : Item has tag %0",
-    "%o : On error": "%o : On error",
-    "%o : On item owned": "%o : On item owned",
-    "%o : On new item": "%o : On new item",
+    "%o : On error": "%o : Ligado error",
+    "%o : On item owned": "%o : Ligado item owned",
+    "%o : On new item": "%o : Ligado new item",
     "Add item %0 to show in store": "Add item %0 to show in store",
     "Consumable name": "Consumable name",
     "Decrement consumable %0": "Decrement consumable %0",
@@ -14,37 +14,37 @@
     "Item tag or unique ID": "Item tag or unique ID",
     "Mochi Coins": "Mochi Coins",
     "Obsolete. This object is provided for compatibility reasons only.": "Obsolete. This object is provided for compatibility reasons only.",
-    "Property name": "Property name",
-    "Remove consumable %0": "Remove consumable %0",
-    "Set consumable %0 to %1": "Set consumable %0 to %1",
+    "Property name": "Propriedade name",
+    "Remove consumable %0": "Remover consumable %0",
+    "Set consumable %0 to %1": "Definir consumable %0 para %1",
     "Show single item with ID %0": "Show single item with ID %0",
-    "Show store": "Show store",
+    "Show store": "Exibir store",
     "Show video for item with ID %0": "Show video for item with ID %0",
     "Tag": "Tag",
-    "Value": "Value"
+    "Value": "Valor"
   },
   "menu_20000": {
-    "Add item to show": "Add item to show",
+    "Add item to show": "Adicionar item to show",
     "Consumable": "Consumable",
     "Decrement": "Decrement",
     "Increment": "Increment",
-    "Remove": "Remove",
+    "Remove": "Remover",
     "Set/create": "Set/create",
-    "Show item video": "Show item video",
-    "Show single item": "Show single item",
-    "Show store": "Show store",
+    "Show item video": "Exibir item video",
+    "Show single item": "Exibir single item",
+    "Show store": "Exibir store",
     "Store": "Store"
   },
   "menu_20001": {
     "Item has tag": "Item has tag",
-    "On error": "On error",
-    "On item owned": "On item owned",
-    "On new item": "On new item"
+    "On error": "Ao error",
+    "On item owned": "Ao item owned",
+    "On new item": "Ao new item"
   },
   "menu_20002": {
-    "Get consumable amount": "Get consumable amount",
-    "Get item ID": "Get item ID",
-    "Get item count": "Get item count",
-    "Get item property": "Get item property"
+    "Get consumable amount": "Obter consumable amount",
+    "Get item ID": "Obter item ID",
+    "Get item count": "Obter item count",
+    "Get item property": "Obter item property"
   }
 }

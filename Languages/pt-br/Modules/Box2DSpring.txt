@@ -3,16 +3,16 @@
   "lang": 1046,
   "general": {
     "Activated : %i": "Activated : %i",
-    "Active at start": "Active at start",
+    "Active at start": "Ativo at start",
     "Advanced": "Advanced",
     "Angle : %i degrees": "Angle : %i degrees",
     "Auto rotation": "Auto rotation",
     "Box": "Box",
-    "Check this box to make your spring active when the frame starts": "Check this box to make your spring active when the frame starts",
-    "Check to enable automatic rotations of the image": "Check to enable automatic rotations of the image",
-    "Check to resample the image of the object when rotating it (slower for large number of objects).": "Check to resample the image of the object when rotating it (slower for large number of objects).",
+    "Check this box to make your spring active when the frame starts": "Verificar this box to make your spring active when the frame starts",
+    "Check to enable automatic rotations of the image": "Verificar to enable automatic rotations of the image",
+    "Check to resample the image of the object when rotating it (slower for large number of objects).": "Verificar to resample the image of the object when rotating it (slower for large number of objects).",
     "Circle": "Circle",
-    "Collision shape": "Collision shape",
+    "Collision shape": "Colisão shape",
     "Engine ID": "Engine ID",
     "Enter the direction of the spring": "Enter the direction of the spring",
     "Enter the identifier of the movement, that must match the identifier of the engine object.": "Enter the identifier of the movement, that must match the identifier of the engine object.",
@@ -25,6 +25,6 @@
     "Spring directions": "Spring directions",
     "Strength": "Strength",
     "Strength : %i": "Strength : %i",
-    "Type : Spring": "Type : Spring"
+    "Type : Spring": "Tipo : Spring"
   }
 }

@@ -9,7 +9,7 @@
     "01Send SQL command %s": "01Send SQL command %s",
     "01Set row max length to %s": "01Set row max length to %s",
     "10%s: can get data": "10%s: can get data",
-    "Column number": "Column number",
+    "Column number": "Coluna number",
     "ODBC": "ODBC",
     "ODBC object": "ODBC object",
     "Provides a direct way of accessing information from an external database.": "Provides a direct way of accessing information from an external database."
@@ -17,27 +17,27 @@
   "dialog_20003": {
     "&Browse": "&Browse",
     "&Help": "&Help",
-    "Cancel": "Cancel",
-    "Data source": "Data source",
+    "Cancel": "Cancelar",
+    "Data source": "Dados source",
     "OK": "OK",
-    "Setup ODBC object": "Setup ODBC object"
+    "Setup ODBC object": "Configuração ODBC object"
   },
   "menu_20000": {
-    "Get row": "Get row",
-    "New statement": "New statement",
-    "Select data source": "Select data source",
+    "Get row": "Obter row",
+    "New statement": "Novo statement",
+    "Select data source": "Selecionar data source",
     "Select data source via a selector": "Select data source via a selector",
     "Send SQL command": "Send SQL command",
-    "Set row max length": "Set row max length"
+    "Set row max length": "Definir row max length"
   },
   "menu_20001": {
     "Can get data ?": "Can get data ?"
   },
   "menu_20002": {
-    "Get columns count": "Get columns count",
-    "Get name of column": "Get name of column",
-    "Get number in column": "Get number in column",
-    "Get rows count": "Get rows count",
-    "Get text in column": "Get text in column"
+    "Get columns count": "Obter columns count",
+    "Get name of column": "Obter name of column",
+    "Get number in column": "Obter number in column",
+    "Get rows count": "Obter rows count",
+    "Get text in column": "Obter text in column"
   }
 }

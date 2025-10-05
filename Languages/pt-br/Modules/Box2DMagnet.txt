@@ -2,11 +2,11 @@
   "version": 1,
   "lang": 1046,
   "general": {
-    "%o: Is magnet active?": "%o: Is magnet active?",
-    "Active at start": "Active at start",
+    "%o: Is magnet active?": "%o: magnet active?",
+    "Active at start": "Ativo at start",
     "Advanced": "Advanced",
     "Attracts objects around itself": "Attracts objects around itself",
-    "Check this box to make the magnet active at start of frame": "Check this box to make the magnet active at start of frame",
+    "Check this box to make the magnet active at start of frame": "Verificar this box to make the magnet active at start of frame",
     "Directions": "Directions",
     "Directions of the magnet": "Directions of the magnet",
     "Engine ID": "Engine ID",
@@ -19,30 +19,30 @@
     "Enter the width of the object": "Enter the width of the object",
     "Physics - Magnet": "Physics - Magnet",
     "Please drop a 'Physics Engine' object in your frame.": "Please drop a 'Physics Engine' object in your frame.",
-    "Running : %i": "Running : %i",
-    "Set angle to %0": "Set angle to %0",
-    "Set height to %0": "Set height to %0",
-    "Set magnet to %0": "Set magnet to %0",
-    "Set strength to %0": "Set strength to %0",
-    "Set width to %0": "Set width to %0",
+    "Running : %i": "Em execução : %i",
+    "Set angle to %0": "Definir angle para %0",
+    "Set height to %0": "Definir height para %0",
+    "Set magnet to %0": "Definir magnet para %0",
+    "Set strength to %0": "Definir strength para %0",
+    "Set width to %0": "Definir width para %0",
     "Strength": "Strength",
     "Strength : %i": "Strength : %i"
   },
   "menu_20000": {
     "Actions": "Actions",
-    "Set angle": "Set angle",
-    "Set height": "Set height",
-    "Set magnet ON/OFF": "Set magnet ON/OFF",
-    "Set strength": "Set strength",
-    "Set width": "Set width"
+    "Set angle": "Definir angle",
+    "Set height": "Definir height",
+    "Set magnet ON/OFF": "Definir magnet ON/OFF",
+    "Set strength": "Definir strength",
+    "Set width": "Definir width"
   },
   "menu_20001": {
     "Conditions": "Conditions",
-    "Is magnet active?": "Is magnet active?"
+    "Is magnet active?": "magnet active?"
   },
   "menu_20002": {
-    "Action zone height": "Action zone height",
-    "Action zone width": "Action zone width",
+    "Action zone height": "Ação zone height",
+    "Action zone width": "Ação zone width",
     "Expressions": "Expressions",
     "Magnet strength": "Magnet strength"
   }

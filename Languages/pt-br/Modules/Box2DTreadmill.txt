@@ -2,13 +2,13 @@
   "version": 1,
   "lang": 1046,
   "general": {
-    "%o: Is treadmill active?": "%o: Is treadmill active?",
-    "Active at start": "Active at start",
+    "%o: Is treadmill active?": "%o: treadmill active?",
+    "Active at start": "Ativo at start",
     "Advanced": "Advanced",
     "Angle": "Angle",
     "Angle : %g degrees": "Angle : %g degrees",
-    "Check this box to make the treadmill active at start of frame": "Check this box to make the treadmill active at start of frame",
-    "Direction of the treadmill": "Direction of the treadmill",
+    "Check this box to make the treadmill active at start of frame": "Verificar this box to make the treadmill active at start of frame",
+    "Direction of the treadmill": "Direção of the treadmill",
     "Engine ID": "Engine ID",
     "Enter 1 to turn on, 0 to turn off": "Enter 1 to turn on, 0 to turn off",
     "Enter the direction of the treadmill": "Enter the direction of the treadmill",
@@ -20,30 +20,30 @@
     "Moves objects at constant speed in one direction": "Moves objects at constant speed in one direction",
     "Physics - Treadmill": "Physics - Treadmill",
     "Please drop a 'Physics Engine' object in your frame.": "Please drop a 'Physics Engine' object in your frame.",
-    "Running : %i": "Running : %i",
-    "Set angle to %0 degrees": "Set angle to %0 degrees",
-    "Set height to %0": "Set height to %0",
-    "Set speed to %0": "Set speed to %0",
-    "Set treadmill to %0": "Set treadmill to %0",
-    "Set width to %0": "Set width to %0",
-    "Speed": "Speed",
+    "Running : %i": "Em execução : %i",
+    "Set angle to %0 degrees": "Definir angle para %0 degrees",
+    "Set height to %0": "Definir height para %0",
+    "Set speed to %0": "Definir speed para %0",
+    "Set treadmill to %0": "Definir treadmill para %0",
+    "Set width to %0": "Definir width para %0",
+    "Speed": "Velocidade",
     "Strength : %i": "Strength : %i"
   },
   "menu_20000": {
     "Actions": "Actions",
-    "Set angle": "Set angle",
-    "Set height": "Set height",
-    "Set speed": "Set speed",
-    "Set treadmill ON/OFF": "Set treadmill ON/OFF",
-    "Set width": "Set width"
+    "Set angle": "Definir angle",
+    "Set height": "Definir height",
+    "Set speed": "Definir speed",
+    "Set treadmill ON/OFF": "Definir treadmill ON/OFF",
+    "Set width": "Definir width"
   },
   "menu_20001": {
     "Conditions": "Conditions",
-    "Is treadmill active?": "Is treadmill active?"
+    "Is treadmill active?": "treadmill active?"
   },
   "menu_20002": {
-    "Action zone height": "Action zone height",
-    "Action zone width": "Action zone width",
+    "Action zone height": "Ação zone height",
+    "Action zone width": "Ação zone width",
     "Expressions": "Expressions",
     "Treadmill angle": "Treadmill angle",
     "Treadmill speed": "Treadmill speed"

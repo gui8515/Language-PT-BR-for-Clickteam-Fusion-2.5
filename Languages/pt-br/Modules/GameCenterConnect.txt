@@ -18,12 +18,12 @@
     "Friend number 1 ID": "Friend number 1 ID",
     "Friend number 2": "Friend number 2",
     "Friend number 2 ID": "Friend number 2 ID",
-    "Game Center Connect": "Game Center Connect",
+    "Game Center Connect": "Jogo Centro Connect",
     "If checked, the local player will be authenticated at start of frame": "If checked, the local player will be authenticated at start of frame",
-    "Load friends list": "Load friends list",
+    "Load friends list": "Carregar friends list",
     "Player's Alias": "Player's Alias",
     "Player's ID": "Player's ID",
-    "Reset invitations": "Reset invitations",
+    "Reset invitations": "Redefinir invitations",
     "Send invitations": "Send invitations",
     "Simulates a correct local player authentication": "Simulates a correct local player authentication",
     "Simulation": "Simulation",
@@ -33,12 +33,12 @@
   },
   "menu_20000": {
     "Actions": "Actions",
-    "Add invitation": "Add invitation",
+    "Add invitation": "Adicionar invitation",
     "Authenticate local player": "Authenticate local player",
     "Friends": "Friends",
-    "Load friends list": "Load friends list",
+    "Load friends list": "Carregar friends list",
     "Local player": "Local player",
-    "Reset invitations": "Reset invitations",
+    "Reset invitations": "Redefinir invitations",
     "Send invitations": "Send invitations"
   },
   "menu_20001": {
@@ -53,11 +53,11 @@
   "menu_20002": {
     "Expressions": "Expressions",
     "Friends": "Friends",
-    "Get friend ID": "Get friend ID",
-    "Get friend alias": "Get friend alias",
-    "Get local player ID": "Get local player ID",
-    "Get local player alias": "Get local player alias",
-    "Get number of friends": "Get number of friends",
+    "Get friend ID": "Obter friend ID",
+    "Get friend alias": "Obter friend alias",
+    "Get local player ID": "Obter local player ID",
+    "Get local player alias": "Obter local player alias",
+    "Get number of friends": "Obter number of friends",
     "Local player": "Local player"
   }
 }
