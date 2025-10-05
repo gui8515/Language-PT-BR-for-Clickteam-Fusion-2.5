@@ -1,0 +1,58 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+
+<head>
+<title>Regular Polygon Movement - Clickteam</title>
+
+
+<link rel="stylesheet" href="../style_default.css" type="text/css">
+
+</head>
+<body>
+
+<h1>Regular Polygon Movement</h1>
+<p>
+
+<hr>
+
+<h2>Overview</h2>
+<p class="main_content">
+This automated movement works as an addition to the Circular and Simple Ellipse movements by providing many equal
+length sided regular polygon shapes.
+</p>
+<h2>Using the movement</h2>
+<p class="main_content">
+The movement is very similar in design to the circular movement, set the speed (velocity), radius and centre X and Y positions of
+the movement. Again note that the location of the object in the frame editor does not play a role in this movement.
+The number of sides determines the shape of the movement, a minimum of three sides is needed and this will create
+a triangle shape. The rotation angle setting allows control the offset of the shape from the x-axis.
+</p>
+
+<h2>Frame editor properties</h2>
+<img src="../images/settings-regular-polygon.png" alt="Image showing the properties for this movement">
+<p class="main_content_smaller">
+Figure 1: Movement properties for the Regular Polygon Movement.
+<br /><br />
+</p>
+
+<p class="main_header">General Properties</p>
+<p class="main_content">
+	<b>Move at start:</b> Defines if the movement starts when the frame does or if the movement is initially paused.
+</p>
+<br />
+<p class="main_header">Polygon Properties</p>
+<p class="main_content">
+	<b>Number of Sides:</b> Defines the shape, 3 for triangle, 4 for square, 5 for pentagon etc.<br />
+	<b>Velocity:</b> Velocity of the movement in pixels per second (assuming 50 frames per second) Negate value reverses the direction.<br />
+	<b>Radius:</b> Inner radius in pixels of the shape.<br />
+	<b>Centre X:</b> The x-axis value of the centre of rotation. Note: To rotate around another object rather than a point use the Movement Controller and
+	always set the centre x to the x position of the other object.<br />
+	<b>Centre Y:</b> Equivalent of the centre X value but for the y-axis.<br />
+	<b>Rotation Angle:</b> Offset angle of the shape from the x-axis.<br />
+</p>
+<br />
+
+<br /><br /><br />
+
+</body>
+</html>

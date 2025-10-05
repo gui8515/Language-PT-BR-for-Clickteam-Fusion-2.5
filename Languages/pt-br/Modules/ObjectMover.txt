@@ -2,34 +2,34 @@
   "version": 1,
   "lang": 1046,
   "general": {
-    "%o is enabled": "%o está ativado",
-    "Allows the movement of the objects located above it.": "Permite o movimento dos objetos localizados acima dele.",
-    "Disable": "Desativar",
-    "Enable": "Ativar",
-    "Enter new height": "Digite a nova altura",
-    "Enter new width": "Digite a nova largura",
-    "Movement enabled": "Movimento ativado",
-    "Moves all the objects above it.": "Move todos os objetos acima dele.",
-    "Object Mover": "Movedor de Objetos",
-    "Set height to %0": "Definir altura para %0",
-    "Set width to %0": "Definir largura para %0"
+    "%o is enabled": "%o is enabled",
+    "Allows the movement of the objects located above it.": "Allows the movement of the objects located above it.",
+    "Disable": "Disable",
+    "Enable": "Enable",
+    "Enter new height": "Enter new height",
+    "Enter new width": "Enter new width",
+    "Movement enabled": "Movement enabled",
+    "Moves all the objects above it.": "Moves all the objects above it.",
+    "Object Mover": "Object Mover",
+    "Set height to %0": "Set height to %0",
+    "Set width to %0": "Set width to %0"
   },
   "menu_20000": {
-    "Actions": "Ações",
-    "Activation": "Ativação",
-    "Disable": "Desativar",
-    "Enable": "Ativar",
-    "Set height": "Definir altura",
-    "Set width": "Definir largura",
-    "Size": "Tamanho"
+    "Actions": "Actions",
+    "Activation": "Activation",
+    "Disable": "Disable",
+    "Enable": "Enable",
+    "Set height": "Set height",
+    "Set width": "Set width",
+    "Size": "Size"
   },
   "menu_20001": {
-    "Conditions": "Condições",
-    "Is enabled?": "Está ativado?"
+    "Conditions": "Conditions",
+    "Is enabled?": "Is enabled?"
   },
   "menu_20002": {
-    "Expressions": "Expressões",
-    "Get height": "Obter altura",
-    "Get width": "Obter largura"
+    "Expressions": "Expressions",
+    "Get height": "Get height",
+    "Get width": "Get width"
   }
 }

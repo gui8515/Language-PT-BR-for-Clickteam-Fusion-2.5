@@ -1,0 +1,79 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+
+<head>
+<title>Presentation Movement - Clickteam</title>
+
+<link rel="stylesheet" href="../style_default.css" type="text/css">
+
+</head>
+<body>
+
+<h1>Presentation Movement</h1>
+<p>
+
+<hr>
+
+<h2>Overview</h2>
+<p class="main_content">
+This movement is designed to aid the creation of presentation or slide shows with CF 2.5. For simple presentations no
+events are required, all set-up can be completed in the frame editor and the movement will do the rest including swapping
+frame! No need to position objects off screen in the frame editor to create fly-in effects, position how they will appear
+when complete and let the movement take care of the rest.
+</p>
+<h2>Using the movement</h2>
+<p class="main_content">
+Any object with this movement can have a entrance and/or exit setting (one of each). This determines when
+the entrance or exit trigger occurs how the object will respond. The options include none, appear, or
+fly in/out from various directions. Objects with any fly in/out setting will display an additional speed
+property. All objects with a setting other than 'none' require an index value. This tells us when the entrance/exit is
+to take place i.e. the order, more than one object can share the same value if you want events to happen
+simultaneously. A value of zero indicates the movement occurs when the frame starts.
+<br /><br />
+To trigger events to proceed based on user key presses as found in many popular presentation software then
+the global properties should all be ticked. See below for a complete description of these properties; basically
+they tell the movement to detect key presses internally and even change frame when required. With these
+options making a presentation is easy and many times will need no events! For the more demanding user
+the control extension can be used to apply a custom control system.
+</p>
+
+<h2>Frame editor properties</h2>
+<img src="../images/settings-presentation.png" alt="Image showing the properties for this movement">
+<p class="main_content_smaller">
+Figure 1: Movement properties for the Presentation Movement.
+<br /><br />
+</p>
+
+<p class="main_header">Entrance Properties</p>
+<p class="main_content">
+	<b>Type:</b> Defines the type of entry, none, appear or fly-in.<br />
+	<b>Speed:</b> The speed for fly-in effects, Very Slow, Slow, Medium, Fast or Very Fast.<br />
+	<b>Index:</b> Defines when the entrance will play, zero indicates when the frame starts.
+</p>
+<br />
+<p class="main_header">Exit Properties</p>
+<p class="main_content">
+	<b>Type:</b> Defines the type of exit, none, appear or fly-out.<br />
+	<b>Speed:</b> The speed for fly-out effects, Very Slow, Slow, Medium, Fast or Very Fast.<br />
+	<b>Index:</b> Defines when the exit will play, zero indicates when the frame starts.
+</p>
+<br />
+<p class="main_header">Global Properties</p>
+<p class="main_content">
+These properties are shared by all objects with Invaders movement in the current frame. Therefore changing the values in one
+object will also change the values in all other objects with this movement. Unlike most other movements objects with the
+Presentation movement are aware of the existence of each other at edit and runtime.<br /><br />
+
+	<b>Automatically control movement:</b> The movement will check for
+	arrow key presses and change the current index value as required.<br />
+	<b>Automatically change frame:</b> The movement will jump to the previous or next
+	frame when reaching the end of all index values.<br />
+	<b>Automatically complete previous index:</b> Select to force the completion of the previous index before
+	moving forward to the next index.
+</p>
+<br />
+
+<br /><br /><br />
+
+</body>
+</html>

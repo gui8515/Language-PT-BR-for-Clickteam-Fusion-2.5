@@ -2,44 +2,44 @@
   "version": 1,
   "lang": 1046,
   "general": {
-    "%o : On error : Network error": "%o : Em caso de erro : Erro de rede",
-    "%o : On error : User not logged in": "%o : Em caso de erro : Usuário não conectado",
-    "%o : On player login": "%o : Ao iniciar sessão do jogador",
-    "%o : On player logout": "%o : Ao sair do jogador",
-    "%o : On user data %0 read": "%o : Ao ler dados do usuário %0",
-    "%o : On user data %0 written": "\"%o : Quando dados do usuário %0 forem escritos\"",
-    "%o : Player has coins": "%o : O jogador tem moedas",
-    "%o : Player is logged in": "%o : O jogador está conectado",
-    "Hide login widget": "Esconder widget de login",
-    "Key": "Chave",
-    "Mochi Social": "Social Mochi",
-    "Obsolete. This object is provided for compatibility reasons only.": "Obsoleto. Este objeto é fornecido apenas para fins de compatibilidade.",
-    "Read user data at key %0": "Ler dados do usuário na chave %0",
-    "Show login widget": "Mostrar widget de login",
-    "Value": "Valor",
-    "Write user data %1 to key %0": "Escrever dados do usuário %1 para a chave %0"
+    "%o : On error : Network error": "%o : On error : Network error",
+    "%o : On error : User not logged in": "%o : On error : User not logged in",
+    "%o : On player login": "%o : On player login",
+    "%o : On player logout": "%o : On player logout",
+    "%o : On user data %0 read": "%o : On user data %0 read",
+    "%o : On user data %0 written": "%o : On user data %0 written",
+    "%o : Player has coins": "%o : Player has coins",
+    "%o : Player is logged in": "%o : Player is logged in",
+    "Hide login widget": "Hide login widget",
+    "Key": "Key",
+    "Mochi Social": "Mochi Social",
+    "Obsolete. This object is provided for compatibility reasons only.": "Obsolete. This object is provided for compatibility reasons only.",
+    "Read user data at key %0": "Read user data at key %0",
+    "Show login widget": "Show login widget",
+    "Value": "Value",
+    "Write user data %1 to key %0": "Write user data %1 to key %0"
   },
   "menu_20000": {
-    "Hide login widget": "Esconder widget de login",
-    "Read user data": "Ler dados do usuário",
-    "Show login widget": "Mostrar widget de login",
-    "Write user data": "Escrever dados do usuário"
+    "Hide login widget": "Hide login widget",
+    "Read user data": "Read user data",
+    "Show login widget": "Show login widget",
+    "Write user data": "Write user data"
   },
   "menu_20001": {
-    "Network error": "Erro de rede",
-    "On error": "Ao Ocorrer Erro",
-    "On player login": "Ao iniciar sessão do jogador",
-    "On player logout": "Ao sair do jogador",
-    "On user data read": "Ao ler dados do usuário",
-    "On user data written": "Ao escrever dados do usuário",
-    "Player has coins?": "O jogador tem moedas?",
-    "Player is logged in": "O jogador está conectado",
-    "User not logged in": "Usuário não está conectado"
+    "Network error": "Network error",
+    "On error": "On error",
+    "On player login": "On player login",
+    "On player logout": "On player logout",
+    "On user data read": "On user data read",
+    "On user data written": "On user data written",
+    "Player has coins?": "Player has coins?",
+    "Player is logged in": "Player is logged in",
+    "User not logged in": "User not logged in"
   },
   "menu_20002": {
-    "Get player name": "Obter nome do jogador",
-    "Get player profile image URL": "Obter URL da imagem do perfil do jogador",
-    "Get player unique identifier": "Obter identificador único do jogador",
-    "Get user data read value": "Obter valor de dado do usuário"
+    "Get player name": "Get player name",
+    "Get player profile image URL": "Get player profile image URL",
+    "Get player unique identifier": "Get player unique identifier",
+    "Get user data read value": "Get user data read value"
   }
 }

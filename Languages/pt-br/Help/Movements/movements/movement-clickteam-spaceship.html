@@ -1,0 +1,69 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+
+<head>
+<title>Spaceship Movement - Clickteam</title>
+
+
+<link rel="stylesheet" href="../style_default.css" type="text/css">
+
+</head>
+<body>
+
+<h1>Spaceship Movement</h1>
+<p>
+
+<hr>
+
+<h2>Overview</h2>
+<p class="main_content"> This movement simulates a spaceship with a thruster. 
+  The object moves in its current direction, and the thrust, when applied, changes 
+  the direction and speed of the movement progressively. The movement deals with 
+  external gravity. Such a movement is used to control the ship in games like 
+  Asteroids or Lunar Lander.</p>
+
+<h2>Using the movement</h2>
+<p class="main_content"> After selecting the movement you should define the thrust 
+  power (from 0 to 100) and the gravity strength (0 to 100) and direction. All 
+  the rest is handled automatically. Please note that this movement works better 
+  with objects containing 32 directions of animation. The WALKING animation is 
+  used when the ship is moving on the screen, and the JUMP animation is used when 
+  the thruster is applied.<br />
+  <br />
+  Frame editor properties</p>
+
+<p class="main_content_smaller"> <img src="../images/settings-spaceship.png" width="336" height="246"></p>
+<p class="main_content_smaller">Figure 1: Movement properties for the Circular 
+  Movement. <br />
+  <br />
+</p>
+
+<p class="main_header">General Properties</p>
+<p class="main_content"> <b>Power of thrust:</b> indicates the power of the thruster, 
+  from 0 (no power) to 100 (full power). The thrust is applied to the ship when 
+  you press the selected button.<br />
+  <b>Thruster:</b> choice of the button to press to activate the thruster. It 
+  can be the Up button or the Fire 1 button.<br />
+  <b>Rotation speed:</b> indicates the rotation speed of the ship, when 
+  you press left or right keys. From 0 (no rotation) to 100 (full speed).<br />
+  <b>Initial speed: </b>sets the initial speed of the object, from 0 (stopped) 
+  to 100 (fast).<br />
+  <b>Initial direction:</b> allows you to choose the initial direction of the 
+  object. If the initial speed is not zero, the ship will immediately move in 
+  that direction at start of frame.<br />
+  <b>Deceleration:</b> indicates a deceleration factor that slows down the ship 
+  as it moves, from 0 to 100. If 0 the ship will not slow down. If 100 it will 
+  stop instantly. Please note that the power of the thruster must be higher than 
+  this value for the thruster to have effect.<br />
+  <b>Gravity strength:</b> indicates the strength of the gravity, from 0 to 100. 
+  0 means no gravity. 100 is a really strong gravity. Please note that the power 
+  of the thruster must be higher than the gravity strength for the ship to counteract 
+  the gravity.<br>
+  <b>Gravity direction:</b> allows you to choose the direction of the gravity.<br />
+</p>
+
+
+<br /><br /><br />
+
+</body>
+</html>

@@ -2,19 +2,19 @@
   "version": 1,
   "lang": 1046,
   "general": {
-    "%s files (%s)": "\"%s arquivos (%s)\"",
-    "All files (*.*)|*.*||": "Todos os arquivos (*.*)|*.*||",
-    "Animation files": "Arquivos de animação",
-    "Graphic files": "Arquivos gráficos",
-    "Image files": "Arquivos de imagem",
-    "Unknown format": "Formato desconhecido"
+    "%s files (%s)": "%s files (%s)",
+    "All files (*.*)|*.*||": "All files (*.*)|*.*||",
+    "Animation files": "Animation files",
+    "Graphic files": "Graphic files",
+    "Image files": "Image files",
+    "Unknown format": "Unknown format"
   },
   "dialog_100": {
-    "# frames :": "\"# frames :\"",
-    "Depth :": "Profundidade :",
-    "Height :": "Altura :",
-    "Information": "Informações",
-    "Type :": "Tipo :",
-    "Width :": "Largura :"
+    "# frames :": "# frames :",
+    "Depth :": "Depth :",
+    "Height :": "Height :",
+    "Information": "Information",
+    "Type :": "Type :",
+    "Width :": "Width :"
   }
 }

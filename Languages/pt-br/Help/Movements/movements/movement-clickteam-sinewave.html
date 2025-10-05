@@ -1,0 +1,71 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+
+<head>
+<title>Sinewave Movement - Clickteam</title>
+
+
+<link rel="stylesheet" href="../style_default.css" type="text/css">
+
+</head>
+<body>
+
+<h1>Sinewave Movement</h1>
+<p>
+
+<hr>
+
+<h2>Overview</h2>
+<p class="main_content">
+Sinewave movement combines a simple line motion with a orthogonal sinewave movement. This can be used to great affect for collections
+of enemies in shoot' em-ups or for clever text effects. Ignore the sinewave properties and the movement can
+even be used for straight line point-to-point effects.
+</p>
+</p>
+<h2>Using the movement</h2>
+<p class="main_content">
+The location of the object with this movement in the frame defines the start x and y position of the movement, so
+firstly position the object as needed. Then set the location of the completion point of the movement, Final X and
+Final Y along with the speed of the movement. These settings define the straight line part of the movement. Next
+set the sinewave properties, these include 'Amplitude' which is the size of the sine motion, 'Angular Velocity' which
+is how long it takes for the sine motion to complete and if needed the initial starting or offset angle.
+<br /><br />
+Use the additional 'On Completion' option to specify what the movement is to do once it reaches the final or end
+point.
+</p>
+
+<h2>Frame editor properties</h2>
+<img src="../images/settings-sinewave.png" alt="Image showing the properties for this movement">
+<p class="main_content_smaller">
+Figure 1: Movement properties for the Sinewave Movement.
+<br /><br />
+</p>
+
+<p class="main_header">General Properties</p>
+<p class="main_content">
+	<b>Move at start:</b> Defines if the movement starts when the frame does or if the movement is initially paused.<br />
+	<b>On Completion:</b> Defines the action when the movement reaches the end point, Stop, Reset, Bounce or Reverse
+</p>
+<br />
+<p class="main_header">Line Properties</p>
+<p class="main_content">
+	<b>Speed:</b> Speed in pixels per second (based on 50 FPS) of the line movement component.<br />
+	<b>Final X:</b> The destination x-coordinate of the line movement component.<br />
+	<b>Final Y:</b> The destination y-coordinate of the line movement component.<br />
+</p>
+<br />
+<p class="main_header">Sinewave Properties</p>
+<p class="main_content">
+	<b>Amplitude:</b> Amplitude of the sinewave in pixels.<br />
+	<b>Angular Velocity:</b> Rate at which sine component of the movement progresses.<br />
+	<b>Starting Angle:</b> Starting angle of the sine component in degrees.<br />
+</p>
+<br />
+
+<br />
+
+
+<br /><br /><br />
+
+</body>
+</html>
