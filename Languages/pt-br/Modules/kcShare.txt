@@ -10,44 +10,44 @@
     "01Shared value %s=val(%s)": "01Shared value %s=val(%s)",
     "11%s: Condition example %s=%s": "11%s: Condição example %s=%s",
     "Allows different applications to share data (numbers and/or text).": "Allows different applications to share data (numbers and/or text).",
-    "Create a new Shared Data object": "Create a new Shared Data object",
-    "Double click to inspect/modify a shared string": "Double click to inspect/modify a shared string",
-    "Double click to inspect/modify a shared value": "Double click to inspect/modify a shared value",
+    "Create a new Shared Data object": "Create um novo Shared Data object",
+    "Double click to inspect/modify a shared string": "Double click para inspect/modify um shared string",
+    "Double click to inspect/modify a shared value": "Double click para inspect/modify um shared value",
     "Enter number value": "Enter number value",
     "Enter number value to be stored as string value": "Enter number value to be stored as string value",
-    "Enter string to be stored as number value": "Enter string to be stored as number value",
+    "Enter string to be stored as number value": "Enter string para be stored as number value",
     "Enter string value": "Enter string value",
     "Index": "Índice",
-    "Index of the value (zero based)": "Index of the value (zero based)",
+    "Index of the value (zero based)": "Index de o value (zero based)",
     "ShareMem object": "ShareMem object",
     "Shared Data": "Shared Dados"
   },
   "dialog_102": {
     "Index :": "Índice :",
-    "Inspect a long value": "Inspect a long value",
+    "Inspect a long value": "Inspect um long value",
     "OK": "OK",
     "Value : ": "Valor :"
   },
   "dialog_103": {
     "Index :": "Índice :",
-    "Inspect a string": "Inspect a string",
+    "Inspect a string": "Inspect um string",
     "OK": "OK",
     "String": "String"
   },
   "menu_20000": {
     "Reset": "Redefinir",
     "Set shared string": "Definir shared string",
-    "Set shared string from value": "Definir shared string from value",
+    "Set shared string from value": "Definir shared string de value",
     "Set shared value": "Definir shared value",
-    "Set shared value from string": "Definir shared value from string"
+    "Set shared value from string": "Definir shared value de string"
   },
   "menu_20001": {
-    "is Equal": "is Equal"
+    "is Equal": "está Equal"
   },
   "menu_20002": {
     "Get shared String": "Obter shared String",
     "Get shared value": "Obter shared value",
-    "Get string from shared value": "Obter string from shared value",
-    "Get value from shared string": "Obter value from shared string"
+    "Get string from shared value": "Obter string de shared value",
+    "Get value from shared string": "Obter value de shared string"
   }
 }

@@ -13,10 +13,10 @@
     "%o: Set Enable (%0, %1)": "%o: Definir Ativar (%0, %1)",
     "%o: Set Item Text (%0, %1)": "%o: Definir Item Texto (%0, %1)",
     "%o: Show Menu": "%o: Exibir Menu",
-    "%o: Show Menu at %0": "%o: Exibir Menu at %0",
-    "1 to check, 0 to uncheck": "1 to check, 0 to uncheck",
-    "1 to enable, 0 to disable": "1 to enable, 0 to disable",
-    "Content of the menu": "Content of the menu",
+    "%o: Show Menu at %0": "%o: Exibir Menu em %0",
+    "1 to check, 0 to uncheck": "1 para check, 0 para uncheck",
+    "1 to enable, 0 to disable": "1 para enable, 0 para disable",
+    "Content of the menu": "Content de o menu",
     "Edit content": "Edit content",
     "Filename": "Filename",
     "Height": "Altura",
@@ -64,8 +64,8 @@
     "Delete Item": "Excluir Item",
     "Enable / Disable": "Ativar / Desativar",
     "Set Item Text": "Definir Item Texto",
-    "Show At": "Exibir At",
-    "Show At Mouse": "Exibir At Mouse"
+    "Show At": "Exibir Em",
+    "Show At Mouse": "Exibir Em Mouse"
   },
   "menu_20001": {
     "Conditions": "Conditions",

@@ -19,16 +19,16 @@
     "%o: Stop Video": "%o: Parar Vídeo",
     "AVI Files|*.avi|MIDI Files|*.mid|MPEG Files|*.mpg|MP3 Files|*.mp3|WAV Files|*.wav|WMA Files|*.wma|WMV Files|*.wmv|All Files|*.*|": "AVI Files|*.avi|MIDI Files|*.mid|MPEG Files|*.mpg|MP3 Files|*.mp3|WAV Files|*.wav|WMA Files|*.wma|WMV Files|*.wmv|All Files|*.*|",
     "Active Direct Show": "Ativo Direct Exibir",
-    "Allows free resize of the object": "Allows free resize of the object",
-    "Choose the file to play": "Choose the file to play",
-    "Current position: %i": "Atual position: %i",
-    "File to play": "Arquivo to play",
+    "Allows free resize of the object": "Allows free resize de o object",
+    "Choose the file to play": "Choose o file para play",
+    "Current position: %i": "Atual posição: %i",
+    "File to play": "Arquivo para play",
     "Filename:": "Filename:",
     "Global": "Global",
     "Height": "Altura",
     "Options": "Opções",
     "Pathname": "Pathname",
-    "Plays the musics throughout the application": "Plays the musics throughout the application",
+    "Plays the musics throughout the application": "Plays o musics throughout o application",
     "Plays video or sound files (MP3, MPEG, AVI, etc.) in windowless mode. Uses Microsoft DirectShow.": "Plays video or sound files (MP3, MPEG, AVI, etc.) in windowless mode. Uses Microsoft DirectShow.",
     "Position (ms)": "Posição (ms)",
     "Speed Ratio (100 is normal, for 2x enter 200)": "Speed Ratio (100 is normal, for 2x enter 200)",
@@ -36,9 +36,9 @@
     "Title number": "Título number",
     "Total duration: %i": "Total duration: %i",
     "Use Media Foundation API instead of Direct Show in DirectX 11 mode.": "Use Media Foundation API instead of Direct Show in DirectX 11 mode.",
-    "Use Media Foundation with DirectX 11": "Use Media Foundation with DirectX 11",
+    "Use Media Foundation with DirectX 11": "Usar Media Foundation com DirectX 11",
     "Volume: %i": "Volume: %i",
-    "Volume: 0 to 1000": "Volume: 0 to 1000",
+    "Volume: 0 to 1000": "Volume: 0 para 1000",
     "Width": "Largura"
   },
   "menu_20000": {
@@ -62,7 +62,7 @@
   "menu_20001": {
     "Compare Time Position": "Compare Tempo Posição",
     "Conditions": "Conditions",
-    "Is Playing": "Is Reproduzindo"
+    "Is Playing": "Está Reproduzindo"
   },
   "menu_20002": {
     "Expressions": "Expressions",

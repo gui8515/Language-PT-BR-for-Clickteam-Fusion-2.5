@@ -2,8 +2,8 @@
   "version": 1,
   "lang": 1046,
   "general": {
-    "%o: Is gamer signed in?": "%o: gamer signed in?",
-    "%o: Is running on Xbox?": "%o: running on Xbox?",
+    "%o: Is gamer signed in?": "%o: gamer signed em?",
+    "%o: Is running on Xbox?": "%o: running em Xbox?",
     "%o: On error occurred": "%o: Ao error occurred",
     "%o: On login OK": "%o: Ligado login OK",
     "%o: On login failed": "%o: Ao login failed",
@@ -23,8 +23,8 @@
     "Silent Login": "Silent Login"
   },
   "menu_20001": {
-    "Is Gamer Signed In?": "Gamer Signed In?",
-    "Is running on Xbox?": "running on Xbox?",
+    "Is Gamer Signed In?": "Gamer Signed Em?",
+    "Is running on Xbox?": "running em Xbox?",
     "Normal Login ...": "Normal Login ...",
     "On Login OK": "Ligado Login OK",
     "On Login failed": "Ao Login failed",

@@ -5,8 +5,8 @@
     "%o: current key exists": "%o: current key exists",
     "%o: key %0\\%1 exists": "%o: key %0\\%1 exists",
     "%o: last action successful": "%o: last action successful",
-    "%o: value %0 of current key exists": "%o: value %0 of current key exists",
-    "%o: value %2 of key %0\\%1 exists": "%o: value %2 of key %0\\%1 exists",
+    "%o: value %0 of current key exists": "%o: value %0 de current key exists",
+    "%o: value %2 of key %0\\%1 exists": "%o: value %2 de key %0\\%1 exists",
     "0=32-bit, 1=64-bit": "0=32-bit, 1=64-bit",
     "Create current key": "Criar current key",
     "Create key %0\\%1": "Criar key %0\\%1",
@@ -14,8 +14,8 @@
     "Current Root Key = %s": "Atual Root Key = %s",
     "Delete current key": "Excluir current key",
     "Delete key %0\\%1": "Excluir key %0\\%1",
-    "Delete value %0 of current key": "Delete value %0 of current key",
-    "Delete value %2 of key %0\\%1": "Delete value %2 of key %0\\%1",
+    "Delete value %0 of current key": "Delete value %0 de current key",
+    "Delete value %2 of key %0\\%1": "Delete value %2 de key %0\\%1",
     "Invalid parameters.": "Inválido parameters.",
     "Key name": "Key name",
     "Registry2": "Registry2",
@@ -33,7 +33,7 @@
   "dialog_101": {
     "Cancel": "Cancelar",
     "OK": "OK",
-    "Select a root key": "Selecionar a root key"
+    "Select a root key": "Selecionar um root key"
   },
   "menu_20000": {
     "Any Key": "Qualquer Key",
@@ -54,7 +54,7 @@
     "Key exists": "Key exists",
     "Last action successful": "Último action successful",
     "Value exists": "Valor exists",
-    "Value exists in current key": "Valor exists in current key"
+    "Value exists in current key": "Valor exists em current key"
   },
   "menu_20002": {
     "Any Key": "Qualquer Key",

@@ -4,7 +4,7 @@
   "general": {
     "%o: Is branding enabled?": "%o: branding enabled?",
     "%o: Is cross-promotion enabled?": "%o: cross-promotion enabled?",
-    "%o: Is game running in premium mode?": "%o: game running in premium mode?",
+    "%o: Is game running in premium mode?": "%o: game running em premium mode?",
     "%o: Is unlock enabled?": "%o: unlock enabled?",
     "A dialog box will ask for your name if you have a high score.": "A dialog box will ask for your name if you have a high score.",
     "Check and and the Is cross promotion enabled? condition will return true.": "Verificar and and the Is cross promotion enabled? condition will return true.",
@@ -17,15 +17,15 @@
     "Display sponsor logo %0": "Exibir sponsor logo %0",
     "Do you want to simulate the unlocking of your game?": "Do you want to simulate the unlocking of your game?",
     "Enable cross promotion": "Ativar cross promotion",
-    "Enable in app upgrade": "Ativar in app upgrade",
+    "Enable in app upgrade": "Ativar em app upgrade",
     "Enable sponsor branding": "Ativar sponsor branding",
-    "Enter 1 to display the logo, 0 to hide it": "Enter 1 to display the logo, 0 to hide it",
+    "Enter 1 to display the logo, 0 to hide it": "Enter 1 exibir the logo, 0 to hide it",
     "FGL Object": "FGL Objeto",
-    "Game is in premium mode": "Jogo is in premium mode",
+    "Game is in premium mode": "Jogo está em premium mode",
     "HTML5 - fgl": "HTML5 - fgl",
-    "Handle click on branding": "Handle click on branding",
+    "Handle click on branding": "Handle click em branding",
     "Interface with the fgl HTML5 Advertisement and game API": "Interface with the fgl HTML5 Advertisement and game API",
-    "Please enter the score": "Please enter the score",
+    "Please enter the score": "Please enter o score",
     "Show advertisement": "Exibir advertisement",
     "Show more games": "Exibir more games",
     "Simulation": "Simulation",
@@ -49,11 +49,11 @@
   "menu_20001": {
     "Conditions": "Conditions",
     "Is cross-promotion enabled?": "cross-promotion enabled?",
-    "Is the game running in premium mode?": "the game running in premium mode?",
+    "Is the game running in premium mode?": "o game running em premium mode?",
     "Is unlock enabled?": "unlock enabled?"
   },
   "menu_20002": {
     "Expressions": "Expressions",
-    "Get branding image URL": "Obter branding image URL"
+    "Get branding image URL": "Obter branding image Url"
   }
 }

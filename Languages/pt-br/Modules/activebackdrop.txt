@@ -2,17 +2,17 @@
   "version": 1,
   "lang": 1046,
   "general": {
-    "%o: is visible": "%o: is visible",
+    "%o: is visible": "%o: está visible",
     "Active Backdrop": "Ativo Backdrop",
     "Changeable backdrop object": "Changeable backdrop object",
     "Check this box to make the object visible at start of frame": "Verificar this box to make the object visible at start of frame",
     "Click on the edit button to add/change the images": "Click on the edit button to add/change the images",
-    "Enter the X coordinate": "Enter the X coordinate",
-    "Enter the Y coordinate": "Enter the Y coordinate",
-    "Enter the image number (starting at 0)": "Enter the image number (starting at 0)",
+    "Enter the X coordinate": "Enter o X coordinate",
+    "Enter the Y coordinate": "Enter o Y coordinate",
+    "Enter the image number (starting at 0)": "Enter o image number (starting em 0)",
     "Hide": "Ocultar",
-    "Image list": "Imagem list",
-    "List of predefined images": "Lista of predefined images",
+    "Image list": "Imagem lista",
+    "List of predefined images": "Lista de predefined images",
     "Set X coordinate to %0": "Definir X coordinate para %0",
     "Set Y coordinate to %0": "Definir Y coordinate para %0",
     "Set image to %0": "Definir image para %0",
@@ -29,7 +29,7 @@
   },
   "menu_20001": {
     "Conditions": "Conditions",
-    "Is object visible": "Is object visible"
+    "Is object visible": "Está object visible"
   },
   "menu_20002": {
     "Expressions": "Expressions",

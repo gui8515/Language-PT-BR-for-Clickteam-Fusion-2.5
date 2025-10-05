@@ -2,7 +2,7 @@
   "version": 1,
   "lang": 1046,
   "general": {
-    "Allows you to retrieve information from analog joysticks.": "Allows you to retrieve information from analog joysticks.",
+    "Allows you to retrieve information from analog joysticks.": "Allows você para retrieve information de analog joysticks.",
     "Analog Joystick": "Analog Joystick",
     "Analog Joystick object": "Analog Joystick object",
     "Button 1: %i": "Botão 1: %i",
@@ -14,7 +14,7 @@
     "Value Z: %i": "Valor Z: %i"
   },
   "menu_20002": {
-    "Raw Button A Value": "Raw Botão A Valor",
+    "Raw Button A Value": "Raw Botão Um Valor",
     "Raw Button B Value": "Raw Botão B Valor",
     "Raw Button C Value": "Raw Botão C Valor",
     "Raw Button D Value": "Raw Botão D Valor",

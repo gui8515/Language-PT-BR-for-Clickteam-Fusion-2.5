@@ -43,26 +43,26 @@
     "Type string options, separated by commas (see help)": "Type string options, separated by commas (see help)",
     "Vertical padding": "Vertical padding",
     "Width": "Largura",
-    "X position": "X position",
-    "Y position": "Y position",
+    "X position": "X posição",
+    "Y position": "Y posição",
     "http://www.g2f2media.com": "http://www.g2f2media.com"
   },
   "dialog_20003": {
     "Cancel": "Cancelar",
     "OK": "OK",
     "Object": "Objeto",
-    "Remember to use/check:\r\n    permission": "Remember to use/check:\r\n    permission"
+    "Remember to use/check:\r\n    permission": "Remember para use/check: permission"
   },
   "menu_20000": {
-    "Color and Alpha": "Cor and Alpha",
+    "Color and Alpha": "Cor e Alpha",
     "Hint": "Dica",
     "Object": "Objeto",
-    "Resize Edit Object to Fit in ...": "Resize Edit Object to Fit in ...",
+    "Resize Edit Object to Fit in ...": "Resize Edit Object para Fit em ...",
     "Set DATETIME Keyboard to ...": "Definir DATETIME Teclado para ...",
     "Set EMAIL Keyboard to ...": "Definir EMAIL Teclado para ...",
     "Set IME Options using numeric mask": "Set IME Options using numeric mask",
     "Set IME Options using string mask": "Set IME Options using string mask",
-    "Set Keyboard by masks ...": "Definir Teclado by masks ...",
+    "Set Keyboard by masks ...": "Definir Teclado por masks ...",
     "Set Keyboard to Edit object using numeric masks": "Definir Teclado para Edit object using numeric masks",
     "Set Keyboard to Edit object using string masks": "Definir Teclado para Edit object using string masks",
     "Set NUMERIC Keyboard to ...": "Definir NUMERIC Teclado para ...",
@@ -80,9 +80,9 @@
     "Is Keyboard Visible?": "Teclado Visível?"
   },
   "menu_20002": {
-    "Font size in SP": "Fonte size in SP",
+    "Font size in SP": "Fonte tamanho em SP",
     "Last Keyboard SubType": "Último Teclado SubType",
     "Last Keyboard Type": "Último Teclado Tipo",
-    "Resize Edit Object to Fit": "Resize Edit Objeto to Fit"
+    "Resize Edit Object to Fit": "Resize Edit Objeto para Fit"
   }
 }

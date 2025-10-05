@@ -2,16 +2,16 @@
   "version": 1,
   "lang": 1046,
   "general": {
-    "%o: Friends list has been loaded": "%o: Friends list has been loaded",
+    "%o: Friends list has been loaded": "%o: Friends lista has been carregado",
     "%o: Invitations sent": "%o: Invitations sent",
     "%o: Local player has just authenticated": "%o: Local player has just authenticated",
-    "%o: Local player is authenticated": "%o: Local player is authenticated",
-    "Add invitation to friend number %0": "Add invitation to friend number %0",
+    "%o: Local player is authenticated": "%o: Local player está authenticated",
+    "Add invitation to friend number %0": "Add invitation para friend number %0",
     "Allows Apple's Game Center features in your iOS application.": "Allows Apple's Game Center features in your iOS application.",
     "Authenticate OK": "Authenticate OK",
-    "Authenticate at start of frame": "Authenticate at start of frame",
+    "Authenticate at start of frame": "Authenticate em start de frame",
     "Authenticate local player": "Authenticate local player",
-    "Enter friend index (starting at 0)": "Enter friend index (starting at 0)",
+    "Enter friend index (starting at 0)": "Enter friend index (starting em 0)",
     "Enter the alias name of the simulated local player": "Enter the alias name of the simulated local player",
     "Enter the player's simulated ID": "Enter the player's simulated ID",
     "Friend number 1": "Friend number 1",
@@ -20,14 +20,14 @@
     "Friend number 2 ID": "Friend number 2 ID",
     "Game Center Connect": "Jogo Centro Connect",
     "If checked, the local player will be authenticated at start of frame": "If checked, the local player will be authenticated at start of frame",
-    "Load friends list": "Carregar friends list",
+    "Load friends list": "Carregar friends lista",
     "Player's Alias": "Player's Alias",
     "Player's ID": "Player's ID",
     "Reset invitations": "Redefinir invitations",
     "Send invitations": "Send invitations",
     "Simulates a correct local player authentication": "Simulates a correct local player authentication",
     "Simulation": "Simulation",
-    "The best player": "The best player",
+    "The best player": "O best player",
     "Welcome back %s": "Welcome back %s",
     "johnny@gmail.com": "johnny@gmail.com"
   },
@@ -36,19 +36,19 @@
     "Add invitation": "Adicionar invitation",
     "Authenticate local player": "Authenticate local player",
     "Friends": "Friends",
-    "Load friends list": "Carregar friends list",
+    "Load friends list": "Carregar friends lista",
     "Local player": "Local player",
     "Reset invitations": "Redefinir invitations",
     "Send invitations": "Send invitations"
   },
   "menu_20001": {
     "Conditions": "Conditions",
-    "Friend list has been loaded": "Friend list has been loaded",
+    "Friend list has been loaded": "Friend lista has been carregado",
     "Friends": "Friends",
     "Invitations have been sent": "Invitations have been sent",
     "Local player": "Local player",
     "Local player has just authenticated": "Local player has just authenticated",
-    "Local player is authenticated": "Local player is authenticated"
+    "Local player is authenticated": "Local player está authenticated"
   },
   "menu_20002": {
     "Expressions": "Expressions",
@@ -57,7 +57,7 @@
     "Get friend alias": "Obter friend alias",
     "Get local player ID": "Obter local player ID",
     "Get local player alias": "Obter local player alias",
-    "Get number of friends": "Obter number of friends",
+    "Get number of friends": "Obter number de friends",
     "Local player": "Local player"
   }
 }

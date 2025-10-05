@@ -2,22 +2,22 @@
   "version": 1,
   "lang": 1046,
   "general": {
-    "%o : On error : Network error": "%o : On error : Network error",
+    "%o : On error : Network error": "%o : Em error : Network error",
     "%o : On error : User not logged in": "%o : On error : User not logged in",
     "%o : On player login": "%o : Ligado player login",
     "%o : On player logout": "%o : Ligado player logout",
-    "%o : On user data %0 read": "%o : On user data %0 read",
-    "%o : On user data %0 written": "%o : On user data %0 written",
+    "%o : On user data %0 read": "%o : Em user data %0 read",
+    "%o : On user data %0 written": "%o : Em user data %0 written",
     "%o : Player has coins": "%o : Jogador has coins",
-    "%o : Player is logged in": "%o : Player is logged in",
+    "%o : Player is logged in": "%o : Player está logged em",
     "Hide login widget": "Ocultar login widget",
     "Key": "Key",
     "Mochi Social": "Mochi Social",
     "Obsolete. This object is provided for compatibility reasons only.": "Obsolete. This object is provided for compatibility reasons only.",
-    "Read user data at key %0": "Read user data at key %0",
+    "Read user data at key %0": "Read user data em key %0",
     "Show login widget": "Exibir login widget",
     "Value": "Valor",
-    "Write user data %1 to key %0": "Write user data %1 to key %0"
+    "Write user data %1 to key %0": "Write user data %1 para key %0"
   },
   "menu_20000": {
     "Hide login widget": "Ocultar login widget",
@@ -33,12 +33,12 @@
     "On user data read": "Ao user data read",
     "On user data written": "Ao user data written",
     "Player has coins?": "Jogador has coins?",
-    "Player is logged in": "Jogador is logged in",
-    "User not logged in": "User not logged in"
+    "Player is logged in": "Jogador está logged em",
+    "User not logged in": "User not logged em"
   },
   "menu_20002": {
     "Get player name": "Obter player name",
-    "Get player profile image URL": "Obter player profile image URL",
+    "Get player profile image URL": "Obter player profile image Url",
     "Get player unique identifier": "Obter player unique identifier",
     "Get user data read value": "Obter user data read value"
   }

@@ -2,9 +2,9 @@
   "version": 1,
   "lang": 1046,
   "general": {
-    "00Change printing method to best fit": "00Change printing method to best fit",
-    "00Change printing method to scale": "00Change printing method to scale",
-    "00Change printing method to stretch to page": "00Change printing method to stretch to page",
+    "00Change printing method to best fit": "00Change printing method para best fit",
+    "00Change printing method to scale": "00Change printing method para scale",
+    "00Change printing method to stretch to page": "00Change printing method para stretch para page",
     "00Print blank page": "00Print blank page",
     "00Print client zone": "00Print client zone",
     "00Print screen": "00Print screen",
@@ -13,8 +13,8 @@
     "01Print Text %s": "01Print Texto %s",
     "01Print Text file %s": "01Print Texto file %s",
     "01Print zone %s": "01Print zone %s",
-    "01Set x scale to %s": "01Set x scale to %s",
-    "01Set y scale to %s": "01Set y scale to %s",
+    "01Set x scale to %s": "01Set x scale para %s",
+    "01Set y scale to %s": "01Set y scale para %s",
     "Allows you to print the screen or an area of your application window.": "Allows you to print the screen or an area of your application window.",
     "Print": "Print",
     "Print object": "Print object",
@@ -22,8 +22,8 @@
     "Printing band #%d": "Printing band #%d",
     "Printing datas": "Printing datas",
     "Printing page #%d": "Printing page #%d",
-    "Sending datas to printer...": "Sending datas to printer...",
-    "on %s on %s": "on %s on %s"
+    "Sending datas to printer...": "Sending datas para printer...",
+    "on %s on %s": "em %s em %s"
   },
   "dialog_PRINTING": {
     "Cancel": "Cancelar",
@@ -31,7 +31,7 @@
     "Print Bitmap": "Print Bitmap",
     "Printing": "Printing",
     "Spooling...": "Spooling...",
-    "on Printer": "on Printer"
+    "on Printer": "em Printer"
   },
   "menu_20000": {
     "Best fit": "Best fit",
@@ -47,6 +47,6 @@
     "Scale": "Escala",
     "Set x scale": "Definir x scale",
     "Set y scale": "Definir y scale",
-    "Stretch to page": "Stretch to page"
+    "Stretch to page": "Stretch para page"
   }
 }

@@ -11,14 +11,14 @@
     "Score": "Pontuação",
     "Set Leaderboard ID to %0": "Definir Placar ID para %0",
     "Show leaderboard": "Exibir leaderboard",
-    "Submit score %0 and ask for a name": "Submit score %0 and ask for a name",
-    "Submit score %0 with name %1": "Submit score %0 with name %1"
+    "Submit score %0 and ask for a name": "Submit score %0 e ask para um name",
+    "Submit score %0 with name %1": "Submit score %0 com name %1"
   },
   "menu_20000": {
     "Set leaderboard ID": "Definir leaderboard ID",
     "Show leaderboard": "Exibir leaderboard",
-    "Submit score (ask for a name)": "Submit score (ask for a name)",
-    "Submit score (specify a name)": "Submit score (specify a name)"
+    "Submit score (ask for a name)": "Submit score (ask para um name)",
+    "Submit score (specify a name)": "Submit score (specify um name)"
   },
   "menu_20001": {
     "On leaderboard closed": "Ao leaderboard closed",
