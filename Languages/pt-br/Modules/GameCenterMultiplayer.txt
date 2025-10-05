@@ -2,7 +2,7 @@
   "version": 1,
   "lang": 1046,
   "general": {
-    "%o: An error has occured": "%o: Ocorreu um erro",
+    "%o: An error has occured": "%o: Ao Ocorrer Erro",
     "%o: Match changed": "%o: Jogo alterado",
     "%o: Match started": "%o: Partida iniciada",
     "%o: New data received": "%o: Novos dados recebidos",
@@ -53,7 +53,7 @@
     "Set players group": "Definir grupo de jogadores"
   },
   "menu_20001": {
-    "An error occured": "Ocorreu um erro",
+    "An error occured": "Ao Ocorrer Erro",
     "Conditions": "Condições",
     "Data": "Dados",
     "Data received": "Dados recebidos",

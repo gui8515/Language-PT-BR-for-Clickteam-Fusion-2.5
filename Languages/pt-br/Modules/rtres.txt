@@ -3,22 +3,22 @@
   "lang": 1046,
   "general": {
     "%d (Num. keypad)": "%d (Teclado numérico)",
-    "An error has occured while reading the file.": "Ocorreu um erro ao ler o arquivo.",
-    "An error has occured while writing the file.": "Ocorreu um erro ao gravar o arquivo.",
+    "An error has occured while reading the file.": "Erro ao ler o arquivo.",
+    "An error has occured while writing the file.": "Erro ao gravar o arquivo.",
     "Backspace": "Backspace",
     "Clear": "Limpar",
-    "Control": "Controle",
-    "Del": "Apagar",
-    "Down Arrow": "Seta para baixo",
+    "Control": "Control",
+    "Del": "Delete",
+    "Down Arrow": "Seta Abaixo",
     "End": "Fim",
-    "Enter": "Entrar",
+    "Enter": "Enter",
     "Escape": "Esc",
     "Execute": "Executar",
     "Home": "Início",
     "Ins": "\"Ins\"",
-    "Joystick not connected or driver not installed.": "Controle joystick não conectado ou driver não instalado.",
+    "Joystick not connected or driver not installed.": "Joystick não conectado ou driver não instalado.",
     "Left Arrow": "Seta Esquerda",
-    "Page Down": "Página Abaixo",
+    "Page Down": "Page Down",
     "Page Up": "Página para cima",
     "Right Arrow": "Seta para a Direita",
     "Select": "Selecionar",
@@ -37,16 +37,16 @@
     "OK": "OK"
   },
   "dialog_111": {
-    "Application paused": "Aplicativo pausado",
+    "Application paused": "Aplicação Pausada",
     "Continue": "Continuar"
   },
   "dialog_112": {
     "Cancel": "Cancelar",
     "Default Controls": "Controles Padrão",
-    "Joystick 1": "Controle 1",
-    "Joystick 2": "Controle 2",
-    "Joystick 3": "Controle 3",
-    "Joystick 4": "Controle 4",
+    "Joystick 1": "Joystick 1",
+    "Joystick 2": "Joystick 2",
+    "Joystick 3": "Joystick 3",
+    "Joystick 4": "Joystick 4",
     "Keyboard": "Teclado",
     "OK": "OK",
     "Player controls": "Controles do Jogador"
@@ -58,16 +58,16 @@
     "Button 4": "Botão 4",
     "Cancel": "Cancelar",
     "Down": "Baixo",
-    "Keyboard setup": "Configuração do teclado",
+    "Keyboard setup": "Configuração de Teclado",
     "Left": "Esquerda",
     "OK": "OK",
-    "Press a key ... (or ESC to cancel)": "Pressione uma tecla ... (ou ESC para cancelar)",
+    "Press a key ... (or ESC to cancel)": "Pressione uma tecla (ou ESC para cancelar)",
     "Right": "Direita",
     "Up": "Cima"
   },
   "dialog_114": {
     "Cancel": "Cancelar",
-    "Enter password": "Digite a senha",
+    "Enter password": "Informe a Senha",
     "OK": "OK"
   }
 }

@@ -19,8 +19,8 @@
     "Extra function for iOS applications.": "Função extra para aplicativos iOS.",
     "Index": "Índice",
     "Open URL %0": "Abrir URL %0",
-    "Please enter the URL to open": "Por favor, insira a URL para abrir",
-    "Please enter the address of the host": "Por favor, insira o endereço do host",
+    "Please enter the URL to open": "insira a URL para abrir",
+    "Please enter the address of the host": "insira o endereço do host",
     "Vibrate": "Vibrar",
     "iOS": "iOS"
   },

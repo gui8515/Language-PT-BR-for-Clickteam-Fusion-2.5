@@ -82,7 +82,7 @@
     "Insert line %0 with title %1": "Insira linha %0 com título %1",
     "Is %o enabled?": "Está o %o ativado?",
     "Is %o visible ?": "O %o está visível?",
-    "Left aligned": "Alinhado à esquerda",
+    "Left aligned": "Alinhado à Esquerda",
     "Line at click: %i": "Linha no clique: %i",
     "Line number": "Número da linha",
     "Line resize": "Redimensionar linha",
@@ -99,8 +99,8 @@
     "My Expression Parameter": "Meu Parâmetro de Expressão",
     "No border": "Sem borda",
     "On enumeration": "Na enumeração",
-    "Please choose a file to load.": "Por favor, escolha um arquivo para carregar.",
-    "Please choose a grid file to load": "Por favor, escolha um arquivo de grade para carregar",
+    "Please choose a file to load.": "escolha um arquivo para carregar.",
+    "Please choose a grid file to load": "escolha um arquivo de grade para carregar",
     "Print": "Imprimir",
     "Right aligned": "Alinhado à direita",
     "Save \"%0\" to array object, type %1": "Salvar \"%0\" no objeto de matriz do tipo %1",
@@ -138,7 +138,7 @@
     "Cancel": "Cancelar",
     "Dialog": "Diálogo",
     "OK": "OK",
-    "Please enter the title...": "Por favor, digite o título..."
+    "Please enter the title...": "digite o título..."
   },
   "dialog_112": {
     "Cancel": "Cancelar",
@@ -154,7 +154,7 @@
     "DataGrid Object Setup": "Configuração do Objeto DataGrid",
     "Delete Column": "Excluir Coluna",
     "Delete Line": "Excluir Linha",
-    "Erase": "Apagar",
+    "Erase": "Delete",
     "Font color :": "Cor da fonte :",
     "Load": "Carregar",
     "New Column": "Nova Coluna",

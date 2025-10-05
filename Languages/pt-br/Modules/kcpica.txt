@@ -29,7 +29,7 @@
     "None": "Nenhum",
     "Percentage": "Porcentagem",
     "Picture Resize": "Redimensionar Imagem",
-    "Please select a picture": "Por favor, selecione uma imagem",
+    "Please select a picture": "selecione uma imagem",
     "Resample": "Reamostrar",
     "Semi-transparency ratio (0 to 100)": "Taxa de semi-transparência (0 a 100)",
     "Set Angle to %0°": "Definir Ângulo para %0°",

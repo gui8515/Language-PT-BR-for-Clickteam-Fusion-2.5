@@ -38,7 +38,7 @@
     "Spiral Properties (Optional)": "Propriedades da Espiral (Opcional)",
     "Spiral Velocity": "Velocidade Espiral",
     "Starting Angle": "Ângulo Inicial",
-    "Stop": "Parar",
+    "Stop": "Interromper",
     "Version": "Versão"
   }
 }

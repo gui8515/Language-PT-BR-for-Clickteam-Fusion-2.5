@@ -2,7 +2,7 @@
   "version": 1,
   "lang": 1046,
   "general": {
-    "An error has occured": "Ocorreu um erro",
+    "An error has occured": "Ao Ocorrer Erro",
     "Auto-resize": "Redimensionar automaticamente",
     "Check the property to display the control buttons (play/stop/etc) under the video": "Marque a propriedade para exibir os botões de controle (reproduzir/pausar/etc.) abaixo do vídeo",
     "Check this box to automatically put the video on pause at start of frame.": "Marque esta caixa para pausar automaticamente o vídeo no início do frame.",
@@ -27,7 +27,7 @@
     "New playrate. 1=normal, 0.5=half speed, 2=double speed etc.": "Nova taxa de reprodução. 1=normal, 0,5=meia velocidade, 2=velocidade dupla etc.",
     "Pause": "Pausar",
     "Pause on start": "Pausar na inicialização",
-    "Play": "Jogar",
+    "Play": "Reproduzir",
     "Seek to #%0 ms": "Buscar para #%0 ms",
     "Set URL to %0": "Definir URL para %0",
     "Set controls to %0": "Definir controles para %0",
@@ -42,7 +42,7 @@
   "menu_20000": {
     "Actions": "Ações",
     "Pause": "Pausar",
-    "Play": "Jogar",
+    "Play": "Reproduzir",
     "Seek": "Buscar",
     "Set URL": "Definir URL",
     "Set controls": "Definir controles",
@@ -53,7 +53,7 @@
     "Set width": "Definir largura"
   },
   "menu_20001": {
-    "An error has occured": "Ocorreu um erro",
+    "An error has occured": "Ao Ocorrer Erro",
     "Conditions": "Condições",
     "Is playing?": "Está tocando?"
   },

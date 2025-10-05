@@ -27,7 +27,7 @@
   },
   "menu_20001": {
     "Network error": "Erro de rede",
-    "On error": "Em caso de erro",
+    "On error": "Ao Ocorrer Erro",
     "On player login": "Ao iniciar sessão do jogador",
     "On player logout": "Ao sair do jogador",
     "On user data read": "Ao ler dados do usuário",

@@ -2,15 +2,15 @@
   "version": 1,
   "lang": 1046,
   "general": {
-    "%o: On Ad Clicked": "%o: Ao clicar no anúncio",
-    "%o: On Ad Closed": "%o: Ao fechar o anúncio",
-    "%o: On Ad Error": "%o: Em erro de anúncio",
-    "%o: On Ad Loaded": "%o: Ao carregar anúncio",
-    "%o: On Ad Shown": "%o: Ao exibir anúncio",
-    "%o: On Api Ready": "%o: Quando a API estiver pronta",
+    "%o: On Ad Clicked": "%o: Ao Clicar no Anúncio",
+    "%o: On Ad Closed": "%o: Ao Fechar Anúncio",
+    "%o: On Ad Error": "%o: Ao Ocorrer Erro no Anúncio",
+    "%o: On Ad Loaded": "%o: Ao Carregar Anúncio",
+    "%o: On Ad Shown": "%o: Ao Exibir Anúncio",
+    "%o: On Api Ready": "%o: Ao Preparar API",
     "6V4": "6V4",
     "Disable Ads": "Desativar Anúncios",
-    "Enable Ads": "Habilitar Anúncios",
+    "Enable Ads": "Ativar Anúncios",
     "Enter Ad Size (0:320x250, 1:90x90)": "Digite o Tamanho do Anúncio (0:320x250, 1:90x90)",
     "Enter Delay Value (in msecs, default is 3000)": "Digite o Valor de Atraso (em milissegundos, padrão é 3000)",
     "Enter Timeout Value (in msecs, default is 0)": "Digite o valor de tempo limite (em milissegundos, o padrão é 0)",
@@ -23,30 +23,30 @@
     "Set Ad Size to %0": "Definir Tamanho do Anúncio para %0",
     "Set Ad Timeout to %0": "Definir Tempo Limite do Anúncio para %0",
     "Set Game ID to %0": "Definir ID do Jogo como %0",
-    "Show Ad": "Mostrar Anúncio",
+    "Show Ad": "Exibir Anúncio",
     "just a review.": "apenas uma revisão."
   },
   "menu_20000": {
     "Disable Ads": "Desativar Anúncios",
-    "Enable Ads": "Habilitar Anúncios",
+    "Enable Ads": "Ativar Anúncios",
     "Request Ad": "Solicitar Anúncio",
     "Set Ad Delay": "Definir Atraso do Anúncio",
     "Set Ad Size": "Definir Tamanho do Anúncio",
     "Set Ad Timeout": "Definir Tempo Limite do Anúncio",
     "Set Game ID": "Definir ID do Jogo",
-    "Show Ad": "Mostrar Anúncio"
+    "Show Ad": "Exibir Anúncio"
   },
   "menu_20001": {
-    "On Ad Clicked": "Ao clicar no anúncio",
-    "On Ad Closed": "Ao Fechar o Anúncio",
-    "On Ad Error": "Em Caso de Erro no Anúncio",
-    "On Ad Loaded": "Ao Carregar o Anúncio",
-    "On Ad Shown": "Ao exibir anúncio",
-    "On Api Ready": "Ao API Pronto"
+    "On Ad Clicked": "Ao Clicar no Anúncio",
+    "On Ad Closed": "Ao Fechar Anúncio",
+    "On Ad Error": "Ao Ocorrer Erro no Anúncio",
+    "On Ad Loaded": "Ao Carregar Anúncio",
+    "On Ad Shown": "Ao Exibir Anúncio",
+    "On Api Ready": "Ao Preparar API"
   },
   "menu_20002": {
-    "Error String": "Erro de Texto",
-    "Error Value": "Valor de Erro",
-    "Get Status": "Obter Estado"
+    "Error String": "String de Erro",
+    "Error Value": "Valor do Erro",
+    "Get Status": "Obter Status"
   }
 }

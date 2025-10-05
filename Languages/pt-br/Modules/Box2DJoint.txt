@@ -24,7 +24,7 @@
     "Motor": "Motor",
     "Only the two topmost objects": "Apenas os dois objetos mais superiores",
     "Physics - Joint": "Física - Articulação",
-    "Please drop a 'Physics Engine' object in your frame.": "Por favor, adicione um objeto 'Motor de Física' ao seu frame.",
+    "Please drop a 'Physics Engine' object in your frame.": "adicione um objeto 'Motor de Física' ao seu frame.",
     "Set angle limits to %0 (lower angle) and %1 (upper angle)": "Definir limites de ângulo para %0 (ângulo inferior) e %1 (ângulo superior)",
     "Set motor to %0 (torque) and %1 (strength)": "Definir motor para %0 (torque) e %1 (força)",
     "Speed": "Velocidade",

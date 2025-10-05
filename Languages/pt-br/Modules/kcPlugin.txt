@@ -24,7 +24,7 @@
     "Filename": "Nome do Arquivo",
     "Plug-in object": "Objeto de plug-in",
     "Reset Parameters": "Redefinir Parâmetros",
-    "Target": "Alvo",
+    "Target": "Segmentação",
     "Text to post": "Texto para publicar",
     "URL": "URL",
     "Vitalize! Plug-in": "Plugin Vitalizar!"
@@ -55,7 +55,7 @@
     "Is file in loading list?": "O arquivo está na lista de carregamento?",
     "Is loaded?": "Está carregado?",
     "Is loading?": "A carregar?",
-    "On Error": "Em Caso de Erro"
+    "On Error": "Ao Ocorrer Erro"
   },
   "menu_20002": {
     "&Download": "&Baixar",

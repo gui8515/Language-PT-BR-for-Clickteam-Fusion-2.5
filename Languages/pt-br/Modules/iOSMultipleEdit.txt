@@ -45,7 +45,7 @@
     "Moves the control at a location when editing has begun": "Move o controle para uma localização quando a edição for iniciada",
     "Name and phone pad": "Nome e teclado telefônico",
     "Next": "Próximo",
-    "Number pad": "Teclado numérico",
+    "Number pad": "Teclado Numérico",
     "Numbers and punctuation": "Números e pontuação",
     "Password": "Senha",
     "Phone pad": "Teclado telefônico",

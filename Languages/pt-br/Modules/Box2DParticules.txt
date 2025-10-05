@@ -89,7 +89,7 @@
     "Particle images": "Imagens de Partículas",
     "Particles": "Partículas",
     "Physics - Particles": "Física - Partículas",
-    "Please drop a 'Physics Engine' object in your frame.": "Por favor, adicione um objeto 'Motor de Física' ao seu frame.",
+    "Please drop a 'Physics Engine' object in your frame.": "adicione um objeto 'Motor de Física' ao seu frame.",
     "Scale": "Escalar",
     "Set animation loop to %0": "Definir loop de animação para %0",
     "Set animation speed to %0": "Definir velocidade da animação para %0",

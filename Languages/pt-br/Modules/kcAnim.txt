@@ -10,7 +10,7 @@
     "00Previous frame": "Quadro anterior",
     "00Resume": "Retomar",
     "00Start": "Iniciar",
-    "00Stop": "Parar",
+    "00Stop": "Interromper",
     "01Go to frame %s": "Ir para o frame %s",
     "01Set file to %s": "Definir arquivo para %s",
     "01Set frame duration to %s ms": "Definir duração do frame para %s ms",
@@ -75,7 +75,7 @@
     "Previous frame": "Quadro anterior",
     "Resume": "Retomar",
     "Start": "Iniciar",
-    "Stop": "Parar",
+    "Stop": "Interromper",
     "Width of animation": "Largura da animação"
   }
 }

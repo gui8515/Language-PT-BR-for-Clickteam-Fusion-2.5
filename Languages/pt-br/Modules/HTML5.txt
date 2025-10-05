@@ -3,7 +3,7 @@
   "lang": 1046,
   "general": {
     "%o: Is preloader?": "\"%o: É pré-carregador?\"",
-    "%o: On error": "%o: Em caso de erro",
+    "%o: On error": "%o: Ao Ocorrer Erro",
     "%o: The current browser is Firefox": "%o: O navegador atual é o Firefox",
     "%o: The current browser is Google Chrome": "%o: O navegador atual é o Google Chrome",
     "%o: The current browser is Microsoft Internet Explorer": "%o: O navegador atual é o Microsoft Internet Explorer",
@@ -43,7 +43,7 @@
     "Reset Parameters": "Redefinir Parâmetros",
     "Safari": "Safari",
     "Speed (Kb/s)": "Velocidade (Kb/s)",
-    "Target": "Alvo",
+    "Target": "Segmentação",
     "Total length (Kb)": "Tamanho total (Kb)",
     "URL": "URL",
     "URL and host simulation": "Simulação de URL e host",

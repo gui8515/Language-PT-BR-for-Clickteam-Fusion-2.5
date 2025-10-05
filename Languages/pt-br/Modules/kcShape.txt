@@ -32,7 +32,7 @@
     "Options": "Opções",
     "Picture File": "Arquivo de Imagem",
     "Pictures|": "Imagens|",
-    "Please select a picture": "Por favor, selecione uma imagem",
+    "Please select a picture": "selecione uma imagem",
     "Rounded Rectangle": "Retângulo Arredondado",
     "Set shape from Active object %0": "Definir forma do objeto ativo %0",
     "Standard": "Padrão",

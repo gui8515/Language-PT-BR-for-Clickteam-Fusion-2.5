@@ -37,7 +37,7 @@
   },
   "menu_20001": {
     "Item has tag": "O item tem a etiqueta",
-    "On error": "Em caso de erro",
+    "On error": "Ao Ocorrer Erro",
     "On item owned": "Ao possuir o item",
     "On new item": "Ao criar um novo item"
   },

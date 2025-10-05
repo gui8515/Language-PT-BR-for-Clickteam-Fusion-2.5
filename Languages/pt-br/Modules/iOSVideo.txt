@@ -35,7 +35,7 @@
     "Movie play in full screen mode": "Reproduzir filme em modo tela cheia",
     "None": "Nenhum",
     "Pause": "Pausar",
-    "Play": "Jogar",
+    "Play": "Reproduzir",
     "Play at start": "Reproduzir na inicialização",
     "Repeat at end": "Repetir no final",
     "Scaling": "Escalonamento",
@@ -44,7 +44,7 @@
     "Set movie URL or filename to %0": "Definir URL ou nome de arquivo do filme como %0",
     "Set playback time to %0": "Definir tempo de reprodução para %0",
     "Set repeat flag to %0": "Definir flag de repetição para %0",
-    "Stop": "Parar",
+    "Stop": "Interromper",
     "iOS/MacOS Video": "Vídeo iOS/macOS",
     "iOS/MacOS Video object": "Objeto de vídeo iOS/macOS"
   },
@@ -54,13 +54,13 @@
     "Begin seeking forward": "Começar a procurar para frente",
     "End seeking": "Finalizar busca",
     "Pause": "Pausar",
-    "Play": "Jogar",
+    "Play": "Reproduzir",
     "Set end playback time": "Definir hora de término da reprodução",
     "Set initial playback time": "Definir tempo de reprodução inicial",
     "Set movie URL or filename": "Definir URL ou nome de arquivo do filme",
     "Set playback time": "Definir tempo de reprodução",
     "Set repeat flag": "Definir flag de repetição",
-    "Stop": "Parar"
+    "Stop": "Interromper"
   },
   "menu_20001": {
     "Air Play is activated": "A reprodução de ar está ativada",

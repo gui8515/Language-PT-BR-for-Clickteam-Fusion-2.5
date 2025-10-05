@@ -12,6 +12,6 @@
     "Initial speed": "Velocidade inicial",
     "Move at start": "Mover no início",
     "Pinball movement": "Movimento do pinball",
-    "Please choose the intial direction of the object": "Por favor, escolha a direção inicial do objeto"
+    "Please choose the intial direction of the object": "escolha a direção inicial do objeto"
   }
 }

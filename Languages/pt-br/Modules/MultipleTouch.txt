@@ -35,7 +35,7 @@
     "Load gesture definition file %0": "Carregar arquivo de definição de gesto %0",
     "Multiple Touch": "Toque Múltiplo",
     "Number of the touch (0 based)": "Número do toque (base 0)",
-    "Please choose the object": "Por favor, escolha o objeto",
+    "Please choose the object": "escolha o objeto",
     "Recognise gesture %0, number of touches %1": "Reconhecer gesto %0, número de toques %1",
     "Recognise gesture, number of touches %0": "Reconhecer gesto, número de toques %0",
     "Retrieves touches on a touch screen.": "Recupera toques na tela sensível ao toque.",

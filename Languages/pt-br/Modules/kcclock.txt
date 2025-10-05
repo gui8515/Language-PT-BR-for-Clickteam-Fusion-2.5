@@ -82,7 +82,7 @@
     "None": "Nenhum",
     "November": "Novembro",
     "October": "Outubro",
-    "Please choose the data format to use": "Por favor, escolha o formato de dados a ser usado",
+    "Please choose the data format to use": "escolha o formato de dados a ser usado",
     "Saturday": "Sábado",
     "September": "Setembro",
     "Stop watch (chrono)": "Cronômetro",

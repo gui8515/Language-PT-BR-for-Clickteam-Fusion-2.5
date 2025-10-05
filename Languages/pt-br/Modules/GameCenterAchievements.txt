@@ -8,7 +8,7 @@
     "%o: Achievement sent": "%o: Conquista enviada",
     "%o: Achievements descriptions received": "%o: Descrições de conquistas recebidas",
     "%o: Achievements reset": "%o: Reiniciar Conquistas",
-    "%o: An error has occured": "%o: Ocorreu um erro",
+    "%o: An error has occured": "%o: Ao Ocorrer Erro",
     "%o: List of achievements loaded": "%o: Lista de conquistas carregadas",
     "%o: List of achievements received": "%o: Lista de conquistas recebidas",
     "Achievement completed": "Conquista concluída",
@@ -85,7 +85,7 @@
     "Achievements loaded": "Conquistas carregadas",
     "Achievements reset": "Redefinir conquistas",
     "An achievement is completed": "Uma conquista foi concluída",
-    "An error has occured": "Ocorreu um erro",
+    "An error has occured": "Ao Ocorrer Erro",
     "By identifier": "Por identificador",
     "By index": "Por índice",
     "Conditions": "Condições"
