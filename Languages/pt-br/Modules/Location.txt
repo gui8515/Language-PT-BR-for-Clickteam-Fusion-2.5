@@ -2,35 +2,35 @@
   "version": 1,
   "lang": 1046,
   "general": {
-    "A new location is available": "A new location is available",
+    "A new location is available": "Um novo localização está disponíveis",
     "Accuracy": "Accuracy",
-    "Are location services enabled?": "Are location services enabled?",
+    "Are location services enabled?": "Estão localização services enabled?",
     "Best accuracy": "Best accuracy",
-    "Choose the device accuracy": "Choose the device accuracy",
+    "Choose the device accuracy": "Choose o device accuracy",
     "Distance": "Distance",
-    "Enter the accuracy (0 to 4)": "Enter the accuracy (0 to 4)",
-    "Enter the distance filter in meters": "Enter the distance filter in meters",
+    "Enter the accuracy (0 to 4)": "Enter o accuracy (0 para 4)",
+    "Enter the distance filter in meters": "Enter o distance filter em meters",
     "Enter the minimal distance in meters between two location updates": "Enter the minimal distance in meters between two location updates",
-    "Force location retrieval": "Force location retrieval",
+    "Force location retrieval": "Force localização retrieval",
     "Hundred meters": "Hundred meters",
     "Kilometer": "Kilometer",
-    "Location object": "Location object",
+    "Location object": "Localização object",
     "Nearest ten meters": "Nearest ten meters",
     "Retrieves the current location from the GPS on devices that support it (such as the iPhone or Android).": "Retrieves the current location from the GPS on devices that support it (such as the iPhone or Android).",
-    "Set distance filter to %0": "Set distance filter to %0",
-    "Set location accuracy to %0": "Set location accuracy to %0",
+    "Set distance filter to %0": "Definir distance filter para %0",
+    "Set location accuracy to %0": "Definir location accuracy para %0",
     "Three kilometers": "Three kilometers"
   },
   "menu_20000": {
     "Actions": "Actions",
-    "Get location": "Get location",
-    "Set accuracy": "Set accuracy",
-    "Set distance filter": "Set distance filter"
+    "Get location": "Obter localização",
+    "Set accuracy": "Definir accuracy",
+    "Set distance filter": "Definir distance filter"
   },
   "menu_20001": {
-    "A new location is available": "A new location is available",
+    "A new location is available": "Um novo localização está disponíveis",
     "Conditions": "Conditions",
-    "Location services enabled?": "Location services enabled?"
+    "Location services enabled?": "Localização services enabled?"
   },
   "menu_20002": {
     "Accuracy": "Accuracy",
@@ -42,7 +42,7 @@
     "Latitude": "Latitude",
     "Longitude": "Longitude",
     "Other values": "Other values",
-    "Speed": "Speed",
-    "Time since last update": "Time since last update"
+    "Speed": "Velocidade",
+    "Time since last update": "Tempo since last update"
   }
 }

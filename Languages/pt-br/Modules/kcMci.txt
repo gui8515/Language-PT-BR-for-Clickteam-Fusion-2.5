@@ -6,38 +6,38 @@
     "01Return value%s": "01Return value%s",
     "01Send %s": "01Send %s",
     "Any sound will be terminated prior to sending a command": "Any sound will be terminated prior to sending a command",
-    "Check this box to close the device when the frame ends": "Check this box to close the device when the frame ends",
-    "Check this box to open the device at start of frame": "Check this box to open the device at start of frame",
-    "Close MCI device at end of frame": "Close MCI device at end of frame",
+    "Check this box to close the device when the frame ends": "Verificar this box to close the device when o frame ends",
+    "Check this box to open the device at start of frame": "Verificar this box to open the device at start of frame",
+    "Close MCI device at end of frame": "Close MCI device em end de frame",
     "Close sound device before sending commands": "Close sound device before sending commands",
-    "Device": "Device",
-    "Device name": "Device name",
-    "Display all error messages": "Display all error messages",
-    "Display in a dialog box any error message": "Display in a dialog box any error message",
-    "Enter the name of the device": "Enter the name of the device",
-    "Last error: %i": "Last error: %i",
+    "Device": "Dispositivo",
+    "Device name": "Dispositivo name",
+    "Display all error messages": "Exibir all error messages",
+    "Display in a dialog box any error message": "Exibir em um dialog box any error message",
+    "Enter the name of the device": "Enter o name de o device",
+    "Last error: %i": "Último error: %i",
     "MCI": "MCI",
     "MCI object": "MCI object",
     "Microsoft standard for controlling any multimedia device connected to your computer.": "Microsoft standard for controlling any multimedia device connected to your computer.",
-    "Open MCI device at start of frame": "Open MCI device at start of frame",
-    "Options": "Options",
-    "Pause command": "Pause command",
-    "Please, enter a valid device name.": "Please, enter a valid device name.",
-    "Resume command": "Resume command",
-    "Return string: %s": "Return string: %s",
+    "Open MCI device at start of frame": "Open MCI device em start de frame",
+    "Options": "Opções",
+    "Pause command": "Pausar command",
+    "Please, enter a valid device name.": "Please, enter um valid device name.",
+    "Resume command": "Retomar command",
+    "Return string: %s": "Retorno string: %s",
     "String to send to the device when a Pause happens": "String to send to the device when a Pause happens",
     "String to send to the device when resuming from a pause": "String to send to the device when resuming from a pause"
   },
   "menu_20000": {
-    "Send a command": "Send a command"
+    "Send a command": "Send um command"
   },
   "menu_20001": {
     "Compare to returned number": "Compare to returned number",
     "Compare to returned string": "Compare to returned string"
   },
   "menu_20002": {
-    "Last error number": "Last error number",
-    "Return string": "Return string",
-    "Return value": "Return value"
+    "Last error number": "Último error number",
+    "Return string": "Retorno string",
+    "Return value": "Retorno value"
   }
 }

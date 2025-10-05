@@ -5,22 +5,22 @@
     "Allow the user to edit the picture or movie": "Allow the user to edit the picture or movie",
     "Camera": "Camera",
     "Editable": "Editable",
-    "Extra function for iOS applications.": "Extra function for iOS applications.",
-    "Is camera available?": "Is camera available?",
-    "Record and save movie": "Record and save movie",
-    "Save picture": "Save picture",
+    "Extra function for iOS applications.": "Extra function para iOS applications.",
+    "Is camera available?": "camera disponíveis?",
+    "Record and save movie": "Registro e save movie",
+    "Save picture": "Salvar picture",
     "Take picture": "Take picture"
   },
   "menu_20000": {
     "Actions": "Actions",
-    "Movie": "Movie",
+    "Movie": "Filme",
     "Pictures": "Pictures",
-    "Record and save movie": "Record and save movie",
-    "Save picture": "Save picture",
+    "Record and save movie": "Registro e save movie",
+    "Save picture": "Salvar picture",
     "Take picture": "Take picture"
   },
   "menu_20001": {
     "Conditions": "Conditions",
-    "Is camera available?": "Is camera available?"
+    "Is camera available?": "camera disponíveis?"
   }
 }

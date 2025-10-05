@@ -5,35 +5,35 @@
     "00Reset error": "00Reset error",
     "01Close channel %s": "01Close channel %s",
     "01Open channel %s as %s": "01Open channel %s as %s",
-    "02Send number %s to slot %s": "02Send number %s to slot %s",
-    "02Send string %s to slot %s": "02Send string %s to slot %s",
-    "10%s : Error": "10%s : Error",
-    "11%s : Message available on channel %s": "11%s : Message available on channel %s",
+    "02Send number %s to slot %s": "02Send number %s para slot %s",
+    "02Send string %s to slot %s": "02Send string %s para slot %s",
+    "10%s : Error": "10%s : Erro",
+    "11%s : Message available on channel %s": "11%s : Message disponíveis em channel %s",
     "Allows applications to communicate through a local network by opening a channel for communication between two computers.": "Allows applications to communicate through a local network by opening a channel for communication between two computers.",
     "Channel number": "Channel number",
-    "Last error: %s": "Last error: %s",
-    "Network": "Network",
-    "Network object": "Network object",
-    "Number to Send": "Number to Send",
+    "Last error: %s": "Último error: %s",
+    "Network": "Rede",
+    "Network object": "Rede object",
+    "Number to Send": "Número para Send",
     "Slot name": "Slot name",
-    "String to send": "String to send"
+    "String to send": "String para send"
   },
   "menu_20000": {
-    "Close channel": "Close channel",
-    "Open channel": "Open channel",
-    "Reset error": "Reset error",
+    "Close channel": "Fechar channel",
+    "Open channel": "Abrir channel",
+    "Reset error": "Redefinir error",
     "Send number": "Send number",
     "Send string": "Send string"
   },
   "menu_20001": {
-    "Error": "Error",
-    "Message available": "Message available"
+    "Error": "Erro",
+    "Message available": "Mensagem disponíveis"
   },
   "menu_20002": {
-    "Get current status": "Get current status",
-    "Get last error": "Get last error",
-    "Get last error string": "Get last error string",
-    "Get number": "Get number",
-    "Get string": "Get string"
+    "Get current status": "Obter current status",
+    "Get last error": "Obter last error",
+    "Get last error string": "Obter last error string",
+    "Get number": "Obter number",
+    "Get string": "Obter string"
   }
 }
