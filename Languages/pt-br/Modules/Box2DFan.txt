@@ -19,7 +19,7 @@
     "Enter the width of the object": "Digite a largura do objeto",
     "Generate wind that shifts the objects": "Gerar vento que desloca os objetos",
     "Physics - Fan": "Física - Ventilador",
-    "Please drop a 'Physics Engine' object in your frame.": "Por favor, adicione um objeto 'Motor de Física' ao seu frame.",
+    "Please drop a 'Physics Engine' object in your frame.": "adicione um objeto 'Motor de Física' ao seu frame.",
     "Running : %i": "Executando : %i",
     "Set angle to %0 degrees": "Definir ângulo para %0 graus",
     "Set fan to %0": "Definir ventilador para %0",

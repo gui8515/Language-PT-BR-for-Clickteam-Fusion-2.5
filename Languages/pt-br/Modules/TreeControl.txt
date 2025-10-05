@@ -62,7 +62,7 @@
     "Open Folder %0": "Abrir Pasta %0",
     "Options": "Opções",
     "Parent ID, or -1 for ROOT": "ID do Pai, ou -1 para RAIZ",
-    "Please select the color to use as a background": "Por favor, selecione a cor a ser usada como plano de fundo",
+    "Please select the color to use as a background": "selecione a cor a ser usada como plano de fundo",
     "Reset": "Reiniciar",
     "Resizing edge": "Borda de redimensionamento",
     "Right-to-left reading": "Leitura da direita para a esquerda",

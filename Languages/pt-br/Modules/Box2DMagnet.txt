@@ -18,7 +18,7 @@
     "Enter the strength of the magnet, from 0 to 100": "Digite a força do ímã, de 0 a 100",
     "Enter the width of the object": "Digite a largura do objeto",
     "Physics - Magnet": "Física - Ímã",
-    "Please drop a 'Physics Engine' object in your frame.": "Por favor, adicione um objeto 'Motor de Física' ao seu frame.",
+    "Please drop a 'Physics Engine' object in your frame.": "adicione um objeto 'Motor de Física' ao seu frame.",
     "Running : %i": "Executando : %i",
     "Set angle to %0": "Definir ângulo para %0",
     "Set height to %0": "Definir altura para %0",

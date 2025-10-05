@@ -19,7 +19,7 @@
     "Enter the width of the object": "Digite a largura do objeto",
     "Moves objects at constant speed in one direction": "Move objetos em velocidade constante em uma direção",
     "Physics - Treadmill": "Física - Esteira",
-    "Please drop a 'Physics Engine' object in your frame.": "Por favor, adicione um objeto 'Motor de Física' ao seu frame.",
+    "Please drop a 'Physics Engine' object in your frame.": "adicione um objeto 'Motor de Física' ao seu frame.",
     "Running : %i": "Executando : %i",
     "Set angle to %0 degrees": "Definir ângulo para %0 graus",
     "Set height to %0": "Definir altura para %0",

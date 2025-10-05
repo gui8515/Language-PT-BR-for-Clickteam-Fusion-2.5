@@ -79,7 +79,7 @@
     "Multiline": "Multi linha",
     "No modifications": "Sem modificações",
     "Password": "Senha",
-    "Please select a text file": "Por favor, selecione um arquivo de texto",
+    "Please select a text file": "selecione um arquivo de texto",
     "Read only": "Somente leitura",
     "Right-to-left reading": "Leitura da direita para a esquerda",
     "Scrollings": "Rolamentos",

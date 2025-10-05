@@ -39,8 +39,8 @@
     "Number of scores invalid.": "Número de pontuações inválido.",
     "Options": "Opções",
     "Player": "Jogador",
-    "Please enter player's name...": "Por favor, digite o nome do jogador...",
-    "Please enter score value...": "Por favor, insira o valor da pontuação...",
+    "Please enter player's name...": "digite o nome do jogador...",
+    "Please enter score value...": "insira o valor da pontuação...",
     "Records the top scores for a game.": "Registra as melhores pontuações de um jogo.",
     "Save characters in UTF8 format": "Salvar caracteres no formato UTF8",
     "Score number": "Número da pontuação",
@@ -73,7 +73,7 @@
   "dialog_20007": {
     "Cancel": "Cancelar",
     "OK": "OK",
-    "Please enter value :": "Por favor, insira um valor:"
+    "Please enter value :": "insira um valor:"
   },
   "menu_20000": {
     "Ask for a player's name": "Pedir o nome do jogador",

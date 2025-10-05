@@ -141,7 +141,7 @@
     "Cancel": "Cancelar",
     "Help": "Ajuda",
     "OK": "OK",
-    "Please define your own setup box here! \n \nIf you do not need any setup box, just delete it from the resource and remove the call from the CreateObject and SelectPopup routines in the C sourcecode.": "Por favor, defina sua própria caixa de configuração aqui!\n\nSe você não precisar de nenhuma caixa de configuração, basta excluí-la do recurso e remover a chamada das rotinas CreateObject e SelectPopup no código-fonte C.",
+    "Please define your own setup box here! \n \nIf you do not need any setup box, just delete it from the resource and remove the call from the CreateObject and SelectPopup routines in the C sourcecode.": "defina sua própria caixa de configuração aqui!\n\nSe você não precisar de nenhuma caixa de configuração, basta excluí-la do recurso e remover a chamada das rotinas CreateObject e SelectPopup no código-fonte C.",
     "Setup sample object": "Configurar objeto de exemplo"
   },
   "menu_20000": {

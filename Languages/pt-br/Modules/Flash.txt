@@ -23,7 +23,7 @@
     "Is preloader?": "É pré-carregador?",
     "Open receive connection %0": "Abrir conexão de recebimento %0",
     "Open send connection %0": "Abrir conexão de envio %0",
-    "Please choose the object": "Por favor, escolha o objeto",
+    "Please choose the object": "escolha o objeto",
     "Preloader simulation": "Simulação de pré-carregamento",
     "Provides several actions and conditions useful for applications played in the Adobe® Flash® Player.": "Fornece várias ações e condições úteis para aplicativos reproduzidos no Adobe® Flash® Player.",
     "Reset Parameters": "Redefinir Parâmetros",

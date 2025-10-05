@@ -92,7 +92,7 @@
     "My Expression Parameter": "Meu Parâmetro de Expressão",
     "Natural sort": "Ordenação natural",
     "Options": "Opções",
-    "Please select the column alignment": "Por favor, selecione o alinhamento da coluna",
+    "Please select the column alignment": "selecione o alinhamento da coluna",
     "Scroll bar": "Barra de rolagem",
     "Select the entiere row at a time": "Selecione a linha inteira de cada vez",
     "Show grid lines": "Mostrar linhas de grade",

@@ -32,7 +32,7 @@
     "Left": "Esquerda",
     "Light information": "Informações de luz",
     "Normal": "Normal",
-    "Please enter the new text...": "Por favor, insira o novo texto...",
+    "Please enter the new text...": "insira o novo texto...",
     "Properties of the button's text": "Propriedades do texto do botão",
     "Right": "Direita",
     "Rounded rectangle": "Retângulo arredondado",

@@ -42,7 +42,7 @@
     "Numeric or text array (up to 3 dimensions).": "Matriz numérica ou de texto (com até 3 dimensões).",
     "Numeric or text?": "Numérico ou texto?",
     "Options": "Opções",
-    "Please select an array file": "Por favor, selecione um arquivo de matriz",
+    "Please select an array file": "selecione um arquivo de matriz",
     "Settings": "Configurações",
     "Should the array be global to the entire application?": "Deve o array ser global para toda a aplicação?",
     "Should the first element be number one or zero?": "Deve o primeiro elemento ser número um ou zero?",

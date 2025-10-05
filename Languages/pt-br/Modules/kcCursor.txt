@@ -32,7 +32,7 @@
     "Enter an image name": "Digite um nome para a imagem",
     "Image 1": "Imagem 1",
     "Lets you modify the mouse cursor (standard or bitmap shape).": "Permite que você modifique o cursor do mouse (formato padrão ou bitmap).",
-    "Please enter the name of the object": "Por favor, insira o nome do objeto",
+    "Please enter the name of the object": "insira o nome do objeto",
     "Set shape from Active object %0": "Definir forma do objeto ativo %0"
   },
   "dialog_101": {

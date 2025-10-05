@@ -21,7 +21,7 @@
     "Picture filename": "Nome do arquivo da imagem",
     "Picture name: %s": "Nome da imagem: %s",
     "Picture object": "Objeto de imagem",
-    "Please select a picture": "Por favor, selecione uma imagem",
+    "Please select a picture": "selecione uma imagem",
     "Resize picture to the size of the object": "Redimensionar imagem para o tamanho do objeto",
     "The picture will be stretched to match the size of the object itself": "A imagem será esticada para corresponder ao tamanho do próprio objeto",
     "Transparent Color": "Cor Transparente"

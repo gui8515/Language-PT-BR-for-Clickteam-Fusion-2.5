@@ -22,7 +22,7 @@
     "Open MCI device at start of frame": "Abrir dispositivo MCI no início do frame",
     "Options": "Opções",
     "Pause command": "Comando Pausar",
-    "Please, enter a valid device name.": "Por favor, insira um nome de dispositivo válido.",
+    "Please, enter a valid device name.": "insira um nome de dispositivo válido.",
     "Resume command": "Reiniciar comando",
     "Return string: %s": "Retornar texto: %s",
     "String to send to the device when a Pause happens": "Texto para enviar ao dispositivo quando uma pausa acontecer",

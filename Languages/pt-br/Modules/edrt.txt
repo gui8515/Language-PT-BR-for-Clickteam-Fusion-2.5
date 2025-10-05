@@ -79,9 +79,9 @@
     "Other objects": "Outros objetos",
     "Page Down": "Page Down",
     "Page Up": "Página para cima",
-    "Please enter a new text": "Por favor, insira um novo texto",
-    "Please enter the new maximum value": "Por favor, insira o novo valor máximo",
-    "Please enter the new minimum value": "Por favor, insira o novo valor mínimo",
+    "Please enter a new text": "insira um novo texto",
+    "Please enter the new maximum value": "insira o novo valor máximo",
+    "Please enter the new minimum value": "insira o novo valor mínimo",
     "Program running": "Programa em execução",
     "Question objects": "Objetos de Pergunta",
     "RTF objects": "Objetos RTF",
@@ -134,14 +134,14 @@
     "Change flag's value": "Mudar o valor do flag",
     "FALSE": "FALSO",
     "OK": "OK",
-    "Please enter the new value of the flag": "Por favor, insira o novo valor da flag",
+    "Please enter the new value of the flag": "insira o novo valor da flag",
     "TRUE": "VERDADEIRO"
   },
   "dialog_102": {
     "Cancel": "Cancelar",
     "Enter a number": "Digite um número",
     "OK": "OK",
-    "Please enter a new number": "Por favor, insira um novo número"
+    "Please enter a new number": "insira um novo número"
   },
   "dialog_110": {
     "About": "Sobre",
@@ -207,14 +207,14 @@
     "Floating point": "Ponto flutuante",
     "Integer": "Inteiro",
     "OK": "OK",
-    "Please enter a new number": "Por favor, insira um novo número",
+    "Please enter a new number": "insira um novo número",
     "Type": "Tipo"
   },
   "dialog_14121": {
     "Cancel": "Cancelar",
     "Enter a new text": "Digite um novo texto",
     "OK": "OK",
-    "Please enter a new text": "Por favor, insira um novo texto"
+    "Please enter a new text": "insira um novo texto"
   },
   "menu_14117": {
     "Remove": "Remover"

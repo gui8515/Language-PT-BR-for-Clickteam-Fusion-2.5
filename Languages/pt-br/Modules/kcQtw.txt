@@ -49,8 +49,8 @@
     "11%s:current time %s": "11%s: hora atual %s",
     "21User %s within %s": "Usuário %s dentro de %s",
     "Plays QuickTime 2 files. Obsolete, please use the QuickTime object instead.": "Reproduz arquivos QuickTime 2. Obsolescente, utilize o objeto QuickTime em vez disso.",
-    "Please select a QuickTime file": "Por favor, selecione um arquivo QuickTime",
-    "Please, enter a valid QuickTime filename.": "Por favor, insira um nome de arquivo QuickTime válido.",
+    "Please select a QuickTime file": "selecione um arquivo QuickTime",
+    "Please, enter a valid QuickTime filename.": "insira um nome de arquivo QuickTime válido.",
     "QuickTime 2": "QuickTime 2",
     "QuickTime 2 object": "Objeto QuickTime 2",
     "QuickTime movies (*.mov)|*.mov|": "Filmes QuickTime (*.mov)|*.mov|"
