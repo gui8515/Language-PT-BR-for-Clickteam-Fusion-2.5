@@ -2,7 +2,7 @@
   "version": 1,
   "lang": 1046,
   "general": {
-    "An error has occured": "Ocorreu um erro",
+    "An error has occured": "Ao Ocorrer Erro",
     "Auto-resize": "Redimensionar automaticamente",
     "Check this box to automatically put the video on pause at start of frame.": "Marque esta caixa para pausar automaticamente o vídeo no início do frame.",
     "Check this box to automatically resize the video object to the original size of the video at start.": "Marque esta caixa para redimensionar automaticamente o objeto de vídeo para o tamanho original do vídeo no início.",
@@ -44,7 +44,7 @@
     "Set width": "Definir largura"
   },
   "menu_20001": {
-    "An error has occured": "Ocorreu um erro",
+    "An error has occured": "Ao Ocorrer Erro",
     "Conditions": "Condições",
     "Is playing?": "Está tocando?"
   },

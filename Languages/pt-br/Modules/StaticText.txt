@@ -15,7 +15,7 @@
     "%o: Show": "%o: Mostrar",
     "Background color": "Cor de fundo",
     "Border": "Borda",
-    "Center": "Centralizar",
+    "Center": "Centro",
     "Centers the text vertically (single line only)": "Centraliza o texto verticalmente (apenas uma linha)",
     "Check to display a border around the control": "Marcar para exibir uma borda ao redor do controle",
     "Check to display a static edge around the control": "Marque para exibir uma borda estática ao redor do controle",

@@ -2,9 +2,9 @@
   "version": 1,
   "lang": 1046,
   "general": {
-    "A new location is available": "Um novo local está disponível",
+    "A new location is available": "Nova Localização Disponível",
     "Accuracy": "Precisão",
-    "Are location services enabled?": "Os serviços de localização estão ativados?",
+    "Are location services enabled?": "Serviços de Localização Ativados?",
     "Best accuracy": "Melhor precisão",
     "Choose the device accuracy": "Escolha a precisão do dispositivo",
     "Distance": "Distância",
@@ -12,25 +12,25 @@
     "Enter the distance filter in meters": "Digite o filtro de distância em metros",
     "Enter the minimal distance in meters between two location updates": "Digite a distância mínima em metros entre duas atualizações de localização",
     "Force location retrieval": "Forçar a recuperação de localização",
-    "Hundred meters": "Cem metros",
-    "Kilometer": "Quilômetro",
+    "Hundred meters": "Cem Metros",
+    "Kilometer": "Um Quilômetro",
     "Location object": "Objeto de localização",
-    "Nearest ten meters": "Dezenas de metros mais próximas",
-    "Retrieves the current location from the GPS on devices that support it (such as the iPhone or Android).": "Recupera a localização atual do GPS em dispositivos que o suportam, como iPhone ou Android.",
+    "Nearest ten meters": "Dez Metros",
+    "Retrieves the current location from the GPS on devices that support it (such as the iPhone or Android).": "Recupera a localização atual do GPS em dispositivos compatíveis (iPhone, Android, etc.).",
     "Set distance filter to %0": "Definir filtro de distância para %0",
-    "Set location accuracy to %0": "Definir precisão da localização como %0",
-    "Three kilometers": "Três quilômetros"
+    "Set location accuracy to %0": "Definir precisão de localização para %0",
+    "Three kilometers": "Três Quilômetros"
   },
   "menu_20000": {
     "Actions": "Ações",
-    "Get location": "Obter localização",
-    "Set accuracy": "Definir precisão",
-    "Set distance filter": "Definir filtro de distância"
+    "Get location": "Obter Localização",
+    "Set accuracy": "Definir Precisão",
+    "Set distance filter": "Definir Filtro de Distância"
   },
   "menu_20001": {
-    "A new location is available": "Um novo local está disponível",
+    "A new location is available": "Nova Localização Disponível",
     "Conditions": "Condições",
-    "Location services enabled?": "Serviços de localização ativados?"
+    "Location services enabled?": "Serviços de Localização Ativados?"
   },
   "menu_20002": {
     "Accuracy": "Precisão",

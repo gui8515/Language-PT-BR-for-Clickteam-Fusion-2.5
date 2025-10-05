@@ -4,13 +4,13 @@
   "general": {
     "%o: Is Internal font %0 available?": "%o: A fonte interna %0 está disponível?",
     "%o: Is Packed font %0 available?": "%o: A fonte empacotada %0 está disponível?",
-    "%o: On Error Ocurred": "%o: Ocorreu um erro",
-    "%o: On Internal Fonts Read": "%o: Ao ler fontes internas",
-    "%o: On Packed Fonts Read": "%o: Ao ler fontes empacotadas",
+    "%o: On Error Ocurred": "%o: Ao Ocorrer Erro",
+    "%o: On Internal Fonts Read": "%o: Ao Ler Fontes Internas",
+    "%o: On Packed Fonts Read": "%o: Ao Ler Fontes Empacotadas",
     "%o: Read Internal Fonts": "%o: Ler Fontes Internas",
     "%o: Read Packed Fonts": "%o: Ler Fontes Empacotadas",
-    "Android Font Packer": "Empacotador de Fonte Android",
-    "Android Font Packer Control": "Controle de Empacotador de Fonte Android",
+    "Android Font Packer": "Gerenciador de Fontes Android",
+    "Android Font Packer Control": "Controle do Gerenciador de Fontes Android",
     "Clear Checked": "Limpar Marcados",
     "File must be named according their typeface": "O arquivo deve ser nomeado de acordo com sua fonte.",
     "Font #10: ": "Fonte #10:",
@@ -34,25 +34,25 @@
     "Font filename #7 as defined in system": "Nome do arquivo da fonte #7 conforme definido no sistema",
     "Font filename #8 as defined in system": "Nome do arquivo da fonte #8 conforme definido no sistema",
     "Font filename #9 as defined in system": "Nome do arquivo da fonte #9 conforme definido no sistema",
-    "Fonts functionality for Android.": "Funcionalidade de fontes para Android.",
-    "Fonts to Pack ...": "Fontes para empacotar ...",
-    "Repack the font list": "Reempacotar a lista de fontes"
+    "Fonts functionality for Android.": "Gerenciamento de fontes para Android.",
+    "Fonts to Pack ...": "Fontes a Empacotar...",
+    "Repack the font list": "Reprocessar Lista de Fontes"
   },
   "menu_20000": {
-    "Read Internal fonts": "Ler fontes internas",
+    "Read Internal fonts": "Ler Fontes Internas",
     "Read Packed Fonts": "Ler Fontes Empacotadas"
   },
   "menu_20001": {
-    "Is Internal Font Available": "A fonte interna está disponível?",
-    "Is Packed Font Available": "A fonte empacotada está disponível?",
-    "On Error": "Em Caso de Erro",
+    "Is Internal Font Available": "Fonte Interna Disponível?",
+    "Is Packed Font Available": "Fonte Empacotada Disponível?",
+    "On Error": "Ao Ocorrer Erro",
     "On Internal Fonts Read": "Ao Ler Fontes Internas",
-    "On Packed Fonts Read": "Em Fontes Empacotadas Lidas"
+    "On Packed Fonts Read": "Ao Ler Fontes Empacotadas"
   },
   "menu_20002": {
     "Internal Font Name": "Nome da Fonte Interna",
     "Internal Fonts Quantity": "Quantidade de Fontes Internas",
-    "Last error Ocurred": "Último erro ocorrido",
+    "Last error Ocurred": "Último Erro Ocorrido",
     "Packed Font Name": "Nome da Fonte Empacotada",
     "Packed Fonts Quantity": "Quantidade de Fontes Empacotadas",
     "Read Default Font Size": "Ler Tamanho de Fonte Padrão",

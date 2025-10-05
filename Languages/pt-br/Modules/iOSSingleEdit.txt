@@ -57,7 +57,7 @@
     "No": "Não",
     "No border": "Sem borda",
     "No clear button": "Sem botão de limpar",
-    "Number pad": "Teclado numérico",
+    "Number pad": "Teclado Numérico",
     "Numbers and punctuation": "Números e pontuação",
     "Password": "Senha",
     "Phone pad": "Teclado telefônico",

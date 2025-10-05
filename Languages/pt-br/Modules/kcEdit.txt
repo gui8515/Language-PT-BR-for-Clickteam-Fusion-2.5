@@ -102,7 +102,7 @@
     "Caret": "Cursor",
     "Clear": "Limpar",
     "Clear undo buffer": "Limpar o buffer de desfazer",
-    "Control": "Controle",
+    "Control": "Control",
     "Copy": "Copiar",
     "Cut": "Cortar",
     "Editing": "Edição",

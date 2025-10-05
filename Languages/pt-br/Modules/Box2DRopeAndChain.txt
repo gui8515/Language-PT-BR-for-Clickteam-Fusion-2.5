@@ -58,7 +58,7 @@
     "Set position to %0": "Definir posição para %0",
     "Set vertical coordinate to %0": "Definir coordenada vertical para %0",
     "Start image": "Imagem inicial",
-    "Stop": "Parar",
+    "Stop": "Interromper",
     "Stop loop": "Parar o loop",
     "These images will constitute the center of the rope or chain.": "Estas imagens constituirão o centro da corda ou corrente.",
     "This image will be drawn at the beginning of the rope or chain.": "Esta imagem será desenhada no início da corda ou corrente.",
@@ -75,7 +75,7 @@
     "Detach from rope": "Desprender da corda",
     "For each element": "Para cada elemento",
     "Start loop": "Iniciar o loop",
-    "Stop": "Parar",
+    "Stop": "Interromper",
     "Stop loop": "Parar o loop"
   },
   "menu_20001": {

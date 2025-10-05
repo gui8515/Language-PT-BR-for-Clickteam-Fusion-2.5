@@ -35,7 +35,7 @@
     "Set hand cursor over %0 ON": "Definir cursor da mão sobre %0 LIGADO",
     "Set hand cursor over %0 to %1": "Defina o cursor da mão sobre %0 para %1",
     "Speed (Kb/s)": "Velocidade (Kb/s)",
-    "Target": "Alvo",
+    "Target": "Segmentação",
     "Text to post": "Texto para publicar",
     "The application has the input focus": "A aplicação tem o foco de entrada",
     "The mouse is within the window": "O mouse está dentro da janela",

@@ -152,7 +152,7 @@
     "Apply reactor": "Aplicar reator",
     "Bounce": "Quicar",
     "Circular movement": "Movimento circular",
-    "Control": "Controle",
+    "Control": "Control",
     "Direction": "Direção",
     "Disable": "Desativar",
     "Do not drop object": "Não deixe cair o objeto",
@@ -254,7 +254,7 @@
     "Snap to grid": "Ajustar à grade",
     "Spaceship movement": "Movimento da Nave Espacial",
     "Speed": "Velocidade",
-    "Stop": "Parar",
+    "Stop": "Interromper",
     "Vector movement": "Movimento vetorial"
   },
   "menu_20002": {

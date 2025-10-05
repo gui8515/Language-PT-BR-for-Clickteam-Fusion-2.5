@@ -114,7 +114,7 @@
   "dialog_20003": {
     "&Help": "&Ajuda",
     "Cancel": "Cancelar",
-    "Center": "Centralizar",
+    "Center": "Centro",
     "Column alignment": "Alinhamento da coluna",
     "Delete Line": "Excluir Linha",
     "Delete column": "Excluir coluna",

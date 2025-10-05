@@ -34,7 +34,7 @@
     "Speed": "Velocidade",
     "Speed of line movement.": "Velocidade de movimento da linha.",
     "Starting Angle": "Ângulo Inicial",
-    "Stop": "Parar",
+    "Stop": "Interromper",
     "Version": "Versão"
   }
 }

@@ -124,7 +124,7 @@
   "menu_20000": {
     "Actions": "Ações",
     "Close Folder": "Fechar Pasta",
-    "Control": "Controle",
+    "Control": "Control",
     "Dehighlight": "Desativar destaque",
     "Delete Folder/Item": "Excluir Pasta/Item",
     "Edit": "Editar",

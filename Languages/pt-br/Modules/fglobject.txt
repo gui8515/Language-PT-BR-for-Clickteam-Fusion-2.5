@@ -38,7 +38,7 @@
     "Actions": "Ações",
     "Advertisements": "Anúncios",
     "Display leaderboard": "Exibir classificação",
-    "Leaderboards": "Classificação",
+    "Leaderboards": "Placar",
     "Show / hide sponsor logo": "Mostrar/esconder o logotipo do patrocinador",
     "Show advertisement": "Mostrar anúncio",
     "Show more games": "Mostrar mais jogos",

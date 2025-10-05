@@ -40,7 +40,7 @@
     "A new file via a file selector": "Selecionar um novo arquivo",
     "Make Object Invisible": "Tornar Objeto Invisível",
     "Make Object Reappear": "Fazer Objeto Reaparecer",
-    "Play": "Jogar",
+    "Play": "Reproduzir",
     "Position": "Posição",
     "Set Horizontal size": "Definir Largura Horizontal",
     "Set Position": "Definir Posição",

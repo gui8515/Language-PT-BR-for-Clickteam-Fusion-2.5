@@ -70,7 +70,7 @@
     "Cancel": "Cancelar",
     "Change directory?": "Mudar diretório?",
     "Command line": "Linha de comando",
-    "Del": "Apagar",
+    "Del": "Delete",
     "Export": "Exportar",
     "Frame captures : enforce 32000 colors if 65000 color mode...": "Captura de Frame: forçar 32000 cores se o modo de 65000 cores...",
     "Import": "Importar",

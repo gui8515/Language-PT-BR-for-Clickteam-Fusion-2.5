@@ -8,7 +8,7 @@
     "00Pause": "Pausar",
     "00Previous track": "Faixa anterior",
     "00Resume": "Retomar",
-    "00Stop": "Parar",
+    "00Stop": "Interromper",
     "01Play at %s": "01Jogar em %s",
     "01Play from track %s": "Reproduzir faixa %s",
     "01Play track %s": "01Tocar faixa %s",
@@ -42,7 +42,7 @@
     "Play at position": "Reproduzir na posição",
     "Previous track": "Faixa anterior",
     "Resume": "Retomar",
-    "Stop": "Parar"
+    "Stop": "Interromper"
   },
   "menu_20001": {
     "Compare to time position": "Comparar com posição no tempo",

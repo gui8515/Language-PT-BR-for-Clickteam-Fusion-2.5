@@ -107,7 +107,7 @@
     "Bottom Left": "Canto Inferior Esquerdo",
     "Bottom Middle": "Centro Inferior",
     "Bottom Right": "Canto Inferior Direito",
-    "Center": "Centralizar",
+    "Center": "Centro",
     "Middle Left": "Centro Esquerdo",
     "Middle Right": "Meio Direito",
     "Top Left": "Canto Superior Esquerdo",
