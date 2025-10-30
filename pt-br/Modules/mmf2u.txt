@@ -2,70 +2,70 @@
   "version": 1,
   "lang": 1046,
   "general": {
-    "\t": "",
-    "\nEvent Editor\nEvent Editor\n\n\n\n": "Editor de Eventos \nEditor de Eventos",
-    "\nFrame Editor\nFrame Editor\n\n\n\n": "Editor de Frames \nEditor de Frames",
-    "\nStoryboard Editor\nStoryboard Editor\n\n\n\n": "Editor de Storyboard \nEditor de Storyboard",
-    "\nWelcome\n\n\n\n\n": "Bem-vindo",
-    "\r\n*** Error detected in frame events.\r\nFrame name : %s\r\n": "*** Erro detectado em eventos de frame.\r\nNome do frame: %s",
-    "\r\n*** Error detected in global events.\r\n": "*** Erro detectado em eventos globais.",
-    "\r\n*** Error detected in object behavior\r\nFrame name : %s\r\nObject name : %s\r\n": "*** Erro detectado no comportamento do objeto\nNome do frame: %s\nNome do objeto: %s",
-    "\r\n*** Modifications needed in frame events.\r\nFrame name : %s\r\n": "*** Modificações necessárias nos eventos do frame.\r\nNome do frame: %s",
-    "\r\n*** Modifications needed in global events.\r\n": "*** Modificações necessárias em eventos globais.",
-    "\r\n*** Modifications needed in object behavior\r\nFrame name : %s\r\nObject name : %s\r\n": "*** Modificações necessárias no comportamento do objeto\nNome do frame: %s\nNome do objeto: %s",
-    "    Install program size: %d bytes": "Tamanho de instalação do programa: %d bytes",
-    "    Number of files: %d": "Número de arquivos: %d",
-    "    Total compressed size: %d bytes": "Tamanho total compactado: %d bytes",
-    "    Total uncompressed size: %d bytes": "Tamanho total descompactado: %d bytes",
+    "\t": "\t",
+    "\nEvent Editor\nEvent Editor\n\n\n\n": "\nEditor de Eventos \nEditor de Eventos\n\n\n\n",
+    "\nFrame Editor\nFrame Editor\n\n\n\n": "\nEditor de Frames \nEditor de Frames\n\n\n\n",
+    "\nStoryboard Editor\nStoryboard Editor\n\n\n\n": "\nEditor de Storyboard \nEditor de Storyboard\n\n\n\n",
+    "\nWelcome\n\n\n\n\n": "\nBem-vindo\n\n\n\n\n",
+    "\r\n*** Error detected in frame events.\r\nFrame name : %s\r\n": "\r\n***  Erro detectado em eventos de frame.\r\nNome do frame: %s\r\n",
+    "\r\n*** Error detected in global events.\r\n": "\r\n***  Erro detectado em eventos globais.\r\n",
+    "\r\n*** Error detected in object behavior\r\nFrame name : %s\r\nObject name : %s\r\n": "\r\n***  Erro detectado no comportamento do objeto\nNome do frame: %s\nNome do objeto: %s\r\n",
+    "\r\n*** Modifications needed in frame events.\r\nFrame name : %s\r\n": "\r\n***  Modificações necessárias nos eventos do frame.\r\nNome do frame: %s\r\n",
+    "\r\n*** Modifications needed in global events.\r\n": "\r\n***  Modificações necessárias em eventos globais.\r\n",
+    "\r\n*** Modifications needed in object behavior\r\nFrame name : %s\r\nObject name : %s\r\n": "\r\n***  Modificações necessárias no comportamento do objeto\nNome do frame: %s\nNome do objeto: %s\r\n",
+    "    Install program size: %d bytes": "    Tamanho de instalação do programa: %d bytes",
+    "    Number of files: %d": "    Número de arquivos: %d",
+    "    Total compressed size: %d bytes": "    Tamanho total compactado: %d bytes",
+    "    Total uncompressed size: %d bytes": "    Tamanho total descompactado: %d bytes",
     " (uninteruptable)": "(não interrompivel)",
-    " And ": "E",
-    " Or ": "Ou",
-    " Pow ": "Poder",
-    " Xor ": "Ou",
+    " And ": " And ",
+    " Or ": " Or ",
+    " Pow ": " Pow ",
+    " Xor ": " Xor ",
     "\"%s\"": "\"%s\"",
-    "\"%s\" (%i)": "\"\"%s\" (%i)\"\"\"",
+    "\"%s\" (%i)": "\"%s\" (%i)",
     "\"%s\" (%s)": "\"%s\" (%s)",
     "# of angles": "# de ângulos",
-    "#Title Install Program": "#Título Instalar Programa",
-    "#Title has been successfully installed.": "\"#Título foi instalado com sucesso.\"",
-    "#Title has been successfully removed from your hard drive.": "\"#Título foi removido com sucesso do seu disco rígido.\"",
-    "#Title has not been totally installed because of the following reason:\n\n%s\n\nYou will have to run this utility again to completely install #title.": "\"#Título não foi totalmente instalado devido ao seguinte motivo:\n\n%s\n\nVocê terá que executar este utilitário novamente para instalar completamente o #título.\"",
-    "#Title#Please choose a demo file.#Filter#Demo files|*.mfd": "#Título#Por favor, escolha um arquivo de demonstração.#Filtro#Arquivos de demonstração|*.mfd",
-    "#Title#Please choose a graphic file.#Filter#All files|*.*|": "#Título#Por favor, escolha um arquivo gráfico.#Filtro#Todos os arquivos|*.*|",
-    "#Title#Please choose the file. Empty to display a file selector.#Filter#Position files|*.mfs|": "#Título#Por favor, escolha o arquivo. Deixe em branco para exibir um seletor de arquivos.#Filtro#Arquivos de posição|*.mfs|",
-    "#Title's files will be installed in the following directory:": "Os arquivos do \"#Title\" serão instalados no seguinte diretório:",
+    "#Title Install Program": "Instalação do Programa #Title",
+    "#Title has been successfully installed.": "O programa #Title foi instalado com sucesso.",
+    "#Title has been successfully removed from your hard drive.": "O programa #Title foi removido com sucesso do seu disco rígido.",
+    "#Title has not been totally installed because of the following reason:\n\n%s\n\nYou will have to run this utility again to completely install #title.": "O programa #Title não foi totalmente instalado devido ao seguinte motivo:\n\n%s\n\nVocê precisará executar este utilitário novamente para concluir a instalação de #Title.",
+    "#Title#Please choose a demo file.#Filter#Demo files|*.mfd": "#Title#Por favor, escolha um arquivo de demonstração.#Filter#Arquivos de demonstração|*.mfd",
+    "#Title#Please choose a graphic file.#Filter#All files|*.*|": "#Title#Por favor, escolha um arquivo gráfico.#Filter#Todos os arquivos|*.*|",
+    "#Title#Please choose the file. Empty to display a file selector.#Filter#Position files|*.mfs|": "#Title#Por favor, escolha o arquivo. Deixe em branco para exibir o seletor de arquivos.#Filter#Arquivos de posição|*.mfs|",
+    "#Title's files will be installed in the following directory:": "Os arquivos de #Title serão instalados no seguinte diretório:",
     "%.80s": "\"%.80s\"",
     "%0 chances out of %1 at random": "%0 chances de %1 aleatoriamente",
     "%0 of %o %1": "%0 de %o %1",
-    "%1\nCannot find this file.\nVerify that the correct path and file name are given.": "\"%1\nNão foi possível encontrar este arquivo.\nVerifique se o caminho e o nome do arquivo estão corretos.\"",
-    "%1 contained an unexpected object.": "\"%1 continha um objeto inesperado.\"",
-    "%1 contains an incorrect path.": "\"%1 contém um caminho incorreto.\"",
-    "%1 contains an incorrect schema.": "\"%1 contém um esquema incorreto.\"",
-    "%1 has a bad format.": "\"%1 tem um formato inválido.\"",
-    "%1 was not found.": "\"%1 não foi encontrado.\"",
-    "%1: %2\nContinue running script?": "%1: %2\\nContinuar executando o script?",
-    "%Ts [Recovered]": "\"%Ts [Recuperado]\"",
+    "%1\nCannot find this file.\nVerify that the correct path and file name are given.": "%1\nNão foi possível encontrar este arquivo.\nVerifique se o caminho e o nome do arquivo estão corretos.",
+    "%1 contained an unexpected object.": "%1 continha um objeto inesperado.",
+    "%1 contains an incorrect path.": "%1 contém um caminho incorreto.",
+    "%1 contains an incorrect schema.": "%1 contém uma estrutura inválida.",  
+    "%1 has a bad format.": "%1 possui um formato inválido.",
+    "%1 was not found.": "%1 não foi encontrado.",
+    "%1: %2\nContinue running script?": "%1: %2\nContinuar executando o script?",
+    "%Ts [Recovered]": "%Ts [Recuperado]",
     "%d (Num. keypad)": "%d (Teclado numérico)",
-    "%d KHz\r\nMono\r\n%d Bits\r\nSize = %d Kb": "\"%d kHz\\nMono\\n%d bits\\nTamanho = %d Kb\"",
-    "%d KHz\r\nStereo\r\n%d Bits\r\nSize = %d Kb": "\"%d kHz\\nEstéreo\\n%d bits\\nTamanho = %d Kb\"",
-    "%d Kb": "%d KB",
-    "%d Mb": "%d MB",
+    "%d KHz\r\nMono\r\n%d Bits\r\nSize = %d Kb": "%d KHz\r\nMono\r\n%d Bits\r\nTamanho = %d Kb",
+    "%d KHz\r\nStereo\r\n%d Bits\r\nSize = %d Kb": "%d KHz\r\nEstéreo\r\n%d Bits\r\nTamanho = %d Kb",
+    "%d Kb": "%d Kb",
+    "%d Mb": "%d Mb",
     "%d sec %d\"": "%d seg %d",
     "%i": "%i",
     "%o: %0 %1": "%o: %0 %1",
-    "%o: %0 is off": "%o: %0 está desligado",
-    "%o: %0 is on": "%o: %0 está ligado",
+    "%o: %0 is off": "%o: %0 está off",
+    "%o: %0 is on": "%o: %0 está on",
     "%o: font is bold": "%o: fonte está em negrito",
     "%o: font is italic": "%o: fonte está em itálico",
     "%o: font is strikeout": "%o: fonte está tachada",
     "%o: font is underlined": "%o: fonte está sublinhada",
-    "%s": "\"%s\"",
-    "%s\n\nThis file exists and is a different language than the file to install.\n\nDo yo want to overwrite the installed version anyway?": "\"%s\n\nEste arquivo existe e está em um idioma diferente do arquivo a ser instalado.\n\nVocê deseja substituir a versão instalada de qualquer maneira?\"",
-    "%s\n\nThis file exists and is a more recent version than the file to install.\n\nDo you want to overwrite the installed version anyway?": "\"%s\n\nEste arquivo existe e é uma versão mais recente do que a versão instalada.\n\nVocê deseja sobrescrever a versão instalada de qualquer maneira?\"",
-    "%s (number %i)": "\"%s (número %i)\"",
-    "%s Document": "\"%s Documento\"",
-    "%s Files (*.mfa)": "\"%s Arquivos (*.mfa)\"",
-    "%s application": "\"%s aplicativo\"",
+    "%s": "%s",
+    "%s\n\nThis file exists and is a different language than the file to install.\n\nDo yo want to overwrite the installed version anyway?": "%s\n\nEste arquivo existe e está em um idioma diferente do arquivo a ser instalado.\n\nDeseja substituir a versão instalada mesmo assim?",
+    "%s\n\nThis file exists and is a more recent version than the file to install.\n\nDo you want to overwrite the installed version anyway?": "%s\n\nEste arquivo existe e é uma versão mais recente do que a versão instalada.\n\nVocê deseja sobrescrever a versão instalada de qualquer maneira?",
+    "%s (number %i)": "%s (número %i)",
+    "%s Document": "%s Documento",
+    "%s Files (*.mfa)": "%s Arquivos (*.mfa)",
+    "%s application": "%s aplicativo",
     "%s at ": "\"%s em \"",
     "%s at speed %i": "\"%s à velocidade %i\"",
     "%s files (%s)": "\"%s arquivos (%s)\"",
@@ -105,7 +105,7 @@
     "(%i,%i) from %s": "\"(%i,%i) de %s\"",
     "(%i,%i) layer %i": "(%i,%i) camada %i",
     "(%li)": "(%li)",
-    "(Build %s%d.%d)": "(Compilar %s%d.%d)",
+    "(Build %s%d.%d)": "Traduzido por Clickteam Brasil - (Build %s%d.%d)",
     "(deleted frame, please replace action)": "(frame excluído, por favor, substitua a ação)",
     "(not an obstacle)": "(não é um obstáculo)",
     "* More in Action Editor (%i actions left)": "* Mais no Editor de Ações (%i ações restantes)",
@@ -582,8 +582,8 @@
     "Appdir$": "\"$DiretórioDoAplicativo$\"",
     "Appdrive$": "Appdrive$",
     "Appearing": "Aparecendo",
-    "Application": "Aplicativo",
-    "Application %d": "Aplicativo %d",
+    "Application": "Aplicação",
+    "Application %d": "Aplicação %d",
     "Application Context Menu": "Menu de Contexto do Aplicativo",
     "Application Data directory": "Diretório de dados do aplicativo",
     "Application Icon (iPad)": "Ícone do Aplicativo (iPad)",
@@ -720,7 +720,7 @@
     "Build Filename": "Nome do Arquivo de Construção",
     "Build Install Program": "Criar Programa de Instalação",
     "Build Options": "Opções de Compilação",
-    "Build Type": "Tipo de Build",
+    "Build Type": "Plataformas Suportadas",
     "Build all applications\nBuild All Applications": "Construir todas as aplicações \nConstruir Todas as Aplicações",
     "Build current application\nBuild Current Application": "Construir aplicação atual",
     "Build current application and run it\nBuild and run": "Compilar e executar o aplicativo atual",
@@ -1017,7 +1017,7 @@
     "Create object by name": "Criar objeto por nome",
     "Creates an appcache file, allowing your application to work offline. Please read the documentation.": "Cria um arquivo appcache, permitindo que sua aplicação funcione offline. Por favor, leia a documentação.",
     "Creating Frame Window...": "Criando Janela de Frame...",
-    "Crop\nCrop": "Cortar",
+    "Crop\nCrop": "Cortar\nCortar",
     "Crouch down": "Agachar-se",
     "Ctrl+": "Ctrl+",
     "Ctrl+Shift+": "Ctrl+Shift+",
@@ -1781,7 +1781,7 @@
     "Installation completed.": "Instalação concluída.",
     "Installation in progress, please wait.": "Instalação em andamento, aguarde.",
     "Installed, outdated": "Instalado, desatualizado",
-    "Installed, up-to-date or undetermined status": "Instalado, atualizado ou status indeterminado",
+    "Installed, up-to-date or undetermined status": "Instalado e atualizado",
     "Installing": "Instalando",
     "Insufficient memory to perform operation.": "Memória insuficiente para executar a operação.",
     "Integer values": "Valores inteiros",
@@ -2098,7 +2098,7 @@
     "My Documents directory": "Minha pasta de Documentos",
     "MyProduct": "MeuProduto",
     "NOT": "NÃO",
-    "NPC": "PNJ",
+    "NPC": "NPC",
     "NUM": "NUM",
     "Name": "Nome",
     "Name of file dropped": "Nome do arquivo solto",
@@ -2121,15 +2121,15 @@
     "New Library": "Nova Biblioteca",
     "New Menu": "Novo Menu",
     "New Objects": "Novos Objetos",
-    "New Project\nNew Project": "Novo Projeto \nNovo Projeto",
-    "New application": "Nova Aplicação",
+    "New Project\nNew Project": "Novo Workspace \nNovo Workspace",
+    "New application": "Novo projeto",
     "New condition": "Nova condição",
     "New expression": "Nova expressão",
     "New line": "Nova linha",
     "Newest installed SDK API": "API da SDK instalada mais recente",
     "Next Frame": {
-      "4246": "4246",
-      "7102": "7102"
+      "4246": "Próximo Frame",
+      "7102": "Próximo Imagem"
     },
     "Next Frame\nNext Frame": "Próximo Frame\nPróximo Frame",
     "Next Page\nNext Page": "Próxima Página \nPróxima Página",
@@ -2233,10 +2233,10 @@
     "Opacity": "Opacidade",
     "Open": "Abrir",
     "Open %s": "Abrir %s",
-    "Open Project\nOpen Project": "Abrir Projeto \nAbrir Projeto",
+    "Open Project\nOpen Project": "Abrir  \nAbrir ",
     "Open an existing document\nOpen": "Abrir um documento existente\nAbrir",
     "Open another window for the active document\nNew Window": "Abrir outra janela para o documento ativo Nova Janela",
-    "Open application": "Abrir Aplicação",
+    "Open application": "Abrir Workspace",
     "Open debugger": "Abrir depurador",
     "Open file to create object from": "Abrir arquivo para criar objeto a partir de",
     "Open folder": "Abrir pasta",
@@ -2299,7 +2299,7 @@
     "Passed the end of the events.": "Passou do fim dos eventos.",
     "Passed the end of the objects.": "Passou o fim dos objetos.",
     "Password": "Senha",
-    "Password : ": "Senha :",
+    "Password : ": "Senha : ",
     "Password and confirmation are different...": "Senha e confirmação são diferentes...",
     "Paste": "Colar",
     "Paste\nPaste": "Colar",
@@ -2655,7 +2655,7 @@
     "Save As...": "Salvar Como...",
     "Save Background": "Salvar Fundo",
     "Save Internet Application": "Salvar Aplicação de Internet",
-    "Save Project\nSave Project": "Salvar Projeto \nSalvar Projeto",
+    "Save Project\nSave Project": "Salvar Workspace \nSalvar Workspace",
     "Save a menu": "Salvar um menu",
     "Save as Android application": "Salvar como aplicativo Android",
     "Save as HTML5 application": "Salvar como aplicativo HTML5",
@@ -2925,7 +2925,7 @@
     "Sounds": "Sons",
     "Sounds cannot be used in a preloader.\n\nPlease remove all sound actions and conditions\nfrom the preloader frame, and try again.": "Os sons não podem ser usados em um pré-carregador.\n\nPor favor, remova todas as ações e condições de som do quadro do pré-carregador e tente novamente.",
     "Sounds, scores, etc...": "Sons, pontuações, etc...",
-    "Source": "\"Fonte\"",
+    "Source": "Origem",
     "Source folder": "Pasta de origem",
     "Space bar": "Barra de Espaço",
     "Special": "Especial",
@@ -3178,7 +3178,7 @@
     "Timer count, minutes": "Contagem do temporizador, minutos",
     "Timer count, seconds": "Contagem do temporizador, segundos",
     "Timer-based movements": "Movimentos baseados em temporizador",
-    "Title : ": "Título:",
+    "Title : ": "Título : ",
     "Title of dialog and message boxes.": "Título de caixas de diálogo e mensagens.",
     "Title of the dialog used to select a directory.": "Título do diálogo usado para selecionar um diretório.",
     "Title of the wizard page, displayed either to the right of the application title in small window mode, either as title of the wizard dialog box in full window mode.": "Título da página do assistente, exibido à direita do título do aplicativo no modo de janela pequena ou como título da caixa de diálogo do assistente no modo de janela completa.",
@@ -3494,7 +3494,7 @@
     "as obstacle": "como obstáculo",
     "as platform": "como plataforma",
     "before end page": "antes do fim da página",
-    "by": "por",
+    "by": "x",
     "cannot remove, denied access": "não pode remover, acesso negado",
     "clicks with left button": "clique com o botão esquerdo",
     "clicks with middle button": "clique com o botão do meio",
@@ -3773,7 +3773,7 @@
   },
   "dialog_116": {
     "&Clockwise": "&Horário",
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "&Number of frames in the turn: ": "&Número de frames na rotação:",
     "Cancel": "Cancelar",
     "Coun&terclockwise": "Cont&rarrelogio",
@@ -3782,7 +3782,7 @@
     "OK": "OK"
   },
   "dialog_117": {
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "&Insert after": "&Inserir depois",
     "&Number of frames": "&Número de frames",
     "&Proportional": "&Proporcional",
@@ -3903,7 +3903,7 @@
   },
   "dialog_1503": {
     "&Down": "&Para baixo",
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "&Left": "&Esquerda",
     "&Right": "&Direita",
     "&Up": "&Cima",
@@ -3918,7 +3918,7 @@
     "or ESC to cancel.": "ou ESC para cancelar."
   },
   "dialog_1504": {
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "Cancel": "Cancelar",
     "Control of each player :": "Controle de cada jogador :",
     "Joystick 1": "Controle 1",
@@ -3930,7 +3930,7 @@
     "Player Controls": "Controles do Jogador"
   },
   "dialog_1826": {
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "&Try Movement": "&Tente Movimento",
     "Cancel": "Cancelar",
     "Color": "Cor",
@@ -3945,7 +3945,7 @@
     "Tape Mouse": "Fita do Mouse"
   },
   "dialog_1827": {
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "&Try movement": "&Tente o movimento",
     "Cancel": "Cancelar",
     "Mouse movement setup": "Configuração de movimento do mouse",
@@ -3956,7 +3956,7 @@
   "dialog_1828": {
     "&Background": "&Fundo",
     "&Color:": "&Cor:",
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "Cancel": "Cancelar",
     "Color": "Cor",
     "Duration :": "Duração :",
@@ -3970,7 +3970,7 @@
     "Transition set-up": "Configuração de transição"
   },
   "dialog_1833": {
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "Cancel": "Cancelar",
     "Node name": "Nome do nó",
     "Node name :": "Nome do nó :",
@@ -3979,14 +3979,14 @@
   "dialog_1844": {
     "&Add": "&Adicionar",
     "&Delete": "&Excluir",
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "Cancel": "Cancelar",
     "List1": "Lista1",
     "OK": "OK",
     "Objects qualifiers": "Qualificadores de objetos"
   },
   "dialog_1845": {
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "Add a qualifier to an object": "Adicionar um qualificador a um objeto",
     "Cancel": "Cancelar",
     "List2": "Lista2",
@@ -3999,7 +3999,7 @@
     "Try movement": "Tentar movimento"
   },
   "dialog_1866": {
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "&Import": "&Importar",
     "Cancel": "Cancelar",
     "Frame palette": "Paleta de Frames",
@@ -4009,7 +4009,7 @@
   "dialog_2005": {
     "&Color": "&Cor",
     "&Font...": "&Fonte...",
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "Add &Relief": "Adicionar &Alivio",
     "Add Re&lief": "Adicionar Ali&vio",
     "Add new paragraph": "Adicionar novo parágrafo",
@@ -4038,7 +4038,7 @@
   },
   "dialog_2009": {
     "&Browse": "&Navegar",
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "&Ignore": "&Ignorar",
     "&The file specified below does not exist. Please enter another filename.": "\"&O arquivo especificado abaixo não existe. Por favor, insira outro nome de arquivo.\"",
     "Ignore &all similar messages": "Ignorar &todas as mensagens semelhantes",
@@ -4046,7 +4046,7 @@
     "Warning": "Aviso"
   },
   "dialog_2010": {
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "Cancel": "Cancelar",
     "OK": "OK",
     "This may cause problems if you want to install this application on another machine.": "Isso pode causar problemas se você quiser instalar este aplicativo em outro computador.",
@@ -4054,7 +4054,7 @@
     "Warning, the following files are stored in directories that are not relative to the directory of the application you are saving.": "Aviso: os seguintes arquivos estão armazenados em diretórios que não são relativos ao diretório da aplicação que você está salvando."
   },
   "dialog_2011": {
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "Cancel": "Cancelar",
     "Error": "Erro",
     "Error: the following files are stored in directories that are not relative to the directory of the application you are saving.": "Erro: os seguintes arquivos estão armazenados em diretórios que não são relativos ao diretório da aplicação que você está salvando.",
@@ -4068,7 +4068,7 @@
     "The following files are out of date or do not exist. Do you want to build them?": "Os seguintes arquivos estão desatualizados ou não existem. Você deseja compilá-los?"
   },
   "dialog_2048": {
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "Cancel": "Cancelar",
     "Change name": "Mudar nome",
     "Delete": "Apagar",
@@ -4139,7 +4139,7 @@
   },
   "dialog_2126": {
     "&Correct answer": "&Resposta correta",
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "Cancel": "Cancelar",
     "Edit answer": "Editar resposta",
     "OK": "OK"
@@ -4147,7 +4147,7 @@
   "dialog_2500": {
     "&Assign this type to further imported items (skip this dialog)": "&Atribuir este tipo para itens importados futuros (pular este diálogo)",
     "&From File(s)": "&De Arquivo(s)",
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "&List": "&Lista",
     "&Manager": "&Gerenciador",
     "&Refresh": "&Atualizar",
@@ -4210,7 +4210,7 @@
   },
   "dialog_2506": {
     "&Editor >>": "\"&Editor >>\"",
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "&Refresh": "&Atualizar",
     "&Store": "&Guardar",
     "Cancel": "Cancelar",
@@ -4404,7 +4404,7 @@
     "Spin1": "Girar1"
   },
   "dialog_7900": {
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "Application menu editor": "Editor de menu do aplicativo",
     "Cancel": "Cancelar",
     "Colors": "Cores",
@@ -4444,7 +4444,7 @@
     "&Control": "&Controlar",
     "&Edit": "&Editar",
     "&Grayed": "&Cinza",
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "&New key": "&Nova tecla",
     "&Permanent shortcut": "&Atalho permanente",
     "&Shift": "&Shift",
@@ -4460,7 +4460,7 @@
   "dialog_7924": {
     "&Checked": "&Marcado",
     "&Grayed": "&Cinza",
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "&Text of menu": "&Texto do Menu",
     "Cancel": "Cancelar",
     "OK": "OK",
@@ -4473,7 +4473,7 @@
     "Setup application menu": "Configurar o menu do aplicativo"
   },
   "dialog_7948": {
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "Cancel": "Cancelar",
     "OK": "OK",
     "Please enter delay :": "Por favor, insira o atraso:",
@@ -4482,7 +4482,7 @@
     "Slider1": "Controle deslizante 1"
   },
   "dialog_7949": {
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "Cancel": "Cancelar",
     "OK": "OK",
     "Please enter new speed :": "Por favor, insira a nova velocidade :",
@@ -4491,7 +4491,7 @@
   },
   "dialog_7953": {
     "&Close": "&Fechar",
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "&Next Page": "&Próxima Página",
     "&Page Setup": "&Configurar Página",
     "&Print...": "&Imprimir...",
@@ -4528,7 +4528,7 @@
     "Select the filters you want to include with your application :": "Selecione os filtros que você deseja incluir em seu aplicativo:"
   },
   "dialog_8005": {
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "Cancel": "Cancelar",
     "OK": "OK",
     "These files won't be included in the executable file or in the installer.": "Estes arquivos não serão incluídos no arquivo executável ou no instalador.",
@@ -4538,7 +4538,7 @@
   "dialog_8006": {
     "&Add": "&Adicionar",
     "&Cancel": "&Cancelar",
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "&Keep ratio": "&Manter proporção",
     "&OK": "&OK",
     "&Remove": "&Remover",
@@ -4549,7 +4549,7 @@
     "Please select the resolution(s) of the new application(s) :": "Por favor, selecione a(s) resolução(ões) do(s) novo(s) aplicativo(s):"
   },
   "dialog_8007": {
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "Cancel": "Cancelar",
     "OK": "OK",
     "Please select a language for this application :": "Por favor, selecione um idioma para este aplicativo :",
@@ -4618,14 +4618,14 @@
     "Whole words only": "Apenas palavras inteiras"
   },
   "dialog_9070": {
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "Cancel": "Cancelar",
     "Choose a Storyboard Frame": "Escolha um Frame de Storyboard",
     "List1": "Lista1",
     "OK": "OK"
   },
   "dialog_9558": {
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "&Use a calculation": "&Usar um cálculo",
     "Cancel": "Cancelar",
     "Choose a Storyboard Frame": "Escolha um Frame de Storyboard",
@@ -4634,7 +4634,7 @@
   },
   "dialog_13000": {
     "&Double click": "Duplo clique",
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "&Left button": "&Botão Esquerdo",
     "&Middle button": "&Botão do meio",
     "&Right button": "&Botão direito",
@@ -4646,7 +4646,7 @@
     "What kind of click:": "Que tipo de clique:"
   },
   "dialog_13010": {
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "&Ladder": "&Escada",
     "&No effect on collisions": "Sem efeito em colisões",
     "&Obstacle": "& Obstáculo",
@@ -4664,7 +4664,7 @@
     "Player &4": "Jogador &4"
   },
   "dialog_13030": {
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "Cancel": "Cancelar",
     "Hour(s)": "Hora(s)",
     "Minute(s)": "Minuto(s)",
@@ -4673,7 +4673,7 @@
     "Slider1": "Controle deslizante 1"
   },
   "dialog_13040": {
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "Cancel": "Cancelar",
     "Grea&ter": "Maior &",
     "Hour(s)": "Hora(s)",
@@ -4685,7 +4685,7 @@
     "Slider1": "Controle deslizante 1"
   },
   "dialog_13050": {
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "&Left button": "&Botão Esquerdo",
     "&Middle button": "&Botão do meio",
     "&Right button": "&Botão direito",
@@ -4698,7 +4698,7 @@
   },
   "dialog_13080": {
     "&Browse": "&Navegar",
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "&Hide application": "&Esconder aplicação",
     "&Wait for end": "&Aguardar o fim",
     "Application behavior": "Comportamento da aplicação",
@@ -4708,20 +4708,20 @@
     "Program to execute": "Programa para executar"
   },
   "dialog_13100": {
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "Cancel": "Cancelar",
     "OK": "OK",
     "Please choose the text to display :": "Por favor, escolha o texto a ser exibido:",
     "Use a &calculation": "Utilizar um &cálculo"
   },
   "dialog_13200": {
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "Cancel": "Cancelar",
     "OK": "OK",
     "Please choose a group of events": "Por favor, escolha um grupo de eventos"
   },
   "dialog_13202": {
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "Cancel": "Cancelar",
     "Horizontal": "Horizontal",
     "OK": "OK",
@@ -4731,7 +4731,7 @@
     "to": "para"
   },
   "dialog_13207": {
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "Cancel": "Cancelar",
     "Choose one or more directions": "Escolha uma ou mais direções",
     "OK": "OK",
@@ -4740,7 +4740,7 @@
     "Use a calculation": "Utilizar um cálculo"
   },
   "dialog_13212": {
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "Cancel": "Cancelar",
     "Choose button to test :": "Escolha o botão para testar :",
     "Fire button &1": "Botão de Fogo &1",
@@ -4750,7 +4750,7 @@
     "OK": "OK"
   },
   "dialog_13227": {
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "(you can select more than one)": "(você pode selecionar mais de um)",
     "Cancel": "Cancelar",
     "Enters in the bottom?": "Entra na parte inferior?",
@@ -4774,7 +4774,7 @@
   },
   "dialog_13230": {
     "&Action Point": "&Ponto de Ação",
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "&In direction of ": "&Na direção de",
     "&Normal": "&Normal",
     "A &User defined point": "Um ponto definido pelo &usuário",
@@ -4789,7 +4789,7 @@
   },
   "dialog_13231": {
     "&At actual X,Y coordinates": "&Em coordenadas X,Y atuais",
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "&Options": "&Opções",
     "&Relative to:": "&Relativo a:",
     "Cancel": "Cancelar",
@@ -4800,7 +4800,7 @@
     "Y:": "Y:"
   },
   "dialog_13232": {
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "Cancel": "Cancelar",
     "Dialog": "Diálogo",
     "Effect :": "Efeito :",
@@ -4809,7 +4809,7 @@
     "Transparency (0 to 128):": "Transparência (0 a 128):"
   },
   "dialog_13233": {
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "&Use a calculation": "&Usar um cálculo",
     "Cancel": "Cancelar",
     "OK": "OK",
@@ -4935,7 +4935,7 @@
     "Filename of the extensions to ignore at start :": "Nome do arquivo das extensões a serem ignoradas na inicialização:"
   },
   "dialog_13565": {
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "&Use a calculation": "&Usar um cálculo",
     "Cancel": "Cancelar",
     "Dialog": "Diálogo",
@@ -4943,7 +4943,7 @@
     "OK": "OK"
   },
   "dialog_13568": {
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "Cancel": "Cancelar",
     "First object:": "Primeiro objeto:",
     "O": "O",
@@ -4952,14 +4952,14 @@
     "o": "Ok, I understand. Please provide me with the text you want me to translate into Brazilian Portuguese (pt-br). \n\nRemember to follow the formatting guidelines you provided:\n\n* **Preserve original format:** Keep placeholders, HTML tags, line breaks, etc., exactly as they are.\n* **Translate only:** Provide the translated text without any explanations or comments.\n* **Don't touch placeholders:** Leave elements like #placeholders#, %0, %o, %1 untouched.\n* **Use accurate technical terms:** Employ appropriate terminology for game and app development in Brazilian Portuguese.\n\nI'm ready when you are!"
   },
   "dialog_13574": {
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "Cancel": "Cancelar",
     "Click here": "Clique aqui",
     "Menu option": "Opção de menu",
     "Please choose a menu option": "Por favor, escolha uma opção de menu"
   },
   "dialog_13575": {
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "Cancel": "Cancelar",
     "OK": "OK"
   },
@@ -4970,7 +4970,7 @@
   "dialog_14101": {
     "&Cos": "&Cos",
     "&Exp": "&Exp",
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "&Ln": "&Enter",
     "&Mid$": "&Meio$",
     "&Pi": "&Pi",
@@ -5001,7 +5001,7 @@
     "o": "Ok, I understand. Please provide me with the text you want me to translate into Brazilian Portuguese (pt-br). \n\nRemember to follow the formatting guidelines you provided:\n\n* **Preserve original format:** Keep placeholders, HTML tags, line breaks, etc., exactly as they are.\n* **Translate only:** Provide the translated text without any explanations or comments.\n* **Don't touch placeholders:** Leave elements like #placeholders#, %0, %o, %1 untouched.\n* **Use accurate technical terms:** Employ appropriate terminology for game and app development in Brazilian Portuguese.\n\nI'm ready when you are!"
   },
   "dialog_14102": {
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "Cancel": "Cancelar",
     "OK": "OK",
     "Please enter value :": "Por favor, insira um valor:"
@@ -5009,7 +5009,7 @@
   "dialog_14103": {
     "&Cos": "&Cos",
     "&Exp": "&Exp",
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "&Ln": "&Enter",
     "&Mid$": "&Meio$",
     "&Pi": "&Pi",
@@ -5042,7 +5042,7 @@
   "dialog_14104": {
     "&Cos": "&Cos",
     "&Exp": "&Exp",
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "&Ln": "&Enter",
     "&Mid$": "&Meio$",
     "&Pi": "&Pi",
@@ -5075,7 +5075,7 @@
   "dialog_14106": {
     "&Cos": "&Cos",
     "&Exp": "&Exp",
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "&Ln": "&Enter",
     "&Mid$": "&Meio$",
     "&Pi": "&Pi",
@@ -5109,7 +5109,7 @@
   "dialog_14107": {
     "&Cos": "&Cos",
     "&Exp": "&Exp",
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "&Ln": "&Enter",
     "&Mid$": "&Meio$",
     "&Pi": "&Pi",
@@ -5141,7 +5141,7 @@
     "o": "Ok, I understand. Please provide me with the text you want me to translate into Brazilian Portuguese (pt-br). \n\nRemember to follow the formatting guidelines you provided:\n\n* **Preserve original format:** Keep placeholders, HTML tags, line breaks, etc., exactly as they are.\n* **Translate only:** Provide the translated text without any explanations or comments.\n* **Don't touch placeholders:** Leave elements like #placeholders#, %0, %o, %1 untouched.\n* **Use accurate technical terms:** Employ appropriate terminology for game and app development in Brazilian Portuguese.\n\nI'm ready when you are!"
   },
   "dialog_14193": {
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "&In direction of ...": "&Na direção de ...",
     "&Selected directions": "&Direções selecionadas",
     "&Use the direction of %s": "&Utilize a direção de %s",
@@ -5153,13 +5153,13 @@
     "Spin2": "Girar2"
   },
   "dialog_14194": {
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "Cancel": "Cancelar",
     "Choose one or more directions": "Escolha uma ou mais direções",
     "OK": "OK"
   },
   "dialog_14195": {
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "&Use a calculation": "&Usar um cálculo",
     "Cancel": "Cancelar",
     "OK": "OK",
@@ -5167,7 +5167,7 @@
   },
   "dialog_14196": {
     "&Browse": "&Navegar",
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "&Play": "&Reproduzir",
     "&Uninterruptable": "&Irrestritível",
     "...": "Okay, I'm ready to translate your Clickteam Fusion 2.5 interface texts into Brazilian Portuguese (pt-br).  \n\nPlease provide me with the text you want translated. Remember to follow the formatting guidelines:\n\n* **Preserve original format:** Keep placeholders, HTML tags, line breaks, etc., exactly as they are.\n* **Translate only:** Provide the translation without any explanations or comments.\n* **Don't touch placeholders:** Leave elements like #placeholders#, %0, %o, %1 untouched.\n\nI will do my best to provide accurate and contextually appropriate translations using industry-standard terminology for game and app development. \n\n\nLet's get started!",
@@ -5198,7 +5198,7 @@
   },
   "dialog_14199": {
     "&Browse": "&Navegar",
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "&List": "&Lista",
     "Cancel": "Cancelar",
     "Choose an object": "Escolha um objeto",
@@ -5216,7 +5216,7 @@
     "Tree2": "Árvore2"
   },
   "dialog_14201": {
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "&Use a calculation": "&Usar um cálculo",
     "Cancel": "Cancelar",
     "Dialog": "Diálogo",
@@ -5224,7 +5224,7 @@
     "OK": "OK"
   },
   "dialog_14202": {
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "&Hide application": "&Esconder aplicação",
     "&Wait for end": "&Aguardar o fim",
     "Application behavior": "Comportamento da aplicação",
@@ -5232,7 +5232,7 @@
     "OK": "OK"
   },
   "dialog_14203": {
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "Cancel": "Cancelar",
     "Hour(s)": "Hora(s)",
     "Minute(s)": "Minuto(s)",
@@ -5356,7 +5356,7 @@
   "dialog_16927": {
     "&Activate": "&Ativar",
     "&Close Window(s)": "&Fechar Janela(s)",
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "&Minimize": "&Minimizar",
     "&OK": "&OK",
     "&Save": "&Salvar",
@@ -5693,7 +5693,7 @@
   "dialog_18631": {
     "&Build Install Program": "&Criar Programa de Instalação",
     "&Export Texts": "&Exportar Textos",
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "&Import Texts": "&Importar Textos",
     "&Test": "&Teste",
     "Cancel": "Cancelar",
@@ -5701,21 +5701,21 @@
     "OK": "OK"
   },
   "dialog_19180": {
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "Cancel": "Cancelar",
     "O": "O",
     "OK": "OK",
     "o": "Ok, I understand. Please provide me with the text you want me to translate into Brazilian Portuguese (pt-br). \n\nRemember to follow the formatting guidelines you provided:\n\n* **Preserve original format:** Keep placeholders, HTML tags, line breaks, etc., exactly as they are.\n* **Translate only:** Provide the translated text without any explanations or comments.\n* **Don't touch placeholders:** Leave elements like #placeholders#, %0, %o, %1 untouched.\n\nI'm ready when you are!"
   },
   "dialog_19182": {
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "Cancel": "Cancelar",
     "New Condition": "Nova Condição",
     "O": "O",
     "o": "Ok, I understand. Please provide me with the text you want me to translate into Brazilian Portuguese (pt-br). \n\nRemember to follow the formatting guidelines you provided:\n\n* **Preserve original format:** Keep placeholders, HTML tags, line breaks, etc., exactly as they are.\n* **Translate only:** Provide the translated text without any explanations or comments.\n* **Don't touch placeholders:** Leave elements like #placeholders#, %0, %o, %1 untouched.\n\nI'm ready when you are!"
   },
   "dialog_19185": {
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "Cancel": "Cancelar",
     "New Action": "Nova Ação",
     "O": "O",
@@ -5723,7 +5723,7 @@
   },
   "dialog_19186": {
     "&Centered": "&Centralizado",
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "&Left": "&Esquerda",
     "&Right": "&Direita",
     "&Set font color": "&Definir cor da fonte",
@@ -5737,7 +5737,7 @@
   },
   "dialog_19195": {
     "&Active when frame starts": "&Ativo quando o frame inicia",
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "&Title of the group": "&Título do grupo",
     "Cancel": "Cancelar",
     "Confirm password": "Confirmar senha",
@@ -5746,7 +5746,7 @@
     "Password protection": "Proteção por senha"
   },
   "dialog_19196": {
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "&Skip": "&Pular",
     "&This group exists already. Please enter another name...": "&Este grupo já existe. Por favor, insira outro nome...",
     "Cancel": "Cancelar",
@@ -5799,7 +5799,7 @@
     "Several extensions correspond to the type of one of the object dropped. Please select the wanted extension, and click OK.": "Vários plugins correspondem ao tipo de um dos objetos soltos. Por favor, selecione o plugin desejado e clique em OK."
   },
   "dialog_30721": {
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "&New ": "&Novo",
     "Cancel": "Cancelar",
     "New": "Novo",
@@ -5846,7 +5846,7 @@
     "&Frame": "&Frame",
     "&Frame Editor": "&Editor de Frames",
     "&Global Event Editor": "&Editor de Eventos Globais",
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "&Insert": "&Inserir",
     "&Install Program": "&Instalar Programa",
     "&Invert Selection": "& Inverter Seleção",
@@ -5856,7 +5856,7 @@
     "&Open...": "&Abrir...",
     "&Paste": "&Colar",
     "&Preferences": "&Preferências",
-    "&Project": "&Projeto",
+    "&Project": "&Workspace",
     "&Properties": "&Propriedades",
     "&Redo": "&Refazer",
     "&Run": "&Executar",
@@ -5875,7 +5875,7 @@
     "&Window": "&Janela",
     "A&pplication": "Aplicativo&",
     "C&lone": "Clonar&",
-    "C&lose Project": "F&echar Projeto",
+    "C&lose Project": "&Fechar Workspace",
     "Check for &Update": "Verificar &Atualizações",
     "Communit&y": "Comunidade&",
     "Cu&t": "Cortar&",
@@ -5886,13 +5886,13 @@
     "New &Frame": "Novo &Frame",
     "New &Object": "Novo &Objeto",
     "New Fol&der": "Nova Pasta &",
-    "New Pro&ject": "Novo Pro&jeto",
-    "Open P&roject": "Abrir Proje&to",
+    "New Pro&ject": "&Novo Workspace",
+    "Open P&roject": "&Abrir Workspace",
     "Recent File": "Arquivo Recente",
     "S&plit": "Dividir&",
     "S&toryboard Editor": "Editor de &História",
-    "Sa&ve Project": "Salvar Proje&to",
-    "Sav&e Project As": "Salvar Proje&to Como",
+    "Sa&ve Project": "&Salvar Workspace",
+    "Sav&e Project As": "Salvar Workspace &Como",
     "Save &As...": "Salvar &Como...",
     "Welcome Page": "Página de Boas-vindas"
   },
@@ -5900,7 +5900,7 @@
     "&<User-defined tools": "&<Ferramentas definidas pelo usuário",
     "&About...": "&Sobre...",
     "&File": "&Arquivo",
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "&Keyboard shortcuts": "Atalhos de teclado",
     "&New": "&Novo",
     "&Open...": "&Abrir...",
@@ -5954,7 +5954,7 @@
     "&Frame": "&Frame",
     "&Frame Editor": "&Editor de Frames",
     "&Global Event Editor": "&Editor de Eventos Globais",
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "&Insert": "&Inserir",
     "&Install Program": "&Instalar Programa",
     "&Invert Selection": "& Inverter Seleção",
@@ -5964,7 +5964,7 @@
     "&Open...": "&Abrir...",
     "&Paste": "&Colar",
     "&Preferences": "&Preferências",
-    "&Project": "&Projeto",
+    "&Project": "&Workspace",
     "&Properties": "&Propriedades",
     "&Redo": "&Refazer",
     "&Run": "&Executar",
@@ -5983,7 +5983,7 @@
     "&Window": "&Janela",
     "A&pplication": "Aplicativo&",
     "C&lone": "Clonar&",
-    "C&lose Project": "F&echar Projeto",
+    "C&lose Project": "&Fechar Workspace",
     "Check for &Update": "Verificar &Atualizações",
     "Communit&y": "Comunidade&",
     "Cu&t": "Cortar&",
@@ -5994,13 +5994,13 @@
     "New &Frame": "Novo &Frame",
     "New &Object": "Novo &Objeto",
     "New Fol&der": "Nova Pasta &",
-    "New Pro&ject": "Novo Pro&jeto",
-    "Open P&roject": "Abrir Proje&to",
+    "New Pro&ject": "&Novo Workspace",
+    "Open P&roject": "&Abrir Workspace",
     "Recent File": "Arquivo Recente",
     "S&plit": "Dividir&",
     "S&toryboard Editor": "Editor de &História",
-    "Sa&ve Project": "Salvar Proje&to",
-    "Sav&e Project As": "Salvar Proje&to Como",
+    "Sa&ve Project": "&Salvar Workspace",
+    "Sav&e Project As": "Salvar Workspace &Como",
     "Save &As...": "Salvar &Como...",
     "Welcome Page": "Página de Boas-vindas"
   },
@@ -6042,7 +6042,7 @@
     "&Frame Editor": "&Editor de Frames",
     "&Global Event Editor": "&Editor de Eventos Globais",
     "&Hatched": "&Chocado",
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "&Hidden Text": "&Texto Escondido",
     "&Horizontally": "&Horizontalmente",
     "&Horz Center": "&Centralizar Horizontalmente",
@@ -6068,7 +6068,7 @@
     "&Paste": "&Colar",
     "&Preferences": "&Preferências",
     "&Previous Frame": "&Quadro Anterior",
-    "&Project": "&Projeto",
+    "&Project": "&Workspace",
     "&Properties": "&Propriedades",
     "&Redo": "&Refazer",
     "&Rename": "&Renomear",
@@ -6106,7 +6106,7 @@
     "Ali&gn in Frame": "Alinhar & em Frame",
     "B&ackward One": "Voltar & Uma Posição",
     "C&lone": "Clonar&",
-    "C&lose Project": "F&echar Projeto",
+    "C&lose Project": "&Fechar Workspace",
     "Center &Horizontally": "Centralizar &Horizontalmente",
     "Center &Vertically": "Centralizar &Verticalmente",
     "Check for &Update": "Verificar &Atualizações",
@@ -6124,15 +6124,15 @@
     "New &Frame": "Novo &Frame",
     "New &Object": "Novo &Objeto",
     "New Fol&der": "Nova Pasta &",
-    "New Pro&ject": "Novo Pro&jeto",
-    "Open P&roject": "Abrir Proje&to",
+    "New Pro&ject": "&Novo Workspace",
+    "Open P&roject": "&Abrir Workspace",
     "Order B&y": "Pedir por &ordem",
     "Pain&t Mode": "Modo de Pintu&ra",
     "Recent File": "Arquivo Recente",
     "S&plit": "Dividir&",
     "S&toryboard Editor": "Editor de &História",
-    "Sa&ve Project": "Salvar Proje&to",
-    "Sav&e Project As": "Salvar Proje&to Como",
+    "Sa&ve Project": "&Salvar Workspace",
+    "Sav&e Project As": "Salvar Workspace &Como",
     "Save &As...": "Salvar &Como...",
     "Sho&w #": "Mo&strar #",
     "Show &Grid": "Mostrar &Grade",
@@ -6176,7 +6176,7 @@
     "&Global Event Editor": "&Editor de Eventos Globais",
     "&Go to...": "&Ir para...",
     "&Group of Events": "&Grupo de Eventos",
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "&In": "&Dentro",
     "&Insert": "&Inserir",
     "&Install Program": "&Instalar Programa",
@@ -6194,7 +6194,7 @@
     "&Preferences": "&Preferências",
     "&Previous Frame": "&Quadro Anterior",
     "&Print": "&Imprimir",
-    "&Project": "&Projeto",
+    "&Project": "&Workspace",
     "&Properties": "&Propriedades",
     "&Redo": "&Refazer",
     "&Run": "&Executar",
@@ -6217,7 +6217,7 @@
     "&Zoom": "&Ampliar",
     "A&pplication": "Aplicativo&",
     "C&lone": "Clonar&",
-    "C&lose Project": "F&echar Projeto",
+    "C&lose Project": "&Fechar Workspace",
     "Check for &Update": "Verificar &Atualizações",
     "Clear All Bookmarks": "Limpar Todos os Marcadores",
     "Close all groups": "Fechar todos os grupos",
@@ -6237,11 +6237,11 @@
     "New &Frame": "Novo &Frame",
     "New &Object": "Novo &Objeto",
     "New Fol&der": "Nova Pasta &",
-    "New Pro&ject": "Novo Pro&jeto",
+    "New Pro&ject": "&Novo Workspace",
     "Next Bookmark": "Próximo marcador",
     "No horizontal scroll": "Sem rolagem horizontal",
     "Open / Close &Group": "Abrir / Fechar &Grupo",
-    "Open P&roject": "Abrir Proje&to",
+    "Open P&roject": "&Abrir Workspace",
     "Open all groups": "Abrir todos os grupos",
     "Page set&up": "Configurar página&",
     "Previous Bookmark": "Bookmark Anterior",
@@ -6249,8 +6249,8 @@
     "Recent File": "Arquivo Recente",
     "S&plit": "Dividir&",
     "S&toryboard Editor": "Editor de &História",
-    "Sa&ve Project": "Salvar Proje&to",
-    "Sav&e Project As": "Salvar Proje&to Como",
+    "Sa&ve Project": "&Salvar Workspace",
+    "Sav&e Project As": "Salvar Workspace &Como",
     "Save &As...": "Salvar &Como...",
     "Sho&w All": "Mo&strar Tudo",
     "Toggle Bookmark": "Alternar marcador",
@@ -6528,7 +6528,7 @@
     "&Contents\tF1": "&Conteúdo\tF1",
     "&File": "&Arquivo",
     "&Full Screen\tAlt+Enter": "&Tela Cheia Alt+Enter",
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "&Hide the menu\tF8": "&Ocultar o menu F8",
     "&New\tF2": "&Novo\tF2",
     "&Options": "&Opções",
@@ -6555,7 +6555,7 @@
     "&Contents\tF1": "&Conteúdo\tF1",
     "&File": "&Arquivo",
     "&Full Screen\tAlt+Enter": "&Tela Cheia Alt+Enter",
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "&Hide the menu\tF8": "&Ocultar o menu F8",
     "&New\tF2": "&Novo\tF2",
     "&Next": "&Próximo",
@@ -6597,12 +6597,26 @@
     "Select a new application": "Selecione um novo aplicativo"
   },
   "menu_9102": {
-    "1024 x 768": "1024 x 768",
-    "1280 x 1024": "1280 x 1024",
+    "240 x 320": "240 x 320",
     "320 x 200": "320 x 200",
-    "520 x 340": "520 x 340",
+    "320 x 240": "320 x 240",
+    "320 x 480": "320 x 480",
+    "480 x 320": "480 x 320",
     "640 x 480": "640 x 480",
-    "800 x 600": "800 x 600"
+    "640 x 960": "640 x 960",
+    "640 x 1136": "640 x 1136",
+    "768 x 1024": "768 x 1024",
+    "800 x 600": "800 x 600",
+    "960 x 640": "960 x 640",
+    "1024 x 768": "1024 x 768",
+    "1136 x 640": "1136 x 640",
+    "1280 x 720": "1280 x 720",
+    "1280 x 768": "1280 x 768",
+    "1280 x 800": "1280 x 800",
+    "1280 x 1024": "1280 x 1024",
+    "1400 x 1050": "1400 x 1050",
+    "1600 x 1200": "1600 x 1200",
+    "1920 x 1080": "1920 x 1080"
   },
   "menu_9103": {
     "Clone": "Clonar",
