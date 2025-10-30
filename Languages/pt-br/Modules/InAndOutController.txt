@@ -2,23 +2,23 @@
   "version": 1,
   "lang": 1046,
   "general": {
-    "Controller for the InAndOut movement.": "Controller para o InAndOut movement.",
-    "InAndOut Movement Controller": "InAndOut Movimento Controller",
-    "Move object in": "Move object em",
+    "Controller for the InAndOut movement.": "Controller for the InAndOut movement.",
+    "InAndOut Movement Controller": "InAndOut Movement Controller",
+    "Move object in": "Move object in",
     "Move object out": "Move object out",
-    "Position object at end": "Posição object em end",
-    "Position object at start": "Posição object em start",
-    "Select an object": "Selecionar um object",
-    "Set object to %0": "Definir object para %0",
-    "Set object with fixed value %0": "Set object com fixed value %0",
+    "Position object at end": "Position object at end",
+    "Position object at start": "Position object at start",
+    "Select an object": "Select an object",
+    "Set object to %0": "Set object to %0",
+    "Set object with fixed value %0": "Set object with fixed value %0",
     "fixed value": "fixed value"
   },
   "menu_20000": {
-    "Move object in": "Move object em",
+    "Move object in": "Move object in",
     "Move object out": "Move object out",
-    "Position object at end": "Posição object em end",
-    "Position object at start": "Posição object em start",
-    "Set object": "Definir object",
-    "Set object from fixed value": "Definir object de fixed value"
+    "Position object at end": "Position object at end",
+    "Position object at start": "Position object at start",
+    "Set object": "Set object",
+    "Set object from fixed value": "Set object from fixed value"
   }
 }

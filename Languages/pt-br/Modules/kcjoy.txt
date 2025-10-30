@@ -2,24 +2,24 @@
   "version": 1,
   "lang": 1046,
   "general": {
-    "Allows you to retrieve information from analog joysticks.": "Allows você para retrieve information de analog joysticks.",
+    "Allows you to retrieve information from analog joysticks.": "Allows you to retrieve information from analog joysticks.",
     "Analog Joystick": "Analog Joystick",
     "Analog Joystick object": "Analog Joystick object",
-    "Button 1: %i": "Botão 1: %i",
-    "Button 2: %i": "Botão 2: %i",
-    "Button 3: %i": "Botão 3: %i",
-    "Button 4: %i": "Botão 4: %i",
-    "Value X: %i": "Valor X: %i",
-    "Value Y: %i": "Valor Y: %i",
-    "Value Z: %i": "Valor Z: %i"
+    "Button 1: %i": "Button 1: %i",
+    "Button 2: %i": "Button 2: %i",
+    "Button 3: %i": "Button 3: %i",
+    "Button 4: %i": "Button 4: %i",
+    "Value X: %i": "Value X: %i",
+    "Value Y: %i": "Value Y: %i",
+    "Value Z: %i": "Value Z: %i"
   },
   "menu_20002": {
-    "Raw Button A Value": "Raw Botão Um Valor",
-    "Raw Button B Value": "Raw Botão B Valor",
-    "Raw Button C Value": "Raw Botão C Valor",
-    "Raw Button D Value": "Raw Botão D Valor",
-    "Raw X Value": "Raw X Valor",
-    "Raw Y Value": "Raw Y Valor",
-    "Raw Z Value": "Raw Z Valor"
+    "Raw Button A Value": "Raw Button A Value",
+    "Raw Button B Value": "Raw Button B Value",
+    "Raw Button C Value": "Raw Button C Value",
+    "Raw Button D Value": "Raw Button D Value",
+    "Raw X Value": "Raw X Value",
+    "Raw Y Value": "Raw Y Value",
+    "Raw Z Value": "Raw Z Value"
   }
 }

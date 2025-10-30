@@ -3,7 +3,7 @@
   "lang": 1046,
   "general": {
     "Accelerometer object": "Accelerometer object",
-    "Device orientation changed": "Dispositivo orientation changed",
+    "Device orientation changed": "Device orientation changed",
     "Retrieve data from the accelerometer on devices that support it (such as the iPhone or some Android phones).": "Retrieve data from the accelerometer on devices that support it (such as the iPhone or some Android phones)."
   },
   "menu_20000": {
@@ -11,10 +11,10 @@
   },
   "menu_20001": {
     "Conditions": "Conditions",
-    "Device orientation changed": "Dispositivo orientation changed"
+    "Device orientation changed": "Device orientation changed"
   },
   "menu_20002": {
-    "Device orientation": "Dispositivo orientation",
+    "Device orientation": "Device orientation",
     "Direct values": "Direct values",
     "Expressions": "Expressions",
     "Gravity isolated values": "Gravity isolated values",

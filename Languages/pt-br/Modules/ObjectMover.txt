@@ -2,34 +2,34 @@
   "version": 1,
   "lang": 1046,
   "general": {
-    "%o is enabled": "%o está enabled",
+    "%o is enabled": "%o is enabled",
     "Allows the movement of the objects located above it.": "Allows the movement of the objects located above it.",
-    "Disable": "Desativar",
-    "Enable": "Ativar",
-    "Enter new height": "Enter novo height",
-    "Enter new width": "Enter novo width",
-    "Movement enabled": "Movimento enabled",
-    "Moves all the objects above it.": "Moves all o objects above it.",
-    "Object Mover": "Objeto Mover",
-    "Set height to %0": "Definir height para %0",
-    "Set width to %0": "Definir width para %0"
+    "Disable": "Disable",
+    "Enable": "Enable",
+    "Enter new height": "Enter new height",
+    "Enter new width": "Enter new width",
+    "Movement enabled": "Movement enabled",
+    "Moves all the objects above it.": "Moves all the objects above it.",
+    "Object Mover": "Object Mover",
+    "Set height to %0": "Set height to %0",
+    "Set width to %0": "Set width to %0"
   },
   "menu_20000": {
     "Actions": "Actions",
     "Activation": "Activation",
-    "Disable": "Desativar",
-    "Enable": "Ativar",
-    "Set height": "Definir height",
-    "Set width": "Definir width",
-    "Size": "Tamanho"
+    "Disable": "Disable",
+    "Enable": "Enable",
+    "Set height": "Set height",
+    "Set width": "Set width",
+    "Size": "Size"
   },
   "menu_20001": {
     "Conditions": "Conditions",
-    "Is enabled?": "enabled?"
+    "Is enabled?": "Is enabled?"
   },
   "menu_20002": {
     "Expressions": "Expressions",
-    "Get height": "Obter height",
-    "Get width": "Obter width"
+    "Get height": "Get height",
+    "Get width": "Get width"
   }
 }
