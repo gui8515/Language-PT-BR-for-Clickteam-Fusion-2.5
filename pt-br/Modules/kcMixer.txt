@@ -11,7 +11,7 @@
     "01Change wave left and right volume to %s": "01Alterar o volume da onda esquerda e direita para %s",
     "01Change wave left volume to %s": "01Alterar o volume da onda esquerda para %s",
     "01Change wave right volume to %s": "01Alterar o volume da onda direita para %s",
-    "Gives you direct control over the volume of your sound samples and MIDI music files.": "Permite que você controle diretamente o volume de suas amostras de som e arquivos de música MIDI.",
+    "Gives you direct control over the volume of your sound samples and MIDI music files.": "Permite que você controle diretamente o volume de seus efeitos sonoros e arquivos de música MIDI.",
     "Mixer": "Misturador",
     "Mixer object": "Objeto Mixer"
   },

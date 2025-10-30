@@ -23,7 +23,7 @@
     "Cancel": "Cancelar",
     "OK": "OK",
     "Play musics": "Reproduzir músicas",
-    "Play samples": "Reproduzir amostras",
+    "Play samples": "Reproduzir efeitos sonoros",
     "Set-up": "Configuração"
   }
 }
