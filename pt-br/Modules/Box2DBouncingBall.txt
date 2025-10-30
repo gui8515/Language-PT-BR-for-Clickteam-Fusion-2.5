@@ -64,7 +64,7 @@
     "Moving at start": "Movendo no início",
     "None": "Nenhum",
     "Object": "Objeto",
-    "Physics - Bouncing Ball movement": "Física - Movimento da Bola Quicando",
+    "Physics - Bouncing Ball movement": "Física - Movimento de Bola Quicando",
     "Please choose the shape of the collision box": "Por favor, escolha a forma da caixa de colisão",
     "Please drop a 'Physics Engine' object in your frame.": "Por favor, adicione um objeto 'Motor de Física' ao seu frame.",
     "Prismatic joint": "Articulação prismática",
@@ -73,7 +73,7 @@
     "Smooth rotations": "Rotações suaves",
     "Speed : %i": "Velocidade : %i",
     "Type": "Tipo",
-    "Type : Bouncing Ball": "Tipo : Bola Quicante",
+    "Type : Bouncing Ball": "Tipo : Bola Quicando",
     "Upper angle": "Ângulo superior",
     "Upper limit": "Limite superior"
   }

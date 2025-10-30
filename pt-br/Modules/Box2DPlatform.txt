@@ -52,7 +52,7 @@
     "Next strength": "Próxima força",
     "No jump": "Sem pulo",
     "Object": "Objeto",
-    "Physics - Platform movement": "Física - Movimento de plataforma",
+    "Physics - Platform movement": "Física - Movimento de Plataforma",
     "Please drop a 'Physics Engine' object in your frame.": "Por favor, adicione um objeto 'Motor de Física' ao seu frame.",
     "Please enter the acceleration factor of the object (0 = no acceleration, maximum = immediate start)": "Por favor, insira o fator de aceleração do objeto (0 = sem aceleração, máximo = início imediato)",
     "Please enter the deceleration factor of the object (0 = no deceleration, maximum =immediate stop)": "Por favor, insira o fator de desaceleração do objeto (0 = sem desaceleração, máximo = parada imediata)",

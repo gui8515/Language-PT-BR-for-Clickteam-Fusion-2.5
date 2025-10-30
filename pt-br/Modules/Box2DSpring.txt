@@ -17,7 +17,7 @@
     "Enter the direction of the spring": "Digite a direção da mola",
     "Enter the identifier of the movement, that must match the identifier of the engine object.": "Digite o identificador do movimento, que deve corresponder ao identificador do objeto do motor.",
     "Enter the strength of the spring, (0 = inactive)": "Digite a força da mola (0 = inativo)",
-    "Physics - Spring": "Física - mola",
+    "Physics - Spring": "Física - Mola",
     "Please choose the shape of the collision box": "Por favor, escolha a forma da caixa de colisão",
     "Please drop a 'Physics Engine' object in your frame.": "Por favor, adicione um objeto 'Motor de Física' ao seu frame.",
     "Shape of first image": "Forma da primeira imagem",
