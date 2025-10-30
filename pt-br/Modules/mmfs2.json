@@ -1,0 +1,20 @@
+﻿{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "%s files (%s)": "%s arquivos (%s)",
+    "All files (*.*)|*.*||": "Todos os arquivos (*.*)|*.*||",
+    "Animation files": "Arquivos de animação",
+    "Graphic files": "Arquivos gráficos",
+    "Image files": "Arquivos de imagem",
+    "Unknown format": "Formato desconhecido"
+  },
+  "dialog_100": {
+    "# frames :": "Nb quadros :",
+    "Depth :": "Profundidade :",
+    "Height :": "Altura :",
+    "Information": "Informações",
+    "Type :": "Tipo :",
+    "Width :": "Largura :"
+  }
+}

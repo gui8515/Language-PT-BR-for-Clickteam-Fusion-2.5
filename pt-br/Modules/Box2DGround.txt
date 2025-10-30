@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "Advanced": "Avançado",
+    "Bottom to top": "De baixo para cima",
+    "Choose how the objects will collide with the ground": "Escolha como os objetos colidirão com o solo",
+    "Choose the direction of the ground to be created.": "Escolha a direção do solo a ser criado.",
+    "Collision": "Colisão",
+    "Defines the ground of the playfield": "Define o fundo do campo de jogo",
+    "Direction": "Direção",
+    "Elasticity": "Elasticidade",
+    "Engine ID": "ID do Motor",
+    "Enter the elasticity parameter of the ground.": "Digite o parâmetro de elasticidade do solo.",
+    "Enter the friction parameter of the ground.": "Digite o parâmetro de atrito do solo.",
+    "Enter the identifier of the engine to use for the ground.": "Digite o identificador do motor a ser usado para o solo.",
+    "Friction": "Atrito",
+    "Left to right": "Da esquerda para a direita",
+    "Object": "Objeto",
+    "Obstacle": "Obstáculo",
+    "Physics - Ground": "Física - Solo",
+    "Platform": "Plataforma",
+    "Right to left": "Da direita para a esquerda",
+    "Top to bottom": "De cima para baixo"
+  }
+}

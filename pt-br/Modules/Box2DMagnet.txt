@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "%o: Is magnet active?": "%o: O ímã está ativo?",
+    "Active at start": "Ativo na inicialização",
+    "Advanced": "Avançado",
+    "Attracts objects around itself": "Atrai objetos ao seu redor",
+    "Check this box to make the magnet active at start of frame": "Marque esta caixa para ativar o ímã no início do frame",
+    "Directions": "Direções",
+    "Directions of the magnet": "Direções do Ímã",
+    "Engine ID": "ID do Motor",
+    "Enter 1 to turn on, 0 to turn off": "Digite 1 para ligar e 0 para desligar",
+    "Enter the directions where the magnet will have effect": "Digite as direções em que o ímã terá efeito",
+    "Enter the height of the object": "Digite a altura do objeto",
+    "Enter the identifier of the engine if multiple engines are used on the same frame.": "Digite o identificador do motor se vários motores forem usados no mesmo frame.",
+    "Enter the strength of the magnet (0-100)": "Digite a força do ímã (0-100)",
+    "Enter the strength of the magnet, from 0 to 100": "Digite a força do ímã, de 0 a 100",
+    "Enter the width of the object": "Digite a largura do objeto",
+    "Physics - Magnet": "Física - Ímã",
+    "Please drop a 'Physics Engine' object in your frame.": "Por favor, adicione um objeto 'Motor de Física' ao seu frame.",
+    "Running : %i": "Executando : %i",
+    "Set angle to %0": "Definir ângulo para %0",
+    "Set height to %0": "Definir altura para %0",
+    "Set magnet to %0": "Definir ímã para %0",
+    "Set strength to %0": "Definir força para %0",
+    "Set width to %0": "Definir largura para %0",
+    "Strength": "Força",
+    "Strength : %i": "Força : %i"
+  },
+  "menu_20000": {
+    "Actions": "Ações",
+    "Set angle": "Definir ângulo",
+    "Set height": "Definir altura",
+    "Set magnet ON/OFF": "Definir ímã LIGADO/DESLIGADO",
+    "Set strength": "Definir força",
+    "Set width": "Definir largura"
+  },
+  "menu_20001": {
+    "Conditions": "Condições",
+    "Is magnet active?": "O ímã está ativo?"
+  },
+  "menu_20002": {
+    "Action zone height": "Altura da zona de ação",
+    "Action zone width": "Largura da zona de ação",
+    "Expressions": "Expressões",
+    "Magnet strength": "Força do Ímã"
+  }
+}
