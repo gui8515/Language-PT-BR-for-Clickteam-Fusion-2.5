@@ -2,26 +2,26 @@
   "version": 1,
   "lang": 1046,
   "general": {
-    "%o : On leaderboard closed": "%o : Ligado leaderboard closed",
-    "%o : On leaderboard displayed": "%o : Ligado leaderboard displayed",
-    "Leaderboard ID": "Placar ID",
+    "%o : On leaderboard closed": "%o : On leaderboard closed",
+    "%o : On leaderboard displayed": "%o : On leaderboard displayed",
+    "Leaderboard ID": "Leaderboard ID",
     "Mochi Scores": "Mochi Scores",
-    "Name": "Nome",
+    "Name": "Name",
     "Obsolete. This object is provided for compatibility reasons only.": "Obsolete. This object is provided for compatibility reasons only.",
-    "Score": "Pontuação",
-    "Set Leaderboard ID to %0": "Definir Placar ID para %0",
-    "Show leaderboard": "Exibir leaderboard",
-    "Submit score %0 and ask for a name": "Submit score %0 e ask para um name",
-    "Submit score %0 with name %1": "Submit score %0 com name %1"
+    "Score": "Score",
+    "Set Leaderboard ID to %0": "Set Leaderboard ID to %0",
+    "Show leaderboard": "Show leaderboard",
+    "Submit score %0 and ask for a name": "Submit score %0 and ask for a name",
+    "Submit score %0 with name %1": "Submit score %0 with name %1"
   },
   "menu_20000": {
-    "Set leaderboard ID": "Definir leaderboard ID",
-    "Show leaderboard": "Exibir leaderboard",
-    "Submit score (ask for a name)": "Submit score (ask para um name)",
-    "Submit score (specify a name)": "Submit score (specify um name)"
+    "Set leaderboard ID": "Set leaderboard ID",
+    "Show leaderboard": "Show leaderboard",
+    "Submit score (ask for a name)": "Submit score (ask for a name)",
+    "Submit score (specify a name)": "Submit score (specify a name)"
   },
   "menu_20001": {
-    "On leaderboard closed": "Ao leaderboard closed",
-    "On leaderboard displayed": "Ao leaderboard displayed"
+    "On leaderboard closed": "On leaderboard closed",
+    "On leaderboard displayed": "On leaderboard displayed"
   }
 }
