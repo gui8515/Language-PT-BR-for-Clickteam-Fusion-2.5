@@ -11,7 +11,7 @@
     "Score": "Pontuação",
     "Set Leaderboard ID to %0": "Definir ID do Ranking como %0",
     "Show leaderboard": "Mostrar tabela de classificação",
-    "Submit score %0 and ask for a name": "Enviar pontuação %0 e pedir um nome",
+    "Submit score %0 and ask for a name": "Enviar pontuação %0 e perguntar um nome",
     "Submit score %0 with name %1": "Enviar pontuação %0 com o nome %1"
   },
   "menu_20000": {

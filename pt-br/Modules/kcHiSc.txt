@@ -76,7 +76,7 @@
     "Please enter value :": "Por favor, insira um valor:"
   },
   "menu_20000": {
-    "Ask for a player's name": "Pedir o nome do jogador",
+    "Ask for a player's name": "Perguntar o nome do jogador",
     "Change one name": "Mudar um nome",
     "Change one score": "Mudar uma pontuação",
     "File": "Arquivo",
