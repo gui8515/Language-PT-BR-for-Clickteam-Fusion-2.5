@@ -7,7 +7,7 @@
     "%o : On player login": "%o : Ao iniciar sessão do jogador",
     "%o : On player logout": "%o : Ao sair do jogador",
     "%o : On user data %0 read": "%o : Ao ler dados do usuário %0",
-    "%o : On user data %0 written": "\"%o : Quando dados do usuário %0 forem escritos\"",
+    "%o : On user data %0 written": "%o : Quando dados do usuário %0 forem escritos",
     "%o : Player has coins": "%o : O jogador tem moedas",
     "%o : Player is logged in": "%o : O jogador está conectado",
     "Hide login widget": "Esconder widget de login",

@@ -2,7 +2,7 @@
   "version": 1,
   "lang": 1046,
   "general": {
-    "%o : Item has tag %0": "\"%o : O item possui a marca %0\"",
+    "%o : Item has tag %0": "%o : O item possui a marca %0",
     "%o : On error": "%o : Em caso de erro",
     "%o : On item owned": "%o : Você possui este item",
     "%o : On new item": "%o : Ao novo item",

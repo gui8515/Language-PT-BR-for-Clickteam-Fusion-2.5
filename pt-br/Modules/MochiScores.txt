@@ -3,7 +3,7 @@
   "lang": 1046,
   "general": {
     "%o : On leaderboard closed": "%o : Ao fechar o ranking",
-    "%o : On leaderboard displayed": "\"%o : Na tabela de classificação exibida\"",
+    "%o : On leaderboard displayed": "%o : Na tabela de classificação exibida",
     "Leaderboard ID": "ID do Ranking",
     "Mochi Scores": "Placares Mochi",
     "Name": "Nome",

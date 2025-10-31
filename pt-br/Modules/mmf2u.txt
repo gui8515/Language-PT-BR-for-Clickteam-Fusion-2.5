@@ -1048,7 +1048,7 @@
     "D-pad": "D-pad",
     "Dangers": "Perigos",
     "Data": "Dados",
-    "Data Elements\nData Elements": "Elementos de Dados",
+    "Data Elements\nData Elements": "Recursos do Projeto\nRecursos do Projeto",
     "Data error in the following file:\n%s\n\nDo you want to continue anyway?": "Erro de dados no seguinte arquivo:\n%s\n\nVocê deseja continuar mesmo assim?",
     "Database": "Banco de dados",
     "Day": "Dia",
@@ -3800,7 +3800,7 @@
     "Name :": "Nome :"
   },
   "dialog_198": {
-    "Data Elements": "Elementos de Dados"
+    "Data Elements": "Recursos do Projeto"
   },
   "dialog_199": {
     "&Load on call": "&Carregar na chamada",
