@@ -1106,7 +1106,9 @@
     "Destroy": "Destruir",
     "Destroy object if too far from frame": "Destruir objeto se estiver muito distante do frame",
     "Device": "Dispositivo",
+
     "Dialog Frame": "Quadro de Diálogo",
+
     "Dialogue": "Diálogo",
     "Different": "Diferente",
     "Direct3D 11": "Direct3D 11",
@@ -3616,6 +3618,7 @@
       "15137": "15137"
     },
     "Deactivated line": "Linha desativada",
+
     "Dialog background color": "Cor de fundo do diálogo",
     "Disabled text color": "Cor de texto desativado",
     "Enabled text color": "Cor do texto ativado",
@@ -3756,14 +3759,20 @@
     "Windows: ignore parent's 'Resize Display' option": "Windows: ignorar a opção \"Redimensionar Tela\" do pai",
     "If this option is not selected, the 'Resize display to fill window size' option of the parent app will be taken into account for calculating the position and size of the sub-app object.": "Se esta opção não estiver selecionada, a opção 'Redimensionar a tela para preencher o tamanho da janela' do aplicativo pai será considerada para calcular a posição e o tamanho do objeto de subaplicativo."
   },
+
+  // Caixa de diálogo
   "dialog_100": {
     "&Buy Now !": "&Compre Agora!",
     "About ...": "Sobre ...",
     "OK": "OK"
   },
+
+  // Caixa de diálogo
   "dialog_101": {
     "Static": "Estático"
   },
+
+  // Caixa de diálogo
   "dialog_102": {
     "&Browse": "&Navegar",
     "Cancel": "Cancelar",
@@ -3771,6 +3780,8 @@
     "OK": "OK",
     "This version only supports external animation frames. The internal animation frame(s) must be exported externally. Choose the directory where you want the file(s) saved to.": "Esta versão suporta apenas quadros de animação externos. O(s) quadro(s) de animação interno(s) devem ser exportados externamente. Escolha o diretório onde você deseja salvar o(s) arquivo(s)."
   },
+
+  // Caixa de diálogo
   "dialog_116": {
     "&Clockwise": "&Horário",
     "&Help": "A&juda",
@@ -3781,6 +3792,8 @@
     "Make One-Turn Rotation": "Fazer Rotação de Uma Volta",
     "OK": "OK"
   },
+
+  // Caixa de diálogo
   "dialog_117": {
     "&Help": "A&juda",
     "&Insert after": "&Inserir depois",
@@ -3795,13 +3808,19 @@
     "Original size": "Tamanho original",
     "Width : %d": "Largura : %d"
   },
+
+  // Caixa de diálogo
   "dialog_196": {
     "Description :": "Descrição :",
     "Name :": "Nome :"
   },
+
+  // Caixa de diálogo
   "dialog_198": {
     "Data Elements": "Recursos do Projeto"
   },
+
+  // Caixa de diálogo
   "dialog_199": {
     "&Load on call": "&Carregar na chamada",
     "&Play": "&Reproduzir",
@@ -3815,12 +3834,16 @@
     "Options": "Opções",
     "Sounds": "Sons"
   },
+
+  // Caixa de diálogo
   "dialog_200": {
     "&Add": "&Adicionar",
     "&Delete": "&Excluir",
     "Binary Data": "Dados Binários",
     "List1": "Lista1"
   },
+
+  // Caixa de diálogo
   "dialog_201": {
     "&Play": "&Reproduzir",
     "&Replace": "&Substituir",
@@ -3828,19 +3851,27 @@
     "List1": "Lista1",
     "Music": "Música"
   },
+
+  // Caixa de diálogo
   "dialog_202": {
     "External Files": "Arquivos Externos",
     "List1": "Lista1"
   },
+
+  // Caixa de diálogo
   "dialog_220": {
     "Cancel": "Cancelar",
     "Check for Update": "Verificar Atualizações",
     "Progress1": "Progresso1"
   },
+
+  // Caixa de diálogo
   "dialog_221": {
     "Extensions": "Extensões",
     "List1": "Lista1"
   },
+
+  // Caixa de diálogo
   "dialog_223": {
     "&Buy Now": "&Comprar Agora",
     "Exit": "Sair",
@@ -3848,10 +3879,14 @@
     "You can purchase the full version online from our web shop at http://www.clickteam.com. Payments are secure and shipping is fast.": "Você pode comprar a versão completa online em nossa loja virtual em http://www.clickteam.com. Os pagamentos são seguros e o envio é rápido.",
     "Your license key has expired. We hope you've enjoyed creating games or applications with this product!": "Sua chave de licença expirou. Esperamos que você tenha gostado de criar jogos ou aplicativos com este produto!"
   },
+
+  // Caixa de diálogo
   "dialog_224": {
     "Effect files": "Arquivos de efeito",
     "List1": "Lista1"
   },
+
+  // Caixa de diálogo
   "dialog_247": {
     "Cancel": "Cancelar",
     "Filename :": "Nome do arquivo :",
@@ -3862,6 +3897,8 @@
     "Static": "Estático",
     "Up": "Cima"
   },
+
+  // Caixa de diálogo
   "dialog_248": {
     "Cancel": "Cancelar",
     "List1": "Lista1",
@@ -3872,9 +3909,13 @@
     "Static": "Estático",
     "Up": "Cima"
   },
+
+  // Caixa de diálogo
   "dialog_258": {
     "Program features restored": "Recursos do programa restaurados"
   },
+
+  // Caixa de diálogo
   "dialog_260": {
     "&Buy Now": "&Comprar Agora",
     "Close": "Fechar",
@@ -3882,25 +3923,35 @@
     "You can purchase the full version of this exporter on %s. The full version hasn't these limits, has no forced preloader, and supports more extension objects and movements.": "Você pode comprar a versão completa deste exportador em %s. A versão completa não possui esses limites, não tem um pré-carregador forçado e suporta mais objetos de extensão e movimentos.",
     "You have reached the limits of this free exporter (3 frames, 30 active objects, 100 backdrop objects, 150 events, no global events or behaviors).": "Você atingiu os limites desta versão gratuita do exportador (3 frames, 30 objetos ativos, 100 objetos de fundo, 150 eventos, sem eventos globais ou comportamentos)."
   },
+
+  // Caixa de diálogo
   "dialog_262": {
     "&Replace": "&Substituir",
     "Fonts": "Fontes",
     "List1": "Lista1"
   },
+
+  // Caixa de diálogo
   "dialog_1005": {
     "Cancel": "Cancelar",
     "Edit name": "Editar nome",
     "OK": "OK"
   },
+
+  // Caixa de diálogo
   "dialog_1006": {
     "Cancel": "Cancelar",
     "Edit text": "Editar texto",
     "OK": "OK"
   },
+
+  // Caixa de diálogo
   "dialog_1007": {
     "v": "v",
     "x": "x"
   },
+
+  // Caixa de diálogo
   "dialog_1503": {
     "&Down": "&Para baixo",
     "&Help": "A&juda",
@@ -3917,6 +3968,8 @@
     "Press a key...": "Pressione uma tecla...",
     "or ESC to cancel.": "ou ESC para cancelar."
   },
+
+  // Caixa de diálogo
   "dialog_1504": {
     "&Help": "A&juda",
     "Cancel": "Cancelar",
@@ -3929,6 +3982,8 @@
     "OK": "OK",
     "Player Controls": "Controles do Jogador"
   },
+
+  // Caixa de diálogo
   "dialog_1826": {
     "&Help": "A&juda",
     "&Try Movement": "&Tente Movimento",
@@ -3944,6 +3999,8 @@
     "Speed :": "Velocidade :",
     "Tape Mouse": "Fita do Mouse"
   },
+
+  // Caixa de diálogo
   "dialog_1827": {
     "&Help": "A&juda",
     "&Try movement": "&Tente o movimento",
@@ -3953,6 +4010,8 @@
     "Player": "Jogador",
     "Spin1": "Girar1"
   },
+
+  // Caixa de diálogo
   "dialog_1828": {
     "&Background": "&Fundo",
     "&Color:": "&Cor:",
@@ -3969,6 +4028,8 @@
     "Transition": "Transição",
     "Transition set-up": "Configuração de transição"
   },
+
+  // Caixa de diálogo
   "dialog_1833": {
     "&Help": "A&juda",
     "Cancel": "Cancelar",
@@ -3976,6 +4037,8 @@
     "Node name :": "Nome do nó :",
     "OK": "OK"
   },
+
+  // Caixa de diálogo
   "dialog_1844": {
     "&Add": "&Adicionar",
     "&Delete": "&Excluir",
@@ -3985,6 +4048,8 @@
     "OK": "OK",
     "Objects qualifiers": "Qualificadores de objetos"
   },
+
+  // Caixa de diálogo
   "dialog_1845": {
     "&Help": "A&juda",
     "Add a qualifier to an object": "Adicionar um qualificador a um objeto",
@@ -3993,11 +4058,15 @@
     "OK": "OK",
     "Please choose a qualifier": "Por favor, escolha um qualificador"
   },
+
+  // Caixa de diálogo
   "dialog_1848": {
     "<ESC> to end": "<ESC> para terminar",
     "STOP": "PARAR",
     "Try movement": "Tentar movimento"
   },
+
+  // Caixa de diálogo
   "dialog_1866": {
     "&Help": "A&juda",
     "&Import": "&Importar",
@@ -4006,6 +4075,8 @@
     "OK": "OK",
     "Palette": "Paleta"
   },
+
+  // Caixa de diálogo
   "dialog_2005": {
     "&Color": "&Cor",
     "&Font...": "&Fonte...",
@@ -4024,10 +4095,14 @@
     "Question Setup": "Configuração da Pergunta",
     "Up": "Cima"
   },
+
+  // Caixa de diálogo
   "dialog_2006": {
     "...": "Okay, I'm ready to translate your Clickteam Fusion 2.5 interface texts into Brazilian Portuguese (pt-br).  \n\nPlease provide me with the text you want translated. Remember to follow the formatting guidelines:\n\n* **Preserve original format:** Keep placeholders, HTML tags, line breaks, etc., exactly as they are.\n* **Translate only:** Provide the translation without any explanations or comments.\n* **Don't touch placeholders:** Leave elements like #placeholders#, %0, %o, %1 untouched.\n\nI will do my best to provide accurate and contextually appropriate translations using industry-standard terminology for game and app development. \n\n\nLet's get started!",
     "Cancel": "Cancelar"
   },
+
+  // Caixa de diálogo
   "dialog_2008": {
     "Do not show this message again for this session of the program": "Não mostrar esta mensagem novamente nesta sessão do programa",
     "Internal error ! Objects or events of this application might be corrupt.": "Erro interno! Os objetos ou eventos deste aplicativo podem estar corrompidos.",
@@ -4036,6 +4111,8 @@
     "Saving the application and reloading it could fix the problem and only generate bad objects in the events, but if possible, you should save it with another filename and restart from a previous version.": "Salvar o aplicativo e recarregá-lo pode corrigir o problema e gerar apenas objetos ruins nos eventos, mas, se possível, você deve salvá-lo com outro nome de arquivo e reiniciar a partir de uma versão anterior.",
     "Warning": "Aviso"
   },
+
+  // Caixa de diálogo
   "dialog_2009": {
     "&Browse": "&Navegar",
     "&Help": "A&juda",
@@ -4045,6 +4122,8 @@
     "OK": "OK",
     "Warning": "Aviso"
   },
+
+  // Caixa de diálogo
   "dialog_2010": {
     "&Help": "A&juda",
     "Cancel": "Cancelar",
@@ -4053,6 +4132,8 @@
     "Warning": "Aviso",
     "Warning, the following files are stored in directories that are not relative to the directory of the application you are saving.": "Aviso: os seguintes arquivos estão armazenados em diretórios que não são relativos ao diretório da aplicação que você está salvando."
   },
+
+  // Caixa de diálogo
   "dialog_2011": {
     "&Help": "A&juda",
     "Cancel": "Cancelar",
@@ -4061,12 +4142,16 @@
     "OK": "OK",
     "You cannot save this application as Internet application. Please move these files, then retry.": "Você não pode salvar este aplicativo como um aplicativo da Internet. Por favor, mova estes arquivos e tente novamente."
   },
+
+  // Caixa de diálogo
   "dialog_2012": {
     "&No": "&Não",
     "&Yes": "&Sim",
     "Build": "Compilar2",
     "The following files are out of date or do not exist. Do you want to build them?": "Os seguintes arquivos estão desatualizados ou não existem. Você deseja compilá-los?"
   },
+
+  // Caixa de diálogo
   "dialog_2048": {
     "&Help": "A&juda",
     "Cancel": "Cancelar",
@@ -4078,12 +4163,16 @@
     "OK": "OK",
     "Up": "Cima"
   },
+
+  // Caixa de diálogo
   "dialog_2051": {
     "Cancel": "Cancelar",
     "Change Movement Name": "Mudar Nome do Movimento",
     "Enter a new name for the movement": "Digite um novo nome para o movimento",
     "OK": "OK"
   },
+
+  // Caixa de diálogo
   "dialog_2059": {
     "&Apply": "&Aplicar",
     "&Close": "&Fechar",
@@ -4094,6 +4183,8 @@
     "Line : ": "Linha :",
     "XML file": "Arquivo XML"
   },
+
+  // Caixa de diálogo
   "dialog_2062": {
     "Add new resolution": "Adicionar nova resolução",
     "Cancel": "Cancelar",
@@ -4101,6 +4192,8 @@
     "OK": "OK",
     "Width": "Largura"
   },
+
+  // Caixa de diálogo
   "dialog_2063": {
     "&Close": "&Fechar",
     "&Run": "E&xecutar",
@@ -4109,6 +4202,8 @@
     "SDK &Manager": "SDK & Gerenciador",
     "To open the Android emulator, select a virtual device and click the Run button. You can create new virtual devices in the Android SDK manager.": "Para abrir o emulador Android, selecione um dispositivo virtual e clique no botão Executar. Você pode criar novos dispositivos virtuais no gerenciador do Android SDK."
   },
+
+  // Caixa de diálogo
   "dialog_2064": {
     "Browse": "Procurar",
     "Cancel": "Cancelar",
@@ -4117,6 +4212,8 @@
     "Project path :": "Caminho do projeto :",
     "Save %s Project": "Salvar projeto %s"
   },
+
+  // Caixa de diálogo
   "dialog_2102": {
     "Add": "Adicionar",
     "Android menu": "Menu Android",
@@ -4128,6 +4225,8 @@
     "Option text": "Texto da opção",
     "Remove": "Remover"
   },
+
+  // Caixa de diálogo
   "dialog_2103": {
     "1. Open a web browser on your tablet or phone": "1. Abra um navegador web em seu tablet ou telefone",
     "2. Type \"www.clickteam.com/html5launcher/index.html\" in the address bar": "2. Digite \"www.clickteam.com/html5launcher/index.html\" na barra de endereço",
@@ -4137,6 +4236,8 @@
     "Remote HTML5 Launcher": "Lançador Remoto HTML5",
     "Static": "Estático"
   },
+
+  // Caixa de diálogo
   "dialog_2126": {
     "&Correct answer": "&Resposta correta",
     "&Help": "A&juda",
@@ -4144,6 +4245,8 @@
     "Edit answer": "Editar resposta",
     "OK": "OK"
   },
+
+  // Caixa de diálogo
   "dialog_2500": {
     "&Assign this type to further imported items (skip this dialog)": "&Atribuir este tipo para itens importados futuros (pular este diálogo)",
     "&From File(s)": "&De Arquivo(s)",
@@ -4168,6 +4271,8 @@
     "XNA": "XNA",
     "iOS": "iOS"
   },
+
+  // Caixa de diálogo
   "dialog_2501": {
     "...": "Okay, I'm ready to translate your Clickteam Fusion 2.5 interface texts into Brazilian Portuguese (pt-br).  \n\nPlease provide me with the text you want translated. Remember to follow the formatting guidelines:\n\n* **Preserve original format:** Keep placeholders, HTML tags, line breaks, etc., exactly as they are.\n* **Translate only:** Provide the translation without any explanations or comments.\n* **Don't touch placeholders:** Leave elements like #placeholders#, %0, %o, %1 untouched.\n\nI will do my best to provide accurate and contextually appropriate translations using industry-standard terminology for game and app development. \n\n\nLet's get started!",
     "Cancel": "Cancelar",
@@ -4179,9 +4284,13 @@
     "Rows": "Linhas",
     "Spin1": "Girar1"
   },
+
+  // Caixa de diálogo
   "dialog_2502": {
     "List1": "Lista1"
   },
+
+  // Caixa de diálogo
   "dialog_2504": {
     "&Color": "&Cor",
     "&Snap to": "&Ajustar para",
@@ -4201,6 +4310,8 @@
     "x": "x",
     "y": "y"
   },
+
+  // Caixa de diálogo
   "dialog_2505": {
     "Delete Object(s)": "Excluir Objeto(s)",
     "Do not display this message again": "Não exibir esta mensagem novamente",
@@ -4208,6 +4319,8 @@
     "No": "Não",
     "Yes": "Sim"
   },
+
+  // Caixa de diálogo
   "dialog_2506": {
     "&Editor >>": "\"&Editor >>\"",
     "&Help": "A&juda",
@@ -4217,6 +4330,8 @@
     "Effects": "Efeitos",
     "OK": "OK"
   },
+
+  // Caixa de diálogo
   "dialog_2508": {
     "&Refresh": "&Atualizar",
     "Close": "Fechar",
@@ -4226,12 +4341,16 @@
     "List1": "Lista1",
     "Uninstall": "Desinstalar"
   },
+
+  // Caixa de diálogo
   "dialog_2812": {
     "&Refresh": "&Atualizar",
     "&View": "&Visualizar",
     "List1": "Lista1",
     "Tree1": "Árvore1"
   },
+
+  // Caixa de diálogo
   "dialog_4102": {
     "0 x 0": "0 x 0",
     "Cancel": "Cancelar",
@@ -4239,28 +4358,38 @@
     "Palette": "Paleta",
     "Picture Editor": "Editor de Imagens"
   },
+
+  // Caixa de diálogo
   "dialog_4135": {
     "Opacity": "Opacidade",
     "Size": "Tamanho",
     "Slider1": "Controle deslizante 1",
     "Spin1": "Girar1"
   },
+
+  // Caixa de diálogo
   "dialog_4137": {
     "Opacity": "Opacidade",
     "Size": "Tamanho",
     "Slider1": "Controle deslizante 1",
     "Spin1": "Girar1"
   },
+
+  // Caixa de diálogo
   "dialog_4138": {
     "Opacity": "Opacidade",
     "Size": "Tamanho",
     "Slider1": "Controle deslizante 1",
     "Spin1": "Girar1"
   },
+
+  // Caixa de diálogo
   "dialog_4139": {
     "Slider1": "Controle deslizante 1",
     "Tolerance": "Tolerância"
   },
+
+  // Caixa de diálogo
   "dialog_4140": {
     "C": "C",
     "Quick Move": "Movimento Rápido",
@@ -4268,20 +4397,28 @@
     "x": "x",
     "y": "y"
   },
+
+  // Caixa de diálogo
   "dialog_4141": {
     "Pressure": "Pressão",
     "Size": "Tamanho",
     "Slider1": "Controle deslizante 1",
     "Spin1": "Girar1"
   },
+
+  // Caixa de diálogo
   "dialog_4142": {
     "Size": "Tamanho",
     "Spin1": "Girar1"
   },
+
+  // Caixa de diálogo
   "dialog_4143": {
     "&Font": "&Fonte",
     "&Import Font": "&Importar Fonte"
   },
+
+  // Caixa de diálogo
   "dialog_4144": {
     "&Apply": "&Aplicar",
     "&Proportional": "&Proporcional",
@@ -4291,6 +4428,8 @@
     "h": "h",
     "w": "w"
   },
+
+  // Caixa de diálogo
   "dialog_4145": {
     "0 x 0": "0 x 0",
     "Animation Editor": "Editor de Animação",
@@ -4303,6 +4442,8 @@
     "Show all": "Mostrar tudo",
     "Slider1": "Controle deslizante 1"
   },
+
+  // Caixa de diálogo
   "dialog_4146": {
     "Back to": "Voltar para",
     "Direction Options": "Opções de Direção",
@@ -4312,10 +4453,14 @@
     "Repeat": "Repetir",
     "Spin1": "Girar1"
   },
+
+  // Caixa de diálogo
   "dialog_4147": {
     "Frames": "Frames",
     "List1": "Lista1"
   },
+
+  // Caixa de diálogo
   "dialog_4151": {
     "0 x 0": "0 x 0",
     "Animation Editor": "Editor de Animação",
@@ -4325,6 +4470,8 @@
     "Palette": "Paleta",
     "Slider1": "Controle deslizante 1"
   },
+
+  // Caixa de diálogo
   "dialog_4165": {
     "&Draw with background color": "&Desenhar com cor de fundo",
     "&Pick color": "&Escolha a cor",
@@ -4338,6 +4485,8 @@
     "Picture Editor Preferences": "Preferências do Editor de Imagens",
     "Right Click": "Clique Direito"
   },
+
+  // Caixa de diálogo
   "dialog_4166": {
     "&Box mode": "&Modo Caixa",
     "&Import As Animation": "&Importar como Animação",
@@ -4368,9 +4517,13 @@
     "x": "x",
     "Keep original hotspots": "Manter pontos de acesso originais"
   },
+
+  // Caixa de diálogo
   "dialog_4170": {
     "Text": "Texto"
   },
+
+  // Caixa de diálogo
   "dialog_4171": {
     "Block size": "Tamanho do bloco",
     "Box mode": "Modo Caixa",
@@ -4387,22 +4540,30 @@
     "Spin1": "Girar1",
     "To frame #": "Para o frame #"
   },
+
+  // Caixa de diálogo
   "dialog_6301": {
     "&Unselect": "&Desmarcar",
     "Opacity": "Opacidade",
     "Slider1": "Controle deslizante 1"
   },
+
+  // Caixa de diálogo
   "dialog_6302": {
     "&Alpha channel": "Canal alfa &",
     "&Edit": "&Editar",
     "&Show": "&Mostrar",
     "&Transp. Color": "&Cor Transparente"
   },
+
+  // Caixa de diálogo
   "dialog_6303": {
     "&Apply": "&Aplicar",
     "Angle": "Ângulo",
     "Spin1": "Girar1"
   },
+
+  // Caixa de diálogo
   "dialog_7900": {
     "&Help": "A&juda",
     "Application menu editor": "Editor de menu do aplicativo",
@@ -4424,6 +4585,8 @@
     "Static": "Estático",
     "Undo": "Desfazer"
   },
+
+  // Caixa de diálogo
   "dialog_7902": {
     "Cancel": "Cancelar",
     "How to display the objects ?": "Como exibir os objetos?",
@@ -4437,6 +4600,8 @@
     "With their icon and name": "Com seu ícone e nome",
     "With their name ": "Com o nome deles"
   },
+
+  // Caixa de diálogo
   "dialog_7914": {
     "&Alt": "&Alt",
     "&Checked": "&Marcado",
@@ -4457,6 +4622,8 @@
     "Options": "Opções",
     "Setup application menu": "Configurar o menu do aplicativo"
   },
+
+  // Caixa de diálogo
   "dialog_7924": {
     "&Checked": "&Marcado",
     "&Grayed": "&Cinza",
@@ -4467,11 +4634,15 @@
     "Options": "Opções",
     "Setup application menu": "Configurar o menu do aplicativo"
   },
+
+  // Caixa de diálogo
   "dialog_7925": {
     "Cancel": "Cancelar",
     "Please press a key": "Por favor, pressione uma tecla",
     "Setup application menu": "Configurar o menu do aplicativo"
   },
+
+  // Caixa de diálogo
   "dialog_7948": {
     "&Help": "A&juda",
     "Cancel": "Cancelar",
@@ -4481,6 +4652,8 @@
     "Set delay": "Definir atraso",
     "Slider1": "Controle deslizante 1"
   },
+
+  // Caixa de diálogo
   "dialog_7949": {
     "&Help": "A&juda",
     "Cancel": "Cancelar",
@@ -4489,6 +4662,8 @@
     "Set speed": "Definir velocidade",
     "Slider1": "Controle deslizante 1"
   },
+
+  // Caixa de diálogo
   "dialog_7953": {
     "&Close": "&Fechar",
     "&Help": "A&juda",
@@ -4500,6 +4675,8 @@
     "Zoom &In": "Aproximar &",
     "Zoom &Out": "Aproximar & Reduzir"
   },
+
+  // Caixa de diálogo
   "dialog_8000": {
     "Cancel": "Cancelar",
     "Enter column number :": "Digite o número da coluna :",
@@ -4507,18 +4684,24 @@
     "Go to ": "Vá para",
     "OK": "OK"
   },
+
+  // Caixa de diálogo
   "dialog_8001": {
     "Cancel": "Cancelar",
     "Enter column number :": "Digite o número da coluna :",
     "Go to column": "Ir para a coluna",
     "OK": "OK"
   },
+
+  // Caixa de diálogo
   "dialog_8002": {
     "Cancel": "Cancelar",
     "Enter line number :": "Digite o número da linha :",
     "Go to line": "Ir para a linha",
     "OK": "OK"
   },
+
+  // Caixa de diálogo
   "dialog_8004": {
     "&Automatic": "&Automático",
     "&Cancel": "&Cancelar",
@@ -4527,6 +4710,8 @@
     "Select Filters": "Selecionar Filtros",
     "Select the filters you want to include with your application :": "Selecione os filtros que você deseja incluir em seu aplicativo:"
   },
+
+  // Caixa de diálogo
   "dialog_8005": {
     "&Help": "A&juda",
     "Cancel": "Cancelar",
@@ -4535,6 +4720,8 @@
     "Warning": "Aviso",
     "Warning, the following files are stored in directories that are not relative to the build directory.": "Aviso: os seguintes arquivos estão armazenados em diretórios que não são relativos ao diretório de compilação."
   },
+
+  // Caixa de diálogo
   "dialog_8006": {
     "&Add": "&Adicionar",
     "&Cancel": "&Cancelar",
@@ -4548,6 +4735,8 @@
     "Note: if you select \"Keep ratio\", the real size of the created application(s) may differ from the selected resolutions and a unique application may be created for several selected resolutions if the real sizes are identical.": "Observação: se você selecionar \"Manter proporção\", o tamanho real da(s) aplicação(ões) criada(s) pode ser diferente das resoluções selecionadas e uma única aplicação pode ser criada para várias resoluções selecionadas, se os tamanhos reais forem idênticos.",
     "Please select the resolution(s) of the new application(s) :": "Por favor, selecione a(s) resolução(ões) do(s) novo(s) aplicativo(s):"
   },
+
+  // Caixa de diálogo
   "dialog_8007": {
     "&Help": "A&juda",
     "Cancel": "Cancelar",
@@ -4555,6 +4744,8 @@
     "Please select a language for this application :": "Por favor, selecione um idioma para este aplicativo :",
     "Select language": "Selecionar idioma"
   },
+
+  // Caixa de diálogo
   "dialog_8008": {
     "&Cancel": "&Cancelar",
     "&OK": "&OK",
@@ -4572,12 +4763,16 @@
     "Note: (CF Developer only) if you want to automatically resize the objects and positions in events, close this dialog box, right click the application in the workspace bar, select Clone and select the resolution.": "Nota: (Apenas para desenvolvedores do CF) se quiser redimensionar automaticamente os objetos e posições nos eventos, feche esta caixa de diálogo, clique com o botão direito no aplicativo na barra de área de trabalho, selecione Clonar e selecione a resolução.",
     "Window size": "Tamanho da janela"
   },
+
+  // Caixa de diálogo
   "dialog_8011": {
     "...": "Okay, I'm ready to translate your Clickteam Fusion 2.5 interface texts into Brazilian Portuguese (pt-br).  \n\nPlease provide me with the text you want translated. Remember to follow the formatting guidelines:\n\n* **Preserve original format:** Keep placeholders, HTML tags, line breaks, etc., exactly as they are.\n* **Translate only:** Provide the translation without any explanations or comments.\n* **Don't touch placeholders:** Leave elements like #placeholders#, %0, %o, %1 untouched.\n\nI will do my best to provide accurate and contextually appropriate translations using industry-standard terminology for game and app development. \n\n\nLet's get started!",
     "Cancel": "Cancelar",
     "Extension manager": "Gerenciador de Extensões",
     "Retry": "Tentar novamente"
   },
+
+  // Caixa de diálogo
   "dialog_8012": {
     "Do not show this message again": "Não mostrar esta mensagem novamente",
     "How to do...": "Como fazer...",
@@ -4585,6 +4780,8 @@
     "OK": "OK",
     "Warning": "Aviso"
   },
+
+  // Caixa de diálogo
   "dialog_8013": {
     "Do not show this message again": "Não mostrar esta mensagem novamente",
     "How to do...": "Como fazer...",
@@ -4592,11 +4789,15 @@
     "OK": "OK",
     "Warning": "Aviso"
   },
+
+  // Caixa de diálogo
   "dialog_8014": {
     "Do not show this message again": "Não mostrar esta mensagem novamente",
     "OK": "OK",
     "Warning": "Aviso"
   },
+
+  // Caixa de diálogo
   "dialog_8050": {
     "Cancel": "Cancelar",
     "Case sensitive": "Sensível a maiúsculas e minúsculas",
@@ -4609,6 +4810,8 @@
     "Search in remarks": "Pesquisar nos comentários",
     "Whole words only": "Apenas palavras inteiras"
   },
+
+  // Caixa de diálogo
   "dialog_8051": {
     "Cancel": "Cancelar",
     "Case sensitive": "Sensível a maiúsculas e minúsculas",
@@ -4617,6 +4820,8 @@
     "Search objects": "Pesquisar objetos",
     "Whole words only": "Apenas palavras inteiras"
   },
+
+  // Caixa de diálogo
   "dialog_9070": {
     "&Help": "A&juda",
     "Cancel": "Cancelar",
@@ -4624,6 +4829,8 @@
     "List1": "Lista1",
     "OK": "OK"
   },
+
+  // Caixa de diálogo
   "dialog_9558": {
     "&Help": "A&juda",
     "&Use a calculation": "&Usar um cálculo",
@@ -4632,6 +4839,8 @@
     "List1": "Lista1",
     "OK": "OK"
   },
+
+  // Caixa de diálogo
   "dialog_13000": {
     "&Double click": "Duplo clique",
     "&Help": "A&juda",
@@ -4645,6 +4854,8 @@
     "OK": "OK",
     "What kind of click:": "Que tipo de clique:"
   },
+
+  // Caixa de diálogo
   "dialog_13010": {
     "&Help": "A&juda",
     "&Ladder": "&Escada",
@@ -4656,6 +4867,8 @@
     "No&t an obstacle": "Não& um obstáculo",
     "OK": "OK"
   },
+
+  // Caixa de diálogo
   "dialog_13020": {
     "Cancel": "Cancelar",
     "Player &1": "Jogador &1",
@@ -4663,6 +4876,8 @@
     "Player &3": "Jogador &3",
     "Player &4": "Jogador &4"
   },
+
+  // Caixa de diálogo
   "dialog_13030": {
     "&Help": "A&juda",
     "Cancel": "Cancelar",
@@ -4672,6 +4887,8 @@
     "Second(s)": "Segundo(s)",
     "Slider1": "Controle deslizante 1"
   },
+
+  // Caixa de diálogo
   "dialog_13040": {
     "&Help": "A&juda",
     "Cancel": "Cancelar",
@@ -4684,6 +4901,8 @@
     "Second(s)": "Segundo(s)",
     "Slider1": "Controle deslizante 1"
   },
+
+  // Caixa de diálogo
   "dialog_13050": {
     "&Help": "A&juda",
     "&Left button": "&Botão Esquerdo",
@@ -4693,9 +4912,13 @@
     "OK": "OK",
     "Please choose mouse button:": "Por favor, escolha o botão do mouse:"
   },
+
+  // Caixa de diálogo
   "dialog_13070": {
     "&Expression": "&Expressão"
   },
+
+  // Caixa de diálogo
   "dialog_13080": {
     "&Browse": "&Navegar",
     "&Help": "A&juda",
@@ -4707,6 +4930,8 @@
     "OK": "OK",
     "Program to execute": "Programa para executar"
   },
+
+  // Caixa de diálogo
   "dialog_13100": {
     "&Help": "A&juda",
     "Cancel": "Cancelar",
@@ -4714,12 +4939,16 @@
     "Please choose the text to display :": "Por favor, escolha o texto a ser exibido:",
     "Use a &calculation": "Utilizar um &cálculo"
   },
+
+  // Caixa de diálogo
   "dialog_13200": {
     "&Help": "A&juda",
     "Cancel": "Cancelar",
     "OK": "OK",
     "Please choose a group of events": "Por favor, escolha um grupo de eventos"
   },
+
+  // Caixa de diálogo
   "dialog_13202": {
     "&Help": "A&juda",
     "Cancel": "Cancelar",
@@ -4730,6 +4959,8 @@
     "Zone Setup": "Configuração da Zona",
     "to": "para"
   },
+
+  // Caixa de diálogo
   "dialog_13207": {
     "&Help": "A&juda",
     "Cancel": "Cancelar",
@@ -4739,6 +4970,8 @@
     "Unselect all the directions": "Desmarcar todas as direções",
     "Use a calculation": "Utilizar um cálculo"
   },
+
+  // Caixa de diálogo
   "dialog_13212": {
     "&Help": "A&juda",
     "Cancel": "Cancelar",
@@ -4749,6 +4982,8 @@
     "Fire button &4": "Botão de Fogo &4",
     "OK": "OK"
   },
+
+  // Caixa de diálogo
   "dialog_13227": {
     "&Help": "A&juda",
     "(you can select more than one)": "(você pode selecionar mais de um)",
@@ -4768,10 +5003,14 @@
     "Please click on the positions you want to check:": "Por favor, clique nas posições que você deseja verificar:",
     "Test the position of an object": "Teste a posição de um objeto"
   },
+
+  // Caixa de diálogo
   "dialog_13228": {
     "Cancel": "Cancelar",
     "Please press a key": "Por favor, pressione uma tecla"
   },
+
+  // Caixa de diálogo
   "dialog_13230": {
     "&Action Point": "&Ponto de Ação",
     "&Help": "A&juda",
@@ -4787,6 +5026,8 @@
     "Orientation": "Orientação",
     "Originating from": "Origem"
   },
+
+  // Caixa de diálogo
   "dialog_13231": {
     "&At actual X,Y coordinates": "&Em coordenadas X,Y atuais",
     "&Help": "A&juda",
@@ -4799,15 +5040,20 @@
     "X:": "X:",
     "Y:": "Y:"
   },
+
+  // Caixa de diálogo
   "dialog_13232": {
     "&Help": "A&juda",
     "Cancel": "Cancelar",
+
     "Dialog": "Diálogo",
     "Effect :": "Efeito :",
     "OK": "OK",
     "Spin2": "Girar2",
     "Transparency (0 to 128):": "Transparência (0 a 128):"
   },
+
+  // Caixa de diálogo
   "dialog_13233": {
     "&Help": "A&juda",
     "&Use a calculation": "&Usar um cálculo",
@@ -4815,6 +5061,8 @@
     "OK": "OK",
     "Retrieve a global value ": "Obter um valor global"
   },
+
+  // Caixa de diálogo
   "dialog_13500": {
     "&Check for Update every :": "Verificar atualização a cada:",
     "&Number of backup copies to keep :": "&Número de cópias de backup para manter:",
@@ -4833,6 +5081,8 @@
     "Spin4": "Girar4",
     "Temporary directory :": "Diretório temporário:"
   },
+
+  // Caixa de diálogo
   "dialog_13524": {
     "&Display Warning message when shortcuts are created": "&Exibir mensagem de aviso quando atalhos forem criados",
     "&Zoom": "&Zoom",
@@ -4848,6 +5098,8 @@
     "Slider1": "Controle deslizante 1",
     "Use old qualifiers (MMF1 apps)": "Utilizar qualificadores antigos (aplicativos MMF1)"
   },
+
+  // Caixa de diálogo
   "dialog_13534": {
     "&Automatically create a blank frame": "&Automaticamente criar um frame em branco",
     "&Show storyboard": "&Mostrar storyboard",
@@ -4858,6 +5110,8 @@
     "Storyboard Editor": "Editor de Storyboard",
     "When creating a new application": "Quando criar um novo aplicativo"
   },
+
+  // Caixa de diálogo
   "dialog_13535": {
     "&Zoom": "&Zoom",
     "Event List Editor": "Editor de Lista de Eventos",
@@ -4866,6 +5120,8 @@
     "Object's &name": "Nome do &objeto",
     "Slider1": "Controle deslizante 1"
   },
+
+  // Caixa de diálogo
   "dialog_13554": {
     "&Create automatic icons": "&Criar ícones automáticos",
     "&Display index of selected objects": "&Exibir índice dos objetos selecionados",
@@ -4898,6 +5154,8 @@
     "Zoom": "Zoom",
     "&Ctrl+drag: duplicate objects to original layer": "&Ctrl+arrastar: duplicar objetos para a camada original"
   },
+
+  // Caixa de diálogo
   "dialog_13556": {
     "&Highlight attributes": "&Destacar atributos",
     "&Show Info Box": "&Mostrar Caixa de Informações",
@@ -4917,6 +5175,8 @@
     "Use tabs for editors": "Use abas para editores",
     "Windows dark mode skin": "Tema de modo escuro para Windows"
   },
+
+  // Caixa de diálogo
   "dialog_13557": {
     "Chan&ge": "Mudar&",
     "Color": "Cor",
@@ -4928,20 +5188,27 @@
     "Picker": "Seletor",
     "Static": "Estático"
   },
+
+  // Caixa de diálogo
   "dialog_13558": {
     "&Add": "&Adicionar",
     "&Remove": "&Remover",
     "Extensions to ignore": "Extensões a ignorar",
     "Filename of the extensions to ignore at start :": "Nome do arquivo das extensões a serem ignoradas na inicialização:"
   },
+
+  // Caixa de diálogo
   "dialog_13565": {
     "&Help": "A&juda",
     "&Use a calculation": "&Usar um cálculo",
     "Cancel": "Cancelar",
+
     "Dialog": "Diálogo",
     "List1": "Lista1",
     "OK": "OK"
   },
+
+  // Caixa de diálogo
   "dialog_13568": {
     "&Help": "A&juda",
     "Cancel": "Cancelar",
@@ -4951,6 +5218,8 @@
     "Second object:": "Segundo objeto:",
     "o": "Ok, I understand. Please provide me with the text you want me to translate into Brazilian Portuguese (pt-br). \n\nRemember to follow the formatting guidelines you provided:\n\n* **Preserve original format:** Keep placeholders, HTML tags, line breaks, etc., exactly as they are.\n* **Translate only:** Provide the translated text without any explanations or comments.\n* **Don't touch placeholders:** Leave elements like #placeholders#, %0, %o, %1 untouched.\n* **Use accurate technical terms:** Employ appropriate terminology for game and app development in Brazilian Portuguese.\n\nI'm ready when you are!"
   },
+
+  // Caixa de diálogo
   "dialog_13574": {
     "&Help": "A&juda",
     "Cancel": "Cancelar",
@@ -4958,15 +5227,21 @@
     "Menu option": "Opção de menu",
     "Please choose a menu option": "Por favor, escolha uma opção de menu"
   },
+
+  // Caixa de diálogo
   "dialog_13575": {
     "&Help": "A&juda",
     "Cancel": "Cancelar",
     "OK": "OK"
   },
+
+  // Caixa de diálogo
   "dialog_13582": {
     "Frame Palette": "Paleta de Frames",
     "Palette": "Paleta"
   },
+
+  // Caixa de diálogo
   "dialog_14101": {
     "&Cos": "&Cos",
     "&Exp": "&Exp",
@@ -5000,12 +5275,16 @@
     "Where?": "Onde?",
     "o": "Ok, I understand. Please provide me with the text you want me to translate into Brazilian Portuguese (pt-br). \n\nRemember to follow the formatting guidelines you provided:\n\n* **Preserve original format:** Keep placeholders, HTML tags, line breaks, etc., exactly as they are.\n* **Translate only:** Provide the translated text without any explanations or comments.\n* **Don't touch placeholders:** Leave elements like #placeholders#, %0, %o, %1 untouched.\n* **Use accurate technical terms:** Employ appropriate terminology for game and app development in Brazilian Portuguese.\n\nI'm ready when you are!"
   },
+
+  // Caixa de diálogo
   "dialog_14102": {
     "&Help": "A&juda",
     "Cancel": "Cancelar",
     "OK": "OK",
     "Please enter value :": "Por favor, insira um valor:"
   },
+
+  // Caixa de diálogo
   "dialog_14103": {
     "&Cos": "&Cos",
     "&Exp": "&Exp",
@@ -5039,6 +5318,8 @@
     "Where?": "Onde?",
     "o": "Ok, I understand. Please provide me with the text you want me to translate into Brazilian Portuguese (pt-br). \n\nRemember to follow the formatting guidelines you provided:\n\n* **Preserve original format:** Keep placeholders, HTML tags, line breaks, etc., exactly as they are.\n* **Translate only:** Provide the translated text without any explanations or comments.\n* **Don't touch placeholders:** Leave elements like #placeholders#, %0, %o, %1 untouched.\n* **Use accurate technical terms:** Employ appropriate terminology for game and app development in Brazilian Portuguese.\n\nI'm ready when you are!"
   },
+
+  // Caixa de diálogo
   "dialog_14104": {
     "&Cos": "&Cos",
     "&Exp": "&Exp",
@@ -5072,6 +5353,8 @@
     "Where?": "Onde?",
     "o": "Ok, I understand. Please provide me with the text you want me to translate into Brazilian Portuguese (pt-br). \n\nRemember to follow the formatting guidelines you provided:\n\n* **Preserve original format:** Keep placeholders, HTML tags, line breaks, etc., exactly as they are.\n* **Translate only:** Provide the translated text without any explanations or comments.\n* **Don't touch placeholders:** Leave elements like #placeholders#, %0, %o, %1 untouched.\n* **Use accurate technical terms:** Employ appropriate terminology for game and app development in Brazilian Portuguese.\n\nI'm ready when you are!"
   },
+
+  // Caixa de diálogo
   "dialog_14106": {
     "&Cos": "&Cos",
     "&Exp": "&Exp",
@@ -5106,6 +5389,8 @@
     "Where?": "Onde?",
     "o": "Ok, I understand. Please provide me with the text you want me to translate into Brazilian Portuguese (pt-br). \n\nRemember to follow the formatting guidelines you provided:\n\n* **Preserve original format:** Keep placeholders, HTML tags, line breaks, etc., exactly as they are.\n* **Translate only:** Provide the translated text without any explanations or comments.\n* **Don't touch placeholders:** Leave elements like #placeholders#, %0, %o, %1 untouched.\n* **Use accurate technical terms:** Employ appropriate terminology for game and app development in Brazilian Portuguese.\n\nI'm ready when you are!"
   },
+
+  // Caixa de diálogo
   "dialog_14107": {
     "&Cos": "&Cos",
     "&Exp": "&Exp",
@@ -5140,6 +5425,8 @@
     "Where?": "Onde?",
     "o": "Ok, I understand. Please provide me with the text you want me to translate into Brazilian Portuguese (pt-br). \n\nRemember to follow the formatting guidelines you provided:\n\n* **Preserve original format:** Keep placeholders, HTML tags, line breaks, etc., exactly as they are.\n* **Translate only:** Provide the translated text without any explanations or comments.\n* **Don't touch placeholders:** Leave elements like #placeholders#, %0, %o, %1 untouched.\n* **Use accurate technical terms:** Employ appropriate terminology for game and app development in Brazilian Portuguese.\n\nI'm ready when you are!"
   },
+
+  // Caixa de diálogo
   "dialog_14193": {
     "&Help": "A&juda",
     "&In direction of ...": "&Na direção de ...",
@@ -5152,12 +5439,16 @@
     "Speed of object:": "Velocidade do objeto:",
     "Spin2": "Girar2"
   },
+
+  // Caixa de diálogo
   "dialog_14194": {
     "&Help": "A&juda",
     "Cancel": "Cancelar",
     "Choose one or more directions": "Escolha uma ou mais direções",
     "OK": "OK"
   },
+
+  // Caixa de diálogo
   "dialog_14195": {
     "&Help": "A&juda",
     "&Use a calculation": "&Usar um cálculo",
@@ -5165,6 +5456,8 @@
     "OK": "OK",
     "Retrieve a global string": "Recuperar uma string global"
   },
+
+  // Caixa de diálogo
   "dialog_14196": {
     "&Browse": "&Navegar",
     "&Help": "A&juda",
@@ -5183,12 +5476,16 @@
     "Play with Audio Player": "Reproduzir com Player de Áudio",
     "Use expression": "Usar expressão"
   },
+
+  // Caixa de diálogo
   "dialog_14197": {
     "&Play": "&Reproduzir",
     "&Uninterruptable": "&Irrestritível",
     "Play with Audio Player": "Reproduzir com Player de Áudio",
     "Sound Info": "Informações de Som"
   },
+
+  // Caixa de diálogo
   "dialog_14198": {
     "&Play": "&Reproduzir",
     "&Uninterruptable": "&Irrestritível",
@@ -5196,6 +5493,8 @@
     "Play with Audio Player": "Reproduzir com Player de Áudio",
     "Sound Info": "Informações de Som"
   },
+
+  // Caixa de diálogo
   "dialog_14199": {
     "&Browse": "&Navegar",
     "&Help": "A&juda",
@@ -5208,6 +5507,8 @@
     "OK": "OK",
     "Tree1": "Árvore1"
   },
+
+  // Caixa de diálogo
   "dialog_14200": {
     "&List": "&Lista",
     "Frames": "Frames",
@@ -5215,14 +5516,19 @@
     "Objects": "Objetos",
     "Tree2": "Árvore2"
   },
+
+  // Caixa de diálogo
   "dialog_14201": {
     "&Help": "A&juda",
     "&Use a calculation": "&Usar um cálculo",
     "Cancel": "Cancelar",
+
     "Dialog": "Diálogo",
     "List1": "Lista1",
     "OK": "OK"
   },
+
+  // Caixa de diálogo
   "dialog_14202": {
     "&Help": "A&juda",
     "&Hide application": "&Esconder aplicação",
@@ -5231,6 +5537,8 @@
     "Cancel": "Cancelar",
     "OK": "OK"
   },
+
+  // Caixa de diálogo
   "dialog_14203": {
     "&Help": "A&juda",
     "Cancel": "Cancelar",
@@ -5241,22 +5549,30 @@
     "Slider1": "Controle deslizante 1",
     "Use a calculation": "Utilizar um cálculo"
   },
+
+  // Caixa de diálogo
   "dialog_14204": {
     "Cancel": "Cancelar",
     "Enter the key": "Digite a chave"
   },
+
+  // Caixa de diálogo
   "dialog_14205": {
     "Cancel": "Cancelar",
     "Character encoding": "Codificação de caracteres",
     "OK": "OK",
     "Please select a character encoding :": "Por favor, selecione uma codificação de caracteres:"
   },
+
+  // Caixa de diálogo
   "dialog_14206": {
     "Cancel": "Cancelar",
     "OK": "OK",
     "Runtime": "Tempo de Execução",
     "Use a &calculation": "Utilizar um &cálculo"
   },
+
+  // Caixa de diálogo
   "dialog_16104": {
     "<descr>": "\"<descr>\"",
     "Cate&gories:": "Cate&gorias:",
@@ -5264,7 +5580,10 @@
     "Commands": "Comandos",
     "Description:": "Descrição:"
   },
+
   // Caixa de Diálogo de personalizar Barra de Ferramentas
+
+  // Caixa de diálogo
   "dialog_16105": {
     "&Delete": "&Excluir",
     "&New...": "&Novo...",
@@ -5275,12 +5594,16 @@
     "Reset &All": "Redefinir &Tudo",
     "Toolbars": "Barras de Ferramentas"
   },
+
+  // Caixa de diálogo
   "dialog_16130": {
     "&Toolbar Name:": "&Nome da Barra de Ferramentas:",
     "Cancel": "Cancelar",
     "OK": "OK",
     "Toolbar Name": "Nome da Barra de Ferramentas"
   },
+
+  // Caixa de diálogo
   "dialog_16132": {
     "&Button text:": "&Texto do Botão:",
     "&Edit...": "&Editar...",
@@ -5297,6 +5620,8 @@
     "Select &User-defined Image: ": "Selecionar &Imagem definida pelo usuário:",
     "Use &Default Image: ": "Utilizar Imagem Padrão: &"
   },
+
+  // Caixa de diálogo
   "dialog_16133": {
     "Cancel": "Cancelar",
     "Colors:": "Cores:",
@@ -5307,6 +5632,8 @@
     "Preview: ": "Pré-visualização:",
     "Tools:": "Ferramentas:"
   },
+
+  // Caixa de diálogo
   "dialog_16134": {
     "&Menu animations:": "&Animações de menu:",
     "&Reset": "&Redefinir",
@@ -5318,6 +5645,8 @@
     "R&eset": "Redefinir&",
     "Select &context menu:": "Selecione &menu de contexto:"
   },
+
+  // Caixa de diálogo
   "dialog_16135": {
     "&Associate double-click event with:": "&Associar evento de clique duplo com:",
     "&No double-click event": "&Sem evento de duplo clique",
@@ -5326,6 +5655,8 @@
     "Mouse": "Mouse",
     "Static": "Estático"
   },
+
+  // Caixa de diálogo
   "dialog_16136": {
     "&Assign": "&Atribuir",
     "&Category:": "&Categoria:",
@@ -5340,6 +5671,8 @@
     "Set Accelerator &for:": "Definir Acelerador &para:",
     "Static": "Estático"
   },
+
+  // Caixa de diálogo
   "dialog_16137": {
     "&Large Icons": "&Ícones Grandes",
     "&Reset my usage data": "&Redefinir meus dados de uso",
@@ -5351,9 +5684,13 @@
     "Show shortcut &keys in ScreenTips": "Mostrar teclas de atalho &nas Dicas de Tela",
     "Toolbar": "Barra de Ferramentas"
   },
+
+  // Caixa de diálogo
   "dialog_16658": {
     "dummy": "manequim"
   },
+
+  // Caixa de diálogo
   "dialog_16927": {
     "&Activate": "&Ativar",
     "&Close Window(s)": "&Fechar Janela(s)",
@@ -5367,6 +5704,8 @@
     "Tile &Vertically": "Mosaico &Verticalmente",
     "Windows": "Janelas1"
   },
+
+  // Caixa de diálogo
   "dialog_16928": {
     "&Arguments:": "&Argumentos:",
     "&Command:": "&Comando:",
@@ -5374,6 +5713,8 @@
     "&Menu contents:": "&Conteúdo do Menu:",
     "Tools": "Ferramentas1"
   },
+
+  // Caixa de diálogo
   "dialog_16961": {
     "Cancel": "Cancelar",
     "Color": "Cor",
@@ -5384,12 +5725,16 @@
     "S&elect...": "Selecionar...",
     "Tab Placeholder": "Marcador de Guia"
   },
+
+  // Caixa de diálogo
   "dialog_16962": {
     "Colors:": "Cores:",
     "Gray": "Cinza",
     "Hex": "Hexadecimal",
     "Standard": "Padrão"
   },
+
+  // Caixa de diálogo
   "dialog_16963": {
     "&Blue:": "&Azul:",
     "&Green:": "&Verde:",
@@ -5401,6 +5746,8 @@
     "Lum": "Luminosidade",
     "Spin1": "Girar1"
   },
+
+  // Caixa de diálogo
   "dialog_16982": {
     "&Category:": "&Categoria:",
     "Copy": "Copiar",
@@ -5409,11 +5756,15 @@
     "Print": "Imprimir",
     "Show &Accelerator for:": "Mostrar &Acelerador para:"
   },
+
+  // Caixa de diálogo
   "dialog_17003": {
     "Apply": "Aplicar",
     "Cancel": "Cancelar",
     "OK": "OK"
   },
+
+  // Caixa de diálogo
   "dialog_17004": {
     "&Reset": "&Redefinir",
     "Cancel": "Cancelar",
@@ -5423,6 +5774,8 @@
     "Navigation Pane Options": "Opções do Painel de Navegação",
     "OK": "OK"
   },
+
+  // Caixa de diálogo
   "dialog_17074": {
     "&Choose commands from:": "&Escolha comandos de:",
     "C&ommands:": "Comandos: &",
@@ -5434,6 +5787,8 @@
     "< < &Remove": "<< &Remover",
     "Quick Access Toolbar": "Barra de Ferramentas de Acesso Rápido"
   },
+
+  // Caixa de diálogo
   "dialog_17076": {
     "&Assign": "&Atribuir",
     "&Categories:": "&Categorias:",
@@ -5449,12 +5804,16 @@
     "Set Accelerator &for:": "Definir Acelerador &para:",
     "Static": "Estático"
   },
+
+  // Caixa de diálogo
   "dialog_17122": {
     "Cancel": "Cancelar",
     "Progress1": "Progresso1",
     "Message\nMessage": "Mensagem\nMensagem",
     "Message 2\nMessage 2": "Mensagem 2\nMensagem 2"
   },
+
+  // Caixa de diálogo
   "dialog_17174": {
     "&Print": "&Imprimir",
     "Orientation": "Orientação",
@@ -5473,6 +5832,8 @@
     "Printers": "Impressoras",
     "To:": "Para:"
   },
+
+  // Caixa de diálogo
   "dialog_17218": {
     "&Color:": "&Cor:",
     "Cancel": "Cancelar",
@@ -5486,10 +5847,14 @@
     "Color2": "Cor2",
     "Edit Brush": "Editar Pincel"
   },
+
+  // Caixa de diálogo
   "dialog_17230": {
     "Recent Documents": "Documentos Recentes",
     "Recent Places": "Locais Recentes"
   },
+
+  // Caixa de diálogo
   "dialog_17245": {
     "&Underline": "&Sublinhado",
     "Cancel": "Cancelar",
@@ -5507,6 +5872,8 @@
     "Text Format": "Formato de Texto",
     "Wo&rd Wrapping": "Ajustar a quebra de palavras"
   },
+
+  // Caixa de diálogo
   "dialog_17267": {
     "&Choose commands from:": "&Escolha comandos de:",
     "Cus&tomize...": "Cus&tomizar...",
@@ -5521,12 +5888,16 @@
     "Customize the Ri&bbon:": "Personalize a Faixa de Opções:",
     "Ne&w Tab": "Nova Guia &"
   },
+
+  // Caixa de diálogo
   "dialog_17275": {
     "Cancel": "Cancelar",
     "OK": "OK",
     "Rename": "Renomear",
     "&Display Name:": "&Exibir Nome:"
   },
+
+  // Caixa de diálogo
   "dialog_17277": {
     "Cancel": "Cancelar",
     "Images": "Imagens",
@@ -5535,18 +5906,26 @@
     "&Display Name:": "&Exibir Nome:",
     "Symbol:": "Símbolo:"
   },
+
+  // Caixa de diálogo
   "dialog_17295": {
     "Cancel": "Cancelar",
     "OK": "OK"
   },
+
+  // Caixa de diálogo
   "dialog_17302": {
     "<Message Box>": "\"<Caixa de Mensagem>\""
   },
+
+  // Caixa de diálogo
   "dialog_17307": {
     "Active Files": "Arquivos Ativos",
     "<File Path>": "\"<Caminho do Arquivo>\"",
     "Active Tool Windows": "Janelas de Ferramentas Ativas"
   },
+
+  // Caixa de diálogo
   "dialog_17334": {
     "&Down": "&Para baixo",
     "&Replace": "&Substituir",
@@ -5561,6 +5940,8 @@
     "Re&place with:": "Substitui&r por:",
     "Replace &All": "Substituir &Tudo"
   },
+
+  // Caixa de diálogo
   "dialog_17335": {
     "&Down": "&Para baixo",
     "&Up": "&Cima",
@@ -5572,21 +5953,29 @@
     "Fi&nd what:": "Enco&ntrar o que:",
     "Match &whole word only": "Corresponder &palavra inteira apenas"
   },
+
+  // Caixa de diálogo
   "dialog_17345": {
     "Cancel": "Cancelar",
     "OK": "OK",
     "Static": "Estático",
     "Tree1": "Árvore1"
   },
+
+  // Caixa de diálogo
   "dialog_17381": {
     "File &name: ": "Arquivo &nome:",
     "Files of type:": "Arquivos do tipo:"
   },
+
+  // Caixa de diálogo
   "dialog_17382": {
     "&Open": "&Abrir",
     "Cancel": "Cancelar",
     "Open": "Abrir"
   },
+
+  // Caixa de diálogo
   "dialog_17405": {
     "&Choose commands from:": "&Escolha comandos de:",
     "C&ommands:": "Comandos: &",
@@ -5600,6 +5989,8 @@
     "Menu &items: ": "Itens do Menu:",
     "Select context &menu:": "Selecione o contexto &menu:"
   },
+
+  // Caixa de diálogo
   "dialog_17505": {
     "&Preview": "&Pré-visualizar",
     "List5": "Lista5",
@@ -5607,16 +5998,22 @@
     "Usage": "Utilização",
     "Wizard Texts": "Please provide me with the \"Wizard Texts\" you would like me to translate into Portuguese (Brazil). I'm ready to help! 🇧🇷  \n\nJust paste the text here, and I will return the translated version following all your guidelines. 😊"
   },
+
+  // Caixa de diálogo
   "dialog_17508": {
     "Build": "Compilar4",
     "List1": "Lista1",
     "Progress1": "Progresso1"
   },
+
+  // Caixa de diálogo
   "dialog_17523": {
     "Cancel": "Cancelar",
     "Edit Text": "Editar Texto",
     "OK": "OK"
   },
+
+  // Caixa de diálogo
   "dialog_17525": {
     "&Add": "&Adicionar",
     "&Remove": "&Remover",
@@ -5624,6 +6021,8 @@
     "Files": "Arquivos",
     "List1": "Lista1"
   },
+
+  // Caixa de diálogo
   "dialog_17527": {
     "A file with the same name is already installed": "Um arquivo com o mesmo nome já está instalado",
     "A higher version of the file is already installed": "Uma versão mais recente do arquivo já está instalada",
@@ -5633,6 +6032,8 @@
     "Do not install, but cre&ate directory": "Não instale, mas crie o diretório &",
     "Misc": "Diversos"
   },
+
+  // Caixa de diálogo
   "dialog_17528": {
     "Increment DLL usage &count": "Incrementar o uso de DLL &contar",
     "Install as current screen sa&ver": "Instalar como protetor de tela atual",
@@ -5640,6 +6041,8 @@
     "Register OC&X control, DLL, .REG file": "Registrar controle OC&X, DLL, arquivo .REG",
     "Windows": "Janelas2"
   },
+
+  // Caixa de diálogo
   "dialog_17530": {
     "Command line options": "Opções de linha de comando",
     "Folder": "Pasta",
@@ -5647,15 +6050,21 @@
     "Name": "Nome",
     "Start menu": "Menu inicial"
   },
+
+  // Caixa de diálogo
   "dialog_17531": {
     "Uninstaller": "Desinstalador"
   },
+
+  // Caixa de diálogo
   "dialog_17542": {
     "Command line options": "Opções de linha de comando",
     "Desktop shortcut name": "Atalho para área de trabalho",
     "Icon file": "Arquivo de ícone",
     "Shortcut": "Atalho"
   },
+
+  // Caixa de diálogo
   "dialog_17558": {
     "&Preview": "&Pré-visualizar",
     "Default install directory": "Diretório de instalação padrão",
@@ -5663,11 +6072,15 @@
     "Options": "Opções",
     "Product title (for #Title macro)": "Título do produto (para a macro #Título)"
   },
+
+  // Caixa de diálogo
   "dialog_17561": {
     "List5": "Lista5",
     "Texts": "Okay, I'm ready to translate your Clickteam Fusion 2.5 texts into Brazilian Portuguese (pt-br).\n\nPlease provide me with the text strings you need translated. Remember to follow the formatting guidelines:\n\n* **Preserve original format:** Keep placeholders, HTML tags, and line breaks exactly as they are in the original text.\n* **Translate only:** Provide translations of the visible text only. Do not translate or modify any placeholders, parameters, or code elements. \n* **Use appropriate terminology:** Employ accurate technical terms related to game and app development in Brazilian Portuguese.\n\nI'm looking forward to helping you localize your app!",
     "Usage": "Utilização"
   },
+
+  // Caixa de diálogo
   "dialog_18621": {
     "Cmd Line Options": "Opções de Linha de Comando",
     "Options": "Opções",
@@ -5677,6 +6090,8 @@
     "View / Run only after reboot, if any": "Visualizar / Executar somente após reinicialização, se houver",
     "Wait for end before continuing the installation": "Aguardar o término antes de continuar a instalação"
   },
+
+  // Caixa de diálogo
   "dialog_18622": {
     "&Add": "&Adicionar",
     "&Edit": "&Editar",
@@ -5684,6 +6099,8 @@
     "List5": "Lista5",
     "Registry": "Registro"
   },
+
+  // Caixa de diálogo
   "dialog_18623": {
     "Folder": "Pasta",
     "Options": "Opções",
@@ -5691,6 +6108,8 @@
     "Start Menu": "Menu Inicial",
     "Uninstaller filename": "Nome do arquivo de desinstalador"
   },
+
+  // Caixa de diálogo
   "dialog_18631": {
     "&Build Install Program": "&Criar Programa de Instalação",
     "&Export Texts": "&Exportar Textos",
@@ -5701,6 +6120,8 @@
     "Install Settings": "Instalar Configurações",
     "OK": "OK"
   },
+
+  // Caixa de diálogo
   "dialog_19180": {
     "&Help": "A&juda",
     "Cancel": "Cancelar",
@@ -5708,6 +6129,8 @@
     "OK": "OK",
     "o": "Ok, I understand. Please provide me with the text you want me to translate into Brazilian Portuguese (pt-br). \n\nRemember to follow the formatting guidelines you provided:\n\n* **Preserve original format:** Keep placeholders, HTML tags, line breaks, etc., exactly as they are.\n* **Translate only:** Provide the translated text without any explanations or comments.\n* **Don't touch placeholders:** Leave elements like #placeholders#, %0, %o, %1 untouched.\n\nI'm ready when you are!"
   },
+
+  // Caixa de diálogo
   "dialog_19182": {
     "&Help": "A&juda",
     "Cancel": "Cancelar",
@@ -5715,6 +6138,8 @@
     "O": "O",
     "o": "Ok, I understand. Please provide me with the text you want me to translate into Brazilian Portuguese (pt-br). \n\nRemember to follow the formatting guidelines you provided:\n\n* **Preserve original format:** Keep placeholders, HTML tags, line breaks, etc., exactly as they are.\n* **Translate only:** Provide the translated text without any explanations or comments.\n* **Don't touch placeholders:** Leave elements like #placeholders#, %0, %o, %1 untouched.\n\nI'm ready when you are!"
   },
+
+  // Caixa de diálogo
   "dialog_19185": {
     "&Help": "A&juda",
     "Cancel": "Cancelar",
@@ -5722,6 +6147,8 @@
     "O": "O",
     "o": "Ok, I understand. Please provide me with the text you want me to translate into Brazilian Portuguese (pt-br). \n\nRemember to follow the formatting guidelines you provided:\n\n* **Preserve original format:** Keep placeholders, HTML tags, line breaks, etc., exactly as they are.\n* **Translate only:** Provide the translated text without any explanations or comments.\n* **Don't touch placeholders:** Leave elements like #placeholders#, %0, %o, %1 untouched.\n\nI'm ready when you are!"
   },
+
+  // Caixa de diálogo
   "dialog_19186": {
     "&Centered": "&Centralizado",
     "&Help": "A&juda",
@@ -5736,6 +6163,8 @@
     "Press ENTER to close the dialog box, Ctrl+ENTER to insert a new line": "Pressione ENTER para fechar a caixa de diálogo, Ctrl+ENTER para inserir uma nova linha",
     "Set &back color": "Definir &cor de fundo"
   },
+
+  // Caixa de diálogo
   "dialog_19195": {
     "&Active when frame starts": "&Ativo quando o frame inicia",
     "&Help": "A&juda",
@@ -5746,6 +6175,8 @@
     "OK": "OK",
     "Password protection": "Proteção por senha"
   },
+
+  // Caixa de diálogo
   "dialog_19196": {
     "&Help": "A&juda",
     "&Skip": "&Pular",
@@ -5755,12 +6186,16 @@
     "OK": "OK",
     "Skip &every identical message": "Pular &todas as mensagens idênticas"
   },
+
+  // Caixa de diálogo
   "dialog_19197": {
     "&This name is already used as the title of another group of events. Please enter another one...": "\"&Este nome já está sendo usado como título de outro grupo de eventos. Por favor, insira outro.\"",
     "Cancel": "Cancelar",
     "Duplicated Group Name...": "Nome de Grupo Duplicado...",
     "OK": "OK"
   },
+
+  // Caixa de diálogo
   "dialog_19198": {
     "&Skip": "&Pular",
     "Cancel": "Cancelar",
@@ -5770,6 +6205,8 @@
     "Skip &all identical messages": "Pular &todos os mensagens idênticos",
     "The automatic find/replace can only modify the text found within expressions strings, as you might find when you SET ALTERABLE STRING of a string object...": "A busca automática por substituição só pode modificar o texto encontrado dentro de strings de expressões, como você pode encontrar ao DEFINIR CADEIA ALTERÁVEL de um objeto de string..."
   },
+
+  // Caixa de diálogo
   "dialog_19199": {
     "&Skip": "&Pular",
     "&This event cannot be replaced : strings are limited to 256 characters ...": "\"&Este evento não pode ser substituído: as strings são limitadas a 256 caracteres...\"",
@@ -5777,28 +6214,38 @@
     "Cannot Replace in Complex Events...": "Não é possível substituir em Eventos Complexos...",
     "Skip &all identical messages": "Pular &todos os mensagens idênticos"
   },
+
+  // Caixa de diálogo
   "dialog_19228": {
     "Dialog": "Diálogo",
     "Do not show this alert again.": "Não mostrar este alerta novamente.",
     "OK": "OK",
     "Static": "Estático"
   },
+
+  // Caixa de diálogo
   "dialog_19233": {
     "Cancel": "Cancelar",
     "Enter the new name of the folder": "Digite o novo nome da pasta",
     "OK": "OK"
   },
+
+  // Caixa de diálogo
   "dialog_19234": {
     "Cancel": "Cancelar",
     "OK": "OK",
     "Open protected group": "Abrir grupo protegido",
     "Please enter the password...": "Por favor, digite a senha..."
   },
+
+  // Caixa de diálogo
   "dialog_19236": {
     "Extension choice": "Escolha de extensão",
     "OK": "OK",
     "Several extensions correspond to the type of one of the object dropped. Please select the wanted extension, and click OK.": "Vários plugins correspondem ao tipo de um dos objetos soltos. Por favor, selecione o plugin desejado e clique em OK."
   },
+
+  // Caixa de diálogo
   "dialog_30721": {
     "&Help": "A&juda",
     "&New ": "&Novo",
@@ -5806,6 +6253,8 @@
     "New": "Novo",
     "OK": "OK"
   },
+
+  // Caixa de diálogo
   "dialog_30722": {
     "Cancel": "Cancelar",
     "Document :": "Documento :",
@@ -5814,6 +6263,8 @@
     "Printer :": "Impressora :",
     "Printing": "Imprimindo"
   },
+
+  // Caixa de diálogo
   "dialog_30723": {
     "&Close": "&Fechar",
     "&Next Page": "&Próxima Página",
@@ -5822,6 +6273,8 @@
     "Zoom &In": "Aproximar &",
     "Zoom &Out": "Aproximar & Reduzir"
   },
+
+  // Menu
   "menu_128": {
     "&<User-defined tools": "&<Ferramentas definidas pelo usuário",
     "&About...": "&Sobre...",
@@ -5897,6 +6350,8 @@
     "Save &As...": "Salvar &Como...",
     "Welcome Page": "Página de Boas-vindas"
   },
+
+  // Menu
   "menu_129": {
     "&<User-defined tools": "&<Ferramentas definidas pelo usuário",
     "&About...": "&Sobre...",
@@ -5915,6 +6370,8 @@
     "P&rint Setup...": "Configuração de Im&pressão...",
     "Recent File": "Arquivo Recente"
   },
+
+  // Menu
   "menu_131": {
     "&Customize...": "&Personalizar...1",
     "&Editor Toolbar": "&Barra de Ferramentas do Editor",
@@ -5930,6 +6387,8 @@
     "DUMMY": "DUMMY",
     "&Skin editor": "&Editor de Skins"
   },
+
+  // Menu
   "menu_132": {
     "&<User-defined tools": "&<Ferramentas definidas pelo usuário",
     "&About...": "&Sobre...",
@@ -6005,6 +6464,8 @@
     "Save &As...": "Salvar &Como...",
     "Welcome Page": "Página de Boas-vindas"
   },
+
+  // Menu
   "menu_133": {
     "&<User-defined tools": "&<Ferramentas definidas pelo usuário",
     "&About...": "&Sobre...",
@@ -6143,6 +6604,8 @@
     "To &Front": "Para a &Frente",
     "Welcome Page": "Página de Boas-vindas"
   },
+
+  // Menu
   "menu_134": {
     "&<User-defined tools": "&<Ferramentas definidas pelo usuário",
     "&About...": "&Sobre...",
@@ -6257,6 +6720,8 @@
     "Toggle Bookmark": "Alternar marcador",
     "Welcome Page": "Página de Boas-vindas"
   },
+
+  // Menu
   "menu_160": {
     "&Build": "&Compilar",
     "&Close": "&Fechar",
@@ -6273,6 +6738,8 @@
     "Preferences": "Preferências",
     "Save &As": "Salvar &Como"
   },
+
+  // Menu
   "menu_161": {
     "&Cut": "&Cortar",
     "&Delete": "&Excluir",
@@ -6289,6 +6756,8 @@
     "New Object": "Novo Objeto",
     "Preferences": "Preferências"
   },
+
+  // Menu
   "menu_163": {
     "&Delete": "&Excluir",
     "&Properties": "&Propriedades",
@@ -6297,6 +6766,8 @@
     "New Object": "Novo Objeto",
     "Preferences": "Preferências"
   },
+
+  // Menu
   "menu_165": {
     "&Edit": "&Editar",
     "&Properties": "&Propriedades",
@@ -6304,20 +6775,28 @@
     "Frame Item": "Item de Frame",
     "Preferences": "Preferências"
   },
+
+  // Menu
   "menu_168": {
     "&New": "&Novo",
     "&New application": "&Nova aplicação",
     "New application &from...": "Nova aplicação &de..."
   },
+
+  // Menu
   "menu_169": {
     "&Copy": "&Copiar",
     "Copy Context Menu": "Copiar Menu de Contexto"
   },
+
+  // Menu
   "menu_170": {
     "DUMMY": "MANEQUIM",
     "New &Horizontal Tab Group": "Novo grupo de guia horizontal &",
     "New &Vertical Tab Group": "Novo grupo de guia vertical &"
   },
+
+  // Menu
   "menu_177": {
     "&Copy": "&Copiar",
     "&Delete": "&Excluir",
@@ -6331,6 +6810,8 @@
     "By name, &A->Z": "Por nome, &A->Z",
     "By name, &Z->A": "Por nome, &Z->A"
   },
+
+  // Menu
   "menu_1549": {
     "&Active Object": "&Objeto Ativo",
     "&Align": "&Alinhar",
@@ -6389,11 +6870,15 @@
     "To &Back": "Para &Trás",
     "To &Front": "Para a &Frente"
   },
+
+  // Menu
   "menu_1599": {
     "&Clear": "&Limpar",
     "&Import file": "&Importar arquivo",
     "Profiler Context Menu": "Menu de Contexto do profiler"
   },
+
+  // Menu
   "menu_1999": {
     "&Large Icons": "&Ícones Grandes",
     "&Small Icons": "Ícones Pequenos",
@@ -6402,16 +6887,22 @@
     "by &Name": "por &Nome",
     "by &Type": "por &Tipo"
   },
+
+  // Menu
   "menu_2813": {
     "&Delete": "&Excluir",
     "&Edit": "&Editar",
     "&New": "&Novo",
     "&Rename": "&Renomear"
   },
+
+  // Menu
   "menu_2814": {
     "&Refresh": "&Atualizar",
     "&View": "&Visualizar"
   },
+
+  // Menu
   "menu_4148": {
     "&Cut": "&Cortar",
     "&Delete": "&Excluir",
@@ -6420,6 +6911,8 @@
     "&Rename": "&Renomear",
     "Cop&y": "Copiar"
   },
+
+  // Menu
   "menu_4149": {
     "&Cut": "&Cortar",
     "&Delete": "&Excluir",
@@ -6431,6 +6924,8 @@
     "Flip &Horizontally": "Espelhar &Horizontalmente",
     "Flip &Vertically": "Vira &Verticalmente"
   },
+
+  // Menu
   "menu_4166": {
     "&Clone Frame": "&Clonar Frame",
     "&Cut": "&Cortar",
@@ -6447,12 +6942,16 @@
     "New Frame": "Novo Frame",
     "Rename": "Renomear"
   },
+
+  // Menu
   "menu_5002": {
     "Cancel": "Cancelar",
     "Copy here": "Copiar aqui",
     "Drop": "Soltar",
     "Move here": "Mover para cá"
   },
+
+  // Menu
   "menu_7911": {
     "Add": "Adicionar",
     "Copy": "Copiar",
@@ -6464,6 +6963,8 @@
     "Paste": "Colar",
     "Replace": "Substituir"
   },
+
+  // Menu
   "menu_7916": {
     "Activate all lines": "Ativar todas as linhas",
     "Close all groups": "Fechar todos os grupos",
@@ -6474,6 +6975,8 @@
     "Open all groups": "Abrir todos os grupos",
     "Paste": "Colar"
   },
+
+  // Menu
   "menu_7918": {
     "Copy": "Copiar",
     "Cut": "Cortar",
@@ -6486,6 +6989,8 @@
     "Paste": "Colar",
     "Replace": "Substituir"
   },
+
+  // Menu
   "menu_7920": {
     "A comment": "Um comentário",
     "A group of events": "Um grupo de eventos",
@@ -6497,6 +7002,8 @@
     "Insert": "Inserir",
     "Paste": "Colar"
   },
+
+  // Menu
   "menu_7921": {
     "A comment": "Um comentário",
     "A group of events": "Um grupo de eventos",
@@ -6511,6 +7018,8 @@
     "Open": "Abrir",
     "Paste": "Colar"
   },
+
+  // Menu
   "menu_7922": {
     "A comment": "Um comentário",
     "A group of events": "Um grupo de eventos",
@@ -6524,6 +7033,8 @@
     "Insert": "Inserir",
     "Paste": "Colar"
   },
+
+  // Menu
   "menu_7937": {
     "&About...": "&Sobre...",
     "&Contents\tF1": "&Conteúdo\tF1",
@@ -6540,6 +7051,8 @@
     "Play &musics\tCtrl+M": "Tocar &músicas\tCtrl+M",
     "Play &samples\tCtrl+S": "Tocar &Efeito sonoro\tCtrl+S"
   },
+
+  // Menu
   "menu_7950": {
     "Delete": "Apagar",
     "Draw line": "Desenhar linha",
@@ -6549,6 +7062,8 @@
     "Set pause": "Definir pausa",
     "Set speed": "Definir velocidade"
   },
+
+  // Menu
   "menu_7951": {
     "&About...": "&Sobre...",
     "&Cascade": "&Cascata",
@@ -6574,6 +7089,8 @@
     "Tile &Horizontally": "Mosaico &Horizontalmente",
     "Tile &Vertically": "Mosaico &Verticalmente"
   },
+
+  // Menu
   "menu_9050": {
     "Actions": "Ações",
     "Go to next frame": "Vá para o próximo frame",
@@ -6582,10 +7099,14 @@
     "Quit Application": "Sair do Aplicativo",
     "Restart Application from frame 1": "Reiniciar Aplicativo do frame 1"
   },
+
+  // Menu
   "menu_9100": {
     "Delete transition": "Excluir transição",
     "Transition setup": "Configuração de transição"
   },
+
+  // Menu
   "menu_9101": {
     "Clone": "Clonar",
     "Copy": "Copiar",
@@ -6597,6 +7118,8 @@
     "Run this frame": "Executar este frame",
     "Select a new application": "Selecione um novo aplicativo"
   },
+
+  // Menu
   "menu_9102": {
     "240 x 320": "240 x 320",
     "320 x 200": "320 x 200",
@@ -6619,6 +7142,8 @@
     "1600 x 1200": "1600 x 1200",
     "1920 x 1080": "1920 x 1080"
   },
+
+  // Menu
   "menu_9103": {
     "Clone": "Clonar",
     "Copy": "Copiar",
@@ -6629,6 +7154,8 @@
     "Rename": "Renomear",
     "Run": "Executar"
   },
+
+  // Menu
   "menu_9104": {
     "Clone": "Clonar",
     "Copy": "Copiar",
@@ -6640,6 +7167,8 @@
     "Run this frame": "Executar este frame",
     "Select a new picture": "Selecione uma nova imagem"
   },
+
+  // Menu
   "menu_9105": {
     "Clone": "Clonar",
     "Copy": "Copiar",
@@ -6651,6 +7180,8 @@
     "Run this frame": "Executar este frame",
     "Select a new animation": "Selecione uma nova animação"
   },
+
+  // Menu
   "menu_9107": {
     "Clone": "Clonar",
     "Copy": "Copiar",
@@ -6662,6 +7193,8 @@
     "Run this frame": "Executar este frame",
     "Select a new Video": "Selecione um novo vídeo"
   },
+
+  // Menu
   "menu_10000": {
     "Activate all lines": "Ativar todas as linhas",
     "Close all groups": "Fechar todos os grupos",
@@ -6671,6 +7204,8 @@
     "Delete": "Apagar",
     "Open all groups": "Abrir todos os grupos"
   },
+
+  // Menu
   "menu_10001": {
     "Delete any action in column": "Excluir qualquer ação na coluna",
     "Display properties": "Propriedades de exibição",
@@ -6685,6 +7220,8 @@
     "Open behavior": "Abrir comportamento",
     "Replace by another object": "Substituir por outro objeto"
   },
+
+  // Menu
   "menu_10002": {
     "Copy": "Copiar",
     "Cut": "Cortar",
@@ -6697,6 +7234,8 @@
     "Paste": "Colar",
     "Replace": "Substituir"
   },
+
+  // Menu
   "menu_10004": {
     "A comment": "Um comentário",
     "A group of events": "Um grupo de eventos",
@@ -6707,6 +7246,8 @@
     "Edit": "Editar",
     "Insert": "Inserir"
   },
+
+  // Menu
   "menu_10005": {
     "A comment": "Um comentário",
     "A group of events": "Um grupo de eventos",
@@ -6720,6 +7261,8 @@
     "Insert": "Inserir",
     "Open": "Abrir"
   },
+
+  // Menu
   "menu_10006": {
     "A comment": "Um comentário",
     "A group of events": "Um grupo de eventos",
@@ -6734,11 +7277,15 @@
     "Insert": "Inserir",
     "Paste": "Colar"
   },
+
+  // Menu
   "menu_10008": {
     "Delete unused objects": "Excluir objetos não utilizados",
     "Import a new object": "Importar um novo objeto",
     "Import all the objects": "Importar todos os objetos"
   },
+
+  // Menu
   "menu_10009": {
     "Delete": "Apagar",
     "Delete any action in column": "Excluir qualquer ação na coluna",
@@ -6748,24 +7295,34 @@
     "Insert object folder": "Inserir pasta de objeto",
     "Replace by another object": "Substituir por outro objeto"
   },
+
+  // Menu
   "menu_10070": {
     "Close folder": "Fechar pasta",
     "Remove folder": "Remover pasta",
     "Rename folder": "Renomear pasta"
   },
+
+  // Menu
   "menu_10071": {
     "Open folder": "Abrir pasta",
     "Rename folder": "Renomear pasta"
   },
+
+  // Menu
   "menu_10080": {
     "Find next": "Encontrar o próximo",
     "No filters": "Sem filtros",
     "Search object": "Pesquisar objeto",
     "Search...": "Pesquisar..."
   },
+
+  // Menu
   "menu_13576": {
     "IDMN_PARAMMENU": "Parâmetros do Menu"
   },
+
+  // Menu
   "menu_13578": {
     "Bit-wise AND": "AND de bits",
     "Bit-wise OR": "OU bit a bit",
@@ -6773,6 +7330,8 @@
     "Popup": "Pop-up",
     "Power": "Poder"
   },
+
+  // Menu
   "menu_13583": {
     "Copy": "Copiar",
     "Cut": "Cortar",
@@ -6781,6 +7340,8 @@
     "Popup": "Pop-up",
     "Select all": "Selecionar tudo"
   },
+
+  // Menu
   "menu_13584": {
     "Copy": "Copiar",
     "Cut": "Cortar",
@@ -6789,6 +7350,8 @@
     "Popup": "Pop-up",
     "Select all": "Selecionar tudo"
   },
+
+  // Menu
   "menu_16102": {
     "&Button Appearance...": "&Aparência do Botão...",
     "&Copy Button Image": "&Copiar Imagem do Botão",
@@ -6800,6 +7363,8 @@
     "Image &and Text": "Imagem & Texto",
     "_POPUP_": "_POPUP_"
   },
+
+  // Menu
   "menu_17132": {
     "&Add": "&Adicionar",
     "&Application Data directory": "Diretório de dados do aplicativo",
@@ -6833,6 +7398,8 @@
     "Sou&rce directory": "Diretório de Origem&",
     "Texts": "Okay, I'm ready to translate your Clickteam Fusion 2.5 texts into Brazilian Portuguese (pt-br).\n\nPlease provide me with the text strings you need translated. Remember to follow the formatting guidelines:\n\n* **Preserve original format:** Keep placeholders, HTML tags, and line breaks exactly as they are in the original text.\n* **Translate only:** Provide translations of the visible text only. Do not translate or modify any placeholders, parameters, or code elements. \n* **Use appropriate terminology:** Employ accurate technical terms related to game and app development in Brazilian Portuguese.\n\nI'm looking forward to helping you localize your app!"
   },
+
+  // Menu
   "menu_17395": {
     "&Large Icons": "&Ícones Grandes",
     "&Small Icons": "Ícones Pequenos",
