@@ -4,8 +4,8 @@
   "general": {
     "%o : Click with left button": "%o : Clique com o botão esquerdo",
     "%o : Click with right button": "%o : Clique com o botão direito",
-    "%o : Double click?": "\"%o : Clique duas vezes?\"",
-    "%o: My Action(%0)": "\"%o: Minha Ação(%0)\"",
+    "%o : Double click?": "%o : Clique duas vezes?",
+    "%o: My Action(%0)": "%o: Minha Ação(%0)",
     "%o: My condition %0": "%o: Minha condição %0",
     "3D border": "Borda 3D",
     "Align text in cell (%0, %1 ) on top": "Alinhar texto na célula (%0, %1) no topo",

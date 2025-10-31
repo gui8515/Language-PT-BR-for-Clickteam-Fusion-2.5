@@ -3,8 +3,8 @@
   "lang": 1046,
   "general": {
     "01Return string%s": "01Retornar texto %s",
-    "01Return value%s": "Valor de retorno %s",
-    "01Send %s": "Enviar %s",
+    "01Return value%s": "01Valor de retorno %s",
+    "01Send %s": "01Enviar %s",
     "Any sound will be terminated prior to sending a command": "Qualquer som será interrompido antes do envio de um comando",
     "Check this box to close the device when the frame ends": "Marque esta caixa para fechar o dispositivo quando o frame terminar",
     "Check this box to open the device at start of frame": "Marque esta caixa para abrir o dispositivo no início do frame",

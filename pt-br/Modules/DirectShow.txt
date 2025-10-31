@@ -8,7 +8,7 @@
     "%o: Destroy DVD Window": "%o: Destruir Janela de DVD",
     "%o: Hide": "%o: Esconder",
     "%o: Is Full Screen ?": "%o: Tela cheia?",
-    "%o: Is Playing ?": "\"%o: Está Tocando ?\"",
+    "%o: Is Playing ?": "%o: Está Tocando ?",
     "%o: Load Video (%0)": "%o: Carregar Vídeo (%0)",
     "%o: Mute Audio": "%o: Silenciar Áudio",
     "%o: Next Chapter": "%o: Próximo Capítulo",

@@ -31,7 +31,7 @@
     "Right mouse button click": "Clique com o botão direito do mouse",
     "Right mouse button down": "Clique direito do mouse pressionado",
     "Snap to Grid Properties": "Propriedades de Alinhamento à Grade",
-    "Snap to invisible grid": "Ajustar à grade invisível",
+    "Snap to invisible grid": "Encaixar na grade invisível",
     "Spacing of the grid in the x-axis.": "Espaçamento da grade no eixo x.",
     "Spacing of the grid in the y-axis.": "Espaçamento da grade no eixo y.",
     "Version": "Versão",
