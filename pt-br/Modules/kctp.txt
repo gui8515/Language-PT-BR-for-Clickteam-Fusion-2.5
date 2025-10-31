@@ -17,7 +17,7 @@
     "Window Title": "Título da Janela"
   },
   "dialog_101": {
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "&Reset": "&Redefinir",
     "&Shared by all users (requires administrator rights)": "&Compartilhado por todos os usuários (requer privilégios de administrador)",
     "Cancel": "Cancelar",

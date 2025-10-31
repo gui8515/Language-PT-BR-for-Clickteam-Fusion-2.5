@@ -147,7 +147,7 @@
     "OK": "OK"
   },
   "dialog_20003": {
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "Back color :": "Cor de fundo :",
     "Cancel": "Cancelar",
     "Choose a new color": "Escolha uma nova cor",

@@ -65,7 +65,7 @@
     "Y coefficient": "Coeficiente Y"
   },
   "dialog_20003": {
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "Cancel": "Cancelar",
     "Layer Object": "Objeto de Camada",
     "MMF Layer Object v2.0\nCopyright (c) 2003-2006 Crag Inc. & Clickteam": "Objeto de Camada MMF v2.0\nDireitos autorais (c) 2003-2006 Crag Inc. & Clickteam",

@@ -112,7 +112,7 @@
     "OK": "OK"
   },
   "dialog_20003": {
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "Cancel": "Cancelar",
     "Center": "Centralizar",
     "Column alignment": "Alinhamento da coluna",

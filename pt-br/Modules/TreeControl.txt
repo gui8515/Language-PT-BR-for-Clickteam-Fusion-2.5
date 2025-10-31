@@ -102,16 +102,16 @@
     "OK": "OK"
   },
   "dialog_20003": {
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "Cancel": "Cancelar",
     "Default Values": "Valores Padrão",
     "Icons": "Ícones",
     "Image of selected item": "Imagem do item selecionado",
     "Images :": "Imagens:",
-    "New &Folder": "Nova pasta &",
-    "New Ite&m": "Novo Item&",
+    "New &Folder": "Nova &pasta",
+    "New Ite&m": "Novo &Item",
     "OK": "OK",
-    "Remo&ve": "Remover&",
+    "Remo&ve": "&Remover",
     "Tree Content Setup": "Configuração de Conteúdo da Árvore",
     "Tree1": "Árvore1"
   },

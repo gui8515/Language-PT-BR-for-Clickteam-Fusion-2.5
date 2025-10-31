@@ -48,7 +48,7 @@
   "dialog_101": {
     "&Capture selected area": "&Capturar área selecionada",
     "&Edit": "&Editar",
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "&Show capture window": "&Mostrar janela de captura",
     "Automatic capture of frame": "Captura automática do frame",
     "Automatic launch of picture convertor when object is destroyed": "Lançamento automático do conversor de imagem quando o objeto é destruído",
@@ -107,7 +107,7 @@
     "&Screen": "&Tela",
     "&Start": "&Iniciar",
     "Active &Window": "Janela &Ativa",
-    "S&top": "Parar &",
+    "S&top": "&Parar",
     "Set &Filename": "Definir &Nome do Arquivo",
     "Set Area &Dimensions": "Definir Área &Dimensões",
     "Set Area &Origin": "Definir Área &Origem",

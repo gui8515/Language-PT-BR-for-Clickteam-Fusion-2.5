@@ -47,7 +47,7 @@
     "Close": "Fechar",
     "Load": "Carregar",
     "Mute Audio": "Mutar Áudio",
-    "O&ff": "Desligar&",
+    "O&ff": "&Desligar",
     "Play": "Jogar",
     "Resume Audio": "Retomar Áudio",
     "Set Height": "Definir Altura",

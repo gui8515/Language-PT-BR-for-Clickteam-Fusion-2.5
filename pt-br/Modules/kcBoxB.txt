@@ -148,7 +148,7 @@
     "Color": "Cor",
     "Color #1": "Cor #1",
     "Color #2": "Cor #2",
-    "Conta&iner": "Contêiner&",
+    "Conta&iner": "Cont&êiner",
     "Fill color": "Cor de preenchimento",
     "Font": "Fonte",
     "Hierarchy": "Hierarquia",

@@ -52,14 +52,14 @@
     "UTF8": "UTF-8"
   },
   "dialog_20004": {
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "Cancel": "Cancelar",
     "OK": "OK",
     "Scores": "Pontuações",
     "Setup hi-score object": "Configurar objeto de pontuação máxima"
   },
   "dialog_20005": {
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "Cancel": "Cancelar",
     "Name": "Nome",
     "New score name": "Novo nome da pontuação",

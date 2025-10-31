@@ -23,7 +23,7 @@
   },
   "dialog_20003": {
     "&Browse": "&Navegar",
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "&Use default size": "&Usar tamanho padrão",
     "Cancel": "Cancelar",
     "File to play": "Arquivo para reproduzir",

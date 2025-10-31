@@ -191,7 +191,7 @@
   "dialog_20004": {
     "&Client edge": "&Borda do Cliente",
     "&Disabled": "&Desativado",
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "&Horizontal auto-resize :": "&Ajustar horizontalmente o tamanho automaticamente :",
     "&Right-to-left reading order": "&Ordem de leitura da direita para a esquerda",
     "&Static edge": "&Borda Estática",
@@ -296,7 +296,7 @@
     "&Center": "&Centralizar",
     "&Client edge": "&Borda do Cliente",
     "&Global object": "&Objeto global",
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "&Minimize box": "&Minimizar caixa",
     "&Right-to-left layout": "&Layout de direita para esquerda",
     "&Right-to-left reading order": "&Ordem de leitura da direita para a esquerda",
@@ -328,7 +328,7 @@
     "&Hot track": "&Acompanhar faixa quente",
     "&Multi-line": "&Multi-linha",
     "B&ottom": "Botão &Inferior",
-    "B&uttons": "Botões&",
+    "B&uttons": "&Botões",
     "Tabs (Ctrl+Enter = new tab)": "Abas (Ctrl+Enter = nova aba)"
   },
   "dialog_20020": {

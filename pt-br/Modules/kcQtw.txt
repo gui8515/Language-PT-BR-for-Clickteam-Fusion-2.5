@@ -59,7 +59,7 @@
     "&Add QuickTime Control Bar": "&Adicionar Barra de Controle QuickTime",
     "&Browse": "&Navegar",
     "&Display video under frame editor": "&Exibir vídeo sob o editor de frames",
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "&Looping": "&Repetir",
     "&Play QuickTime at start of frame": "&Reproduzir QuickTime no início do quadro",
     "&Use default size": "&Usar tamanho padrão",

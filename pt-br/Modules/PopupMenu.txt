@@ -41,7 +41,7 @@
   "dialog_20003": {
     "&Add": "&Adicionar",
     "&Del": "&Del",
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "Add &Separator": "Adicionar &Separador",
     "Cancel": "Cancelar",
     "Default Menu": "Menu Padrão",

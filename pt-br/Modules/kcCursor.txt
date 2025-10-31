@@ -37,7 +37,7 @@
   },
   "dialog_101": {
     "&Edit": "&Editar",
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "&Remove": "&Remover",
     "&Test": "&Teste",
     "Cancel": "Cancelar",

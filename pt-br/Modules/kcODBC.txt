@@ -16,7 +16,7 @@
   },
   "dialog_20003": {
     "&Browse": "&Navegar",
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "Cancel": "Cancelar",
     "Data source": "Fonte de dados",
     "OK": "OK",

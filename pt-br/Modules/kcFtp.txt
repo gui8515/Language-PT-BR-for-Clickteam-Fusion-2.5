@@ -149,7 +149,7 @@
     "User name": "Nome de usuário"
   },
   "dialog_30721": {
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "&New ": "&Novo",
     "Cancel": "Cancelar",
     "New": "Novo",

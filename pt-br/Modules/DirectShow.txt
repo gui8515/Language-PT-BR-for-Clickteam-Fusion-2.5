@@ -80,7 +80,7 @@
     "Load": "Carregar",
     "Mute Audio": "Mutar Áudio",
     "Next Chapter": "Próximo Capítulo",
-    "O&ff": "Desligar&",
+    "O&ff": "&Desligar",
     "Pause": "Pausar",
     "Play": "Jogar",
     "Previous Chapter": "Capítulo Anterior",

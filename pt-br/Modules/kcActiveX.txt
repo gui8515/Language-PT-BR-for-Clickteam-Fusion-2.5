@@ -170,10 +170,10 @@
   },
   "dialog_135": {
     "&Download && Install ActiveX component if not present at runtime": "&Baixar e instalar componente ActiveX se não estiver presente na execução",
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "Always try to download newer version": "Sempre tente baixar a versão mais recente",
     "Cancel": "Cancelar",
-    "Displayed at &start": "Exibido no início de &",
+    "Displayed at &start": "Exibido no &início",
     "Down&load URL": "Baixar&URL",
     "Installed ActiveX components": "Componentes ActiveX instalados",
     "OK": "OK",
@@ -184,17 +184,17 @@
   "dialog_136": {
     "&Always try to download newer version": "&Sempre tentar baixar a versão mais recente",
     "&Download && Install ActiveX component if not present at runtime": "&Baixar e instalar componente ActiveX se não estiver presente na execução",
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "Cancel": "Cancelar",
     "D&isplay %s Help": "Exibir Ajuda de &%s",
-    "Displayed at &start": "Exibido no início de &",
+    "Displayed at &start": "Exibido no &início",
     "Down&load URL": "Baixar&URL",
     "Modify ActiveX Object": "Modificar Objeto ActiveX",
     "OK": "OK",
     "Window &title": "Janela &título"
   },
   "dialog_30721": {
-    "&Help": "&Ajuda",
+    "&Help": "A&juda",
     "&New ": "&Novo",
     "Cancel": "Cancelar",
     "New": "Novo",
