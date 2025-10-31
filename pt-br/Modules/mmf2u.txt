@@ -579,7 +579,7 @@
     "Anti-aliasing when resizing": "Suavização de anti-serrilhado ao redimensionar",
     "Any (automatic)": "Qualquer (automático)",
     "App Store Icon": "Ícone da App Store",
-    "Appdir$": "\"$DiretórioDoAplicativo$\"",
+    "Appdir$": "Appdir$",
     "Appdrive$": "Appdrive$",
     "Appearing": "Aparecendo",
     "Application": "Projeto",
@@ -614,8 +614,8 @@
     "Apply impulse...": "Aplicar impulso...",
     "Apply torque %0": "Aplicar torque %0",
     "Apply torque...": "Aplicar torque...",
-    "Appname$": "Nome do aplicativo$",
-    "Apppath$": "CaminhoDoAplicativo$",
+    "Appname$": "Appname$",
+    "Apppath$": "Apppath$",
     "Arc cosine": "Arco cosseno",
     "Arc sine": "Arco seno",
     "Arc tangent": "Tangente inversa",
@@ -1067,11 +1067,11 @@
     "Delay before firing event": "Atraso antes de disparar o evento",
     "Delay between each event": "Atraso entre cada evento",
     "Delete": {
-      "2016": "2016",
-      "10062": "10062",
-      "13168": "13168",
-      "16020": "16020",
-      "19273": "19273"
+      "2016": "Excluir",
+      "10062": "Excluir",
+      "13168": "Excluir",
+      "16020": "Excluir",
+      "19273": "Excluir"
     },
     "Delete\nDelete": "Apagar\nApagar",
     "Delete %d frame(s).\nAre you sure?": "Excluir %d frame(s).\nTem certeza?",
@@ -1546,7 +1546,7 @@
     "Force Load On Call option for all objects": "Opção Forçar Carregamento na Chamada para todos os objetos",
     "Force global refresh": "Forçar atualização global",
     "Foreground Scenery": "Cenário em Primeiro Plano",
-    "Format": "Formato",
+    "Format": "Formatar",
     "Formatted Text": "Texto formatado",
     "Formatted text object": "Objeto de texto formatado",
     "Forward": "Avançar",
@@ -1661,7 +1661,7 @@
     "Grid Setup\nGrid Setup": "Configuração da Grade\nConfiguração da Grade",
     "Group": "Grupo",
     "Group images in mosaic files": "Agrupar imagens em arquivos de mosaico",
-    "Group of events": "Grupo de eventos",
+    "Group of events": "Grupo de Eventos",
     "Group.%s": "Grupo.%s",
     "HTML5 Application": "Aplicativo HTML5",
     "HTML5 Application (limited version)": "Aplicativo HTML5 (versão limitada)",
@@ -2635,7 +2635,7 @@
     "Runtime": "Tempo de Execução",
     "Runtime name": "Nome em tempo de execução",
     "Runtime options": "Opções de tempo de execução",
-    "RuntimeName$": "NomeEmTempoDeExecução$",
+    "RuntimeName$": "RuntimeName$",
     "S&how Buttons on One Row": "Mostrar Botões em uma Linha",
     "S&how Buttons on Two Rows": "Mostrar Botões em Duas Linhas",
     "SCRL": "ROLR",
@@ -6621,7 +6621,7 @@
     "&Cascade": "&Cascata",
     "&Clickteam Web Site": "&Acesse o site da Clickteam",
     "&Close": "&Fechar",
-    "&Comment": "&Comentar",
+    "&Comment": "&Comentário",
     "&Contents": "&Conteúdo",
     "&Copy": "&Copiar",
     "&Data Elements": "&Recursos do Projeto",
@@ -6646,7 +6646,7 @@
     "&Install Program": "&Instalar Programa",
     "&Invert Selection": "&Inverter Seleção",
     "&Keyboard shortcuts": "Atalhos de teclado",
-    "&Line of Event": "&Linha de Evento",
+    "&Line of Event": "&Evento",
     "&New": "&Novo",
     "&New Window": "&Nova Janela",
     "&Object Filters": "&Filtros de Objeto",
@@ -6685,9 +6685,9 @@
     "Check for &Update": "Verificar &Atualizações",
     "Clear All Bookmarks": "Limpar Todos os Marcadores",
     "Close all groups": "Fechar todos os grupos",
-    "Communit&y": "&Comunidad",
-    "Con&dition": "&Condiçã",
-    "Cu&t": "&Corta",
+    "Communit&y": "&Comunidade",
+    "Con&dition": "&Condição",
+    "Cu&t": "&Cortar",
     "E&vent List Editor": "Editor de Lista de E&ventos",
     "E&xit": "S&air",
     "E&xtension Manager": "Gerenciador de E&xtensões",
@@ -6992,8 +6992,8 @@
 
   // Menu
   "menu_7920": {
-    "A comment": "Um comentário",
-    "A group of events": "Um grupo de eventos",
+    "A comment": "Comentário",
+    "A group of events": "Grupo de Eventos",
     "A new line": "Uma nova linha",
     "Copy": "Copiar",
     "Cut": "Cortar",
@@ -7005,8 +7005,8 @@
 
   // Menu
   "menu_7921": {
-    "A comment": "Um comentário",
-    "A group of events": "Um grupo de eventos",
+    "A comment": "Comentário",
+    "A group of events": "Grupo de Eventos",
     "A new line": "Uma nova linha",
     "Activate / Inactivate line": "Ativar / Desativar linha",
     "Close": "Fechar",
@@ -7021,9 +7021,9 @@
 
   // Menu
   "menu_7922": {
-    "A comment": "Um comentário",
-    "A group of events": "Um grupo de eventos",
-    "A new event": "Um novo evento",
+    "A comment": "Comentário",
+    "A group of events": "Grupo de Eventos",
+    "A new event": "Evento",
     "Activate / Inactivate line": "Ativar / Desativar linha",
     "Add a new condition": "Adicionar uma nova condição",
     "Copy": "Copiar",
@@ -7082,7 +7082,7 @@
     "&Window": "&Janela",
     "Arrange &Icons": "Organizar &Ícones",
     "Close &All": "Fechar &Tudo",
-    "Pass&word": "&Senh",
+    "Pass&word": "&Senha",
     "Pla&yers\tCtrl+Y": "Jogadores\tCtrl+Y",
     "Play &musics\tCtrl+M": "Tocar &músicas\tCtrl+M",
     "Play &samples\tCtrl+S": "Tocar &Efeito sonoro\tCtrl+S",
@@ -7237,8 +7237,8 @@
 
   // Menu
   "menu_10004": {
-    "A comment": "Um comentário",
-    "A group of events": "Um grupo de eventos",
+    "A comment": "Comentário",
+    "A group of events": "Grupo de Eventos",
     "A new line": "Uma nova linha",
     "Copy": "Copiar",
     "Cut": "Cortar",
@@ -7249,8 +7249,8 @@
 
   // Menu
   "menu_10005": {
-    "A comment": "Um comentário",
-    "A group of events": "Um grupo de eventos",
+    "A comment": "Comentário",
+    "A group of events": "Grupo de Eventos",
     "A new line": "Uma nova linha",
     "Activate / Inactivate line": "Ativar / Desativar linha",
     "Close": "Fechar",
@@ -7264,9 +7264,9 @@
 
   // Menu
   "menu_10006": {
-    "A comment": "Um comentário",
-    "A group of events": "Um grupo de eventos",
-    "A new event": "Um novo evento",
+    "A comment": "Comentário",
+    "A group of events": "Grupo de Eventos",
+    "A new event": "Evento",
     "Activate / Inactivate line": "Ativar / Desativar linha",
     "Add a new condition": "Adicionar uma nova condição",
     "Copy": "Copiar",
