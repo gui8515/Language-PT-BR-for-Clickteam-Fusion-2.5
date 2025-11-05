@@ -1,0 +1,106 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "%o: Any button of player %0 is pressed": "%o: Qualquer botão do jogador %0 está pressionado",
+
+    "%o: Back button of player %0 is pressed": "%o: Botão Voltar do jogador %0 está pressionado",
+    "%o: Big button of player %0 is pressed": "%o: Botão Xbox do jogador %0 está pressionado",
+    "%o: Start button of player %0 is pressed": "%o: Botão Start do jogador %0 está pressionado",
+
+    "%o: Button A of player %0 is pressed": "%o: Botão A do jogador %0 está pressionado",
+    "%o: Button B of player %0 is pressed": "%o: Botão B do jogador %0 está pressionado",
+    "%o: Button X of player %0 is pressed": "%o: Botão X do jogador %0 está pressionado",
+    "%o: Button Y of player %0 is pressed": "%o: Botão Y do jogador %0 está pressionado",
+
+    "%o: DPad down button of player %0 is pressed": "%o: Botão DPad baixo do jogador %0 está pressionado",
+    "%o: DPad left button of player %0 is pressed": "%o: Botão DPad esquerdo do jogador %0 está pressionado",
+    "%o: DPad right button of player %0 is pressed": "%o: Botão DPad direito do jogador %0 está pressionado",
+    "%o: DPad up button of player %0 is pressed": "%o: Botão DPad para cima do jogador %0 está pressionado",
+
+    "%o: Gamepad of player %0 is connected": "%o: Controle do jogador %0 está conectado",
+
+    "%o: Right shoulder of player %0 is pressed": "%o: Botão RB do jogador %0 está pressionado",
+    "%o: Left shoulder of player %0 is pressed": "%o: Botão LB do jogador %0 está pressionado",
+
+    "%o: Left stick of player %0 is pressed": "%o: O controle esquerdo do jogador %0 está pressionado",
+    "%o: Right stick of player %0 is pressed": "%o: Botão direito do controle do jogador %0 está pressionado",
+
+    "Button %1 of players %0 is pressed": "Botão %1 do jogadores %0 está pressionado",
+
+    "Button number": "Botão número",
+    "Enter duration, in 1/1000th of second": "Digite a duração em milésimos de segundo",
+    "Enter the button number": "Digite o número do botão",
+    "Handling of the XBOX gamepad.": "Manipulação do controle Xbox.",
+    "If checked, the sticks and the shoulders will return 0 within a dead zone at the center, to counteract device imprecision": "Se selecionado, os analógicos e os gatilhos retornarão 0 dentro de uma zona morta no centro, para contrarrestar a imprecisão do dispositivo.",
+    "Left motor (0-100)": "Motor esquerdo (0-100)",
+    "Number of the players, 1 for p1, 2 for p2, 4 for p3, 8 for p4 or any combination": "Número de jogadores: 1 para jogador 1, 2 para jogador 2, 4 para jogador 3, 8 para jogador 4 ou qualquer combinação",
+    "Player number, from 0 to 3": "Número do jogador, de 0 a 3",
+    "Player numbers": "Número de jogadores",
+    "Right motor (0-100)": "Motor direito (0-100)",
+    "Sticks and shoulder deadzones": "Zonas mortas dos analógicos e ombros",
+    "Vibrate gamepad of player %0, left motor %1, right motor %2, duration %3": "Vibrar controle do jogador %0, motor esquerdo %1, motor direito %2, duração %3",
+    "XBOX Gamepad": "XBOX Gamepad"
+  },
+  "menu_20000": {
+    "Actions": "Ações",
+    "Vibrate": "Vibrar"
+  },
+  "menu_20001": {
+    "Any button is pressed": "Qualquer botão está pressionado",
+    "Back button is pressed": "O botão Voltar está pressionado",
+
+    "Buttons": "Botões",
+    "Button A is pressed": "O botão A está pressionado",
+    "Button B is pressed": "O botão B está pressionado",
+    "Button X is pressed": "O botão X está pressionado",
+    "Button Y is pressed": "O botão Y está pressionado",
+    "Button is pressed": "O botão está pressionado",
+
+    "Direction pad": "DPad",
+    "DPad down is pressed": "DPad baixo está pressionado",
+    "DPad left is pressed": "DPad esquerdo está pressionado",
+    "DPad right is pressed": "DPad direito está pressionado",
+    "DPad up is pressed": "DPad cima está pressionado",
+
+    "Conditions": "Condições",
+    "Gamepad is connected": "Controle conectado",
+    "Left shoulder is pressed": "O botão L1 está pressionado",
+    "Left stick is pressed": "O analógico esquerdo está pressionado",
+    "Right shoulder is pressed": "O botão R1 está pressionado",
+    "Right stick is pressed": "O analógico direito está pressionado",
+    "Shoulders": "Botões de ombro",
+
+    "Start is pressed": "Iniciar é pressionado",
+    "Sticks": "Controles Analógicos"
+  },
+  "menu_20002": {
+    "Back button pressed": "Botão Voltar pressionado",
+    "Button A pressed": "Botão A pressionado",
+    "Button B pressed": "Botão B pressionado",
+    "Button X pressed": "Botão X pressionado",
+    "Button Y pressed": "Botão Y pressionado",
+    "Buttons": "Botões",
+    "DPad down pressed": "D-Pad baixo pressionado",
+    "DPad left pressed": "D-Pad esquerdo pressionado",
+    "DPad right pressed": "D-Pad direito pressionado",
+    "DPad up pressed": "D-Pad cima pressionado",
+    "Direction pad": "D-Pad",
+    "Expressions": "Expressões",
+    "Find pressed button": "Detectar botão pressionado",
+    "Get horizontal position": "Obter posição horizontal",
+    "Get position of left trigger": "Obter posição do gatilho esquerdo",
+    "Get position of right trigger": "Obter posição do gatilho direito",
+    "Get vertical position": "Obter posição vertical",
+    "Given button pressed": "Botão especificado pressionado",
+    "Left": "Esquerda",
+    "Left shoulder pressed": "Botão L1 (ombro esquerdo) pressionado",
+    "Right": "Direita",
+    "Right shoulder pressed": "Botão R1 (ombro direito) pressionado",
+    "Shoulders": "Botões de ombro",
+    "Start pressed": "Botão Start pressionado",
+    "Stick pressed": "Analógico pressionado",
+    "Sticks": "Analógicos",
+    "Triggers": "Gatilhos"
+  }
+}

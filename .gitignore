@@ -1,0 +1,12 @@
+# Ignorar todas as pastas no nível superior, exceto a pasta pt-br
+/*/
+
+# Não ignorar a própria pasta pt-br e todo o seu conteúdo
+!/pt-br/
+!/pt-br/**
+
+# Manter o .gitignore no repositório
+!.gitignore
+
+# Observação: este .gitignore ignora apenas pastas (diretórios) no nível superior
+# se quiser também ignorar arquivos no root (ex.: README.md), diga que eu atualizo.
