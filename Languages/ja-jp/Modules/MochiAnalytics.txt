@@ -1,0 +1,19 @@
+﻿{
+	"version" : 1,
+	"lang" : 1041,
+	"general" : {
+		"End play" : "プレイを終了",
+		"Event tag" : "イベントタグ",
+		"Mochi Analytics" : "Mochi Analytics",
+		"Obsolete. This object is provided for compatibility reasons only." : "廃止された。 このオブジェクトは互換性維持の目的で提供されており。",
+		"Start play (tag %0)" : "プレイを開始 (タグ %0)",
+		"Tag (default: gameplay)" : "タグ (既定: gameplay)",
+		"Track event %0 with value %1" : "イベント %0 を追跡、値 %1",
+		"Value (default: 1)" : "値 (既定: 1)"
+	},
+	"menu_20000" : {
+		"End play" : "プレイを終了",
+		"Start play" : "プレイを開始",
+		"Track event" : "イベントを追跡"
+	}
+}

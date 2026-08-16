@@ -1,0 +1,27 @@
+﻿{
+	"version" : 1,
+	"lang" : 1041,
+	"general" : {
+		"%o : On leaderboard closed" : "%o : Leaderboard が閉じている時",
+		"%o : On leaderboard displayed" : "%o : Leaderboard が表示されている時",
+		"Leaderboard ID" : "Leaderboard ID",
+		"Mochi Scores" : "Mochi Scores",
+		"Name" : "名前",
+		"Obsolete. This object is provided for compatibility reasons only." : "廃止された。 このオブジェクトは互換性維持の目的で提供されており。",
+		"Score" : "スコア",
+		"Set Leaderboard ID to %0" : "Leaderboard ID を %0 に変更",
+		"Show leaderboard" : "Leaderboard を表示",
+		"Submit score %0 and ask for a name" : "スコア %0 を送信して名前を確認",
+		"Submit score %0 with name %1" : "スコア %0 を名前 %1 で送信"
+	},
+	"menu_20000" : {
+		"Set leaderboard ID" : "Leaderboard ID を変更",
+		"Show leaderboard" : "Leaderboard を表示",
+		"Submit score (ask for a name)" : "スコア を送信 (名前を確認)",
+		"Submit score (specify a name)" : "スコア を送信 (名前を指定)"
+	},
+	"menu_20001" : {
+		"On leaderboard closed" : "Leaderboard が閉じている時",
+		"On leaderboard displayed" : "Leaderboard が表示されている時"
+	}
+}

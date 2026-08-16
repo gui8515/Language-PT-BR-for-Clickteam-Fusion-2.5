@@ -1,0 +1,50 @@
+﻿{
+	"version" : 1,
+	"lang" : 1041,
+	"general" : {
+		"%o : Item has tag %0" : "%o : 項目はタグ %0 を所有",
+		"%o : On error" : "%o : エラー発生時",
+		"%o : On item owned" : "%o : 項目を所有時",
+		"%o : On new item" : "%o : 新規項目時",
+		"Add item %0 to show in store" : "項目 %0 を追加してストアに表示",
+		"Consumable name" : "Consumable 名",
+		"Decrement consumable %0" : "Consumable を %0 減らす",
+		"Increment consumable %0" : "Consumable を %0 増やす",
+		"Item ID" : "項目識別子",
+		"Item tag or unique ID" : "項目タグまたは一意の識別子",
+		"Mochi Coins" : "Mochi Coins",
+		"Obsolete. This object is provided for compatibility reasons only." : "廃止された。 このオブジェクトは互換性維持の目的で提供されており。",
+		"Property name" : "プロパティ名",
+		"Remove consumable %0" : "Consumable %0 を削除",
+		"Set consumable %0 to %1" : "Consumable %0 を %1 に変更",
+		"Show single item with ID %0" : "識別子 %0 を持つ 1 つの項目を表示",
+		"Show store" : "ストアを表示",
+		"Show video for item with ID %0" : "識別子 %0 を持つビデオを表示",
+		"Tag" : "タグ",
+		"Value" : "値"
+	},
+	"menu_20000" : {
+		"Add item to show" : "表示する項目を追加",
+		"Consumable" : "Consumable",
+		"Decrement" : "減らす",
+		"Increment" : "増やす",
+		"Remove" : "削除",
+		"Set/create" : "変更/作成",
+		"Show item video" : "項目ビデオを表示",
+		"Show single item" : "1 つの項目を表示",
+		"Show store" : "ストアを表示",
+		"Store" : "ストア"
+	},
+	"menu_20001" : {
+		"Item has tag" : "項目はタグを所有",
+		"On error" : "エラー発生時",
+		"On item owned" : "項目を所有時",
+		"On new item" : "新規項目時"
+	},
+	"menu_20002" : {
+		"Get consumable amount" : "Consumable 量を取得",
+		"Get item ID" : "項目識別子を取得",
+		"Get item count" : "項目数を取得",
+		"Get item property" : "項目のプロパティを取得"
+	}
+}

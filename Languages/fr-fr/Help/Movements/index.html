@@ -1,0 +1,128 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+
+<head>
+<title>Mouvements pour CF 2.5</title>
+
+
+<link rel="stylesheet" href="style_default.css" type="text/css">
+
+</head>
+<body>
+
+<h1>Mouvements dans CF 2.5</h1>
+<p class="main_content_smaller">
+Revision: 1.0, October 2006
+<p>
+
+<hr>
+
+<h2>Contents</h2>
+<ul class="main_content">
+	<li><a href="#intro">Introduction</a></li>
+	<li><a href="#install">Installer des mouvements additionnels</a></li>
+	<li><a href="#apply">Appliquer des mouvements</a></li>
+	<li><a href="#docs">Documentation des mouvements</a></li>
+	<li><a href="#extension">Extensions Contr&ocirc;leur de Mouvements</a></li>
+	<li><a href="#develop">D&eacute;velopper vos propres mouvements</a></li>
+</ul>
+
+<a name="intro"><h2>Introduction</h2></a>
+<p class="main_content">
+Les mouvements sont des propri&eacute;t&eacute;s qui peuvent &ecirc;tre attach&eacute;es &agrave; beaucoup d'objets visuels dans CF 2.5, principalement aux objets actifs. Comme leur nom
+l'indique, les mouvements donn&eacute;s &agrave; un objet permettent de le d&eacute;placer sur l'&eacute;cran. Les mouvements sont un moyen simple pour vous de cr&eacute;er des effets complexes sans
+avoir &agrave; &eacute;crire un moteur de d&eacute;placement complet pour chaque objet. Chaque mouvement a des propri&eacute;t&eacute;s personnalisables vous permettant de l'adapter &agrave; vos besoins.
+La plupart du temps, il suffit de r&eacute;gler quelques valeurs dans le panneau de propri&eacute;t&eacute;s de l'objet, mais vous pouvez aussi vouloir changer ces valeurs
+en runtime via l'&eacute;diteur d'&eacute;v&eacute;nements. Un certain nombre de mouvements g&eacute;n&eacute;riques sont fournis avec CF 2.5 et des mouvements additionnels peuvent
+&ecirc;tre ajout&eacute;s.
+</p>
+<p class="main_content">
+Les mouvements additionnels sont une nouveaut&eacute; importante dans CF 2.5, il est maintenant possible d'ajouter des mouvements comme on ajoute
+des extensions. Ces mouvements peuvent &ecirc;tre d&eacute;velopp&eacute;s par des utilisateurs gr&acirc;ce au 
+SDK de CF 2.5, une connaissance sommaire du langage C++ 
+ainsi que le compilateur appropri&eacute;.
+</p>
+<p class="main_content">
+Les versions pr&eacute;c&eacute;dentes de la gamme de produits Clickteam contenaient uniquement des mouvements pr&eacute;d&eacute;finis (statique, balle rebondissante,
+chemin enregistr&eacute;, souris, 8-directions, voiture et plateforme). Ces mouvements sont document&eacute;s dans l'aide de CF 2.5, l&eacute;g&egrave;rement diff&eacute;remment
+des mouvements additionnels. Pour introduire le nouveau concept de mouvements additionnels, Clickteam a cr&eacute;&eacute; un nouveau mouvement: Flipper.
+Le source code de ce mouvement est fourni dans le SDK pour ceux qui veulent voir comment fonctionnent les mouvements, ou m&ecirc;me l'am&eacute;liorer.
+</p>
+<p class="main_content">
+Une autre nouveaut&eacute; dans CF 2.5 est que les objets peuvent maintenant avoir plusieurs mouvements. L'&eacute;diteur d'&eacute;v&eacute;nements vous permet
+de changer de mouvement en cours d'ex&eacute;cution. Les versions pr&eacute;c&eacute;dentes des produits Clickteam n'autorisaient qu'un seul mouvement, obligeant
+par l&agrave; m&ecirc;me &agrave; cr&eacute;er plusieurs objets identiques avec des mouvements diff&eacute;rents pour palier &agrave; ce probl&egrave;me.
+</p>
+
+<a name="install"><h2>Installation manuelle des mouvements additionnels</h2></a>
+<p class="main_content">
+Dans la plupart des cas, le d&eacute;veloppeur fournit un programme d'installation installant l'extension mouvement aux bons endroits.
+Dans le cas contraire, donc si vous d&eacute;sirez installer l'extension mouvement &agrave; la main, il suffit de copier les fichiers .mvx des
+mouvements dans le r&eacute;pertoire Extensions et dans le r&eacute;pertoire Data\Runtime de CF 2.5. Note: si le d&eacute;veloppeur fournit des fichiers 
+.mvx diff&eacute;rents pour le r&eacute;pertoire Data\Runtime, vous devez installer ceux-l&agrave; dans ce r&eacute;pertoire. Vous devez red&eacute;marrer CF 2.5
+pour que les nouveaux mouvements soient pris en compte.
+</p>
+
+<a name="apply"><h2>Utilisation des mouvements</h2></a>
+<p class="main_content">
+Une fois que le mouvement a &eacute;t&eacute; install&eacute;, lancez CF 2.5 et d&eacute;marrez un nouveau projet. Ins&eacute;rez un objet comme par exemple
+un objet actif dans l'&eacute;diteur de sc&egrave;nes, puis cliquez sur l'onglet Mouvements dans la fen&ecirc;tre de propri&eacute;t&eacute;s. Cliquez sur
+la propri&eacute;t&eacute; "Type" pour afficher la liste des mouvements disponibles, comme indiqu&eacute; dans la figure 1.
+</p>
+
+<img src="images/list-of-movements.png" alt="Image montrant les mouvements installéeacute; pour CF 2.5">
+<p class="main_content_smaller">
+Figure 1: Liste des mouvements, votre propre liste peut &ecirc;tre diff&eacute;rente, elle d&eacute;pend des mouvements install&eacute;s.
+<br /><br />
+</p>
+
+<p class="main_content">
+Lorsque vous s&eacute;lectionnez un mouvement dans la liste, les propri&eacute;t&eacute;s de ce mouvement seront affich&eacute;es. Vous pouvez ensuite
+les configurer. Veuillez vous r&eacute;f&eacute;rer &agrave; la documentation du mouvement pour plus d'infos &agrave; propos de ses propri&eacute;t&eacute;s.
+</p>
+
+<a name="docs"><h2>Documentation des mouvements </h2></a>
+<p class="main_content">
+Cliquez sur les liens ci-dessous pour voir la documentation des mouvements additionnels Clickteam :
+</p>
+
+<ul class="main_content">
+	<li><a href="movements/movement-clickteam-circular.html">Mouvement Circulaire</a></li>
+	<li><a href="movements/movement-clickteam-drag-and-drop.html">Mouvement Tirer et Lâcher</a></li>
+	<li><a href="movements/movement-clickteam-invaders.html">Mouvement Invaders</a></li>
+	<li><a href="movements/movement-clickteam-presentation.html">Mouvement Pr&eacute;sentation</a></li>
+	<li><a href="movements/movement-clickteam-regular-polygon.html">Mouvement Polyg&ocirc;ne R&eacute;gulier</a></li>
+	<li><a href="movements/movement-clickteam-simple-ellipse.html">Mouvement Ellipse Simple</a></li>
+	<li><a href="movements/movement-clickteam-spaceship.html">Mouvement Vaisseau Spatial</a></li>
+	<li><a href="movements/movement-clickteam-sinewave.html">Mouvement Sinuso&iuml;de</a></li>
+	<li><a href="movements/movement-clickteam-vector.html">Mouvement Vecteur</a></li>
+	<li><a href="movements/InAndOut.html">Mouvement In And out</a></li>
+</ul>
+
+<a name="extension"><h2>Extensions Contr&ocirc;leur de Mouvements</h2></a>
+<p class="main_content">
+Malheureusement, pour le moment un mouvement ne peut pas interagir directement avec le menu Mouvements dans l'&eacute;diteur d'&eacute;v&eacute;nements
+pour afficher les actions, conditions et expressions qui lui sont propres. Cependant pour contourner le probl&egrave;me il est possible
+d'utiliser une extension pour "contr&ocirc;ler le mouvement". Cet objet d'extension doit &ecirc;tre ajout&eacute; dans la sc&egrave;ne et vous permet, par
+l'interm&eacute;diaire de ses propres menus dans l'&eacute;diteur d'&eacute;v&eacute;nements, de r&eacute;cup&eacute;rer ou de modifier les propri&eacute;t&eacute;s des mouvements 
+pendant l'ex&eacute;cution de l'application.
+</p>
+<p class="main_content">
+Cliquez sur les liens ci-dessous pour afficher la documentation se rapportant aux contr&ocirc;leurs de mouvement :
+</p>
+
+<ul class="main_content">
+	<li><a href="control-extensions/extension-clickteam-movementcontroler.html">Contr&ocirc;leur de Mouvements Clickteam (CMC)</a></li>
+	<li><a href="control-extensions/InAndOut Controler.html">Contr&ocirc;leur du Mouvement In And Out</a></li>
+</ul>
+
+<a name="develop"><h2>D&eacute;velopper vos propres mouvements</h2></a>
+<p class="main_content">
+Il est recommand&eacute; de t&eacute;l&eacute;charger le SDK de CF 2.5
+qui inclut le "Movement SDK" et le code source du mouvement Flipper (Pinball) ainsi qu'un fichier d'aide.
+</p>
+
+<br /><br /><br />
+
+</body>
+</html>

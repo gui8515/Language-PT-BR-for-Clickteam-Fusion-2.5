@@ -1,0 +1,62 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+
+<head>
+<title>Mouvement Invaders - Clickteam</title>
+
+
+<link rel="stylesheet" href="../style_default.css" type="text/css">
+
+</head>
+<body>
+
+<h1>Mouvement Invaders</h1>
+<p>
+
+<hr>
+
+<h2>Description</h2>
+<p class="main_content"> Ce mouvement est con&ccedil;u pour vous aider dans la 
+  cr&eacute;ation du classique jeu de Space Invaders. Le mouvement contr&ocirc;le 
+  les ennemis, leur faisant changer de direction lorsqu'ils atteignent le bord 
+  de l'&eacute;cran, et les fait m&ecirc;me acc&eacute;l&eacute;rer quand leur 
+  nombre d&eacute;cro&icirc;t.</p>
+<h2>Utilisation du mouvement</h2>
+<p class="main_content"> Appliquez le mouvement aux objets contenus dans la sc&egrave;ne, 
+  et configurez leur direction initiale, le pas en X et en Y, et la vitesse. Notez 
+  que ces propri&eacute;t&eacute;s sont partag&eacute;es par tous les objets de 
+  la sc&egrave;ne avec ce mouvement, il n'est utile que de l'indiquer une seule 
+  fois. Si vous avez besoin de modifier l'endroit ou les ennemis changent de direction, 
+  utilisez l'objet contr&ocirc;leur et apliquez l'action correspondante. Notez 
+  que l'accroissement de la vitesse automatique est fourni pour les utilisateurs 
+  d&eacute;butant, la plupart du temps vous utiliserez l'objet de contr&ocirc;le 
+  pour modifier la vitesse.</p>
+
+<h2>Propri&eacute;t&eacute;s</h2>
+<img src="../images/settings-invaders.png" alt="Image montrant les propri&eacute;t&eacute du mouvement">
+<p class="main_content_smaller"> Figure 1: propri&eacute;t&eacute;s du mouvement 
+  Invaders. <br />
+  <br />
+</p>
+
+<p class="main_header">Propri&eacute;t&eacute;s globales du mouvement Invaders</p>
+<p class="main_content"> Ces propri&eacute;t&eacute;s sont partag&eacute;es par 
+  tous les objets ayant un mouvement Invaders dans la sc&egrave;ne courante. En 
+  cons&eacute;quence, un changement dans les propri&eacute;t&eacute;s d'un objet 
+  affectera tous les objets de la sc&egrave;ne.<br />
+  <br />
+  <b>Bouge au d&eacute;marrage:</b> indique si le mouvement d&eacute;marre lorsque 
+  la sc&egrave;ne est lanc&eacute;e.<br />
+  <b>Accroissement de la vitesse automatique:</b> choisissez cette option et les 
+  ennemis iront plus vite au fur et a mesure que leur nombre d&eacute;cro&icirc;t.<br />
+  <b>Direction initiale:</b> les ennemis vont-il bouger initialement &agrave; 
+  gauche ou a droite?<br />
+  <b>Pas en X:</b> le nombre de pixels saut&eacute;s &agrave; chaque pas horizontal.<br />
+  <b>Pas en Y: </b> le nombre de pixels saut&eacute;s &agrave; chaque pas vertical.<br />
+  <b>Vitesse:</b> a quelle fr&eacute;quence les ennemis bougent.<br />
+  <b>Note</b>: à cause d'un bug, l'expression &quot;Invaders / Vitesse&quot; de l'objet Movement Controller renvoie 101 - vitesse, et vous devez passer 101 - vitesse à l'action &quot;Fixer Vitesse&quot;.
+</p>
+<br /><br /><br />
+
+</body>
+</html>

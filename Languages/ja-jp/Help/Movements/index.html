@@ -1,0 +1,104 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+
+<head>
+<!-- Inserted by TRADOS: --><META HTTP-EQUIV="content-type" CONTENT="text/html; charset=Shift_JIS">
+
+<title>CF 2.5 における動作</title>
+
+
+<link rel="stylesheet" href="style_default.css" type="text/css">
+
+</head>
+<body>
+
+<h1>CF 2.5 における動作</h1>
+<p class="main_content_smaller">
+改訂: 1.1、 August 2008
+<p>
+
+<hr>
+
+<h2>目次</h2>
+<ul class="main_content">
+	<li><a href="#intro">はじめに</a></li>
+	<li><a href="#install">追加動作のインストール</a></li>
+	<li><a href="#apply">動作の適用</a></li>
+	<li><a href="#docs">動作のドキュメント</a></li>
+	<li><a href="#extension">動作コントローラー エクステンション</a></li>
+	<li><a href="#develop">オリジナル動作の開発</a></li>
+</ul>
+
+<a name="intro"><h2>はじめに</h2></a>
+<p class="main_content">
+CF 2.5 において、動作は、目に見えるオブジェクトの多くに備わっているプロパティであり、最もわかりやすいのはアクティブオブジェクトでしょう。 その名が示す通り、あるオブジェクトに与えられた動作は、そのオブジェクトが画面上でどのように動き、コントロールされるかを決定します。 予め用意された動作を利用することにより、あなたは自分で一から動作エンジンをプログラムする必要なく、複雑な効果を作成することができます。 必要に応じて、動作のプロパティを変更することも可能です。 多くの場合、これはデザインタイム (ゲーム/アプリの作成中) で、オブジェクトのプロパティの値を変更することで実現しますが、イベントエディタを使ってランタイム (ゲーム/アプリの実行中) で設定を変更したい場合もあるでしょう。 CF 2.5 には数多くの共通動作が用意されていますが、追加の動作を使用することも可能です。 
+</p>
+<p class="main_content">
+CF 2.5 には多くの新機能が追加され、追加エクステンションを使用するのと似たような感じで追加動作を使用することができます。 これらの動作は CF 2.5 SDK と C++ のプログラミング知識、適切なコンパイラがあれば誰でも開発することができます。 
+</p>
+<p class="main_content">
+初期の Clickteam 製品では、 Clickteam が開発した次の 7 つの動作が利用できました: 静止、バウンスボール、パス、マウスコントロール、8 方向、レースカー、ジャンプとはしご。 これらの動作は CF 2.5 のヘルプファイルでも説明され、製品に組み込まれていますが、追加の動作とは少し異なる部分があります。 CF 2.5 の新しいプラグインスタイルの動作について、そのコンセプトを紹介する目的で、ピンボール動作 という動作が用意されています。 ピンボール動作のソースコードは、動作 SDK でその内容を確認することが可能です。 
+</p>
+<p class="main_content">
+CF2.5 でのもう 1 つの新機能は、 1 つのオブジェクトで複数の異なる動作が利用可能になったことで、イベントエディタを利用することでランタイム時にそれらを切り替えることができます。 初期の Clickteam 製品では、各オブジェクトに 1 つの動作しか割り当てることができませんでした。 したがって、例えば、ジャンプとはしご動作からパス動作に切り替えたい、というような場合には、 2 つのオブジェクトを作成する必要があり、少々面倒でした。 ほとんどの場合は 1 つの動作で十分だと思いますが、必要であれば複数の動作は切り替えて使用できることを覚えておいてください。 
+</p>
+
+<a name="install"><h2>追加動作のインストール</h2></a>
+<p class="main_content">
+ほとんどの場合、追加動作の開発者はインストーラ形式でファイルを配布していますので、インストールで迷うことはないはずです。 ただしそうでないケースでは、次のルールに従ってインストールしてください。 動作を含むファイル (.mvx) は、 CF 2.5 がインストールされているフォルダー内の <i>/Extensions</i> および <i>/Data/Runtime</i> フォルダーにコピーする必要があります。 ファイルをコピーする前にCF 2.5 のすべてのインスタンスは終了しておいてください。 
+</p>
+
+<a name="apply"><h2>動作の適用</h2></a>
+<p class="main_content">
+動作のインストールを終えたら、 CF 2.5 を起動し、新規プロジェクトを作成します。 フレームエディタでアクティブオブジェクトをを追加し、オブジェクトのプロパティで動作タブ (人が走っているアイコン) をクリックします。 種類のプロパティをクリックすると、現在インストールされている動作が図 1 のように一覧表示されます。 
+</p>
+
+<img src="images/list-of-movements.png" alt="Image showing the movements installed for CF 2.5">
+<p class="main_content_smaller">
+図 1: インストールされている動作の一覧です。 この図とお使いの CF 2.5 が異なる場合もあります。  <br /><br />
+</p>
+
+<p class="main_content">
+リストからいずれかの動作を選択すると、その動作についてのプロパティが表示されますので、必要に応じて設定を変更してください。 個々のプロパティに関する詳細は、動作のドキュメントをご確認ください。 
+</p>
+
+<a name="docs"><h2>動作のドキュメント</h2></a>
+<p class="main_content">
+個々の追加動作に関するドキュメントを表示するには下記のリンクをクリックしてください: 
+</p>
+
+<ul class="main_content">
+	<li><a href="movements/movement-clickteam-circular.html">円</a></li>
+	<li><a href="movements/movement-clickteam-drag-and-drop.html">ドラッグ＆ドロップ</a></li>
+	<li><a href="movements/movement-clickteam-invaders.html">インベーダー</a></li>
+	<li><a href="movements/movement-clickteam-presentation.html">プレゼンテーション</a></li>
+	<li><a href="movements/movement-clickteam-regular-polygon.html">標準多角形</a></li>
+	<li><a href="movements/movement-clickteam-simple-ellipse.html">シンプル楕円</a></li>
+	<li><a href="movements/movement-clickteam-sinewave.html">正弦波</a></li>
+	<li><a href="movements/movement-clickteam-spaceship.html">スペースシップ</a></li>
+	<li><a href="movements/movement-clickteam-vector.html">ベクター</a></li>
+	<li><a href="movements/InAndOut.html">イン &amp; アウト動作</a></li>
+</ul>
+
+<a name="extension"><h2>動作コントローラー エクステンション</h2></a>
+<p class="main_content">
+残念ながら、現時点では、動作をイベントエディタのメニューで直接操作し、動作に関連するオプションを表示することはできません。 しかしながら、動作や動作セットに特別なコントローラーエクステンションパッケージが用意されている場合には、解決策はあります。 このエクステンションをフレームに追加すれば、動作のプロパティを抽出し、エクステンションのインターフェイスからランタイム時に変更することが可能です。 
+</p>
+<p class="main_content">
+個々の動作コントローラー エクステンションに関するドキュメントを表示するには下記のリンクをクリックしてください: 
+</p>
+
+<ul class="main_content">
+	<li><a href="control-extensions/extension-clickteam-movementcontroler.html">Clickteam 動作コントローラー (CMC)</a></li>
+	<li><a href="control-extensions/InAndOut Controler.html">イン &amp; アウト動作コントローラー</a></li>
+</ul>
+
+<a name="develop"><h2>オリジナル動作の開発</h2></a>
+<p class="main_content">
+CF 2.5 SDK には、動作 SDK とピンボール動作のコードおよびガイド (英語) が含まれています。 オリジナルの動作を作成する際の参考にしてください。 
+</p>
+
+<br /><br /><br />
+
+</body>
+</html>

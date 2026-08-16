@@ -1,0 +1,86 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+
+<head>
+<title>Mouvement pr&eacute;sentation - Clickteam</title>
+
+<link rel="stylesheet" href="../style_default.css" type="text/css">
+
+</head>
+<body>
+
+<h1>Mouvement pr&eacute;sentation</h1>
+<p>
+
+<hr>
+
+<h2>Description</h2>
+<p class="main_content"> Ce mouvement est con&ccedil;u pour aider &agrave; la 
+  cr&eacute;ation de pr&eacute;sentations ou de diaporamas avec CF 2.5. Pour de 
+  simples pr&eacute;sentations, aucun &eacute;v&egrave;nement n'est n&eacute;c&eacute;ssaire, 
+  toute la configuration peut &ecirc;tre r&eacute;alis&eacute;e dans l'&eacute;diteur 
+  de sc&egrave;ne et le mouvement se charge de la gestion, jusqu'au changement 
+  de sc&egrave;ne! Inutile de positionner les objets en dehors de la sc&egrave;ne 
+  pour les voir arriver dans l'affichage : positionnez-les comme il doivent &ecirc;tre 
+  au final, et l'objet se charge de les faire appara&icirc;tre.</p>
+<h2>Utilisation du mouvement</h2>
+<p class="main_content"> Tout objet avec ce mouvement peut avoir une configuration 
+  d'entr&eacute;e et/ou de sortie (une de chaque). Ceci d&eacute;termine quand 
+  l'entr&eacute;e ou la sortie est d&eacute;clench&eacute;e. Les options inclues 
+  sont aucune, apparition ou entr&eacute;e/sortie &agrave; partir de plusieurs 
+  directions. Les objets avec une entr&eacute;e ou une sortie afficheront une 
+  propri&eacute;t&eacute; de vitesse suppl&eacute;mentaire. Tous les objets avec 
+  une configuration autre que &quot;aucune&quot; demandent une valeur d'index. 
+  Celle ci indique l'ordre d'apparition/disparition, plusieurs objets peuvent 
+  partager le m&ecirc;me index pour les faire appara&icirc;tre/dispara&icirc;tre 
+  en m&ecirc;me temps. Une valeur de z&eacute;ro indique que le mouvement se produit 
+  au d&eacute;but de la sc&egrave;ne.<br />
+  <br />
+  Pour d&eacute;clencher les mouvements en fonction de l'appui sur une touche 
+  par l'utilisateur, comme dans de nombreux logiciels de pr&eacute;sentation, 
+  toutes les propri&eacute;t&eacute;s globales doivent &ecirc;tre coch&eacute;es. 
+  Voyez plus bas une description de ces propri&eacute;t&eacute;s; en r&eacute;sum&eacute; 
+  elles indiquent au mouvement de d&eacute;tecter les appuis sur une touche et 
+  m&ecirc;me de changer la sc&egrave;ne lorsque c'est n&eacute;cessaire. Les utilisateurs 
+  plus exigeants peuvent utiliser l'objet de contr&ocirc;le du mouvement.</p>
+
+<h2>Propri&eacute;t&eacute;s</h2>
+<img src="../images/settings-presentation.png" alt="Image montrant les propri&eacute;t&eacute;s du mouvement.">
+<p class="main_content_smaller"> Figure 1: propri&eacute;t&eacute;s du mouvement 
+  pr&eacute;sentation. <br />
+  <br />
+</p>
+
+<p class="main_header">Propri&eacute;t&eacute;s d'entr&eacute;e</p>
+<p class="main_content"> <b>Type:</b> d&eacute;fini le type d'entr&eacute;e.<br />
+  <b>Vitesse:</b> la vitesse pour les entr&eacute;es en mouvement.<br />
+  <b>Index:</b> d&eacute;fini quand l'entr&eacute;e aura lieu. Un z&eacute;ro 
+  indique quand la sc&egrave;ne d&eacute;bute.</p>
+<br />
+<p class="main_header">Propri&eacute;t&eacute;s de sortie</p>
+<p class="main_content"> <b>Type:</b> d&eacute;fini le type de sortie.<br />
+  <b>Vitesse:</b> la vitesse de sortie, pour les sorties en mouvement.<br />
+  <b>Index:</b> d&eacute;fini quand la sortie aura lieu. Un z&eacute;ro indique 
+  quand la sc&egrave;ne d&eacute;bute.</p>
+<br />
+<p class="main_header">Propri&eacute;t&eacute;s globales</p>
+<p class="main_content"> Ces propri&eacute;t&eacute;s sont partag&eacute;es par 
+  tous les objets avec un mouvement pr&eacute;sentation dans la sc&egrave;ne. 
+  Changer une valeur dans l'un des objets affecte tous les autres objets avec 
+  ce mouvement. A contraire de nombreux mouvements, le mouvement pr&eacute;sentation 
+  tient compte de tous les objets pr&eacute;sents lors de l'&eacute;dition et 
+  du runtime.<br />
+  <br />
+  <b>Contr&ocirc;le automatique du mouvement:</b> le mouvement attend la pression 
+  sur les fl&egrave;ches et change l'index comme indiqu&eacute;.<br />
+  <b>Changement automatique de sc&egrave;ne:</b> le mouvement change la sc&egrave;ne 
+  lorsque le dernier index a &eacute;t&eacute; trait&eacute;.<br />
+  <b>Termine automatiquement l'index pr&eacute;c&eacute;dent:</b> cochez cette 
+  case pour forcer la terminaison de l'index pr&eacute;c&eacute;dent avant de 
+  g&eacute;rer l'index suivant.</p>
+<br />
+
+<br /><br /><br />
+
+</body>
+</html>

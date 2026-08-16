@@ -1,0 +1,171 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+
+<head>
+<!-- Inserted by TRADOS: --><META HTTP-EQUIV="content-type" CONTENT="text/html; charset=Shift_JIS">
+
+<title>Clickteam 動作コントローラー エクステンション</title>
+
+
+<link rel="stylesheet" href="../style_default.css" type="text/css">
+
+</head>
+<body>
+
+<h1>Clickteam 動作コントローラー エクステンション</h1>
+<p class="main_content_smaller">
+バージョン: 1.1、 August 2008
+<p>
+
+<hr>
+
+<table widht="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+ <td width="32"><img src="../images/extension-clickteam-icon.png" alt="Extension icon" width="32" height="32"></td>
+ <td><h2>Clickteam 動作コントローラー (CMC)</h2></td>
+</tr>
+</table>
+
+
+
+
+<p class="main_content">
+本コントローラーは複数の異なる動作で利用できるよう設計されており、それぞれの動作について、個別にアクションや数式のサブメニューが用意されています。 本エクステンションでコントロールできるのは次の動作です: 
+</p>
+
+<ul class="main_content">
+	<li><a href="#circular">円</a></li>
+	<li><a href="#drag-and-drop">ドラッグ＆ドロップ</a></li>
+	<li><a href="#invaders">インベーダー</a></li>
+	<li><a href="#presentation">プレゼンテーション</a></li>
+	<li><a href="#regular-polygon">標準多角形</a></li>
+	<li><a href="#simple-ellipse">シンプル楕円</a></li>
+	<li><a href="#sinewave">正弦波</a></li>
+	<li><a href="#spaceship">スペースシップ</a></li>
+	<li><a href="#vector">ベクター</a></li>
+</ul>
+
+<p class="main_content"> 各動作のアクションはどのオブジェクトに適用するかを指定しなければなりません。 したがってアクションを適用する前にまずオブジェクトを選択します。 注意: プレゼンテーション動作ではオブジェクトを選択する必要はありません。 自動的にフレーム内のオブジェクトが選択されます。 数式の場合は事情が少々異なり、適用するオブジェクトの固定値がパラメータとして必要になり、これはほとんどのオブジェクトの数式メニューから取得できます。 オブジェクトを変更 アクションで最後に指定されたオブジェクトを使用するには、固定値に 0 (ゼロ) を入力します。 <br><br />数式で 2 つのオブジェクト間や 2 点間の距離や角度を計算することも可能です。  </p>
+
+<!-- Circular movement --> <a name="circular"><h2>円</h2></a>
+<table cellpadding="0" border="0">
+<tr>
+	<td valign="top">
+		<img src="../images/extension-clickteam-actions-circular.png" alt="円動作に関するアクション">
+	</td>
+	<td valign="top">
+		<img src="../images/extension-clickteam-expressions-circular.png" alt="円動作に関する数式">
+	</td>
+</tr>
+</table>
+<p class="main_content_smaller">円動作のオブジェクトに適用できるアクションのメニュー (左)と数式のメニュー (右) です。 </p>
+
+<!-- Drag and drop movement --> <a name="drag-and-drop"><h2>ドラッグ＆ドロップ</h2></a>
+<table cellpadding="0" border="0">
+<tr>
+	<td valign="top">
+		<img src="../images/extension-clickteam-actions-dragdrop.png" alt="ドラッグ＆ドロップ動作に関するアクション">
+	</td>
+	<td valign="top">
+		<img src="../images/extension-clickteam-expressions-dragdrop.png" alt="ドラッグ＆ドロップ動作に関する数式">
+	</td>
+</tr>
+</table>
+<p class="main_content_smaller">ドラッグ＆ドロップ動作のオブジェクトに適用できるアクションのメニュー (左)と数式のメニュー (右) です。 </p>
+
+<!-- Invaders movement --> <a name="invaders"><h2>インベーダー</h2></a>
+<table cellpadding="0" border="0">
+<tr>
+	<td valign="top">
+		<img src="../images/extension-clickteam-actions-invaders.png" alt="インベーダー動作に関するアクション">
+	</td>
+	<td valign="top">
+		<img src="../images/extension-clickteam-expressions-invaders.png" alt="インベーダー動作に関する数式">
+	</td>
+</tr>
+</table>
+<p class="main_content_smaller">インベーダー動作のオブジェクトに適用できるアクションのメニュー (左)と数式のメニュー (右) です。</p>
+
+<!-- Invaders movement --> <a name="presentation"><h2>プレゼンテーション</h2></a>
+<table cellpadding="0" border="0">
+<tr>
+	<td valign="top">
+		<img src="../images/extension-clickteam-actions-presentation.png" alt="プレゼンテーション動作に関するアクション">
+	</td>
+	<td valign="top">
+		<img src="../images/extension-clickteam-expressions-presentation.png" alt="プレゼンテーション動作に関する数式">
+	</td>
+</tr>
+</table>
+<p class="main_content_smaller">プレゼンテーション動作のオブジェクトに適用できるアクションのメニュー (左)と数式のメニュー (右) です。 </p>
+
+
+<!-- Regular Polygon movement --> <a name="regular-polygon"><h2>標準多角形</h2></a>
+<table cellpadding="0" border="0">
+<tr>
+	<td valign="top">
+		<img src="../images/extension-clickteam-actions-regpoly.png" alt="標準多角形動作に関するアクション">
+	</td>
+	<td valign="top">
+		<img src="../images/extension-clickteam-expressions-regpoly.png" alt="標準多角形動作に関する数式">
+	</td>
+</tr>
+</table>
+<p class="main_content_smaller">標準多角形動作のオブジェクトに適用できるアクションのメニュー (左)と数式のメニュー (右) です。 </p>
+
+<!-- Simple Ellipse movement --> <a name="simple-ellipse"><h2>シンプル楕円</h2></a>
+<table cellpadding="0" border="0">
+<tr>
+	<td valign="top">
+		<img src="../images/extension-clickteam-actions-simellip.png" alt="シンプル楕円動作に関するアクション">
+	</td>
+	<td valign="top">
+		<img src="../images/extension-clickteam-expressions-simellip.png" alt="シンプル楕円動作に関する数式">
+	</td>
+</tr>
+</table>
+<p class="main_content_smaller">シンプル楕円動作のオブジェクトに適用できるアクションのメニュー (左)と数式のメニュー (右) です。 </p>
+
+<!-- Sinewave movement --> <a name="sinewave"><h2>正弦波</h2></a>
+<table cellpadding="0" border="0">
+<tr>
+	<td valign="top">
+		<img src="../images/extension-clickteam-actions-sinewave.png" alt="正弦波動作に関するアクション">
+	</td>
+	<td valign="top">
+		<img src="../images/extension-clickteam-expressions-sinewave.png" alt="正弦波動作に関する数式">
+	</td>
+</tr>
+</table>
+<p class="main_content_smaller">正弦波動作のオブジェクトに適用できるアクションのメニュー (左)と数式のメニュー (右) です。 </p>
+
+<!-- Spaceship movement --> <a name="spaceship"><h2>スペースシップ</h2></a>
+<table cellpadding="0" border="0">
+<tr>
+	<td valign="top">
+		<img src="../images/extension-clickteam-actions-spaceship.png" alt="スペースシップ動作に関するアクション">
+	</td>
+	<td valign="top">
+		<img src="../images/extension-clickteam-expressions-spaceship.png" alt="スペースシップ動作に関する数式">
+	</td>
+</tr>
+</table>
+<p class="main_content_smaller">スペースシップ動作のオブジェクトに適用できるアクションのメニュー (左)と数式のメニュー (右) です。 </p>
+
+<!-- Vector movement --> <a name="vector"><h2>ベクター</h2></a>
+<table cellpadding="0" border="0">
+<tr>
+	<td valign="top">
+		<img src="../images/extension-clickteam-actions-vector.png" alt="ベクター動作に関するアクション">
+	</td>
+	<td valign="top">
+		<img src="../images/extension-clickteam-expressions-vector.png" alt="ベクター動作に関する数式">
+	</td>
+</tr>
+</table>
+<p class="main_content_smaller">ベクター動作のオブジェクトに適用できるアクションのメニュー (左)と数式のメニュー (右) です。 </p>
+
+<br /><br /><br />
+
+</body>
+</html>

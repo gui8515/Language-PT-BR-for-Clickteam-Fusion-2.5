@@ -1,0 +1,74 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+
+<head>
+<title>Movement Vaisseau Spatial - Clickteam</title>
+
+
+<link rel="stylesheet" href="../style_default.css" type="text/css">
+
+</head>
+<body>
+
+<h1>Movement Vaisseau Spatial</h1>
+<p>
+
+<hr>
+
+<h2>Description</h2>
+<p class="main_content"> Ce mouvement simule le mouvement d'un vaisseau spatial 
+  pourvu d'un r&eacute;acteur. L'objet bouge dans sa propre direction, et le r&eacute;acteur, 
+  quand il est appliqu&eacute;, change la direction et la vitesse du mouvement 
+  progressivement. Le mouvement g&egrave;re &eacute;galement une gravit&eacute; 
+  externe. Un tel mouvement est utilis&eacute; pour contr&ocirc;ler le vaisseau 
+  dans des jeux comme Asteroids ou Lunar Lander.</p>
+
+<h2>Utilisation du mouvement</h2>
+<p class="main_content"> Apr&egrave;s la s&eacute;lection du mouvement, vous devez 
+  d&eacute;finir la puissance du r&eacute;acteur (de 0 &agrave; 100) et la gravit&eacute; 
+  (0 &agrave; 100) et sa direction. Tout le reste est g&eacute;r&eacute; automatiquement. 
+  Notez que ce mouvement fonctionne mieux pour des objets contenant 32 directions 
+  d'animation. L'animation MARCHE est appel&eacute;e lorsque l'objet bouge &agrave; 
+  l'&eacute;cran, et l'animation SAUT est appel&eacute;e lorsque le r&eacute;acteur 
+  est en marche.<br />
+  <br />
+  Propri&eacute;t&eacute;s dans l'&eacute;diteur de sc&egrave;nes</p>
+
+<p class="main_content_smaller"> <img src="../images/settings-spaceship.png" width="407" height="227"></p>
+<p class="main_content_smaller">Figure 1: propri&eacute;t&eacute;s du mouvement 
+  Vaisseau Spatial. <br />
+  <br />
+</p>
+
+<p class="main_header">Propri&eacute;t&eacute;s g&eacute;n&eacute;rales</p>
+<p class="main_content"> <b>Puissance du r&eacute;acteur:</b> indique la puissance 
+  du r&eacute;acteur, de 0 (pas de puissance) &agrave; 100 (puissance maximale). 
+  Le r&eacute;acteur est activ&eacute; lorsque vous appuyez sur le bouton s&eacute;lectionn&eacute;.<br />
+  <b>R&eacute;acteur:</b> choix du bouton &agrave; utiliser pour faire fonctionner 
+  le r&eacute;acteur.<br />
+  <b>Vitesse de rotation:</b> indique la vitesse de rotation du vaisseau, lorsque 
+  vous appuyez sur les touches gauche ou droite. De 0 (pas de rotation) &agrave; 
+  100 (rapide).<br />
+  <b>Vitesse initiale: </b>indique la vitesse initiale de l'objet, de 0 (arr&eacute;t&eacute;) 
+  &agrave; 100 (rapide).<br />
+  <b>Direction initiale:</b> vous permet de choisir la direction initiale de l'objet. 
+  Si la vitesse initiale n'est pas nulle, l'objet bougera imm&eacute;diatement 
+  dans cette direction.<br />
+  <b>D&eacute;c&eacute;l&eacute;ration:</b> indique un facteur de d&eacute;c&eacute;l&eacute;ration 
+  qui ralentit le vaisseau quand il bouge, de 0 &agrave; 100. Si 0, le vaisseau 
+  de ralentit pas. Si 100, il stoppe imm&eacute;diatement. Notez que la puissance 
+  du r&eacute;acteur doit &ecirc;tre sup&eacute;rieure au facteur de d&eacute;c&eacute;l&eacute;ration 
+  pour que le r&eacute;acteur fasse effet.<br />
+  <b>Puissance de la gravit&eacute;:</b> indique la force de la gravit&eacute;, 
+  de 0 &agrave; 100. 0 indique pas de gravit&eacute; du tout. 100 est une gravit&eacute; 
+  vraiment forte. Notez que la puissance du r&eacute;acteur doit &ecirc;tre sup&eacute;rieure 
+  &agrave; la puissance de la gravit&eacute; pour que le vaisseau puisse contrebalancer 
+  la gravit&eacute;.<br>
+  <b>Direction de la gravit&eacute;:</b> vous permet de choisir la direction de 
+  la gravit&eacute;.<br />
+</p>
+
+<br /><br /><br />
+
+</body>
+</html>

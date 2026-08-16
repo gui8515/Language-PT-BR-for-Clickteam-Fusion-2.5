@@ -1,0 +1,235 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+
+<head>
+<title>Contr&ocirc;leur de mouvements Clickteam</title>
+
+
+<link rel="stylesheet" href="../style_default.css" type="text/css">
+
+</head>
+<body>
+
+<h1>Objet contr&ocirc;leur des mouvements Clickteam</h1>
+<p class="main_content_smaller"> Version: 1.0, Octobre 2006 
+<p>
+
+<hr>
+
+<table widht="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+ <td width="32"><img src="../images/extension-clickteam-icon.png" alt="Extension icon" width="32" height="32"></td>
+ <td>
+      <h2>Contr&ocirc;leur Mouvements Clickteam (CMC)</h2>
+    </td>
+</tr>
+</table>
+
+
+
+
+<p class="main_content"> Ce contr&ocirc;leur est con&ccedil;u pour &ecirc;tre 
+  utilis&eacute; avec plusieurs mouvements diff&eacute;rents, chaque mouvement 
+  a un sous-menu s&eacute;par&eacute; pour ses actions et ses expressions. Les 
+  mouvements suivants sont contr&ocirc;l&eacute;s par cette extension :</p>
+
+<ul class="main_content">
+	
+  <li><a href="#spaceship">Mouvement vaisseau spatial</a></li>
+	
+  <li><a href="#circular">Mouvement circulaire</a></li>
+	
+  <li><a href="#drag">Mouvement tirer et lâcher</a></li>
+	
+  <li><a href="#invaders">Mouvement invaders</a></li>
+	
+  <li><a href="#presentation">Mouvement pr&eacute;sentation</a></li>
+	
+  <li><a href="#regular-polygon">Mouvement polyg&ocirc;ne r&eacute;gulier</a></li>
+	
+  <li><a href="#simple-ellipse">Mouvement ellipse simple</a></li>
+	
+  <li><a href="#sinewave">Mouvement sinuso&iuml;de</a></li>
+	
+  <li><a href="#vector">Mouvement vecteur</a></li>
+</ul>
+
+<p class="main_content"> Les actions de chaque mouvement ont besoin de savoir 
+  sur quel objet agir, en cons&eacute;quence, avant toute action, vous devez s&eacute;lectionner 
+  l'objet &agrave; modifier. Note : le mouvement pr&eacute;sentation n'a pas besoin 
+  d'objet, il en trouvera un tout seul sur la sc&egrave;ne. Les expressions fonctionnent 
+  un peu diff&eacute;remment, la valeur fixe de l'objet &agrave; affecter est 
+  demand&eacute;e en param&egrave;tre, vous pouvez la retrouver &agrave; partir 
+  du menu expression de l'objet. Vous pouvez &eacute;galement utiliser l'objet 
+  courant en mettant un param&egrave;tre de 0 &agrave; la place de la valeur fixe.<br />
+  L'extension procure quelques expressions suppl&eacute;mentaires pour calculer 
+  la distance et l'angle entre deux objets et convertir des angles en degr&eacute;s 
+  vers des directions MMF.</p>
+
+<!-- Spaceship movement -->
+<a name="spaceship">
+<h2>Mouvement vaisseau spatial</h2>
+</a>
+<table cellpadding="0" border="0">
+<tr>
+	<td valign="top">
+		<img src="../images/extension-clickteam-actions-spaceship.png" alt="Image of the Spaceship movement actions menu for this extension">
+	</td>
+	<td valign="top">
+		<img src="../images/extension-clickteam-expressions-spaceship.png" alt="Image of the Spaceship movement expressions menu for this extension">
+	</td>
+</tr>
+</table>
+<p class="main_content_smaller">Capture d'&eacute;cran des actions (gauche) et 
+  des expressions (droite) qui peuvent &ecirc;tre appliqu&eacute;es &agrave; une 
+  objet contenant un mouvement vaisseau spatial.</p>
+
+<!-- Circular movement -->
+<a name="circular">
+<h2>Mouvement circulaire</h2>
+</a>
+<table cellpadding="0" border="0">
+<tr>
+	<td valign="top">
+		<img src="../images/extension-clickteam-actions-circular.png" alt="Image of the circular movement actions menu for this extension">
+	</td>
+	<td valign="top">
+		<img src="../images/extension-clickteam-expressions-circular.png" alt="Image of the circular movement expressions menu for this extension">
+	</td>
+</tr>
+</table>
+<p class="main_content_smaller">Capture d'&eacute;cran des actions (gauche) et 
+  des expressions (droite) qui peuvent &ecirc;tre appliqu&eacute;es &agrave; un 
+  objet contenant un mouvement circulaire.</p>
+
+<!-- Drag & drop movement -->
+<a name="drag">
+<h2>Mouvement tirer et lâcher</h2>
+</a>
+<table cellpadding="0" border="0">
+<tr>
+	<td valign="top">
+		<img src="../images/extension-clickteam-actions-dragdrop.png" alt="Image of the drag & drop movement actions menu for this extension">
+	</td>
+	<td valign="top">
+		<img src="../images/extension-clickteam-expressions-dragdrop.png" alt="Image of the drag & drop movement expressions menu for this extension">
+	</td>
+</tr>
+</table>
+<p class="main_content_smaller">Capture d'&eacute;cran des actions (gauche) et 
+  des expressions (droite) qui peuvent &ecirc;tre appliqu&eacute;es &agrave; un 
+  objet contenant un mouvement tirer et lâcher.</p>
+
+<!-- Invaders movement -->
+<a name="invaders">
+<h2>Mouvement invaders</h2>
+</a><table cellpadding="0" border="0">
+<tr>
+	<td valign="top">
+		<img src="../images/extension-clickteam-actions-invaders.png" alt="Image of the circular movement actions menu for this extension">
+	</td>
+	<td valign="top">
+		<img src="../images/extension-clickteam-expressions-invaders.png" alt="Image of the circular movement expressions menu for this extension">
+	</td>
+</tr>
+</table>
+<p class="main_content_smaller">Capture d'&eacute;cran des actions (gauche) et 
+  des expressions (droite) qui peuvent &ecirc;tre appliqu&eacute;es &agrave; un 
+  objet contenant un mouvement invaders.</p>
+<p class="main_content_smaller"><b>Note</b>: à cause d'un bug, l'expression Vitesse renvoie 101 - vitesse, et vous devez passer 101 - vitesse à Fixer Vitesse.</p>
+
+<!-- Invaders movement -->
+<a name="presentation">
+<h2>Mouvement pr&eacute;sentation</h2>
+</a>
+<table cellpadding="0" border="0">
+<tr>
+	<td valign="top">
+		<img src="../images/extension-clickteam-actions-presentation.png" alt="Image of the presentation movement actions menu for this extension">
+	</td>
+	<td valign="top">
+		<img src="../images/extension-clickteam-expressions-presentation.png" alt="Image of the presentation movement expressions menu for this extension">
+	</td>
+</tr>
+</table>
+<p class="main_content_smaller">Capture d'&eacute;cran des actions (gauche) et 
+  des expressions (droite) qui peuvent &ecirc;tre appliqu&eacute;es &agrave; un 
+  objet contenant un mouvement pr&eacute;sentation.</p>
+
+
+<!-- Regular Polygon movement -->
+<a name="regular-polygon">
+<h2>Mouvement polyg&ocirc;ne r&eacute;gulier</h2>
+</a>
+<table cellpadding="0" border="0">
+<tr>
+	<td valign="top">
+		<img src="../images/extension-clickteam-actions-regpoly.png" alt="Image of the regular polygon movement actions menu for this extension">
+	</td>
+	<td valign="top">
+		<img src="../images/extension-clickteam-expressions-regpoly.png" alt="Image of the regular polygon movement expressions menu for this extension">
+	</td>
+</tr>
+</table>
+<p class="main_content_smaller">Capture d'&eacute;cran des actions (gauche) et 
+  des expressions (droite) qui peuvent &ecirc;tre appliqu&eacute;es &agrave; un 
+  objet contenant un mouvement polyg&ocirc;ne r&eacute;gulier.</p>
+
+<!-- Simple Ellipse movement -->
+<a name="simple-ellipse">
+<h2>Mouvement ellipse simple</h2>
+</a>
+<table cellpadding="0" border="0">
+<tr>
+	<td valign="top">
+		<img src="../images/extension-clickteam-actions-simellip.png" alt="Image of the simple ellipse movement actions menu for this extension">
+	</td>
+	<td valign="top">
+		<img src="../images/extension-clickteam-expressions-simellip.png" alt="Image of the simple ellipse movement expressions menu for this extension">
+	</td>
+</tr>
+</table>
+<p class="main_content_smaller">Capture d'&eacute;cran des actions (gauche) et 
+  des expressions (droite) qui peuvent &ecirc;tre appliqu&eacute;es &agrave; un 
+  objet contenant un mouvement ellipse simple.</p>
+
+<!-- Sinewave movement -->
+<a name="sinewave">
+<h2>Mouvement sinuso&iuml;de</h2>
+</a>
+<table cellpadding="0" border="0">
+<tr>
+	<td valign="top">
+		<img src="../images/extension-clickteam-actions-sinewave.png" alt="Image of the sinewave movement actions menu for this extension">
+	</td>
+	<td valign="top">
+		<img src="../images/extension-clickteam-expressions-sinewave.png" alt="Image of the sinewave movement expressions menu for this extension">
+	</td>
+</tr>
+</table>
+<p class="main_content_smaller">Capture d'&eacute;cran des actions (gauche) et 
+  des expressions (droite) qui peuvent &ecirc;tre appliqu&eacute;es &agrave; un 
+  objet contenant un mouvement sinuso&iuml;dal.</p>
+
+<!-- Vector movement -->
+<a name="vector">
+<h2>Mouvement vecteur</h2>
+</a>
+<table cellpadding="0" border="0">
+<tr>
+	<td valign="top">
+		<img src="../images/extension-clickteam-actions-vector.png" alt="Image of the vector movement actions menu for this extension">
+	</td>
+	<td valign="top">
+		<img src="../images/extension-clickteam-expressions-vector.png" alt="Image of the vector movement expressions menu for this extension">
+	</td>
+</tr>
+</table>
+<p class="main_content_smaller">Capture d'&eacute;cran des actions (gauche) et 
+  des expressions (droite) qui peuvent &ecirc;tre appliqu&eacute;es &agrave; un 
+  objet contenant un mouvement vecteur.</p>
+
+<br /><br /><br />
+
+</body>
+</html>

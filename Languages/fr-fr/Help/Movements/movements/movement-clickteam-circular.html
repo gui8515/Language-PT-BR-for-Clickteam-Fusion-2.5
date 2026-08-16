@@ -1,0 +1,93 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+
+<head>
+<title>Mouvement Circulaire - Clickteam</title>
+
+
+<link rel="stylesheet" href="../style_default.css" type="text/css">
+
+</head>
+<body>
+
+<h1>Mouvement Circulaire</h1>
+<p>
+
+<hr>
+
+<h2>Description</h2>
+<p class="main_content"> Ce mouvement automatis&eacute; rend simple la cr&eacute;ation 
+  de mouvements circulaires. Le mouvement contient &eacute;galement des propri&eacute;t&eacute;s 
+  additionnelles pour cr&eacute;er des spirales. Il peut &ecirc;tre utilis&eacute; 
+  pour cr&eacute;er des mouvements simples pour des ennemis, pour des menus, ou 
+  des plateformes &eacute;volu&eacute;es dans des jeux de plateforme.</p>
+
+<h2>Utilisation du mouvement</h2>
+<p class="main_content"> Apr&egrave;s avoir s&eacute;lectionn&eacute; votre mouvement, 
+  vous devez entrer la position du centre en X et en Y, notez que la position 
+  dans la sc&egrave;ne n'est pas importante pour ce mouvement. La taille (rayon) 
+  du cercle et la vitesse &agrave; laquelle l'objet compl&egrave;te une r&eacute;volution 
+  doit &ecirc;tre servie.<br />
+  <br />
+  Les propri&eacute;t&eacute;s optionnelles ne concernent que les spirales: avec 
+  elles le mouvement peut tourner en spirale vers l'interieur ou l'ext&eacute;rieur, 
+  et vous pouvez contr&ocirc;ler les tailles minimales et maximales de la spirale, 
+  et ce qui se produit lorsque ces limites sont atteintes. Si vous ne voulez pas 
+  de spirale, fixez simplement la valeur &quot;Vitesse de sp&icirc;rale&quot; 
+  &agrave; z&eacute;ro.</p>
+
+<h2>Propri&eacute;t&eacute;s</h2>
+<img src="../images/settings-circular.png" alt="Image montrant les propri&eacute;t&eacute;s du mouvement.">
+<p class="main_content_smaller"> Figure 1: propri&eacute;t&eacute;s du mouvement 
+  circulaire<br />
+  <br />
+</p>
+
+<p class="main_header">Propri&eacute;t&eacute;s g&eacute;n&eacute;rales</p>
+<p class="main_content"> <b>Bouge au d&eacute;marrage:</b> indique si le mouvement 
+  fonctionne au lancement de la sc&egrave;ne.</p>
+<br />
+<p class="main_header">Propri&eacute;t&eacute;s du mouvement circulaire</p>
+<p class="main_content"> <b>Vitesse angulaire:</b> Indique la vitesse de rotation 
+  de l'objet. Utilisez une valeur positive pour faire tourner dans le sens contraire 
+  des aiguilles d'une montre, et n&eacute;gative pour le sens des aiguilles d'une 
+  montre. L'unit&eacute; est en degr&eacute;s par seconde (pour une animation 
+  de 50 images par secondes).<br />
+  <b>Rayon:</b> rayon en pixels du cercle.<br />
+  <b>Centre X:</b> coordonn&eacute;e horizontale du centre du cercle. Note: pour 
+  tourner autour d'un autre objet, utilisez l'objet contr&ocirc;leur de mouvement, 
+  et changez en permanence le centre X &agrave; la position de l'objet.<br />
+  <b>Centre Y:</b> &eacute;quivalent &agrave; la valeur Centre X, pour l'axe vertical.<br />
+  <b>Angle de d&eacute;marrage:</b> fixe l'angle &agrave; partir duquel l'objet 
+  va d&eacute;marrer. La valeur est en degr&eacute;s entre 0 et 360 (mesur&eacute; 
+  dans le sens inverse des aiguilles d'une montre &agrave; partir de l'axe horizontal).<br />
+</p>
+<p class="main_header">Propri&eacute;t&eacute;s de spirale (optionnelles)</p>
+<p class="main_content"> <b>Vitesse de spirale:</b> vitesse de la spirale, mettez 
+  z&eacute;ro pour ne pas avoir de spirale. Une valeur positive provoque une spirale 
+  qui va vers l'ext&eacute;rieur, une valeur n&eacute;gative provoque une spirale 
+  qui va vers l'int&eacute;rieur. L'unit&eacute; est en pixels par seconde pour 
+  une vitesse d'animation de 50 images par secondes.<br />
+  <b>Rayon minimal de la spirale:</b> taille minimale de la spirale avant l'appel 
+  de l'action &quot;Une fois termin&eacute;&quot;<br />
+  <b>Rayon maximal de la spirale:</b> taille maximale de la spirale avant l'appel 
+  de l'action &quot;Une fois termin&eacute;&quot;.<br />
+  <b>Une fois termin&eacute;:</b> indique l'action &agrave; effectuer lorsque 
+  la spirale atteint la limite maximale ou minimale. Cette option inclu :<br />
+	<ul class="main_content">
+		
+  <li><b>Stop:</b> le mouvement s'arr&egrave;te</li>
+		
+  <li><b>Remise &agrave; z&eacute;ro:</b> le mouvement revient au d&eacute;but.</li>
+  <li><b>Inverser la vitesse:</b> la spirale d&eacute;croitra/grossira au lieu 
+    de grossir/d&eacute;croitre.</li>
+		
+  <li><b>Inverser le mouvement:</b> idem pr&eacute;c&eacute;demment, et inverse 
+    en plus la direction du mouvement circulaire.</li>
+	</ul>
+<p></p>
+
+<br /><br /><br />
+
+</body>
+</html>

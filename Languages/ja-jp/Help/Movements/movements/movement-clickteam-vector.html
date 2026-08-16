@@ -1,0 +1,55 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+
+<head>
+<!-- Inserted by TRADOS: --><META HTTP-EQUIV="content-type" CONTENT="text/html; charset=Shift_JIS">
+
+<title>ベクター - Clickteam</title>
+
+
+<link rel="stylesheet" href="../style_default.css" type="text/css">
+
+</head>
+<body>
+
+<h1>ベクター</h1>
+<p>
+
+<hr>
+
+<h2>概要</h2>
+<p class="main_content">
+一つの動作とコントローラーエクステンションで非常に多くの種類の動作を作成します。 この動作は、加速と速度を格納し (それらは毎ループ更新されます)、シンプルにオブジェクトをコントロールします。 この動作は、 Clickteam 動作コントローラー エクステンションが提供する多彩な操作オプションと組み合わせて使用することによって威力を発揮します。 詳しくはサンプルファイルをご確認ください。 注意: MMF1.5 ユーザーの方には、この動作が &quot;Movement Extension&quot; の代替になります。 CF 2.5 には &quot;Movement Extension&quot; は含まれていません。 
+</p>
+<h2>動作の使用</h2>
+<p class="main_content">
+ベクター動作は非常にたくさんの方法で使用が可能ですが、ほとんどの場合、コントローラーエクステンションが必要で、フレームに追加しておく必要があります。 プロパティの初期値は必要に応じて変更してください。 ただし、コントローラー エクステンションとイベントエディタを使用することでランタイム時に変更できますので、初期値はあまり重要でない場合もあります。 この動作の詳細は付属のサンプルファイルで確認することを強くお勧めいたします。 重力/加速が不要の場合は、強さを 0 に設定してください。 
+</p>
+
+<h2>フレームエディタでのプロパティ</h2>
+<img src="../images/settings-vector.png" alt="Image showing the properties for this movement">
+<p class="main_content_smaller">
+図 1: ベクター動作のプロパティ。  <br /><br />
+</p>
+
+<p class="main_header">全般のプロパティ</p>
+<p class="main_content">
+	<b>開始時に移動: </b>フレームの開始時に動作を開始するかを決定します。<br /><b>アニメーションの方向を自動的に変更: </b>このオプションが有効の場合、動作の方向をベースにしてアニメーションの方向を自動的に変更します。 場合によっては手動で方向を変更したいこともあるでしょう。 
+</p>
+<p class="main_header">初期方向と速度</p>
+<p class="main_content">
+	<b>速度: </b>オブジェクトの初期速度です。オブジェクトは、毎フレームここで設定した値 x 0.1 で移動します (加速しない場合)<br /> <b>方向: </b>オブジェクトが移動する初期方向 (角度) です。 <br />
+</p>
+<p class="main_header">重力 / 加速</p>
+<p class="main_content">
+	<b>強さ : </b>重力/加速の強さです。 オブジェクトの速度は、マイフレームここで設定した値 x 0.1 の係数で変化します。 <br /><b>方向: </b>オブジェクトに働く重力/加速の方向 (角度) です。<br />
+
+</p>
+
+<br />
+
+
+<br /><br /><br />
+
+</body>
+</html>

@@ -1,0 +1,45 @@
+﻿{
+	"version" : 1,
+	"lang" : 1041,
+	"general" : {
+		"%o : On error : Network error" : "%o : エラー発生時 : ネットワーク エラー",
+		"%o : On error : User not logged in" : "%o : エラー発生時 : ユーザーがログインしていない",
+		"%o : On player login" : "%o : プレイヤーのログイン時",
+		"%o : On player logout" : "%o : プレイヤーのログアウト時",
+		"%o : On user data %0 read" : "%o : ユーザー データ %0 の読み込み時",
+		"%o : On user data %0 written" : "%o : ユーザー データ %0 の書き込み時",
+		"%o : Player has coins" : "%o : プレイヤーがコインを所持している",
+		"%o : Player is logged in" : "%o : プレイヤーがログインしている",
+		"Hide login widget" : "ログイン ウィジェットを非表示",
+		"Key" : "キー",
+		"Mochi Social" : "Mochi Social",
+		"Obsolete. This object is provided for compatibility reasons only." : "廃止された。 このオブジェクトは互換性維持の目的で提供されており。",
+		"Read user data at key %0" : "キー %0 でユーザー データを読み込み",
+		"Show login widget" : "ログイン ウィジェットを表示",
+		"Value" : "Value",
+		"Write user data %1 to key %0" : "ユーザー データ %1 をキー %0 に書き込み"
+	},
+	"menu_20000" : {
+		"Hide login widget" : "ログイン ウィジェットを非表示",
+		"Read user data" : "ユーザー データを読み込み",
+		"Show login widget" : "ログイン ウィジェットを表示",
+		"Write user data" : "ユーザー データを書き込み"
+	},
+	"menu_20001" : {
+		"Network error" : "ネットワーク エラー",
+		"On error" : "エラー発生時",
+		"On player login" : "プレイヤーのログイン時",
+		"On player logout" : "プレイヤーのログアウト時",
+		"On user data read" : "ユーザー データの読み込み時",
+		"On user data written" : "ユーザー データの書き込み時",
+		"Player has coins?" : "プレイヤーがコインを所持している",
+		"Player is logged in" : "プレイヤーがログインしている",
+		"User not logged in" : "ユーザーがログインしていない"
+	},
+	"menu_20002" : {
+		"Get player name" : "プレイヤー名を取得",
+		"Get player profile image URL" : "プレイヤーのプロフィール画像 URL を取得",
+		"Get player unique identifier" : "プレイヤーの一意の識別子を取得",
+		"Get user data read value" : "ユーザー データ読み込み値を取得"
+	}
+}

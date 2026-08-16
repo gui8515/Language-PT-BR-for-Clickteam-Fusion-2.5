@@ -1,0 +1,56 @@
+﻿{
+	"version" : 1,
+	"lang" : 1041,
+	"general" : {
+
+		"%o: On Ad Clicked" : "%o: 広告がクリックされた",
+		"%o: On Ad Closed" : "%o: 広告が閉じられた",
+		"%o: On Ad Error" : "%o: 広告エラーが発生",
+		"%o: On Ad Loaded" : "%o: 広告がロードされた",
+		"%o: On Ad Shown" : "%o: 広告が表示された",
+		"%o: On Api Ready" : "%o: API  が準備完了",
+		"6V4" : "6V4",
+		"Disable Ads" : "広告を無効にする",
+		"Enable Ads" : "広告を有効にする",
+		"Enter Ad Size (0:320x250, 1:90x90)" : "広告のサイズを入力 (0: 320x250、 1: 90x90)",
+		"Enter Delay Value (in msecs, default is 3000)" : "遅延値を入力 (単位: ミリ秒、既定は 3000)",
+		"Enter Timeout Value (in msecs, default is 0)" : "タイムアウト値を入力 (単位: ミリ秒、既定は 0)",
+		"FGL - flash" : "FGL - flash",
+		"FGL Flash" : "FGL Flash",
+		"FGL Object for Flash. Provides special functionalities for FGL Ads in flash applications." : "Flash 用の FGL オブジェクトです。 Flash アプリに FGL Ads 広告の機能を提供します。",
+		"Game Id (from FGL dashboard)" : "Game ID (FGL Dashboard から)",
+		"Request Ad" : "広告をリクエスト",
+		"Set Ad Delay to %0" : "広告の遅延を %0 に変更",
+		"Set Ad Size to %0" : "広告のサイズを %0 に変更",
+		"Set Ad Timeout to %0" : "広告のタイムアウトを %0 に変更",
+		"Set Game ID to %0" : "Game ID を %0 に変更",
+		"Show Ad" : "広告を表示",
+		"just a review." : "レビュー用"
+	},
+	"menu_20000" : {
+
+		"Disable Ads" : "広告を無効にする",
+		"Enable Ads" : "広告を有効にする",
+		"Request Ad" : "広告をリクエスト",
+		"Set Ad Delay" : "広告の遅延を変更",
+		"Set Ad Size" : "広告のサイズを変更",
+		"Set Ad Timeout" : "広告のタイムアウトを変更",
+		"Set Game ID" : "Game ID を変更",
+		"Show Ad" : "広告を表示"
+	},
+	"menu_20001" : {
+
+		"On Ad Clicked" : "広告がクリックされた",
+		"On Ad Closed" : "広告が閉じられた",
+		"On Ad Error" : "広告エラーが発生",
+		"On Ad Loaded" : "広告がロードされた",
+		"On Ad Shown" : "広告が表示された",
+		"On Api Ready" : "API  が準備完了"
+	},
+	"menu_20002" : {
+
+		"Error String" : "エラー文字列",
+		"Error Value" : "エラー値",
+		"Get Status" : "ステータスを取得"
+	}
+}
