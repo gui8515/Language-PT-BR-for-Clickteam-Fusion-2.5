@@ -1,180 +1,319 @@
 {
   "About": {
-    "Name": "Android Old INI object",
-    "Author": "Clickteam",
-    "Copyright": "Copyright (C) 2014 Clickteam",
-    "Website": "http://www.clickteam.com",
-    "Comment": "Composant du module Android. Clone de l'ancien objet INI utilisé par les anciennes applications, utilisable en cas de nécessité de conservation de compatibilité.",
-    "URL": "http://www.clickteam.com",
-    "Help": "",
-    "Identifier": "AOin"
+    "Name": "Name",
+    "Author": "Author",
+    "Copyright": "Copyright",
+    "Website": "Website",
+    "Comment": "Comment",
+    "URL": "URL",
+    "Help": "Help",
+    "Identifier": "Identifier"
   },
-
-  "ActionMenu": [
-    [6, "Fixer fichier courant"],
-    [0, "Fixer groupe courant"],
-    [1, "Fixer élément courant"],
-
-    "Separator",
-
-    [2, "Fixer valeur"],
-    [7, "Fixer valeur (élément)"],
-    [8, "Fixer valeur (groupe - élément)"],
-
-    "Separator",
-
-    [5, "Fixer chaîne"],
-    [9, "Fixer chaîne (élément)"],
-    [10, "Fixer chaîne (groupe - élément)"],
-
-    "Separator",
-
-    [13, "Détruire groupe"],
-    [11, "Détruire élément"],
-    [12, "Détruire élément (groupe)"],
-
-    "Separator",
-
-    [3, "Enregistrer la position d'un objet"],
-    [4, "Charger la position d'un objet"],
-
-    "Separator"
-  ],
-
-  "ConditionMenu": [],
-
-  "ExpressionMenu": [
-    [0, "Récupérer valeur"],
-    [2, "Récupérer valeur (élément)"],
-    [3, "Récupérer valeur (groupe - élément)"],
-
-    "Separator",
-    [1, "Récupérer chaîne"],
-    [4, "Récupérer chaîne (élément)"],
-    [5, "Récupérer chaîne (groupe - élément)"],
-
-    "Separator"
-  ],
-
-  "Actions": [
-    {
-      "Title": "Fixer groupe courant à %0",
-      "Parameters": [["Text", "Entrer le nom du groupe"]]
+  "ActionMenu": {
+    "0": {
+      "0": "0",
+      "1": "1"
     },
-
-    {
-      "Title": "Fixer élément courant à %0",
-      "Parameters": [["Text", "Entrer le nom de l'élément"]]
+    "1": {
+      "0": "0",
+      "1": "1"
     },
-
-    {
-      "Title": "Fixer la valeur de l'élément courant à %0",
-      "Parameters": [["Integer", "Entrer la valeur"]]
+    "2": {
+      "0": "0",
+      "1": "1"
     },
-
-    {
-      "Title": "Enregistrer la position de %0",
-      "Parameters": [["Object", "Objet"]]
+    "3": "3",
+    "4": {
+      "0": "0",
+      "1": "1"
     },
-
-    {
-      "Title": "Charger la position de %0",
-      "Parameters": [["Object", "Objet"]]
+    "5": {
+      "0": "0",
+      "1": "1"
     },
-
-    {
-      "Title": "Fixer la chaîne de l'élément courant à %0",
-      "Parameters": [["Text", "Entrer la chaîne"]]
+    "6": {
+      "0": "0",
+      "1": "1"
     },
-
-    {
-      "Title": "Fixer fichier courant à %0",
-      "Parameters": [["Text", "Fichier INI"]]
+    "7": "7",
+    "8": {
+      "0": "0",
+      "1": "1"
     },
-
-    {
-      "Title": "Fixer valeur %1 dans élément %0",
-      "Parameters": [
-        ["Text", "Entrer le nom de l'élément"],
-        ["Integer", "Entrer la valeur"]
-      ]
+    "9": {
+      "0": "0",
+      "1": "1"
     },
-
-    {
-      "Title": "Fixer valeur %2 dans élément %1 et groupe %0",
-      "Parameters": [
-        ["Text", "Entrer le nom du groupe"],
-        ["Text", "Entrer le nom de l'élément"],
-        ["Integer", "Entrer la valeur"]
-      ]
+    "10": {
+      "0": "0",
+      "1": "1"
     },
-
-    {
-      "Title": "Fixer chaîne %1 de l'élément %0",
-      "Parameters": [
-        ["Text", "Entrer le nom de l'élément"],
-        ["Text", "Entrer la chaîne"]
-      ]
+    "11": "11",
+    "12": {
+      "0": "0",
+      "1": "1"
     },
-
-    {
-      "Title": "Fixer chaîne %2 de l'élément %1 dans le groupe %0",
-      "Parameters": [
-        ["Text", "Entrer le nom du groupe"],
-        ["Text", "Entrer le nom de l'élément"],
-        ["Text", "Entrer la chaîne"]
-      ]
+    "13": {
+      "0": "0",
+      "1": "1"
     },
-
-    {
-      "Title": "Détruire élément %0",
-      "Parameters": [["Text", "Entrer le nom de l'élément"]]
+    "14": {
+      "0": "0",
+      "1": "1"
     },
-
-    {
-      "Title": "Détruire élément %1 dans groupe %0",
-      "Parameters": [
-        ["Text", "Entrer le nom du groupe"],
-        ["Text", "Entrer le nom de l'élément"]
-      ]
+    "15": "15",
+    "16": {
+      "0": "0",
+      "1": "1"
     },
-
-    {
-      "Title": "Détruire groupe %0",
-      "Parameters": [["Text", "Entrer le nom du groupe"]]
+    "17": {
+      "0": "0",
+      "1": "1"
+    },
+    "18": "18"
+  },
+  "ConditionMenu": {},
+  "ExpressionMenu": {
+    "0": {
+      "0": "0",
+      "1": "1"
+    },
+    "1": {
+      "0": "0",
+      "1": "1"
+    },
+    "2": {
+      "0": "0",
+      "1": "1"
+    },
+    "3": "3",
+    "4": {
+      "0": "0",
+      "1": "1"
+    },
+    "5": {
+      "0": "0",
+      "1": "1"
+    },
+    "6": {
+      "0": "0",
+      "1": "1"
+    },
+    "7": "7"
+  },
+  "Actions": {
+    "0": {
+      "Title": "Title",
+      "Parameters": {
+        "0": {
+          "0": "0",
+          "1": "1"
+        }
+      }
+    },
+    "1": {
+      "Title": "Title",
+      "Parameters": {
+        "0": {
+          "0": "0",
+          "1": "1"
+        }
+      }
+    },
+    "2": {
+      "Title": "Title",
+      "Parameters": {
+        "0": {
+          "0": "0",
+          "1": "1"
+        }
+      }
+    },
+    "3": {
+      "Title": "Title",
+      "Parameters": {
+        "0": {
+          "0": "0",
+          "1": "1"
+        }
+      }
+    },
+    "4": {
+      "Title": "Title",
+      "Parameters": {
+        "0": {
+          "0": "0",
+          "1": "1"
+        }
+      }
+    },
+    "5": {
+      "Title": "Title",
+      "Parameters": {
+        "0": {
+          "0": "0",
+          "1": "1"
+        }
+      }
+    },
+    "6": {
+      "Title": "Title",
+      "Parameters": {
+        "0": {
+          "0": "0",
+          "1": "1"
+        }
+      }
+    },
+    "7": {
+      "Title": "Title",
+      "Parameters": {
+        "0": {
+          "0": "0",
+          "1": "1"
+        },
+        "1": {
+          "0": "0",
+          "1": "1"
+        }
+      }
+    },
+    "8": {
+      "Title": "Title",
+      "Parameters": {
+        "0": {
+          "0": "0",
+          "1": "1"
+        },
+        "1": {
+          "0": "0",
+          "1": "1"
+        },
+        "2": {
+          "0": "0",
+          "1": "1"
+        }
+      }
+    },
+    "9": {
+      "Title": "Title",
+      "Parameters": {
+        "0": {
+          "0": "0",
+          "1": "1"
+        },
+        "1": {
+          "0": "0",
+          "1": "1"
+        }
+      }
+    },
+    "10": {
+      "Title": "Title",
+      "Parameters": {
+        "0": {
+          "0": "0",
+          "1": "1"
+        },
+        "1": {
+          "0": "0",
+          "1": "1"
+        },
+        "2": {
+          "0": "0",
+          "1": "1"
+        }
+      }
+    },
+    "11": {
+      "Title": "Title",
+      "Parameters": {
+        "0": {
+          "0": "0",
+          "1": "1"
+        }
+      }
+    },
+    "12": {
+      "Title": "Title",
+      "Parameters": {
+        "0": {
+          "0": "0",
+          "1": "1"
+        },
+        "1": {
+          "0": "0",
+          "1": "1"
+        }
+      }
+    },
+    "13": {
+      "Title": "Title",
+      "Parameters": {
+        "0": {
+          "0": "0",
+          "1": "1"
+        }
+      }
     }
-  ],
-
-  "Conditions": [],
-
-  "Expressions": [
-    { "Title": "value of(", "Returns": "Integer" },
-    { "Title": "string of$(", "Returns": "Text" },
-    {
-      "Title": "ItemValue(",
-      "Returns": "Integer",
-      "Parameters": [["Text", "Nom de l'élément"]]
+  },
+  "Conditions": {},
+  "Expressions": {
+    "0": {
+      "Title": "Title",
+      "Returns": "Returns"
     },
-    {
-      "Title": "GroupItemValue(",
-      "Returns": "Integer",
-      "Parameters": [
-        ["Text", "Nom de groupe"],
-        ["Text", "Nom de l'élément"]
-      ]
+    "1": {
+      "Title": "Title",
+      "Returns": "Returns"
     },
-    {
-      "Title": "ItemString$(",
-      "Returns": "Text",
-      "Parameters": [["Text", "Nom de l'élément"]]
+    "2": {
+      "Title": "Title",
+      "Returns": "Returns",
+      "Parameters": {
+        "0": {
+          "0": "0",
+          "1": "1"
+        }
+      }
     },
-    {
-      "Title": "GroupItemString$(",
-      "Returns": "Text",
-      "Parameters": [
-        ["Text", "Nom de groupe"],
-        ["Text", "Nom de l'élément"]
-      ]
+    "3": {
+      "Title": "Title",
+      "Returns": "Returns",
+      "Parameters": {
+        "0": {
+          "0": "0",
+          "1": "1"
+        },
+        "1": {
+          "0": "0",
+          "1": "1"
+        }
+      }
+    },
+    "4": {
+      "Title": "Title",
+      "Returns": "Returns",
+      "Parameters": {
+        "0": {
+          "0": "0",
+          "1": "1"
+        }
+      }
+    },
+    "5": {
+      "Title": "Title",
+      "Returns": "Returns",
+      "Parameters": {
+        "0": {
+          "0": "0",
+          "1": "1"
+        },
+        "1": {
+          "0": "0",
+          "1": "1"
+        }
+      }
     }
-  ]
+  }
 }
