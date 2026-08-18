@@ -1,29 +1,29 @@
-﻿{
-	"version" : 1,
-	"lang" : 1036,
-	"general" : {
-		"Cannot find %s!" : "Impossible de trouver %s!",
-		"Cannot initialize application." : "Impossible d'initialiser l'application.",
-		"Cannot load %s. This object might need an external program or library not yet installed." : "Impossible de charger %s. Cet objet a peut-être besoin d'un programme externe ou d'une librairie non installée.",
-		"Error while opening file." : "Erreur lors de l'ouverture du fichier.",
-		"File error!" : "Erreur de fichier!",
-		"Not enough memory to start Help.\n\nQuit one or more applications to increase available memory, and then try again." : "Pas assez de mémoire pour lancer l'aide.\n\nQuittez les applications ouvertes pour augmenter la mémoire libre et réessayez.",
-		"Not enough memory!" : "Pas assez de mémoire!",
-		"Screen Saver" : "Economiseur d'écran",
-		"Screen Saver.Click                   " : "Screen Saver.Click                   ",
-		"Screen saver description" : "Description de l'économiseur d'écran",
-		"ScreenSaver" : "ScreenSaver",
-		"There is not enough available space in the temporary drive. Free some disk space and try again." : "Il n'y a pas assez d'espace disponible sur le drive temporaire. Libérez de l'espace disque et ré-essayez.",
-		"This application has been built with an incompatible version of Clickteam Fusion." : "Cette application a été construite avec une version incompatible de Clickteam Fusion.",
-		"Unknown format!" : "Format inconnu!",
-		"control.hlp" : "control.hlp",
-		"control.ini" : "control.ini"
-	},
-	"dialog_2003" : {
-		"Cancel" : "Annuler",
-		"OK" : "OK",
-		"Play musics" : "Jouer les musiques",
-		"Play samples" : "Jouer les sons",
-		"Set-up" : "Installation"
-	}
+{
+  "version": "version",
+  "lang": "lang",
+  "general": {
+    "Cannot find %s!": "Cannot find %s!",
+    "Cannot initialize application.": "Cannot initialize application.",
+    "Cannot load %s. This object might need an external program or library not yet installed.": "Cannot load %s. This object might need an external program or library not yet installed.",
+    "Error while opening file.": "Error while opening file.",
+    "File error!": "File error!",
+    "Not enough memory to start Help.\n\nQuit one or more applications to increase available memory, and then try again.": "Not enough memory to start Help.\n\nQuit one or more applications to increase available memory, and then try again.",
+    "Not enough memory!": "Not enough memory!",
+    "Screen Saver": "Screen Saver",
+    "Screen Saver.Click                   ": "Screen Saver.Click                   ",
+    "Screen saver description": "Screen saver description",
+    "ScreenSaver": "ScreenSaver",
+    "There is not enough available space in the temporary drive. Free some disk space and try again.": "There is not enough available space in the temporary drive. Free some disk space and try again.",
+    "This application has been built with an incompatible version of Clickteam Fusion.": "This application has been built with an incompatible version of Clickteam Fusion.",
+    "Unknown format!": "Unknown format!",
+    "control.hlp": "control.hlp",
+    "control.ini": "control.ini"
+  },
+  "dialog_2003": {
+    "Cancel": "Cancel",
+    "OK": "OK",
+    "Play musics": "Play musics",
+    "Play samples": "Play samples",
+    "Set-up": "Set-up"
+  }
 }

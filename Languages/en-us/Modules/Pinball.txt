@@ -1,17 +1,17 @@
-﻿{
-	"version" : 1,
-	"lang" : 1036,
-	"general" : {
-		"Check if the object should move at start of frame" : "Vérifie si l'objet doit bouger au démarrage de la scène",
-		"Choose the strengh of the gravity" : "Choisissez la force de gravité",
-		"Deceleration" : "Décélération",
-		"Enter the deceleration factor" : "Entrez le coefficient de décélération",
-		"Enter the initial speed of the object" : "Entrez la vitesse initiale de l'objet",
-		"Gravity" : "Gravité",
-		"Initial direction" : "Direction initiale",
-		"Initial speed" : "Vitesse Initiale",
-		"Move at start" : "Bouger au démarrage",
-		"Pinball movement" : "Mouvement Flipper",
-		"Please choose the intial direction of the object" : "Veuillez choisir la direction initiale de l'objet"
-	}
+{
+  "version": "version",
+  "lang": "lang",
+  "general": {
+    "Check if the object should move at start of frame": "Check if the object should move at start of frame",
+    "Choose the strengh of the gravity": "Choose the strengh of the gravity",
+    "Deceleration": "Deceleration",
+    "Enter the deceleration factor": "Enter the deceleration factor",
+    "Enter the initial speed of the object": "Enter the initial speed of the object",
+    "Gravity": "Gravity",
+    "Initial direction": "Initial direction",
+    "Initial speed": "Initial speed",
+    "Move at start": "Move at start",
+    "Pinball movement": "Pinball movement",
+    "Please choose the intial direction of the object": "Please choose the intial direction of the object"
+  }
 }

@@ -27,21 +27,22 @@ function transformKeysToValues(obj) {
 async function processJsonFile(filePath) {
     try {
         const content = await fs.readFile(filePath, 'utf-8');
-        // Tenta parsear o JSON
+        const normalizedContent = content.replace(/^\uFEFF/, '');
+
         let data;
         try {
-            data = JSON.parse(content);
+            data = JSON.parse(normalizedContent);
         }
         catch (err) {
             console.warn(`⚠️ Ignorando ${path.basename(filePath)}: Não é um JSON válido.`);
             return;
         }
-        // Verifica se a raiz do arquivo é realmente um objeto
+
         if (!data || typeof data !== 'object') {
             console.warn(`⚠️ Ignorando ${path.basename(filePath)}: Raiz não é um objeto JSON.`);
             return;
         }
-        // Transforma e salva de volta no mesmo caminho
+
         const transformed = transformKeysToValues(data);
         await fs.writeFile(filePath, JSON.stringify(transformed, null, 2));
         console.log(`✅ Processado e salvo: ${path.basename(filePath)}`);
@@ -51,19 +52,24 @@ async function processJsonFile(filePath) {
     }
 }
 /**
- * Varre uma diretória e processa todos os arquivos .json
+ * Varre uma diretória e processa todos os arquivos .json e .txt que contenham JSON
  */
 async function processJsonDirectory(dirPath) {
     try {
         const files = await fs.readdir(dirPath);
         let processedCount = 0;
+
         for (const file of files) {
-            if (file.toLowerCase().endsWith('.json')) {
+            const extension = path.extname(file).toLowerCase();
+            const isJsonLikeFile = extension === '.json' || extension === '.txt';
+
+            if (isJsonLikeFile) {
                 const filePath = path.join(dirPath, file);
                 await processJsonFile(filePath);
                 processedCount++;
             }
         }
+
         console.log(`\n🎉 Processamento concluído! Total de arquivos tratados: ${processedCount}`);
     }
     catch (error) {
