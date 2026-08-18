@@ -9,311 +9,311 @@
     "Help": "Help",
     "Identifier": "Identifier"
   },
-  "ActionMenu": {
-    "0": {
-      "0": "0",
-      "1": "1"
-    },
-    "1": {
-      "0": "0",
-      "1": "1"
-    },
-    "2": {
-      "0": "0",
-      "1": "1"
-    },
-    "3": "3",
-    "4": {
-      "0": "0",
-      "1": "1"
-    },
-    "5": {
-      "0": "0",
-      "1": "1"
-    },
-    "6": {
-      "0": "0",
-      "1": "1"
-    },
-    "7": "7",
-    "8": {
-      "0": "0",
-      "1": "1"
-    },
-    "9": {
-      "0": "0",
-      "1": "1"
-    },
-    "10": {
-      "0": "0",
-      "1": "1"
-    },
-    "11": "11",
-    "12": {
-      "0": "0",
-      "1": "1"
-    },
-    "13": {
-      "0": "0",
-      "1": "1"
-    },
-    "14": {
-      "0": "0",
-      "1": "1"
-    },
-    "15": "15",
-    "16": {
-      "0": "0",
-      "1": "1"
-    },
-    "17": {
-      "0": "0",
-      "1": "1"
-    },
-    "18": "18"
-  },
-  "ConditionMenu": {},
-  "ExpressionMenu": {
-    "0": {
-      "0": "0",
-      "1": "1"
-    },
-    "1": {
-      "0": "0",
-      "1": "1"
-    },
-    "2": {
-      "0": "0",
-      "1": "1"
-    },
-    "3": "3",
-    "4": {
-      "0": "0",
-      "1": "1"
-    },
-    "5": {
-      "0": "0",
-      "1": "1"
-    },
-    "6": {
-      "0": "0",
-      "1": "1"
-    },
-    "7": "7"
-  },
-  "Actions": {
-    "0": {
+  "ActionMenu": [
+    [
+      6,
+      "Fixer fichier courant"
+    ],
+    [
+      0,
+      "Fixer groupe courant"
+    ],
+    [
+      1,
+      "Fixer élément courant"
+    ],
+    "Separator",
+    [
+      2,
+      "Fixer valeur"
+    ],
+    [
+      7,
+      "Fixer valeur (élément)"
+    ],
+    [
+      8,
+      "Fixer valeur (groupe - élément)"
+    ],
+    "Separator",
+    [
+      5,
+      "Fixer chaîne"
+    ],
+    [
+      9,
+      "Fixer chaîne (élément)"
+    ],
+    [
+      10,
+      "Fixer chaîne (groupe - élément)"
+    ],
+    "Separator",
+    [
+      13,
+      "Détruire groupe"
+    ],
+    [
+      11,
+      "Détruire élément"
+    ],
+    [
+      12,
+      "Détruire élément (groupe)"
+    ],
+    "Separator",
+    [
+      3,
+      "Enregistrer la position d'un objet"
+    ],
+    [
+      4,
+      "Charger la position d'un objet"
+    ],
+    "Separator"
+  ],
+  "ConditionMenu": [],
+  "ExpressionMenu": [
+    [
+      0,
+      "Récupérer valeur"
+    ],
+    [
+      2,
+      "Récupérer valeur (élément)"
+    ],
+    [
+      3,
+      "Récupérer valeur (groupe - élément)"
+    ],
+    "Separator",
+    [
+      1,
+      "Récupérer chaîne"
+    ],
+    [
+      4,
+      "Récupérer chaîne (élément)"
+    ],
+    [
+      5,
+      "Récupérer chaîne (groupe - élément)"
+    ],
+    "Separator"
+  ],
+  "Actions": [
+    {
       "Title": "Title",
-      "Parameters": {
-        "0": {
-          "0": "0",
-          "1": "1"
-        }
-      }
+      "Parameters": [
+        [
+          "Text",
+          "Entrer le nom du groupe"
+        ]
+      ]
     },
-    "1": {
+    {
       "Title": "Title",
-      "Parameters": {
-        "0": {
-          "0": "0",
-          "1": "1"
-        }
-      }
+      "Parameters": [
+        [
+          "Text",
+          "Entrer le nom de l'élément"
+        ]
+      ]
     },
-    "2": {
+    {
       "Title": "Title",
-      "Parameters": {
-        "0": {
-          "0": "0",
-          "1": "1"
-        }
-      }
+      "Parameters": [
+        [
+          "Integer",
+          "Entrer la valeur"
+        ]
+      ]
     },
-    "3": {
+    {
       "Title": "Title",
-      "Parameters": {
-        "0": {
-          "0": "0",
-          "1": "1"
-        }
-      }
+      "Parameters": [
+        [
+          "Object",
+          "Objet"
+        ]
+      ]
     },
-    "4": {
+    {
       "Title": "Title",
-      "Parameters": {
-        "0": {
-          "0": "0",
-          "1": "1"
-        }
-      }
+      "Parameters": [
+        [
+          "Object",
+          "Objet"
+        ]
+      ]
     },
-    "5": {
+    {
       "Title": "Title",
-      "Parameters": {
-        "0": {
-          "0": "0",
-          "1": "1"
-        }
-      }
+      "Parameters": [
+        [
+          "Text",
+          "Entrer la chaîne"
+        ]
+      ]
     },
-    "6": {
+    {
       "Title": "Title",
-      "Parameters": {
-        "0": {
-          "0": "0",
-          "1": "1"
-        }
-      }
+      "Parameters": [
+        [
+          "Text",
+          "Fichier INI"
+        ]
+      ]
     },
-    "7": {
+    {
       "Title": "Title",
-      "Parameters": {
-        "0": {
-          "0": "0",
-          "1": "1"
-        },
-        "1": {
-          "0": "0",
-          "1": "1"
-        }
-      }
+      "Parameters": [
+        [
+          "Text",
+          "Entrer le nom de l'élément"
+        ],
+        [
+          "Integer",
+          "Entrer la valeur"
+        ]
+      ]
     },
-    "8": {
+    {
       "Title": "Title",
-      "Parameters": {
-        "0": {
-          "0": "0",
-          "1": "1"
-        },
-        "1": {
-          "0": "0",
-          "1": "1"
-        },
-        "2": {
-          "0": "0",
-          "1": "1"
-        }
-      }
+      "Parameters": [
+        [
+          "Text",
+          "Entrer le nom du groupe"
+        ],
+        [
+          "Text",
+          "Entrer le nom de l'élément"
+        ],
+        [
+          "Integer",
+          "Entrer la valeur"
+        ]
+      ]
     },
-    "9": {
+    {
       "Title": "Title",
-      "Parameters": {
-        "0": {
-          "0": "0",
-          "1": "1"
-        },
-        "1": {
-          "0": "0",
-          "1": "1"
-        }
-      }
+      "Parameters": [
+        [
+          "Text",
+          "Entrer le nom de l'élément"
+        ],
+        [
+          "Text",
+          "Entrer la chaîne"
+        ]
+      ]
     },
-    "10": {
+    {
       "Title": "Title",
-      "Parameters": {
-        "0": {
-          "0": "0",
-          "1": "1"
-        },
-        "1": {
-          "0": "0",
-          "1": "1"
-        },
-        "2": {
-          "0": "0",
-          "1": "1"
-        }
-      }
+      "Parameters": [
+        [
+          "Text",
+          "Entrer le nom du groupe"
+        ],
+        [
+          "Text",
+          "Entrer le nom de l'élément"
+        ],
+        [
+          "Text",
+          "Entrer la chaîne"
+        ]
+      ]
     },
-    "11": {
+    {
       "Title": "Title",
-      "Parameters": {
-        "0": {
-          "0": "0",
-          "1": "1"
-        }
-      }
+      "Parameters": [
+        [
+          "Text",
+          "Entrer le nom de l'élément"
+        ]
+      ]
     },
-    "12": {
+    {
       "Title": "Title",
-      "Parameters": {
-        "0": {
-          "0": "0",
-          "1": "1"
-        },
-        "1": {
-          "0": "0",
-          "1": "1"
-        }
-      }
+      "Parameters": [
+        [
+          "Text",
+          "Entrer le nom du groupe"
+        ],
+        [
+          "Text",
+          "Entrer le nom de l'élément"
+        ]
+      ]
     },
-    "13": {
+    {
       "Title": "Title",
-      "Parameters": {
-        "0": {
-          "0": "0",
-          "1": "1"
-        }
-      }
+      "Parameters": [
+        [
+          "Text",
+          "Entrer le nom du groupe"
+        ]
+      ]
     }
-  },
-  "Conditions": {},
-  "Expressions": {
-    "0": {
+  ],
+  "Conditions": [],
+  "Expressions": [
+    {
       "Title": "Title",
       "Returns": "Returns"
     },
-    "1": {
+    {
       "Title": "Title",
       "Returns": "Returns"
     },
-    "2": {
+    {
       "Title": "Title",
       "Returns": "Returns",
-      "Parameters": {
-        "0": {
-          "0": "0",
-          "1": "1"
-        }
-      }
+      "Parameters": [
+        [
+          "Text",
+          "Nom de l'élément"
+        ]
+      ]
     },
-    "3": {
+    {
       "Title": "Title",
       "Returns": "Returns",
-      "Parameters": {
-        "0": {
-          "0": "0",
-          "1": "1"
-        },
-        "1": {
-          "0": "0",
-          "1": "1"
-        }
-      }
+      "Parameters": [
+        [
+          "Text",
+          "Nom de groupe"
+        ],
+        [
+          "Text",
+          "Nom de l'élément"
+        ]
+      ]
     },
-    "4": {
+    {
       "Title": "Title",
       "Returns": "Returns",
-      "Parameters": {
-        "0": {
-          "0": "0",
-          "1": "1"
-        }
-      }
+      "Parameters": [
+        [
+          "Text",
+          "Nom de l'élément"
+        ]
+      ]
     },
-    "5": {
+    {
       "Title": "Title",
       "Returns": "Returns",
-      "Parameters": {
-        "0": {
-          "0": "0",
-          "1": "1"
-        },
-        "1": {
-          "0": "0",
-          "1": "1"
-        }
-      }
+      "Parameters": [
+        [
+          "Text",
+          "Nom de groupe"
+        ],
+        [
+          "Text",
+          "Nom de l'élément"
+        ]
+      ]
     }
-  }
+  ]
 }

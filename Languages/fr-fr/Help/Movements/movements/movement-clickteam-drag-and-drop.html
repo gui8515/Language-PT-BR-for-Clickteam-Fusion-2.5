@@ -1,124 +1,70 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html lang="en">
-  <head>
-    <title>Mouvement Tirer et Lï¿½cher - Clickteam</title>
 
-    <link rel="stylesheet" href="../style_default.css" type="text/css" />
-  </head>
-  <body>
-    <h1>Mouvement Tirer et Lï¿½cher</h1>
-    <p></p>
+<head>
+<title>Mouvement Tirer et Lâcher - Clickteam</title>
 
-    <hr />
 
-    <h2>Description</h2>
-    <p class="main_content">
-      Ce mouvement vous permet de tirer vos objets ï¿½ la souris. Le dï¿½placement
-      d'un objet ayant ce mouvement peut ï¿½tre limitï¿½ ï¿½ une zone donnï¿½e et alignï¿½
-      sur une grille. Vous pouvez sï¿½lectionner diverses options comme la mï¿½thode
-      de dï¿½placement de l'objet. Les utilisateurs avancï¿½s peuvent changer les
-      options et contrï¿½ler le mouvement via l'ï¿½diteur d'ï¿½vï¿½nements.
-    </p>
+<link rel="stylesheet" href="../style_default.css" type="text/css">
 
-    <h2>Utilisation du mouvement</h2>
-    <p class="main_content">
-      Par dï¿½faut, l'objet est tirï¿½ classiquement en gardant le bouton gauche de
-      la souris appuyï¿½.
-    </p>
-    <p class="main_content">
-      Si vous dï¿½sirez changer le bouton et la mï¿½thode utilisï¿½e pour tirer
-      l'objet, ou restreindre le dï¿½placement, sï¿½lectionnez les propriï¿½tï¿½s
-      adï¿½quates dï¿½crites ci-dessous. L'objet est toujours tirï¿½ grï¿½ce ï¿½ un clic
-      souris. Si l'objet a l'option "collisions fines", alors l'utilisateur doit
-      cliquer sur une partie non transparente de l'objet.
-    </p>
-    <p class="main_content">
-      <b
-        >Note: si l'utilisateur a choisi d'inverser les boutons de la souris
-        (par exemple s'il est gaucher) alors le bouton utilisï¿½ pour tirer
-        l'objet est aussi inversï¿½.</b
-      >
-    </p>
-    <p class="main_content">
-      L'animation Marcher est jouï¿½e pendant que l'objet est tirï¿½, l'animation
-      Stop est jouï¿½e quand il est stationnaire.
-    </p>
-    <h2>Propriï¿½tï¿½s</h2>
+</head>
+<body>
 
-    <p class="main_content_smaller">
-      <img
-        src="../images/settings-drag-and-drop.png"
-        width="299"
-        height="290"
-      />
-    </p>
-    <p class="main_content_smaller">
-      Figure 1: Propriï¿½tï¿½s du mouvement Tirer et Lï¿½cher. <br />
-      <br />
-    </p>
+<h1>Mouvement Tirer et Lâcher</h1>
+<p>
 
-    <p class="main_header">Propriï¿½tï¿½s Gï¿½nï¿½rales</p>
-    <p class="main_content">
-      <b>Mï¿½thode:</b> indique comment l'utilisateur tire l'objet :
-    </p>
-    <ul class="main_content">
-      <li>
-        <b>Bouton gauche souris pressï¿½:</b> l'objet est tirï¿½ tant que le bouton
-        gauche de la souris est appuyï¿½ et lï¿½chï¿½ quand le bouton est relï¿½chï¿½.
-      </li>
-      <li>
-        <b>Bouton droite souris pressï¿½:</b> comme ci-dessus, avec le bouton
-        droite.
-      </li>
-      <li>
-        <b>Clic bouton gauche souris:</b> l'objet commence ï¿½ ï¿½tre tirï¿½ quand
-        l'utilisateur clique sur lui avec le bouton gauche de la souris, il est
-        lï¿½chï¿½ quand l'utilisateur clique une nouvelle fois.
-      </li>
-      <li>
-        <b>Clic bouton droite souris:</b> comme ci-dessus, avec le bouton
-        droite.
-      </li>
-      <li>
-        <b>Aucune (contrï¿½lï¿½ par utilisateur):</b> le mouvement est contrï¿½lï¿½ par
-        des actions. Utilisez <i>Mouvement &gt; Dï¿½marrer</i> pour commencer ï¿½
-        tirer l'objet et <i>Mouvement &gt; Stop</i> pour le lï¿½cher.
-      </li>
-    </ul>
-    <p class="main_content">
-      <b>Limiter zone de dï¿½placement:</b> limite la zone dans laquelle l'objet
-      peut ï¿½tre tirï¿½. Les paramï¿½tres de la zone peuvent ï¿½tre modifiï¿½s dans la
-      section <i>Propriï¿½tï¿½s Zone de Dï¿½placement</i>.<br />
-      <b>Aimanter ï¿½ une grille invisible:</b> l'objet se dï¿½place sur une grille
-      pendant qu'il est tirï¿½. Voir la section
-      <i>Propriï¿½tï¿½s Aimantation Grille</i>.
-    </p>
-    <p class="main_header">Propriï¿½tï¿½s Zone de Dï¿½placement</p>
-    <p class="main_content">
-      L'objet ne peut pas ï¿½tre dï¿½placï¿½ hors de la zone dï¿½finie dans cette
-      section.<br />
-      <b>X:</b> position X du cï¿½tï¿½ gauche de la zone.<br />
-      <b>Y:</b> position Y du cï¿½tï¿½ haut de la zone.<br />
-      <b>W:</b> largeur de la zone.<br />
-      <b>H:</b> hauteur de la zone.<br />
-      <b>Lï¿½cher l'objet quand tirï¿½ hors zone:</b> si cette option est cochï¿½e,
-      l'objet est automatique lï¿½chï¿½ quand l'utilisateur essaye de tirer l'objet
-      en dehors de la zone autorisï¿½e. Si cette option n'est pas cochï¿½e, l'objet
-      sera lï¿½chï¿½ quand l'utilisateur le lï¿½chera (ou quand le mouvement sera
-      stoppï¿½ par une action).<br />
-      <b>Garder objet dans zone autorisï¿½e:</b> par dï¿½faut la zone limitï¿½e
-      n'affecte l'objet que lorsqu'il est tirï¿½. Si vous cochez cette propriï¿½tï¿½,
-      l'objet ne pourra pas sortir de cette zone mï¿½me avec une action Fixer
-      Position.<br />
-    </p>
-    <p class="main_header">Propriï¿½tï¿½s Aimantation Grille</p>
-    <p class="main_content">
-      <b>X origine:</b> position X de l'origine de la grille.<br />
-      <b>Y origine:</b> position Y de l'origine de la grille.<br />
-      <b>Largeur:</b> largeur d'une case de la grille.<br />
-      <b>Hauteur:</b> hauteur d'une case de la grille.<br />
-    </p>
+<hr>
 
-    <br /><br /><br />
-  </body>
+<h2>Description</h2>
+<p class="main_content">Ce mouvement vous permet de tirer vos objets à la souris. Le déplacement d'un objet 
+  ayant ce mouvement peut être limité à une zone donnée et aligné sur une grille. Vous pouvez sélectionner
+  diverses options comme la méthode de déplacement de l'objet. Les utilisateurs avancés peuvent changer
+  les options et contrôler le mouvement via l'éditeur d'événements.</p>
+
+<h2>Utilisation du mouvement</h2>
+<p class="main_content">Par défaut, l'objet est tiré classiquement en gardant le bouton gauche de la souris appuyé.</p>
+<p class="main_content">Si vous désirez changer le bouton et la méthode utilisée pour tirer l'objet, ou restreindre le déplacement,
+  sélectionnez les propriétés adéquates décrites ci-dessous. L'objet est toujours tiré grâce à un clic souris. Si l'objet
+  a l'option "collisions fines", alors l'utilisateur doit cliquer sur une partie non transparente de l'objet.</p>
+<p class="main_content"><b>Note: si l'utilisateur a choisi d'inverser les boutons de la souris (par exemple s'il est gaucher) alors le
+  bouton utilisé pour tirer l'objet est aussi inversé.</b></p>
+<p class="main_content">L'animation Marcher est jouée pendant que l'objet est tiré, l'animation Stop est jouée quand il est stationnaire.</p>
+<h2>Propriétés</h2>
+
+<p class="main_content_smaller"> <img src="../images/settings-drag-and-drop.png" width="299" height="290"></p>
+<p class="main_content_smaller">Figure 1: Propriétés du mouvement Tirer et Lâcher. <br />
+  <br />
+</p>
+
+<p class="main_header">Propriétés Générales</p>
+<p class="main_content"><b>Méthode:</b> indique comment l'utilisateur tire l'objet : </p>
+  <ul class="main_content">
+    <li><b>Bouton gauche souris pressé:</b> l'objet est tiré tant que le bouton gauche de la souris est appuyé et lâché quand le bouton est relâché.</li>
+    <li><b>Bouton droite souris pressé:</b> comme ci-dessus, avec le bouton droite.</li>
+    <li><b>Clic bouton gauche souris:</b> l'objet commence à être tiré quand l'utilisateur clique sur lui avec le bouton gauche de la souris, il est lâché quand l'utilisateur clique une nouvelle fois.</li>
+	<li><b>Clic bouton droite souris:</b> comme ci-dessus, avec le bouton droite.</li>
+	<li><b>Aucune (contrôlé par utilisateur):</b> le mouvement est contrôlé par des actions. Utilisez <i>Mouvement &gt; Démarrer</i> pour commencer à tirer l'objet et <i>Mouvement &gt; Stop</i> pour le lâcher.</li>
+  </ul>
+  <p class="main_content"><b>Limiter zone de déplacement:</b> limite la zone dans laquelle l'objet peut être tiré. Les paramètres de la zone peuvent être modifiés dans la section <i>Propriétés Zone de Déplacement</i>.<br />
+  <b>Aimanter à une grille invisible:</b> l'objet se déplace sur une grille pendant qu'il est tiré. Voir la section <i>Propriétés Aimantation Grille</i>.</p>
+<p class="main_header">Propriétés Zone de Déplacement</p>
+<p class="main_content">L'objet ne peut pas être déplacé hors de la zone définie dans cette section.<br />
+  <b>X:</b> position X du côté gauche de la zone.<br />
+  <b>Y:</b> position Y du côté haut de la zone.<br />
+  <b>W:</b> largeur de la zone.<br />
+  <b>H:</b> hauteur de la zone.<br />
+  <b>Lâcher l'objet quand tiré hors zone:</b> si cette option est cochée, l'objet est automatique lâché quand l'utilisateur essaye de tirer l'objet en dehors de la zone autorisée. Si cette option n'est pas cochée, l'objet sera lâché quand l'utilisateur le lâchera (ou quand le mouvement sera stoppé par une action).<br />
+  <b>Garder objet dans zone autorisée:</b> par défaut la zone limitée n'affecte l'objet que lorsqu'il est tiré. Si vous cochez cette propriété, l'objet ne pourra pas sortir de cette zone même avec une action Fixer Position.<br />
+</p>
+<p class="main_header">Propriétés Aimantation Grille</p>
+<p class="main_content">
+<b>X origine:</b> position X de l'origine de la grille.<br />
+  <b>Y origine:</b> position Y de l'origine de la grille.<br />
+  <b>Largeur:</b> largeur d'une case de la grille.<br />
+  <b>Hauteur:</b> hauteur d'une case de la grille.<br />
+</p>
+
+<br /><br /><br />
+
+</body>
 </html>

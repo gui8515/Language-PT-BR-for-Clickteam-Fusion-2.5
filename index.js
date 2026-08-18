@@ -1,23 +1,35 @@
 import fs from "fs/promises";
 import path from "path";
 /**
- * Recursivamente substitui cada valor por seu nome de chave
+ * Mantém a estrutura de arrays intacta e converte apenas os valores
+ * de propriedades de objetos para o nome da chave.
  */
-function transformKeysToValues(obj) {
-  const result = {};
-  for (const key in obj) {
-    // Garante que só processamos propriedades do próprio objeto (não da protótipo)
-    if (!Object.prototype.hasOwnProperty.call(obj, key)) continue;
-    const currentValue = obj[key];
-    if (currentValue !== null && typeof currentValue === "object") {
-      // Se for objeto, recursa para os dados internos
-      result[key] = transformKeysToValues(currentValue);
-    } else {
-      // Caso contrário, substitui o valor pelo nome da chave em string
-      result[key] = String(key);
-    }
+function transformKeysToValues(value) {
+  if (Array.isArray(value)) {
+    return value.map((item) => transformKeysToValues(item));
   }
-  return result;
+
+  if (value !== null && typeof value === "object") {
+    const result = {};
+
+    for (const key in value) {
+      if (!Object.prototype.hasOwnProperty.call(value, key)) continue;
+
+      const currentValue = value[key];
+      if (
+        Array.isArray(currentValue) ||
+        (currentValue !== null && typeof currentValue === "object")
+      ) {
+        result[key] = transformKeysToValues(currentValue);
+      } else {
+        result[key] = String(key);
+      }
+    }
+
+    return result;
+  }
+
+  return value;
 }
 /**
  * Lê e transforma um único arquivo JSON

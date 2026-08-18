@@ -9,168 +9,101 @@
     "Help": "Help",
     "Identifier": "Identifier"
   },
-  "ActionMenu": {
-    "0": {
-      "0": "0",
-      "1": "1"
+  "ActionMenu": [
+    [0, "Définir le nom de l'album"],
+    [1, "Prendre une photo"],
+    [2, "Prendre une vidéo"],
+    "Separator",
+    [3, "Sélectionner dans la Galerie"],
+    "Separator"
+  ],
+  "ConditionMenu": [
+    [0, "Une photo a été prise"],
+    [1, "Une vidéo a été prise"],
+    [2, "Retour de la galerie"],
+    [3, "Une erreur est survenue"]
+  ],
+  "ExpressionMenu": [
+    [0, "Erreur"],
+    [1, "Texte de l'erreur"],
+    [2, "Nom de chemin de l'image"],
+    [3, "Nom de chemin de la vidéo"],
+    [4, "Nom de chemin de la galerie"],
+    [5, "Nombre de caméras"],
+    "Separator",
+    [6, "Angle de l'image"],
+    "Separator"
+  ],
+  "Actions": [
+    {
+      "Title": "Title",
+      "Parameters": [["Text", "Nom de l'album"]]
     },
-    "1": {
-      "0": "0",
-      "1": "1"
+    {
+      "Title": "Title",
+      "Parameters": [
+        ["Integer", "Caméra (0:Arrière, 1:Avant)"],
+        ["Text", "Titre"],
+        ["Text", "Description"]
+      ]
     },
-    "2": {
-      "0": "0",
-      "1": "1"
+    {
+      "Title": "Title",
+      "Parameters": [["Integer", "Caméra (0:Arrière, 1:Avant)"]]
     },
-    "3": "3",
-    "4": {
-      "0": "0",
-      "1": "1"
-    },
-    "5": "5"
-  },
-  "ConditionMenu": {
-    "0": {
-      "0": "0",
-      "1": "1"
-    },
-    "1": {
-      "0": "0",
-      "1": "1"
-    },
-    "2": {
-      "0": "0",
-      "1": "1"
-    },
-    "3": {
-      "0": "0",
-      "1": "1"
+    {
+      "Title": "Title",
+      "Parameters": [
+        ["Integer", "Sélectionner Type (0:tout, 1:images, 2:vidéos)"]
+      ]
     }
-  },
-  "ExpressionMenu": {
-    "0": {
-      "0": "0",
-      "1": "1"
-    },
-    "1": {
-      "0": "0",
-      "1": "1"
-    },
-    "2": {
-      "0": "0",
-      "1": "1"
-    },
-    "3": {
-      "0": "0",
-      "1": "1"
-    },
-    "4": {
-      "0": "0",
-      "1": "1"
-    },
-    "5": {
-      "0": "0",
-      "1": "1"
-    },
-    "6": "6",
-    "7": {
-      "0": "0",
-      "1": "1"
-    },
-    "8": "8"
-  },
-  "Actions": {
-    "0": {
-      "Title": "Title",
-      "Parameters": {
-        "0": {
-          "0": "0",
-          "1": "1"
-        }
-      }
-    },
-    "1": {
-      "Title": "Title",
-      "Parameters": {
-        "0": {
-          "0": "0",
-          "1": "1"
-        },
-        "1": {
-          "0": "0",
-          "1": "1"
-        },
-        "2": {
-          "0": "0",
-          "1": "1"
-        }
-      }
-    },
-    "2": {
-      "Title": "Title",
-      "Parameters": {
-        "0": {
-          "0": "0",
-          "1": "1"
-        }
-      }
-    },
-    "3": {
-      "Title": "Title",
-      "Parameters": {
-        "0": {
-          "0": "0",
-          "1": "1"
-        }
-      }
-    }
-  },
-  "Conditions": {
-    "0": {
+  ],
+  "Conditions": [
+    {
       "Title": "Title",
       "Triggered": "Triggered"
     },
-    "1": {
+    {
       "Title": "Title",
       "Triggered": "Triggered"
     },
-    "2": {
+    {
       "Title": "Title",
       "Triggered": "Triggered"
     },
-    "3": {
+    {
       "Title": "Title",
       "Triggered": "Triggered"
     }
-  },
-  "Expressions": {
-    "0": {
+  ],
+  "Expressions": [
+    {
       "Title": "Title",
       "Returns": "Returns"
     },
-    "1": {
+    {
       "Title": "Title",
       "Returns": "Returns"
     },
-    "2": {
+    {
       "Title": "Title",
       "Returns": "Returns"
     },
-    "3": {
+    {
       "Title": "Title",
       "Returns": "Returns"
     },
-    "4": {
+    {
       "Title": "Title",
       "Returns": "Returns"
     },
-    "5": {
+    {
       "Title": "Title",
       "Returns": "Returns"
     },
-    "6": {
+    {
       "Title": "Title",
       "Returns": "Returns"
     }
-  }
+  ]
 }
