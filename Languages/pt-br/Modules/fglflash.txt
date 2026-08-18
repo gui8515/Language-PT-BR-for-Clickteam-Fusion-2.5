@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "lang": 1046,
+  "version": "1",
+  "lang": "1046",
   "general": {
     "%o: On Ad Clicked": "%o: On Ad Clicked",
     "%o: On Ad Closed": "%o: On Ad Closed",

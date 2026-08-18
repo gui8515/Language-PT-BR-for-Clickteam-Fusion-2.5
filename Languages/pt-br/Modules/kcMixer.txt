@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "lang": 1046,
+  "version": "1",
+  "lang": "1046",
   "general": {
     "01Change FM synthesizer left and right volume to %s": "01Change FM synthesizer left and right volume to %s",
     "01Change FM synthesizer left volume to %s": "01Change FM synthesizer left volume to %s",

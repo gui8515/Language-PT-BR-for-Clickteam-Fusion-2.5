@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "lang": 1046,
+  "version": "1",
+  "lang": "1046",
   "general": {
     "%o: Any button of player %0 is pressed": "%o: Any button of player %0 is pressed",
     "%o: Back button of player %0 is pressed": "%o: Back button of player %0 is pressed",

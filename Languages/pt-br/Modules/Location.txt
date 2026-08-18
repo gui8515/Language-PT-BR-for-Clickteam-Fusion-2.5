@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "lang": 1046,
+  "version": "1",
+  "lang": "1046",
   "general": {
     "A new location is available": "A new location is available",
     "Accuracy": "Accuracy",

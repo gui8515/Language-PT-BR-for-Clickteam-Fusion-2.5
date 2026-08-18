@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "lang": 1046,
+  "version": "1",
+  "lang": "1046",
   "general": {
     "About": "About",
     "Action to take when spiral reaches the minimum or maximum radius.": "Action to take when spiral reaches the minimum or maximum radius.",

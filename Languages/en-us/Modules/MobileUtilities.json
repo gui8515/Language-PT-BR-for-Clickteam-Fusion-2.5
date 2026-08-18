@@ -1,6 +1,6 @@
 {
-  "version": "version",
-  "lang": "lang",
+  "version": "1",
+  "lang": "1046",
   "general": {
     "0: no rotation, 1: 90 clockwise, 2: 90 anti-clockwise": "0: no rotation, 1: 90 clockwise, 2: 90 anti-clockwise",
     "Application running on mobile": "Application running on mobile",

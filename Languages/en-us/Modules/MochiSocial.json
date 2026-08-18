@@ -1,6 +1,6 @@
 {
-  "version": "version",
-  "lang": "lang",
+  "version": "1",
+  "lang": "1046",
   "general": {
     "%o : On error : Network error": "%o : On error : Network error",
     "%o : On error : User not logged in": "%o : On error : User not logged in",

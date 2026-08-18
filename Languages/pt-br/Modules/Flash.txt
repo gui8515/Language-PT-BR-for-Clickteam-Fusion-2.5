@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "lang": 1046,
+  "version": "1",
+  "lang": "1046",
   "general": {
     "00On error": "00On error",
     "01Open URL %s in current window": "01Open URL %s in current window",

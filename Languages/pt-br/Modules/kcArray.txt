@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "lang": 1046,
+  "version": "1",
+  "lang": "1046",
   "general": {
     "00Add 1 to X dimension index": "00Add 1 to X dimension index",
     "00Add 1 to Y dimension index": "00Add 1 to Y dimension index",

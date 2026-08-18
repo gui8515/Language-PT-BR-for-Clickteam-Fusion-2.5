@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "lang": 1046,
+  "version": "1",
+  "lang": "1046",
   "general": {
     "%1\nCannot find this file.\nPlease verify that the correct path and file name are given.": "%1\nCannot find this file.\nPlease verify that the correct path and file name are given.",
     "%1 contained an unexpected object.": "%1 contained an unexpected object.",

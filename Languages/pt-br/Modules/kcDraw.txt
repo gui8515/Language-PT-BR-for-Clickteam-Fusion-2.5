@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "lang": 1046,
+  "version": "1",
+  "lang": "1046",
   "general": {
     "00Change brush style to continuous": "00Change brush style to continuous",
     "00Change brush style to discontinuous": "00Change brush style to discontinuous",

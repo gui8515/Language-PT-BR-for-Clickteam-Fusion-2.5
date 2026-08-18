@@ -1,6 +1,6 @@
 {
-  "version": "version",
-  "lang": "lang",
+  "version": "1",
+  "lang": "1046",
   "general": {
     "Cannot find %s!": "Cannot find %s!",
     "Cannot initialize application.": "Cannot initialize application.",

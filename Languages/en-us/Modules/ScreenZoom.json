@@ -1,6 +1,6 @@
 {
-  "version": "version",
-  "lang": "lang",
+  "version": "1",
+  "lang": "1046",
   "general": {
     "%o: Layer %0, rotation operation completed": "%o: Layer %0, rotation operation completed",
     "%o: Layer %0, scale operation completed": "%o: Layer %0, scale operation completed",

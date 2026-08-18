@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "lang": 1046,
+  "version": "1",
+  "lang": "1046",
   "general": {
     "%o: On Agreement Dialog with Id %0 and Button %1": "%o: On Agreement Dialog with Id %0 and Button %1",
     "%o: On Alert Dialog with Id %0 and Button %1": "%o: On Alert Dialog with Id %0 and Button %1",

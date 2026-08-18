@@ -1,6 +1,6 @@
 {
-  "version": "version",
-  "lang": "lang",
+  "version": "1",
+  "lang": "1046",
   "general": {
     "%o: Is Device a tablet?": "%o: Is Device a tablet?",
     "%o: Is Device natural landscape?": "%o: Is Device natural landscape?",

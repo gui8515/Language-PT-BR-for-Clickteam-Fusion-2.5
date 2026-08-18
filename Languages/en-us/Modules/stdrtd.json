@@ -1,6 +1,6 @@
 {
-  "version": "version",
-  "lang": "lang",
+  "version": "1",
+  "lang": "1046",
   "general": {
     "%d (Num. keypad)": "%d (Num. keypad)",
     "An error has occured while reading the file.": "An error has occured while reading the file.",

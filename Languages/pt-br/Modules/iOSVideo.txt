@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "lang": 1046,
+  "version": "1",
+  "lang": "1046",
   "general": {
     "%o: Air Play is activated": "%o: Air Play is activated",
     "%o: Movie is paused": "%o: Movie is paused",

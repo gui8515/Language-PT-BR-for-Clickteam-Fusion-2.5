@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "lang": 1046,
+  "version": "1",
+  "lang": "1046",
   "general": {
     "Allows you to retrieve system information (user name, language, environment variables, etc.). For Pro version only.": "Allows you to retrieve system information (user name, language, environment variables, etc.). For Pro version only.",
     "Computer langage: %i   ": "Computer langage: %i   ",

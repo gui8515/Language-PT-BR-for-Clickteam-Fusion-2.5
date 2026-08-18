@@ -17,6 +17,7 @@
   "scripts": {
     "start": "npm run txt2json && npm run format && npm run prepare",
     "prepare": "node index.js",
+    "build": "node build.js",
     "txt2json": "node txt2json.js",
     "format": "prettier --write \"**/*.{js,json,ts,tsx,css,scss,md}\""
   },

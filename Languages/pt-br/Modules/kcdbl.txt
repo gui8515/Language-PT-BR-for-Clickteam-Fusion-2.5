@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "lang": 1046,
+  "version": "1",
+  "lang": "1046",
   "general": {
     "Allows you to perform simple calculations on double-precision floating point numbers (16 significant digits). For Pro version only.": "Allows you to perform simple calculations on double-precision floating point numbers (16 significant digits). For Pro version only.",
     "Double-Precision Calculator": "Double-Precision Calculator",

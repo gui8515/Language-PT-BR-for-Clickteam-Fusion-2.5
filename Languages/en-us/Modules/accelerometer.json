@@ -1,6 +1,6 @@
 {
-  "version": "version",
-  "lang": "lang",
+  "version": "1",
+  "lang": "1046",
   "general": {
     "Accelerometer object": "Accelerometer object",
     "Device orientation changed": "Device orientation changed",

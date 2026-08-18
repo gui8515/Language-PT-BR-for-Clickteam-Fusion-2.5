@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "lang": 1046,
+  "version": "1",
+  "lang": "1046",
   "general": {
     " %s : Shared Data object": " %s : Shared Data object",
     "00Reset": "00Reset",

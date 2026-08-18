@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "lang": 1046,
+  "version": "1",
+  "lang": "1046",
   "general": {
     "%o has input focus": "%o has input focus",
     "%o is visible": "%o is visible",

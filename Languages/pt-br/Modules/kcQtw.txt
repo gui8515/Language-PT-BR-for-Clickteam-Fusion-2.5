@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "lang": 1046,
+  "version": "1",
+  "lang": "1046",
   "general": {
     "00Disable mpeg track": "00Disable mpeg track",
     "00Disable music track": "00Disable music track",

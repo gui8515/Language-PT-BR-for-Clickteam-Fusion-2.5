@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "lang": 1046,
+  "version": "1",
+  "lang": "1046",
   "general": {
     "#Title#Enter the name of the destination file...": "#Title#Enter the name of the destination file...",
     "%o: Connection error in slot %0": "%o: Connection error in slot %0",

@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "lang": 1046,
+  "version": "1",
+  "lang": "1046",
   "general": {
     "Advanced Scrolling": "Advanced Scrolling",
     "Back": "Back",

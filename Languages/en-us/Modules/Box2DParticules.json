@@ -1,6 +1,6 @@
 {
-  "version": "version",
-  "lang": "lang",
+  "version": "1",
+  "lang": "1046",
   "general": {
     "%o: A particle collides with %0": "%o: A particle collides with %0",
     "%o: A particle collides with a backdrop": "%o: A particle collides with a backdrop",

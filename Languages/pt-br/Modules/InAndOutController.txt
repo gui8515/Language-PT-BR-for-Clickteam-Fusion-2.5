@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "lang": 1046,
+  "version": "1",
+  "lang": "1046",
   "general": {
     "Controller for the InAndOut movement.": "Controller for the InAndOut movement.",
     "InAndOut Movement Controller": "InAndOut Movement Controller",

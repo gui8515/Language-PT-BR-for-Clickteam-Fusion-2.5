@@ -1,6 +1,6 @@
 {
-  "version": "version",
-  "lang": "lang",
+  "version": "1",
+  "lang": "1046",
   "general": {
     "%o: User has clicked on a link": "%o: User has clicked on a link",
     "0-> No icon, 1-> Infos, 2-> Warning, 3-> Error": "0-> No icon, 1-> Infos, 2-> Warning, 3-> Error",

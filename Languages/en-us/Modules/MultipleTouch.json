@@ -1,6 +1,6 @@
 {
-  "version": "version",
-  "lang": "lang",
+  "version": "1",
+  "lang": "1046",
   "general": {
     "# Touches": "# Touches",
     "%o: A new gesture has been recognised": "%o: A new gesture has been recognised",

@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "lang": 1046,
+  "version": "1",
+  "lang": "1046",
   "general": {
     "%o : Device is an OUYA?": "%o : Device is an OUYA?",
     "%o : Does player have product %0?": "%o : Does player have product %0?",

@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "lang": 1046,
+  "version": "1",
+  "lang": "1046",
   "general": {
     "%o: Is treadmill active?": "%o: Is treadmill active?",
     "Active at start": "Active at start",

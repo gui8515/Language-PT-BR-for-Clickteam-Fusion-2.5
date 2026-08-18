@@ -1,6 +1,6 @@
 {
-  "version": "version",
-  "lang": "lang",
+  "version": "1",
+  "lang": "1046",
   "general": {
     "%o: %0 gets focus": "%o: %0 gets focus",
     "%o: %0 loses focus": "%o: %0 loses focus",

@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "lang": 1046,
+  "version": "1",
+  "lang": "1046",
   "general": {
     "%o: a picture is loaded": "%o: a picture is loaded",
     "%o: picture horizontally flipped": "%o: picture horizontally flipped",

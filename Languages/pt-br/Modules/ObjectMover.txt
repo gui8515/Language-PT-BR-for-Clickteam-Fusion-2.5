@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "lang": 1046,
+  "version": "1",
+  "lang": "1046",
   "general": {
     "%o is enabled": "%o is enabled",
     "Allows the movement of the objects located above it.": "Allows the movement of the objects located above it.",

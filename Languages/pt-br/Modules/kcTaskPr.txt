@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "lang": 1046,
+  "version": "1",
+  "lang": "1046",
   "general": {
     "00Set high task priority": "00Set high task priority",
     "00Set low task priority": "00Set low task priority",

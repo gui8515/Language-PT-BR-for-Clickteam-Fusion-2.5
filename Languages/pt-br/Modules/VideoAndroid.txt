@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "lang": 1046,
+  "version": "1",
+  "lang": "1046",
   "general": {
     "%o: Is Playing?": "%o: Is Playing?",
     "%o: On Error": "%o: On Error",

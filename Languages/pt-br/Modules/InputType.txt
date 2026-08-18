@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "lang": 1046,
+  "version": "1",
+  "lang": "1046",
   "general": {
     "%o: Is Keyboard Visible?": "%o: Is Keyboard Visible?",
     "Action Id (0:Default, 1:Go, 2:Send, 3:Search, 4:Previous, 5:None)": "Action Id (0:Default, 1:Go, 2:Send, 3:Search, 4:Previous, 5:None)",

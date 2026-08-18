@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "lang": 1046,
+  "version": "1",
+  "lang": "1046",
   "general": {
     "00Clear last error": "00Clear last error",
     "00Set directory to original": "00Set directory to original",

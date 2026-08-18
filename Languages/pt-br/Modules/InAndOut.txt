@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "lang": 1046,
+  "version": "1",
+  "lang": "1046",
   "general": {
     "Check this box to have the object move when the frame starts": "Check this box to have the object move when the frame starts",
     "Check this box to have the object positionned out of the frame at start of frame": "Check this box to have the object positionned out of the frame at start of frame",

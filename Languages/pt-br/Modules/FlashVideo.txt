@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "lang": 1046,
+  "version": "1",
+  "lang": "1046",
   "general": {
     "An error has occured": "An error has occured",
     "Auto-resize": "Auto-resize",

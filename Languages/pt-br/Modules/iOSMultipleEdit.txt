@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "lang": 1046,
+  "version": "1",
+  "lang": "1046",
   "general": {
     "%o enters edit mode": "%o enters edit mode",
     "%o quits edit mode": "%o quits edit mode",

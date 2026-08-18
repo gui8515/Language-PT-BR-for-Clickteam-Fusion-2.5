@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "lang": 1046,
+  "version": "1",
+  "lang": "1046",
   "general": {
     "%o Can payments be made?": "%o Can payments be made?",
     "%o On any invalid identifier": "%o On any invalid identifier",

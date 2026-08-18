@@ -1,6 +1,6 @@
 {
-  "version": "version",
-  "lang": "lang",
+  "version": "1",
+  "lang": "1046",
   "general": {
     "%o: Is Internal font %0 available?": "%o: Is Internal font %0 available?",
     "%o: Is Packed font %0 available?": "%o: Is Packed font %0 available?",

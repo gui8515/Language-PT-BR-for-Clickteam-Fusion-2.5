@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "lang": 1046,
+  "version": "1",
+  "lang": "1046",
   "general": {
     "00Reset error": "00Reset error",
     "01Close channel %s": "01Close channel %s",

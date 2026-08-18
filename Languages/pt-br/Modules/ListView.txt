@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "lang": 1046,
+  "version": "1",
+  "lang": "1046",
   "general": {
     "%o : Insert line %1 at position %0": "%o : Insert line %1 at position %0",
     "%o: Click on a column": "%o: Click on a column",

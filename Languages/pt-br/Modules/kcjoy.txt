@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "lang": 1046,
+  "version": "1",
+  "lang": "1046",
   "general": {
     "Allows you to retrieve information from analog joysticks.": "Allows you to retrieve information from analog joysticks.",
     "Analog Joystick": "Analog Joystick",

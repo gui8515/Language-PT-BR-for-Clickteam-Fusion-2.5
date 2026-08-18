@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "lang": 1046,
+  "version": "1",
+  "lang": "1046",
   "general": {
     "00Change cursor to color picker": "00Change cursor to color picker",
     "00Change cursor to crosshair": "00Change cursor to crosshair",

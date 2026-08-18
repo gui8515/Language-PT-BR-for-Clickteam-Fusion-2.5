@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "lang": 1046,
+  "version": "1",
+  "lang": "1046",
   "general": {
     "%o: Click with left button": "%o: Click with left button",
     "%o: Click with right button": "%o: Click with right button",

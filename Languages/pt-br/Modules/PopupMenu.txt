@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "lang": 1046,
+  "version": "1",
+  "lang": "1046",
   "general": {
     "%o: %0 selected": "%o: %0 selected",
     "%o: Add Item (%0, %1, %2)": "%o: Add Item (%0, %1, %2)",

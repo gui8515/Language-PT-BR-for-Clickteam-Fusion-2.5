@@ -1,6 +1,6 @@
 {
-  "version": "version",
-  "lang": "lang",
+  "version": "1",
+  "lang": "1046",
   "general": {
     "%o : Item has tag %0": "%o : Item has tag %0",
     "%o : On error": "%o : On error",
