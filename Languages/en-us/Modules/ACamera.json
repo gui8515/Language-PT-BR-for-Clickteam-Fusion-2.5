@@ -7,7 +7,7 @@
         "Comment": "Composant du module Android. Permet d'utiliser l'appareil photo.",
         "URL": "http://www.clickteam.com",
         "Help": "Help\\ACamera.chm",
-        "Identifier": "ACam"
+        "Identifier": "ACam",
     },
 
     "ActionMenu":
@@ -96,15 +96,6 @@
         },
 		{   "Title": "NumberOfCameras(",
             "Returns": "Integer"
-        },
-		{   "Title": "ImageAngle(",
-            "Returns": "Integer"
-        }
-	]
-}
-
-
-eger"
         },
 		{   "Title": "ImageAngle(",
             "Returns": "Integer"
