@@ -1559,9 +1559,9 @@
     "Fourth static text displayed in the wizard page.": "Fourth static text displayed in the wizard page.",
     "Frame": "Frame",
     "Frame %d": {
-      "1524": "1524",
-      "2037": "2037",
-      "4275": "4275"
+      "1524": "Frame %d",
+      "2037": "Frame %d",
+      "4275": "Image %d"
     },
     "Frame %d - %s": "Frame %d - %s",
     "Frame %s": "Frame %s",
