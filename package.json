@@ -1,0 +1,24 @@
+{
+  "name": "language-pt-br-for-clickteam-fusion-2.5",
+  "version": "1.0.0",
+  "description": "The goal of this project is to provide a complete game development experience in Brazilian Portuguese for users of Clickteam Fusion 2.5. It is currently in development, and we invite enthusiasts, programmers, and creative individuals to join us through the GitHub repository: https://github.com/gui8515/Language-PT-BR-for-Clickteam-Fusion-2.5/.",
+  "homepage": "https://github.com/gui8515/Language-PT-BR-for-Clickteam-Fusion-2.5#readme",
+  "bugs": {
+    "url": "https://github.com/gui8515/Language-PT-BR-for-Clickteam-Fusion-2.5/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gui8515/Language-PT-BR-for-Clickteam-Fusion-2.5.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@types/node": "^26.2.0",
+    "typescript": "^7.0.2"
+  }
+}

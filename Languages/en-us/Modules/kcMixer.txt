@@ -1,37 +1,37 @@
-{
-  "version": 1,
-  "lang": 1046,
-  "general": {
-    "01Change FM synthesizer left and right volume to %s": "01Change FM synthesizer left and right volume to %s",
-    "01Change FM synthesizer left volume to %s": "01Change FM synthesizer left volume to %s",
-    "01Change FM synthesizer right volume to %s": "01Change FM synthesizer right volume to %s",
-    "01Change square wave synthesizer left and right volume to %s": "01Change square wave synthesizer left and right volume to %s",
-    "01Change square wave synthesizer left volume to %s": "01Change square wave synthesizer left volume to %s",
-    "01Change square wave synthesizer right volume to %s": "01Change square wave synthesizer right volume to %s",
-    "01Change wave left and right volume to %s": "01Change wave left and right volume to %s",
-    "01Change wave left volume to %s": "01Change wave left volume to %s",
-    "01Change wave right volume to %s": "01Change wave right volume to %s",
-    "Gives you direct control over the volume of your sound samples and MIDI music files.": "Gives you direct control over the volume of your sound samples and MIDI music files.",
-    "Mixer": "Mixer",
-    "Mixer object": "Mixer object"
-  },
-  "menu_20000": {
-    "Change FM synthesizer left and right volume": "Change FM synthesizer left and right volume",
-    "Change FM synthesizer left volume": "Change FM synthesizer left volume",
-    "Change FM synthesizer right volume": "Change FM synthesizer right volume",
-    "Change square wave synthesizer left and right volume": "Change square wave synthesizer left and right volume",
-    "Change square wave synthesizer left volume": "Change square wave synthesizer left volume",
-    "Change square wave synthesizer right volume": "Change square wave synthesizer right volume",
-    "Change wave left and right volume": "Change wave left and right volume",
-    "Change wave left volume": "Change wave left volume",
-    "Change wave right volume": "Change wave right volume"
-  },
-  "menu_20002": {
-    "Midi FM synthesizer left volume": "Midi FM synthesizer left volume",
-    "Midi FM synthesizer right volume": "Midi FM synthesizer right volume",
-    "Midi square wave synthesizer left volume": "Midi square wave synthesizer left volume",
-    "Midi square wave synthesizer right volume": "Midi square wave synthesizer right volume",
-    "Wave left volume": "Wave left volume",
-    "Wave right volume": "Wave right volume"
-  }
+﻿{
+	"version" : 1,
+	"lang" : 1036,
+	"general" : {
+		"01Change FM synthesizer left and right volume to %s" : "Changer les volumes gauche et droite synthétiseur FM à %0",
+		"01Change FM synthesizer left volume to %s" : "Changer le volume gauche du synthétiseur FM à %0",
+		"01Change FM synthesizer right volume to %s" : "Changer le volume droit du synthétiseur FM à %0",
+		"01Change square wave synthesizer left and right volume to %s" : "Changer le volume droit et gauche du synthétiseur carré à %0",
+		"01Change square wave synthesizer left volume to %s" : "Changer le volume gauche du synthétiseur carré à %0",
+		"01Change square wave synthesizer right volume to %s" : "Changer le volume droit du synthétiseur carré à %0",
+		"01Change wave left and right volume to %s" : "Changer le volume droit et gauche des échantillons à %0",
+		"01Change wave left volume to %s" : "Changer le volume gauche des échantillons à %0",
+		"01Change wave right volume to %s" : "Changer le volume droit des échantillons à %0",
+		"Gives you direct control over the volume of your sound samples and MIDI music files." : "Vous permet de contrôler le volume des échantillons sonores et des fichiers musique MIDI",
+		"Mixer" : "Mixeur",
+		"Mixer object" : "Objet Mixeur"
+	},
+	"menu_20000" : {
+		"Change FM synthesizer left and right volume" : "Changer le volume gauche et droit du synthétiseur FM",
+		"Change FM synthesizer left volume" : "Changer le volume gauche du synthétiseur FM",
+		"Change FM synthesizer right volume" : "Changer le volume droit du synthétiseur FM",
+		"Change square wave synthesizer left and right volume" : "Changer le volume droit et gauche du synthétiseur carré",
+		"Change square wave synthesizer left volume" : "Changer le volume gauche du synthétiseur carré",
+		"Change square wave synthesizer right volume" : "Changer le volume droit du synthétiseur carré",
+		"Change wave left and right volume" : "Changer le volume gauche et droit des échantillons",
+		"Change wave left volume" : "Changer le volume gauche des échantillons",
+		"Change wave right volume" : "Changer le volume droit des échantillons"
+	},
+	"menu_20002" : {
+		"Midi FM synthesizer left volume" : "Volume gauche du synthétiseur FM MIDI",
+		"Midi FM synthesizer right volume" : "Volume droit du synthétiseur FM MIDI",
+		"Midi square wave synthesizer left volume" : "Volume gauche du synthétiseur carré MIDI",
+		"Midi square wave synthesizer right volume" : "Volume droit du synthétiseur carré MIDI",
+		"Wave left volume" : "Volume gauche échantillons",
+		"Wave right volume" : "Volume droit échantillons"
+	}
 }

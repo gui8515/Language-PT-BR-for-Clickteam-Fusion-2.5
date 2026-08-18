@@ -1,46 +1,50 @@
-{
-  "version": 1,
-  "lang": 1046,
-  "general": {
-    "%o: Is gamer signed in?": "%o: Is gamer signed in?",
-    "%o: Is running on Xbox?": "%o: Is running on Xbox?",
-    "%o: On error occurred": "%o: On error occurred",
-    "%o: On login OK": "%o: On login OK",
-    "%o: On login failed": "%o: On login failed",
-    "%o: On profile info": "%o: On profile info",
-    "%o: On silent login OK": "%o: On silent login OK",
-    "%o: On silent login failed": "%o: On silent login failed",
-    "Add Xbox Live connect features": "Add Xbox Live connect features",
-    "Login": "Login",
-    "Read profile info": "Read profile info",
-    "Silent Login": "Silent Login",
-    "Xbox Connect": "Xbox Connect",
-    "Xbox Connect Object": "Xbox Connect Object"
-  },
-  "menu_20000": {
-    "Login": "Login",
-    "Read Profile Info": "Read Profile Info",
-    "Silent Login": "Silent Login"
-  },
-  "menu_20001": {
-    "Is Gamer Signed In?": "Is Gamer Signed In?",
-    "Is running on Xbox?": "Is running on Xbox?",
-    "Normal Login ...": "Normal Login ...",
-    "On Login OK": "On Login OK",
-    "On Login failed": "On Login failed",
-    "On Profile Info": "On Profile Info",
-    "On Silent Login OK": "On Silent Login OK",
-    "On Silent Login failed": "On Silent Login failed",
-    "On error occurred": "On error occurred",
-    "Silent Login ...": "Silent Login ..."
-  },
-  "menu_20002": {
-    "Error Code": "Error Code",
-    "Error String": "Error String",
-    "Player ID": "Player ID",
-    "Player Image URI": "Player Image URI",
-    "Player Name": "Player Name",
-    "Player Profile": "Player Profile",
-    "Player Score": "Player Score"
-  }
+﻿{
+	"version" : 1,
+	"lang" : 1036,
+	"general" : {
+
+		"%o: Is gamer signed in?" : "%o: Le joueur est-il connecté?",
+		"%o: Is running on Xbox?" : "%o: Est-on sur Xbox?",
+		"%o: On error occurred" : "%o: Une erreur est survenue",
+		"%o: On login OK" : "%o: Connexion OK",
+		"%o: On login failed" : "%o: Erreur Connexion",
+		"%o: On profile info" : "%o: Réception Infos Profil",
+		"%o: On silent login OK" : "%o: Connexion Silencieuse OK",
+		"%o: On silent login failed" : "%o: Erreur Connexion Silencieuse",
+		"Add Xbox Live connect features" : "Ajoute des fonctionnalités pour se connecter à Xbox Live",
+		"Login" : "Connexion",
+		"Read profile info" : "Lire Infos Profil",
+		"Silent Login" : "Connexion Silencieuse",
+		"Xbox Connect" : "Xbox Connect",
+		"Xbox Connect Object" : "Objet Xbox Connect"
+	},
+	"menu_20000" : {
+
+		"Login" : "Connexion",
+		"Read Profile Info" : "Réception Infos Profil",
+		"Silent Login" : "Connexion Silencieuse"
+	},
+	"menu_20001" : {
+
+		"Is Gamer Signed In?" : "Le joueur est-il connecté?",
+		"Is running on Xbox?" : "Est-on sur Xbox?",
+		"Normal Login ..." : "Connexion Normale",
+		"On Login OK" : "Connexion OK",
+		"On Login failed" : "Erreur Connexion",
+		"On Profile Info" : "Réception Infos Profil",
+		"On Silent Login OK" : "Connexion Silencieuse OK",
+		"On Silent Login failed" : "Erreur Connexion Silencieuse",
+		"On error occurred" : "Une erreur est survenue",
+		"Silent Login ..." : "Connexion Silencieuse"
+	},
+	"menu_20002" : {
+
+		"Error Code" : "Code Erreur",
+		"Error String" : "Texte erreur",
+		"Player ID" : "ID Joueur",
+		"Player Image URI" : "URI Image Joueur",
+		"Player Name" : "Nom Joueur",
+		"Player Profile" : "Profil Joueur",
+		"Player Score" : "Score Joueur"
+	},
 }
