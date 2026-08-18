@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+
+<head>
+<title>Simple Ellipse Movement - Clickteam</title>
+
+
+<link rel="stylesheet" href="../style_default.css" type="text/css">
+
+</head>
+<body>
+
+<h1>Simple Ellipse Movement</h1>
+<p>
+
+<hr>
+
+<h2>Overview</h2>
+<p class="main_content">
+This automated movement provides an easy way to create elliptical orbits. This could be used in menu screens or for
+simulations of systems such as planets or atoms.
+</p>
+</p>
+<h2>Using the movement</h2>
+<p class="main_content">
+The movement is very similar to the circular movement, refer to the Circular movement documentation for more details. It is
+possible to set a different radius for the x and y axis unlike in Circular movement. Additionally to allow
+ellipses where the minimum and maximum radii do not have to correspond to the x and y axis the 'Offset Angle'
+property is provided. Note: Again with this movement the position in the frame editor of the object is not
+important, the location of the Centre X and Centre Y controls the location of the movement.
+</p>
+
+<h2>Frame editor properties</h2>
+<img src="../images/settings-simple-ellipse.png" alt="Image showing the properties for this movement">
+<p class="main_content_smaller">
+Figure 1: Movement properties for the Simple Ellipse Movement.
+<br /><br />
+</p>
+
+<p class="main_header">General Properties</p>
+<p class="main_content">
+	<b>Move at start:</b> Defines if the movement starts when the frame does or if the movement is initially paused.
+</p>
+<br />
+<p class="main_header">Ellipse Properties</p>
+<p class="main_content">
+	<b>Angular Velocity:</b> The settings indicates how fast the object will rotate. Use a positive value for anti-clockwise and negative value for
+	clockwise direction. For those interested the units are degrees per second (assuming 50 frames per second).<br />
+	<b>Radius X:</b> Radius in pixels of the ellipse motion in the x-axis.<br />
+	<b>Radius Y:</b> Radius in pixels of the ellipse motion in the y-axis.<br />
+	<b>Centre X:</b> The x-axis value of the centre of rotation. Note: To rotate around another object rather than a point use the Movement Controller and
+	always set the centre x to the x position of the other object.<br />
+	<b>Centre Y:</b> Equivalent of the centre X value but for the y-axis.<br />
+	<b>Starting Angle:</b> Set the angle where the movement will start, value is in degrees between 0 and 360 (measured anti-clockwise from the x-axis).<br />
+	<b>Offset Angle:</b> Set the offset angle, use for ellipses which are not based around the screens x-y axis. Values in degrees between 0 and 360 (measured anti-clockwise from the x-axis).<br />
+</p>
+<br />
+
+
+<br /><br /><br />
+
+</body>
+</html>
