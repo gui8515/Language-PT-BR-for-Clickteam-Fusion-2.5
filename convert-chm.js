@@ -63,7 +63,7 @@ export default defineConfig({
   await fs.writeFile(
     path.join(singleDocsRoot, ".vitepress", "config.ts"),
     configContent,
-    "utf8"
+    "utf8",
   );
 }
 
@@ -107,7 +107,9 @@ async function buildSingleChm(chmPath) {
     // Alguns CHM não possuem assets próprios.
   }
 
-  const markdownFiles = (await listFiles(targetDir)).filter((file) => file.endsWith(".md"));
+  const markdownFiles = (await listFiles(targetDir)).filter((file) =>
+    file.endsWith(".md"),
+  );
   for (const filePath of markdownFiles) {
     const content = await fs.readFile(filePath, "utf8");
     const fixedContent = content.replace(/\/assets\//g, `/assets/${baseName}/`);
@@ -147,7 +149,9 @@ async function main() {
 
   await writeHomeIndex(chmFiles);
 
-  console.log(`\nProcessamento concluído para ${targetHelpDir} e projeto único em ${singleDocsRoot}.`);
+  console.log(
+    `\nProcessamento concluído para ${targetHelpDir} e projeto único em ${singleDocsRoot}.`,
+  );
 }
 
 main().catch((error) => {

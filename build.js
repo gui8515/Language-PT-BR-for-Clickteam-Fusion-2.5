@@ -59,7 +59,9 @@ async function build() {
 
     const relativePath = path.relative(sourceRoot, filePath);
     const targetJsonPath = path.join(targetRoot, relativePath);
-    const targetTxtPath = path.join(targetRoot, relativePath).replace(/\.json$/i, ".txt");
+    const targetTxtPath = path
+      .join(targetRoot, relativePath)
+      .replace(/\.json$/i, ".txt");
 
     try {
       const content = await fs.readFile(filePath, "utf-8");
@@ -78,13 +80,17 @@ async function build() {
       }
 
       convertedCount += 1;
-      console.log(`Convertido: ${relativePath} -> ${path.basename(targetTxtPath)}`);
+      console.log(
+        `Convertido: ${relativePath} -> ${path.basename(targetTxtPath)}`,
+      );
     } catch {
       // Ignora arquivos JSON inválidos
     }
   }
 
-  console.log(`\nBuild concluído. ${convertedCount} arquivos JSON com version/lang convertidos para .txt em ${path.relative(__dirname, targetRoot)}.`);
+  console.log(
+    `\nBuild concluído. ${convertedCount} arquivos JSON com version/lang convertidos para .txt em ${path.relative(__dirname, targetRoot)}.`,
+  );
 }
 
 build().catch((error) => {
