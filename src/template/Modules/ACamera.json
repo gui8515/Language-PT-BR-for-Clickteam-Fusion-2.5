@@ -1,0 +1,109 @@
+{
+  "About": {
+    "Name": "Name",
+    "Author": "Author",
+    "Copyright": "Copyright",
+    "Website": "Website",
+    "Comment": "Comment",
+    "URL": "URL",
+    "Help": "Help",
+    "Identifier": "Identifier"
+  },
+  "ActionMenu": [
+    [0, "Définir le nom de l'album"],
+    [1, "Prendre une photo"],
+    [2, "Prendre une vidéo"],
+    "Separator",
+    [3, "Sélectionner dans la Galerie"],
+    "Separator"
+  ],
+  "ConditionMenu": [
+    [0, "Une photo a été prise"],
+    [1, "Une vidéo a été prise"],
+    [2, "Retour de la galerie"],
+    [3, "Une erreur est survenue"]
+  ],
+  "ExpressionMenu": [
+    [0, "Erreur"],
+    [1, "Texte de l'erreur"],
+    [2, "Nom de chemin de l'image"],
+    [3, "Nom de chemin de la vidéo"],
+    [4, "Nom de chemin de la galerie"],
+    [5, "Nombre de caméras"],
+    "Separator",
+    [6, "Angle de l'image"],
+    "Separator"
+  ],
+  "Actions": [
+    {
+      "Title": "Title",
+      "Parameters": [["Text", "Nom de l'album"]]
+    },
+    {
+      "Title": "Title",
+      "Parameters": [
+        ["Integer", "Caméra (0:Arrière, 1:Avant)"],
+        ["Text", "Titre"],
+        ["Text", "Description"]
+      ]
+    },
+    {
+      "Title": "Title",
+      "Parameters": [["Integer", "Caméra (0:Arrière, 1:Avant)"]]
+    },
+    {
+      "Title": "Title",
+      "Parameters": [
+        ["Integer", "Sélectionner Type (0:tout, 1:images, 2:vidéos)"]
+      ]
+    }
+  ],
+  "Conditions": [
+    {
+      "Title": "Title",
+      "Triggered": "Triggered"
+    },
+    {
+      "Title": "Title",
+      "Triggered": "Triggered"
+    },
+    {
+      "Title": "Title",
+      "Triggered": "Triggered"
+    },
+    {
+      "Title": "Title",
+      "Triggered": "Triggered"
+    }
+  ],
+  "Expressions": [
+    {
+      "Title": "Title",
+      "Returns": "Returns"
+    },
+    {
+      "Title": "Title",
+      "Returns": "Returns"
+    },
+    {
+      "Title": "Title",
+      "Returns": "Returns"
+    },
+    {
+      "Title": "Title",
+      "Returns": "Returns"
+    },
+    {
+      "Title": "Title",
+      "Returns": "Returns"
+    },
+    {
+      "Title": "Title",
+      "Returns": "Returns"
+    },
+    {
+      "Title": "Title",
+      "Returns": "Returns"
+    }
+  ]
+}
