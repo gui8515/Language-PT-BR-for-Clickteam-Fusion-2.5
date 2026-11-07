@@ -1,0 +1,113 @@
+{
+  "About": {
+    "Name": "Objeto Câmera Android",
+    "Author": "Clickteam",
+    "Copyright": "Copyright (C) 2014 Clickteam",
+    "Website": "http://www.clickteam.com",
+    "Comment": "Componente do módulo Android. Permite usar a câmera do dispositivo.",
+    "URL": "http://www.clickteam.com",
+    "Help": "Help\\ACamera.chm",
+    "Identifier": "ACam"
+  },
+  "ActionMenu": [
+    [0, "Definir nome do álbum"],
+    [1, "Tirar foto"],
+    [2, "Gravar vídeo"],
+    "Separator",
+    [3, "Selecionar da Galeria"],
+    "Separator"
+  ],
+  "ConditionMenu": [
+    [0, "Uma foto foi tirada"],
+    [1, "Um vídeo foi tirado"],
+    [2, "Retorno da galeria"],
+    [3, "Ocorreu um erro"]
+  ],
+  "ExpressionMenu": [
+    [0, "Erro"],
+    [1, "Texto do erro"],
+    [2, "Caminho da imagem"],
+    [3, "Caminho do vídeo"],
+    [4, "Caminho da galeria"],
+    [5, "Número de câmeras"],
+    "Separator",
+    [6, "Ângulo da imagem"],
+    "Separator"
+  ],
+  "Actions": [
+    {
+      "Title": "Definir nome do álbum para %0",
+      "Parameters": [
+        ["Text", "Nome do álbum"]
+      ]
+    },
+    {
+      "Title": "Tirar foto com a câmera %0, o título %1 e a descrição %2",
+      "Parameters": [
+        ["Integer", "Câmera (0:Traseira, 1:Frontal)"],
+        ["Text", "Título"],
+        ["Text", "Descrição"]
+      ]
+    },
+    {
+      "Title": "Gravar vídeo com a câmera %0",
+      "Parameters": [
+        ["Integer", "Câmera (0:Traseira, 1:Frontal)"]
+      ]
+    },
+    {
+      "Title": "Selecionar da galeria com o tipo %0",
+      "Parameters": [
+        ["Integer", "Selecionar Tipo (0:Todo, 1:Imagens, 2:Vídeos)"]
+      ]
+    }
+  ],
+  "Conditions": [
+    {
+      "Title": "%o : Uma foto foi tirada?",
+      "Triggered": true
+    },
+    {
+      "Title": "%o : Um vídeo foi tirado?",
+      "Triggered": true
+    },
+    {
+      "Title": "%o : Retorno da Galeria?",
+      "Triggered": true
+    },
+    {
+      "Title": "%o : Ocorreu um erro?",
+      "Triggered": true
+    }
+  ],
+  "Expressions": [
+    {
+      "Title": "Error(",
+      "Returns": "Integer"
+    },
+    {
+      "Title": "Error$(",
+      "Returns": "Text"
+    },
+    {
+      "Title": "ImagePath$(",
+      "Returns": "Text"
+    },
+    {
+      "Title": "VideoPath$(",
+      "Returns": "Text"
+    },
+    {
+      "Title": "GalleryPath$(",
+      "Returns": "Text"
+    },
+    {
+      "Title": "NumberOfCameras(",
+      "Returns": "Integer"
+    },
+    {
+      "Title": "ImageAngle(",
+      "Returns": "Integer"
+    }
+  ]
+}

@@ -1,109 +1,113 @@
 {
   "About": {
-    "Name": "Name",
-    "Author": "Author",
-    "Copyright": "Copyright",
-    "Website": "Website",
-    "Comment": "Comment",
-    "URL": "URL",
-    "Help": "Help",
-    "Identifier": "Identifier"
+    "Name": "Objeto Câmera Android",
+    "Author": "Clickteam",
+    "Copyright": "Copyright (C) 2014 Clickteam",
+    "Website": "http://www.clickteam.com",
+    "Comment": "Componente do módulo Android. Permite usar a câmera do dispositivo.",
+    "URL": "http://www.clickteam.com",
+    "Help": "Help\\ACamera.chm",
+    "Identifier": "ACam"
   },
   "ActionMenu": [
-    [0, "Définir le nom de l'album"],
-    [1, "Prendre une photo"],
-    [2, "Prendre une vidéo"],
+    [0, "Definir nome do álbum"],
+    [1, "Tirar foto"],
+    [2, "Gravar vídeo"],
     "Separator",
-    [3, "Sélectionner dans la Galerie"],
+    [3, "Selecionar da Galeria"],
     "Separator"
   ],
   "ConditionMenu": [
-    [0, "Une photo a été prise"],
-    [1, "Une vidéo a été prise"],
-    [2, "Retour de la galerie"],
-    [3, "Une erreur est survenue"]
+    [0, "Uma foto foi tirada"],
+    [1, "Um vídeo foi tirado"],
+    [2, "Retorno da galeria"],
+    [3, "Ocorreu um erro"]
   ],
   "ExpressionMenu": [
-    [0, "Erreur"],
-    [1, "Texte de l'erreur"],
-    [2, "Nom de chemin de l'image"],
-    [3, "Nom de chemin de la vidéo"],
-    [4, "Nom de chemin de la galerie"],
-    [5, "Nombre de caméras"],
+    [0, "Erro"],
+    [1, "Texto do erro"],
+    [2, "Caminho da imagem"],
+    [3, "Caminho do vídeo"],
+    [4, "Caminho da galeria"],
+    [5, "Número de câmeras"],
     "Separator",
-    [6, "Angle de l'image"],
+    [6, "Ângulo da imagem"],
     "Separator"
   ],
   "Actions": [
     {
-      "Title": "Title",
-      "Parameters": [["Text", "Nom de l'album"]]
-    },
-    {
-      "Title": "Title",
+      "Title": "Definir nome do álbum para %0",
       "Parameters": [
-        ["Integer", "Caméra (0:Arrière, 1:Avant)"],
-        ["Text", "Titre"],
-        ["Text", "Description"]
+        ["Text", "Nome do álbum"]
       ]
     },
     {
-      "Title": "Title",
-      "Parameters": [["Integer", "Caméra (0:Arrière, 1:Avant)"]]
+      "Title": "Tirar foto com a câmera %0, o título %1 e a descrição %2",
+      "Parameters": [
+        ["Integer", "Câmera (0:Traseira, 1:Frontal)"],
+        ["Text", "Título"],
+        ["Text", "Descrição"]
+      ]
     },
     {
-      "Title": "Title",
+      "Title": "Gravar vídeo com a câmera %0",
       "Parameters": [
-        ["Integer", "Sélectionner Type (0:tout, 1:images, 2:vidéos)"]
+        ["Integer", "Câmera (0:Traseira, 1:Frontal)"]
+      ]
+    },
+    {
+      "Title": "Selecionar da galeria com o tipo %0",
+      "Parameters": [
+        ["Integer", "Selecionar Tipo (0:Todo, 1:Imagens, 2:Vídeos)"]
       ]
     }
   ],
   "Conditions": [
     {
-      "Title": "Title",
-      "Triggered": "Triggered"
+      "Title": "%o : Uma foto foi tirada?",
+      "Triggered": true
     },
     {
-      "Title": "Title",
-      "Triggered": "Triggered"
+      "Title": "%o : Um vídeo foi tirado?",
+      "Triggered": true
     },
     {
-      "Title": "Title",
-      "Triggered": "Triggered"
+      "Title": "%o : Retorno da Galeria?",
+      "Triggered": true
     },
     {
-      "Title": "Title",
-      "Triggered": "Triggered"
+      "Title": "%o : Ocorreu um erro?",
+      "Triggered": true
     }
   ],
   "Expressions": [
     {
-      "Title": "Title",
-      "Returns": "Returns"
+      "Title": "Error(",
+      "Returns": "Integer"
     },
     {
-      "Title": "Title",
-      "Returns": "Returns"
+      "Title": "Error$(",
+      "Returns": "Text"
     },
     {
-      "Title": "Title",
-      "Returns": "Returns"
+      "Title": "ImagePath$(",
+      "Returns": "Text"
     },
     {
-      "Title": "Title",
-      "Returns": "Returns"
+      "Title": "VideoPath$(",
+      "Returns": "Text"
     },
     {
-      "Title": "Title",
-      "Returns": "Returns"
+      "Title": "GalleryPath$(",
+      "Returns": "Text"
     },
     {
-      "Title": "Title",
-      "Returns": "Returns"
+      "Title": "NumberOfCameras(",
+      "Returns": "Integer"
     },
     {
-      "Title": "Title",
-      "Returns": "Returns"
+      "Title": "ImageAngle(",
+      "Returns": "Integer"
     }
   ]
 }
